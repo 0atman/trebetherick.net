@@ -23,10 +23,9 @@ theme = "zolastrap"
 
 feed_filenames = ["atom.xml", "rss.xml"]
 
-author = "Jenny Oaten"
+author = "The Oaten family & Trebetherick residents and friends"
 
 generate_feeds = true
-
 
 [markdown]
 insert_anchor_links = "heading"
@@ -39,12 +38,27 @@ highlight_code = true
 highlight_theme = "visual-studio-dark"
 
 [[extra.links]]
-title = "About"
+title = "🏡 Houses"
+url = "/about"
+
+[[extra.links]]
+title = "🐑 Farms"
+url = "/about"
+
+[[extra.links]]
+title = "⛪ St Enodoc Church"
+url = "/about"
+
+[[extra.links]]
+title = "🌳 Environment"
+url = "/about"
+
+[[extra.links]]
+title = "❓ About"
 url = "/about"
 
 [extra]
 # Put all your custom variables here
-banner = ""
 theme = "superhero"
 email = "contact@trebetherick.org"
 

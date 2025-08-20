@@ -1,15 +1,17 @@
 ---
-title: "Welcome"
+title: "Welcome!"
 paginate_by: 5
 ---
 
-## This is the index
+> This is a residents'-made archive of the history of Trebetherick (Cornish: _Trebedrek_), a village on the east side of the River Camel estuary in Cornwall.
 
-wow[^1]
-amazing[^2]
-
-some more text
+Browse the sections above, search the site, or check out the timeline below.
 
 
-[^1]: a footnote
-[^2]: another footnote
+<img src="greenaway.jpg" width="50%"/>
+
+
+---
+
+#### The History of Trebetherick:
+
