@@ -5,7 +5,7 @@ tags:
  - houses
 ---
 
-> History compiled by Brian & Jenny Oaten
+These PDFs were compiled by Brian & Jenny Oaten, as published in issues 237, 238, 239 of [The Link](http://www.stminverlink.org) magazine.
 
 ## Part 1
 <object data="/The Haven 1.pdf" width="100%" height="500px"></object>
