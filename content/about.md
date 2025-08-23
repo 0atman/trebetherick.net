@@ -3,6 +3,6 @@ title: "About The Museum"
 date: 2025-01-01
 ---
 
-Our home straddles the Polzeath to Wadebridge road and extends west to Daymer Bay and northwest to Trebetherick Point, a rocky headland in the estuary, where the remains of shipwrecks can be seen on the foreshore.
+Our home is between Polzeath and Rock. It extends west to Daymer Bay and Trebetherick Point, a sandy bay with rocky headland at the mouth of the Camel Estuary, a site of many ancient shipwrecks.
 
 
