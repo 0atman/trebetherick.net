@@ -93,56 +93,6 @@
                 >{{link.title}}</a>
               </li>
             {% endfor %}
-            {% if config.extra.themes %}
-              <li class="nav-item dropdown">
-                <a
-                  class="nav-link dropdown-toggle"
-                  href="#"
-                  id="navbarDropdown"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  {{config.extra.themes}}
-                </a>
-                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  {% for theme in config.extra.data_themes %}
-                    <li>
-                      <a
-                        class="dropdown-item"
-                        href="#"
-                        onclick="switchTheme('{{theme}}')"
-                      >{{theme | capitalize}}</a>
-                    </li>
-                  {% endfor %}
-                </ul>
-              </li>
-            {% endif %}
-            {% if config.extra.schemes %}
-              <li class="nav-item dropdown">
-                <a
-                  class="nav-link dropdown-toggle"
-                  href="#"
-                  id="navbarDropdown"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  {{config.extra.schemes}}
-                </a>
-                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  {% for scheme in config.extra.data_schemes %}
-                    <li>
-                      <a
-                        class="dropdown-item"
-                        href="#"
-                        onclick="switchScheme('{{scheme}}')"
-                      >{{scheme | capitalize}}</a>
-                    </li>
-                  {% endfor %}
-                </ul>
-              </li>
-            {% endif %}
           </ul>
           {% if config.build_search_index %}
           <form class="d-flex" onsubmit="return goSearch(event)">

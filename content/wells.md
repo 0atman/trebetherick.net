@@ -48,6 +48,7 @@ date: 1930-01-01
  - Tin Huts
 
 Spring in hill above Coad's 
+
 If wells ran dry in Polzeath the spring coming out of cliff (Queen's Cave) on the beach from Tinners Hill was used.
 
 Mains water pipes laid into Polzeath[^1] 1928
