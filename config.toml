@@ -57,6 +57,11 @@ url = "/about"
 title = "❓ About"
 url = "/about"
 
+
+[[extra.links]]
+title = "📃 Contribute"
+url = "http://github.com/0atman/trebetherick.net"
+
 [extra]
 # Put all your custom variables here
 theme = "superhero"
