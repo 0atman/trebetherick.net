@@ -13,7 +13,7 @@ You may submit file changes to the site using the Github Pull request system, wh
 The method is demonstrated in this video:
 https://www.youtube.com/watch?v=nupZDYF5lMA
 
-#### Adding a new file (such as an image)
+#### 🖼️ Adding a new file (such as an image)
 1. Navigate to the [static/](https://github.com/0atman/trebetherick.net/tree/main/static) directory
 2. Click the "Add file" button, then "upload files"
 3. Add as many files as you would like (strictly no larger than 100MB)
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=nupZDYF5lMA
 8. Check everything looks OK, if so, click the green "create pull request" button
 9. Done! You may comment on this PR to discuss the changes further
 
-#### Adding a new page
+#### 📄 Adding a new page
 1. Navigate to the folder in this github repository you would like to add a page to, you will find them all inside the [content/](https://github.com/0atman/trebetherick.net/tree/main/content) directory
 2. Click the "Add file" button, then "create new file"
 5. Name the file something short and descriptive, with no spaces and ending in `.md`
@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=nupZDYF5lMA
 8. Check everything looks OK, if so, click the green "create pull request" button
 9. Done! You may comment on this PR to discuss the changes further
 
-#### Edit an existing page
+#### ✍️ Edit an existing page
 1. Navigate to the file in this github repository you would like to edit, you will find them all inside the [content/](https://github.com/0atman/trebetherick.net/tree/main/content) directory
 2. Click the pencil "edit" button at the top right of the file
 4. Make your edits to the file
