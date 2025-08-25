@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=nupZDYF5lMA
 
 #### Adding a new file (such as an image)
 1. Navigate to the [static/](https://github.com/0atman/trebetherick.net/tree/main/static) directory
-2. 2. Click the "Add file" button, then "upload files"
+2. Click the "Add file" button, then "upload files"
 3. Add as many files as you would like (strictly no larger than 100MB)
 4. Give it a good name and description of what you have changed, and why
 6. Click the green "Propose Changes" button
