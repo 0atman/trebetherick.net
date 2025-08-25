@@ -19,7 +19,7 @@ date: 1930-01-01
  - Trenain
  - North Field
  - St Enodoc Cottage
- - Shortands
+ - Shortlands(now called Boskenna).
  - Coolgrena
  - Singleton
  - Linkside
