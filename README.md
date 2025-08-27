@@ -8,6 +8,11 @@ Tris Oaten (username: [@0atman](https://github.com/0atman)) is acting as adminis
 
 ## How To Contribute
 
+- [ ] explain why github re security, open source and longevity, free for open source, continue to help over time
+
+1. Email
+2. Directly on github
+
 You may submit file changes to the site using the Github Pull request system, which can be done entirely inside your web browser.
 
 The method is demonstrated in this video:
