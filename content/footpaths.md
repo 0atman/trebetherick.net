@@ -7,7 +7,7 @@ tags:
 
 Footpaths Around Trebetherick🏃🐕‍🦺🚸🦋🌼🚶🏖
 
-Are you ready to unearth some delightful trails in Trebetherick? If you want to get on the most popular trails, why not head to Trebetherick it's a great place to visit; there are a wide variety of paths off the beaten track and all marked with beautiful wooden finger boards. There is so much to explore and enjoy from dog walks, family days outside, or getting out walking with your friends. Walk to local villages, explore the beaches, St Enodoc Church, catch the ferry to Padstow or whatever you want to do, you don't have to walk on the dangerous narrow roads, we've got well marked footpath routes for you in Trebetherick.
+Are you ready to unearth some delightful trails in Trebetherick? If you want to enjoy some delightful trails, why not head to Trebetherick it's a great place to visit; there are a wide variety of paths off the beaten track and all marked with beautiful wooden finger boards. There is so much to explore and enjoy from dog walks, family days outside, or getting out walking with your friends. Walk to local villages, explore the beaches, St Enodoc Church, catch the ferry to Padstow or whatever you want to do, you don't have to walk on the dangerous narrow roads, we've got well marked footpath routes for you in Trebetherick.
 
 <img width="1080" height="1228" alt="Screenshot_20250827-073529 (1)" src="https://github.com/user-attachments/assets/15aff403-3b44-412e-91d4-dc2a0a0adc97" />
 
