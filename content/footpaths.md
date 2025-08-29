@@ -13,6 +13,9 @@ Are you ready to unearth some delightful trails in Trebetherick? If you want to 
 
 For an interactive and zoomable version of the above map, Visit the Cornwall County Council's mapping site here: <https://experience.arcgis.com/experience/515bb9766732435e97c521afa247c5e9>
 
-<img width="810" height="888" alt="Screenshot_20250826-142409" src="https://github.com/user-attachments/assets/2bf9208f-f671-4352-aa85-07e9d8405292" />
+
+
 <img width="951" height="1254" alt="Screenshot_20250826-142144" src="https://github.com/user-attachments/assets/24ed5f0c-c9b6-4957-86a2-0cf6196901b1" />
-![Footpaths Worthy TrewintHill](https://github.com/user-attachments/assets/147287e5-3577-4c4d-a6ba-708a4db9a69f)
+
+![Screenshot_20250825-163311~2](https://github.com/user-attachments/assets/120f7d04-75e9-4bd2-94b7-02d4f4fef3de)
+
