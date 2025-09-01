@@ -7,7 +7,11 @@ tags:
 
 Footpaths Around Trebetherick🏃🐕‍🦺🚸🦋🌼🚶🏖
 
-Are you ready to unearth some delightful trails in Trebetherick? If you want to enjoy these lovely footpaths, why not head to Trebetherick it's a great place to visit; there are a wide variety of paths off the beaten track and all marked with beautiful wooden finger boards. There is so much to explore and enjoy from dog walks, family days outside, or getting out walking with your friends. Walk to local villages, explore the beaches, St Enodoc Church, catch the ferry to Padstow or whatever you want to do, you don't have to walk on the dangerous narrow roads, we've got well marked footpath routes for you in Trebetherick.
+Trebetherick is a great place to visit and there are many footpaths away from the busy ​and very narrow roads​.  ​All ​paths are marked with beautiful wooden fingerboards, thanks to the TRA, Trebetherick Residents Association. There is so much to explore and enjoy from dog walks to walking with family or friends​, using the footpaths to ​safely ​explore and enjoy the local ​beaches, the hideaways of ​Trebetherick, Rock, Polzeath, St Minver, St Enodoc Church, ​and perhaps even catch the ferry ​over the estuary to Padstow and join the Camel trail to Wadebridge and Bodmin. 
+
+Walking ​on busy narrow roads ​with no footpaths and having to compete with busy ​and fast moving traffic is dangerous​, whereas the well marked footpath routes are delightful​ly peaceful and full of fauna and flora, so much safer for you in Trebetherick.
+
+
 
 <img width="1080" height="1228" alt="Screenshot_20250827-073529 (1)" src="https://github.com/user-attachments/assets/15aff403-3b44-412e-91d4-dc2a0a0adc97" />
 
@@ -21,8 +25,3 @@ For an interactive and zoomable version of the above map, Visit the Cornwall Cou
 
 
 
-​Footpaths Around Trebetherick
-
-Trebetherick is a great place to visit and there are many footpaths away from the busy ​and very narrow roads​.  ​All ​paths are marked with beautiful wooden fingerboards, thanks to the TRA, Trebetherick Residents Association. There is so much to explore and enjoy from dog walks to walking with family or friends​, using the footpaths to ​safely ​explore and enjoy the local ​beaches, the hideaways of ​Trebetherick, Rock, Polzeath, St Minver, St Enodoc Church, ​and perhaps even catch the ferry ​over the estuary to Padstow and join the Camel trail to Wadebridge and Bodmin. 
-
-Walking ​on busy narrow roads ​with no footpaths and having to compete with busy ​and fast moving traffic is dangerous​, whereas the well marked footpath routes are delightful​ly peaceful and full of fauna and flora, so much safer for you in Trebetherick.
