@@ -26,7 +26,7 @@ Below the garage on Daymer Lane, Worthy House ​was built ​and served as both
 
 The Haven itself was rendered ​on the outside using sand and shingle containing small shells, which were brought up from the beach by pony and cart. ​With one of these loads, the Trebetherick Point defense cannon was brought up for safe​keeping. It was mounted in the front garden until 1999, when Naval historian ​Tim Parr, who was researching Henrician Cannons, visited. He was instrumental in arranging for its preservation and subsequent display at Prideaux Place, where its sister cannon from the Padstow side is also located.
 
-
+<img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2">
 <img width="50%" src="https://github.com/user-attachments/assets/2a54caa4-7bf5-4a3e-a288-5316b0055b45" alt="Looking uphill, almost at The Haven entrance Old Farm is the house you can just about see in the centre">
 <img width="50%" src="https://github.com/user-attachments/assets/ae91209b-76fc-42dd-a774-cfd82602f07d" alt="View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
 <img width="50%" src="https://github.com/user-attachments/assets/bb8ddf97-094b-4c80-a85a-f9fe1f73add4" alt="The old coastguard houses on the right on th way to Polzeath through Trebetherick">
@@ -42,10 +42,10 @@ The Haven itself was rendered ​on the outside using sand and shingle containin
 <img width="50%" alt="Screenshot_20240503-181033" src="https://github.com/user-attachments/assets/79072e57-3a65-4610-9354-0ad7dcb680d1" />
 
 <img width="50%" src="https://github.com/user-attachments/assets/4981fe64-326c-40f6-8ca4-a503cb024e5e" alt="Screenshot_20240504-074920~2">
-<img width="50%" src="https://github.com/user-attachments/assets/51c3f48f-e78f-4e33-989a-7eff73e18302" alt="P1070671">
+
 <img width="50%" src="https://github.com/user-attachments/assets/7190dba4-63d0-45b9-8e05-d0ad53f83954" alt="PXL_20250828_080716208">
-<img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2">
-<img width="50%" src="https://github.com/user-attachments/assets/ca8c0d6e-2550-4895-a241-d9de0e116dbc" alt="P1070672">
+
+
 <img width="50%" src="https://github.com/user-attachments/assets/915a502c-3706-46f4-b827-b4815d09a886" alt="20211104_141411-COLLAGE">
 
 
@@ -54,7 +54,7 @@ The Haven itself was rendered ​on the outside using sand and shingle containin
 
 <img width="50%" src="https://github.com/user-attachments/assets/d2e8f665-8a92-4e94-8764-2bbb224b0add" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s~2">
 <img width="50%" src="https://github.com/user-attachments/assets/a2e1fb63-b5e3-491d-9012-5294386916da" alt="View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages">
-<img width="50%" src="https://github.com/user-attachments/assets/d1452cf4-fd0d-43a2-baca-5effc3f88c5a" alt="P1070673">
+
 <img width="50%" src="https://github.com/user-attachments/assets/0f568466-1dd9-4bbe-ab3f-907b0e57da04" alt="At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left">
 <img width="50%" src="https://github.com/user-attachments/assets/b9a3f2b7-c1fd-4660-a68c-66fe02124037" alt="Looking up Daymer Lane almost at the top, this was a set 4 garages~3">
 <img width="50%" src="https://github.com/user-attachments/assets/c35f6a9b-6d2d-4615-baa5-ccd47a77670a" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left">
@@ -62,9 +62,20 @@ The Haven itself was rendered ​on the outside using sand and shingle containin
 <img width="50%" src="https://github.com/user-attachments/assets/ede0dce9-f982-4f10-8380-5c0a130ba51c" alt="At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath">
 <img width="50%" src="https://github.com/user-attachments/assets/72ebcdb5-108f-4897-a2c8-b8e92e42140e" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left~2">
 <img width="50%" src="https://github.com/user-attachments/assets/c547c8cb-c262-4591-b660-4b4933b7ee5a" alt="Opposite The Haven entrance, looking down Worthy Hill, in the mid 1960s only The Coppice had been built down to the cream house, Floradene">
+<img width="50%" src="https://github.com/user-attachments/assets/51c3f48f-e78f-4e33-989a-7eff73e18302" alt="P1070671">
+<img width="50%" src="https://github.com/user-attachments/assets/d1452cf4-fd0d-43a2-baca-5effc3f88c5a" alt="P1070673">
+<img width="50%" src="https://github.com/user-attachments/assets/ca8c0d6e-2550-4895-a241-d9de0e116dbc" alt="P1070672">
+
+
+
+
+
+
 
 
 THE TREBETHERICK CANNON
+
+<img width="50%" src="https://github.com/user-attachments/assets/e7fbd933-3a62-4740-9a3d-6ea71d9856ec" alt="IMG_20160525_125558">
 
 This 3 pounder gun was mounted in the Trebetherick Battery at Greenaway, 20 feet above the High Water Mark, on the East side of the Camel Estuary, as part of the defences of Padstow. It is very badly corroded as it was exposed to salt spray in every gale in the prevailing South West wind for at least 200 years.​ It is thought that the guns on their wheeled carriage may have been kept in St Enodoc Church to be rolled out and up onto Greenaway when needed.
 
@@ -84,4 +95,4 @@ This gun, with the three "Finbankers, which lay in Pentire Farm, formed the Treb
 <img width="50%" src="https://github.com/user-attachments/assets/fa2313e9-dd51-4b2c-9042-400b1eb56abd" alt="1965 77">
 <img width="50%" src="https://github.com/user-attachments/assets/5ec3f16a-e12d-414e-9893-6f1118684160" alt="1965 74">
 <img width="50%" src="https://github.com/user-attachments/assets/2b1b6089-3060-4458-8550-0b2f20d3cff1" alt="PXL_20250828_080716208~2">
-<img width="50%" src="https://github.com/user-attachments/assets/e7fbd933-3a62-4740-9a3d-6ea71d9856ec" alt="IMG_20160525_125558">
+
