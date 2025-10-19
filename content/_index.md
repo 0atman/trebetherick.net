@@ -11,6 +11,8 @@ Browse the sections above, search the site, or check out the timeline below.
 
 If you have information, and/or photographs that you would like to submit for preservation in the Trebetherick Museum, [please email it all to us at contact@trebetherick.net](mailto:contact@trebetherick.net)
 
+Please include as much information as possible about every submission.
+
 Please submit your photos in as high a quality as you can, original resolution ideally, and be aware that apps like WhatsApp reduce the quality of photos (ask for originals by email, if you have been sent photos through WhatsApp).
 
 ---
