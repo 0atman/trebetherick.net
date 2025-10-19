@@ -59,8 +59,8 @@ url = "/about"
 
 
 [[extra.links]]
-title = "📃 Contribute"
-url = "/contribute"
+title = "📃 Github"
+url = "https://github.com/0atman/trebetherick.net"
 
 [extra]
 # Put all your custom variables here
