@@ -51,7 +51,7 @@
         {% endif %}
         <div class="col-md-{% if img %}8{% else %}12{% endif %}">
           {{info::render(page=page)}}
-          {% if type == "default" %}
+          {% if type == "defaultDISABLED" %}
           {{summary::render(page=page)}}
           {% endif %}
         </div>
