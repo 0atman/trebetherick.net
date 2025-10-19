@@ -68,7 +68,7 @@
   {% if section.description %}
     <p class="px-3 text-muted">{{section.description}}</p>
   {% endif %}
-  {% if section.content %}
+  {% if section.contentDISABLED %}
     <div class="content px-3">{{section.content | safe}}</div>
   {% endif %}
 	{% for page in paginator.pages %}
