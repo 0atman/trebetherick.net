@@ -7,6 +7,7 @@ date: 2025-01-01
 
 THE WELLS
 1930-01-01
+
 Water supply in Trebetherick and Polzeath before 1930 was by hand dug wells as listed by Trebetherick Coastguard Ralph Tellam-Hocking.
 
 WELLS In Trebetherick (21)
