@@ -3,4 +3,6 @@ title: "Houses"
 date: 2025-01-01
 ---
 
-# 🏗 Under Construction
+# Houses
+
+- [The Haven](haven.md)
