@@ -1,5 +1,5 @@
 ---
-title: "The Haven, Worthy Hill 1906-2000"
+title: "The Haven, Worthy Hill   1906-2000"
 date: 1906-01-02
 tags: 
  - houses
