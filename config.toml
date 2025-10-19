@@ -39,19 +39,19 @@ highlight_theme = "visual-studio-dark"
 
 [[extra.links]]
 title = "🏡 Houses"
-url = "/about"
+url = "/houses"
 
 [[extra.links]]
 title = "🐑 Farms"
-url = "/about"
+url = "/farms"
 
 [[extra.links]]
 title = "⛪ St Enodoc Church"
-url = "/about"
+url = "/stenodoc"
 
 [[extra.links]]
 title = "🌳 Environment"
-url = "/about"
+url = "/aenvironment"
 
 [[extra.links]]
 title = "❓ About"
