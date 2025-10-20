@@ -4,7 +4,7 @@ date: 2025-01-01
 ---
 
 Trebetherick is between Polzeath and Rock, the lower area extending west to Daymer Bay, St Enodoc Church and Trebetherick Point and
-Higher Trebetherick the top area of Flo's Deli Cafe General Stores, the Rocket House and Fore Dore.
+Higher Trebetherick the top area of Flo's Deli Cafe General Stores, the Rocket House, Fore Dore and Worthy Hill.
 
 We are excited to announce the launch of the Trebetherick Museum, a new digital platform dedicated to preserving and showcasing the rich historical information about our beloved Trebetherick.
 While a wealth of historical information about Trebetherick has always existed, there hasn't been a single, publicly accessible place for it to be safely stored and displayed for everyone to view and enjoy​, until now. Our son, Tristram Oaten, a talented web developer and software engineer, has designed and created this digital museum for the entire community to use​, to contribute and enjoy.
