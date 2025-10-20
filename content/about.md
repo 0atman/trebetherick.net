@@ -3,7 +3,7 @@ title: "About The Museum"
 date: 2025-01-01
 ---
 
-Trebetherick is between Polzeath and Rock, the lower area extending west to Daymer Bay, St Enodoc Church and Trebetherick Point, Flo's Deli Cafe General Stores, Rocket House and Fore Dore area is Higher Trebetherick.
+Trebetherick is between Polzeath and Rock, the lower area extending west to Daymer Bay, St Enodoc Church and Trebetherick Point. Flo's Deli Cafe General Stores, Rocket House and Fore Dore area is Higher Trebetherick.
 
 We are using GitHub to make our TREBETHERICK MUSEUM website because it enables us to keep everything safe, organized, and easy to update.
 
