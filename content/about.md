@@ -8,9 +8,9 @@ We invite you to explore the Trebetherick Museum and discover the fascinating hi
 
 ### Background
 
-The site was conceived by Trebetherick residents, Jenny & Brian Oaten, whose family have lived in the village for over a century. Their son, Tristram, a web developer, built this digital museum for the entire community to use, contribute to and enjoy.
+The site was conceived by Trebetherick residents, Jenny & Brian Oaten. Their son, Tristram, a web developer, built this digital museum for the entire community to use, contribute to and enjoy. Brian's parents, Mabyn and Lewis Oaten, born in St Mabyn and St Kew, lived in Trebetherick from 1938. The Oaten family’s roots in these villages can be traced back to 1781, with earlier generations recorded in neighbouring parishes.
 
-It is currently in its infancy, and we are relying on your [submissions](mailto:contact@trebetherick.net) of stories and pictures to help it grow. As new pages are added, they will be listed on the front page. The only house featured at the moment is our entry for The Haven, the Oatens' family home until 2000 (when we moved next-door). We hope that soon there will be many other pages for houses, farms, shops, St Enodoc Church - anything in and around Trebetherick.
+This website is currently in its infancy, and we are relying on your [submissions](mailto:contact@trebetherick.net) of stories and pictures to help it grow. As new pages are added, they will be listed on the front page. The only house featured at the moment is our entry for The Haven, the Oatens' family home until 2000 (when we moved next-door). We hope that soon there will be many other pages for houses, farms, shops, St Enodoc Church - anything in and around Trebetherick.
 
 ### How is the site built?
 
