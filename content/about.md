@@ -25,7 +25,9 @@ Launched in 2008, and bought by Microsoft in 2018, GitHub has become foundationa
 In simple terms:
 
 🧺 GitHub is like an online vault for our website. It keeps all the pictures, history, and stories in one safe place. It keeps track of every change we make. If a mistake is made, we can go back to an older version, just like keeping a copy before trying something new.
+
 🧑‍🤝‍🧑 Other people can help. If someone from the village wants to add a photo or text, we can do it through GitHub easily. Just email it to us, link below, and we will give it its own page in the museum. (For those of a technical background, we also accept GitHub PRs directly)
+
 🌍 GitHub hosts the website for free, and all the documents and photos are available to the public for free, forever. Anyone can visit and see our museum's story online.
 
 ### Contributing
