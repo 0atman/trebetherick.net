@@ -19,7 +19,7 @@ These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 2
 
 In 1906, The Haven was the first house constructed in Trebetherick, which was then primarily open farmland with farms, farm cottages, and barns. Following its construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 parallel to the old road. In the 1960s, the old road was altered into the current layby, and a new, wider, and straighter road was constructed.
 
-Bill Tucker from Trewornan Farm, a horse coaching enthusiast, used to conduct pleasure trips that passed by The Haven, sounding a long, shining copper coaching horn at corners and other suitable points along the route.
+Bill Tucker from Trewornan Farm, a horse and coaching enthusiast, used to conduct pleasure trips that passed by The Haven, sounding a long, shining copper coaching horn at corners and other suitable points along the route.
 <img width="50%" src="https://github.com/user-attachments/assets/d1452cf4-fd0d-43a2-baca-5effc3f88c5a" alt="P1070673">
 
 The Daymer Bay Garage, located at the junction of Worthy Hill and Daymer Lane, was operated by Norman Cleave, a motor car enthusiast and the father of Leadville Cleave and grandfather of Jon Cleave, both from Port Isaac. The garage included workshops, garages, and a petrol pump. Norman also managed the Clock Garage at Rock.
@@ -29,13 +29,19 @@ The Haven itself was rendered ​on the outside using sand and shingle containin
 
 
 <img width="50%" src="https://github.com/user-attachments/assets/2a54caa4-7bf5-4a3e-a288-5316b0055b45" alt="Looking uphill, almost at The Haven entrance Old Farm is the house you can just about see in the centre">
+
 <img width="50%" src="https://github.com/user-attachments/assets/ae91209b-76fc-42dd-a774-cfd82602f07d" alt="View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
+
 <img width="50%" src="https://github.com/user-attachments/assets/bb8ddf97-094b-4c80-a85a-f9fe1f73add4" alt="The old coastguard houses on the right on th way to Polzeath through Trebetherick">
+
 <img width="50%" src="https://github.com/user-attachments/assets/b70465b0-5094-45a8-b46e-d5d450775973" alt="Looking up the middle section of Worthy Hill, Flaraldene is on the right">
+
 <img width="50%" src="https://github.com/user-attachments/assets/85596d60-78d2-440e-85d2-51c5eaf3f03f" alt="This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956">
 
 <img width="50%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" src="https://github.com/user-attachments/assets/c9e57040-952b-4e44-8890-0ce933f7d44a" />
+
 <img width="50%" alt="The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony" src="https://github.com/user-attachments/assets/bdd8520d-f5bf-43c5-8c24-b809ac7f5f8a" />
+
 
 <img width="50%" src="https://github.com/user-attachments/assets/d243d244-6590-4587-9c16-7323db070e06" alt="Screenshot_20250819-172308~2">
 <img width="50%" src="https://github.com/user-attachments/assets/b034d5a3-e3be-4a63-8c48-bcd037898642" alt="Screenshot_20250819-172220~2">
