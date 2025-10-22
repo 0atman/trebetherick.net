@@ -72,7 +72,7 @@ The Haven itself was rendered ​on the outside using sand and shingle containin
 <img width="50%" src="https://github.com/user-attachments/assets/c547c8cb-c262-4591-b660-4b4933b7ee5a" alt="Opposite The Haven entrance, looking down Worthy Hill, in the mid 1960s only The Coppice had been built down to the cream house, Floradene">
 
 
-THE TREBETHERICK CANNON
+THE TREBETHERICK CANNON - circa 16th centuary
 
 This 3 pounder gun was mounted in the Trebetherick Battery at Greenaway, 20 feet above the High Water Mark, on the East side of the Camel Estuary, as part of the defences of Padstow. It is very badly corroded as it was exposed to salt spray in every gale in the prevailing South West wind for at least 200 years.​ It is thought that the guns on their wheeled carriage may have been kept in St Enodoc Church to be rolled out and up onto Greenaway when needed.
 
