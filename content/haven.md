@@ -37,7 +37,7 @@ The Haven itself was rendered ​on the outside using sand and shingle containin
 
 
 <img width="50%" src="https://github.com/user-attachments/assets/2a54caa4-7bf5-4a3e-a288-5316b0055b45" alt="Looking uphill, almost at The Haven entrance Old Farm is the house you can just about see in the centre">
-Looking uphill, almost at The Haven entrance Old Farm is the house you can just about see in the centre
+Looking uphill, almost at The Haven entrance, Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements.
 
 ---
 
