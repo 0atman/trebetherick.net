@@ -19,8 +19,16 @@ These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 2
 
 In 1906, The Haven was the first house constructed in Trebetherick, which was then primarily open farmland with farms, farm cottages, and barns. Following its construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 parallel to the old road. In the 1960s, the old road was altered into the current layby, and a new, wider, and straighter road was constructed.
 
+<img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2"
+
+---
+
 Bill Tucker from Trewornan Farm, a horse and coaching enthusiast, used to conduct pleasure trips that passed by The Haven, sounding a long, shining copper coaching horn at corners and other suitable points along the route.
-<img width="50%" src="https://github.com/user-attachments/assets/d1452cf4-fd0d-43a2-baca-5effc3f88c5a" alt="P1070673">
+<img width="50%" src="https://github.com/user-attachments/assets/d1452cf4-fd0d-43a2-baca-5effc3f88c5a" alt="Bill Tucker's Coach and Four">
+
+
+
+
 
 The Daymer Bay Garage, located at the junction of Worthy Hill and Daymer Lane, was operated by Norman Cleave, a motor car enthusiast and the father of Leadville Cleave and grandfather of Jon Cleave, from Port Isaac. The garage included workshops, garages, and a petrol pump. Norman also managed the Clock Garage at Rock.
 Below the garage on Daymer Lane, Worthy House ​was built ​and served as both a Post Office and a telephone exchange, playing a central role in the village's communication. Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, was drained in the 1930s after mains water was installed, making way for the ​new and larger Trebetherick telephone exchange.
@@ -30,6 +38,8 @@ The Haven itself was rendered ​on the outside using sand and shingle containin
 
 <img width="50%" src="https://github.com/user-attachments/assets/2a54caa4-7bf5-4a3e-a288-5316b0055b45" alt="Looking uphill, almost at The Haven entrance Old Farm is the house you can just about see in the centre">
 Looking uphill, almost at The Haven entrance Old Farm is the house you can just about see in the centre
+
+---
 
 <img width="50%" src="https://github.com/user-attachments/assets/ae91209b-76fc-42dd-a774-cfd82602f07d" alt="View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
 
@@ -48,15 +58,15 @@ Looking uphill, almost at The Haven entrance Old Farm is the house you can just 
 <img width="50%" src="https://github.com/user-attachments/assets/b034d5a3-e3be-4a63-8c48-bcd037898642" alt="Screenshot_20250819-172220~2">
 
 <img width="50%" alt="Screenshot_20240503-181033" src="https://github.com/user-attachments/assets/79072e57-3a65-4610-9354-0ad7dcb680d1" />
-<img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2">
-<img width="50%" src="https://github.com/user-attachments/assets/4981fe64-326c-40f6-8ca4-a503cb024e5e" alt="Screenshot_20240504-074920~2">
+
+
 <img width="50%" src="https://github.com/user-attachments/assets/51c3f48f-e78f-4e33-989a-7eff73e18302" alt="P1070671">
 <img width="50%" src="https://github.com/user-attachments/assets/7190dba4-63d0-45b9-8e05-d0ad53f83954" alt="PXL_20250828_080716208">
 
 <img width="50%" src="https://github.com/user-attachments/assets/ca8c0d6e-2550-4895-a241-d9de0e116dbc" alt="P1070672">
 <img width="50%" src="https://github.com/user-attachments/assets/915a502c-3706-46f4-b827-b4815d09a886" alt="20211104_141411-COLLAGE">
 
-
+<img width="50%" src="https://github.com/user-attachments/assets/4981fe64-326c-40f6-8ca4-a503cb024e5e" alt="1972 Old Caravan belonging to Basil and Edna Male">
 
 <img width="50%" alt="Screenshot_20220202-141059" src="https://github.com/user-attachments/assets/2de8ab64-f5b0-44ed-8630-349ed5df060b" />
 
