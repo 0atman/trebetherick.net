@@ -102,13 +102,23 @@ Higher Farm on Left - Shop on Right
 ---
 <img width="50%" src="https://github.com/user-attachments/assets/ede0dce9-f982-4f10-8380-5c0a130ba51c" alt="At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath">
 ---
+
 ---
 Looking North Up Worthy Hill- Floraldene On Right
 ---
-
----
 <img width="50%" src="https://github.com/user-attachments/assets/b70465b0-5094-45a8-b46e-d5d450775973" alt="Looking up the middle section of Worthy Hill, Floraldene is on the right">
 ---
+
+Looking Down Worthy Hill - Floraldene on Left.
+---
+Before the building of Tide Race, Breafield and public footpath. 
+Note the council wintertime piles of sand to grit the hill
+
+
+<img width="50%" src="https://github.com/user-attachments/assets/c547c8cb-c262-4591-b660-4b4933b7ee5a" alt="Opposite The Haven entrance, looking down Worthy Hill, in the mid 1960s only The Coppice had been built down to the cream house, Floradene">
+
+---
+
 <img width="50%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" src="https://github.com/user-attachments/assets/c9e57040-952b-4e44-8890-0ce933f7d44a" />
 Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s
 ---
@@ -134,7 +144,7 @@ The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in
 
 <img width="50%" src="https://github.com/user-attachments/assets/72ebcdb5-108f-4897-a2c8-b8e92e42140e" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left~2">
 ---
-<img width="50%" src="https://github.com/user-attachments/assets/c547c8cb-c262-4591-b660-4b4933b7ee5a" alt="Opposite The Haven entrance, looking down Worthy Hill, in the mid 1960s only The Coppice had been built down to the cream house, Floradene">
+
 ---
 
 THE TREBETHERICK CANNON - circa 16th centuary
