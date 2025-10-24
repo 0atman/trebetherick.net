@@ -22,6 +22,22 @@ In 1906, The Haven was the first house constructed in Trebetherick, which was th
 <img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2"
 ---
 
+1920-40s - Sand Cart and Pony Nearing The Top Of Daymer Lane
+---
+<img width="50%" alt="Screenshot_20240503-181033" src="https://github.com/user-attachments/assets/79072e57-3a65-4610-9354-0ad7dcb680d1" />
+
+---
+1925 TREBETHERICK DUCK POND
+
+---
+
+<img width="50%" src="https://github.com/user-attachments/assets/915a502c-3706-46f4-b827-b4815d09a886" alt="Collage of duck pond 1925 and today 2021">
+---
+Collage of duck pond 1925 and today 2021
+---
+Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, was drained in the 1930s after mains water was installed, making way for the ​new and larger Trebetherick telephone exchange.
+
+
 BEFORE THE ROAD WAS WIDENED IN 1960s
 ---
 <img width="50%" src="https://github.com/user-attachments/assets/2a54caa4-7bf5-4a3e-a288-5316b0055b45" alt="Looking uphill, at The Haven entrance on the right, Old Farm is the house you can just about see in the centre">
@@ -59,15 +75,6 @@ This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have be
 <img width="50%" src="https://github.com/user-attachments/assets/c35f6a9b-6d2d-4615-baa5-ccd47a77670a" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left">
 
 ---
-TREBETHERICK DUCK POND
----
-
-<img width="50%" src="https://github.com/user-attachments/assets/915a502c-3706-46f4-b827-b4815d09a886" alt="Collage of duck pond 1925 and today 2021">
----
-Collage of duck pond 1925 and today 2021
----
-Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, was drained in the 1930s after mains water was installed, making way for the ​new and larger Trebetherick telephone exchange.
-
 
 
 The Haven itself was rendered ​on the outside using sand and shingle containing small shells, which were brought up from the beach by pony and cart. ​With one of these loads, the Trebetherick Point defense cannon was brought up for safe​keeping. It was mounted in the front garden until 1999, when Naval historian ​Tim Parr, who was researching Henrician Cannons, visited. He was instrumental in arranging for its preservation and subsequent display at Prideaux Place, where its sister cannon from the Padstow side is also located.
@@ -130,7 +137,7 @@ The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in
 ---
 <img width="50%" src="https://github.com/user-attachments/assets/b034d5a3-e3be-4a63-8c48-bcd037898642" alt="Screenshot_20250819-172220~2">
 ---
-<img width="50%" alt="Screenshot_20240503-181033" src="https://github.com/user-attachments/assets/79072e57-3a65-4610-9354-0ad7dcb680d1" />
+
 ---
 <img width="50%" src="https://github.com/user-attachments/assets/7190dba4-63d0-45b9-8e05-d0ad53f83954" alt="PXL_20250828_080716208">
 ---
