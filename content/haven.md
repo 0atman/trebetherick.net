@@ -29,6 +29,7 @@ The Haven itself was rendered ​on the outside using sand and shingle containin
 
 
 <img width="50%" src="https://github.com/user-attachments/assets/2a54caa4-7bf5-4a3e-a288-5316b0055b45" alt="Looking uphill, almost at The Haven entrance Old Farm is the house you can just about see in the centre">
+Looking uphill, almost at The Haven entrance Old Farm is the house you can just about see in the centre
 
 <img width="50%" src="https://github.com/user-attachments/assets/ae91209b-76fc-42dd-a774-cfd82602f07d" alt="View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
 
