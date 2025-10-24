@@ -94,12 +94,19 @@ Bill Tucker from Trewornan Farm, was a horse and coaching enthusiast and he used
 ---
 
 
-
+Looking North - Higher Trebetherick - Before Road Widening 1960s
+---
+Higher Farm on Left - Shop on Right
+---
 <img width="50%" src="https://github.com/user-attachments/assets/bb8ddf97-094b-4c80-a85a-f9fe1f73add4" alt="The old coastguard houses on the right on th way to Polzeath through Trebetherick">
 ---
 <img width="50%" src="https://github.com/user-attachments/assets/ede0dce9-f982-4f10-8380-5c0a130ba51c" alt="At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath">
 ---
+---
+Looking North Up Worthy Hill- Floraldene On Right
+---
 
+---
 <img width="50%" src="https://github.com/user-attachments/assets/b70465b0-5094-45a8-b46e-d5d450775973" alt="Looking up the middle section of Worthy Hill, Floraldene is on the right">
 ---
 <img width="50%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" src="https://github.com/user-attachments/assets/c9e57040-952b-4e44-8890-0ce933f7d44a" />
