@@ -20,7 +20,19 @@ These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 2
 In 1906, The Haven was the first house constructed in Trebetherick, which was then primarily open farmland with farms, farm cottages, and barns. Following its construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 parallel to the old road. In the 1960s, the old road was altered into the current layby, and a new, wider, and straighter road was constructed.
 
 <img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2"
+
 ---
+
+<img width="50%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" 
+ src="https://github.com/user-attachments/assets/c9e57040-952b-4e44-8890-0ce933f7d44a" />
+---
+Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s
+---
+<img width="50%" alt="The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony" 
+ src="https://github.com/user-attachments/assets/bdd8520d-f5bf-43c5-8c24-b809ac7f5f8a" />
+---
+The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony
+
 
 1920-40s - Sand Carter With Pony Nearing The Top Of Daymer Lane
 ---
@@ -126,11 +138,7 @@ Note the council wintertime piles of sand to grit the hill
 
 ---
 
-<img width="50%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" src="https://github.com/user-attachments/assets/c9e57040-952b-4e44-8890-0ce933f7d44a" />
-Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s
----
-<img width="50%" alt="The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony" src="https://github.com/user-attachments/assets/bdd8520d-f5bf-43c5-8c24-b809ac7f5f8a" />
-The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony
+
 ---
 
 <img width="50%" src="https://github.com/user-attachments/assets/d243d244-6590-4587-9c16-7323db070e06" alt="Screenshot_20250819-172308~2">
