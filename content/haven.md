@@ -35,7 +35,7 @@ In 1906, The Haven was the first house constructed in Trebetherick, which was th
 ---
 Collage of duck pond 1925 and today 2021
 ---
-Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, was drained in the 1930s after mains water was installed, making way for the ​new and larger Trebetherick telephone exchange.
+Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, was drained in the 1930s after mains water was installed, making way for the ​new and larger Trebetherick telephone exchange. On the right is the gate into Ham Field, so called as it was the triangular shape of a ham.
 
 
 BEFORE THE ROAD WAS WIDENED IN 1960s
