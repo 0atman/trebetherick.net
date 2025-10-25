@@ -7,7 +7,7 @@ tags:
 
 These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 238, 239 of [The Link](http://www.stminverlink.org) magazine.
 
-## Part 1
+## A Snapshot Of Living In Trebetherick - Part 1
 <object data="/The Haven 1.pdf" width="100%" height="500px"></object>
 
 ## Part 2
