@@ -22,7 +22,7 @@ In 1906, The Haven was the first house constructed in Trebetherick, which was th
 <img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2"
 ---
 
-1920-40s - Sand Cart and Pony Nearing The Top Of Daymer Lane
+1920-40s - Sand Carter With Pony Nearing The Top Of Daymer Lane
 ---
 <img width="50%" alt="Screenshot_20240503-181033" src="https://github.com/user-attachments/assets/79072e57-3a65-4610-9354-0ad7dcb680d1" />
 
