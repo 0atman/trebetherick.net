@@ -91,6 +91,8 @@ This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have be
 ---
 <img width="50%" src="https://github.com/user-attachments/assets/0f568466-1dd9-4bbe-ab3f-907b0e57da04" alt="At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left">
 
+---
+
 At the top of Worthy hill, looking down, Daymer Bay Garage is on the right and The Haven entrance is on the left
 
 ---
@@ -130,10 +132,15 @@ Bill Tucker from Trewornan Farm, was a horse and coaching enthusiast and he used
 
 Higher Trebetherick - Looking North - Before Road Widening 1960s
 ---
-Higher Farm on Left - Shop on Right
+
 ---
 <img width="50%" src="https://github.com/user-attachments/assets/bb8ddf97-094b-4c80-a85a-f9fe1f73add4" alt="The old coastguard houses on the right on th way to Polzeath through Trebetherick">
+
 ---
+
+Higher Farm on Left - Shop on Right
+
+
 <img width="50%" src="https://github.com/user-attachments/assets/ede0dce9-f982-4f10-8380-5c0a130ba51c" alt="At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath">
 ---
 
