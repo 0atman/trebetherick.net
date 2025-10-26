@@ -19,7 +19,7 @@ These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 2
 
 In 1906, The Haven was the first house constructed in Trebetherick, which was then primarily open farmland with farms, farm cottages, and barns. Following its construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 parallel to the old road. In the 1960s, the old road was altered into the current layby, and a new, wider, and straighter road was constructed.
 
-<img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2"
+<img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2">
 
 ---
 
