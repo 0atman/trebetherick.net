@@ -26,31 +26,32 @@ In 1906, The Haven was the first house constructed in Trebetherick, which was th
 <img width="50%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" 
  src="https://github.com/user-attachments/assets/c9e57040-952b-4e44-8890-0ce933f7d44a" />
 ---
-Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s
+# Mabyn Oaten on the balcony of The Haven before the bay windows were converted into a mahogany sunroom in the late 1950s
 ---
 <img width="50%" alt="The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony" 
  src="https://github.com/user-attachments/assets/bdd8520d-f5bf-43c5-8c24-b809ac7f5f8a" />
 ---
-The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony
+# The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony
 
 
-1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane
+# 1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane
 ---
 <img width="50%" alt="Screenshot_20240503-181033" src="https://github.com/user-attachments/assets/79072e57-3a65-4610-9354-0ad7dcb680d1" />
 
 ---
-1925 TREBETHERICK DUCK POND
+# 1925 TREBETHERICK DUCK POND
 
 ---
 
 <img width="50%" src="https://github.com/user-attachments/assets/915a502c-3706-46f4-b827-b4815d09a886" alt="Collage of duck pond 1925 and today 2021">
 ---
-Collage of duck pond 1925 and today 2021
+# Collage of duck pond 1925 and today 2021
 ---
+
 Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, was drained in the 1930s after mains water was installed, making way for the ​new and larger Trebetherick telephone exchange. On the right is the gate into Ham Field, so called as it was the triangular shape of a ham.
 
 
-BEFORE THE ROAD WAS WIDENED IN 1960s
+# BEFORE THE ROAD WAS WIDENED IN 1960s
 ---
 <img width="50%" src="https://github.com/user-attachments/assets/2a54caa4-7bf5-4a3e-a288-5316b0055b45" alt="Looking uphill, at The Haven entrance on the right, Old Farm is the house you can just about see in the centre">
 Looking uphill, at The Haven entrance on the right, Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements in late 1960s.
@@ -60,25 +61,29 @@ Looking uphill, at The Haven entrance on the right, Old Farm is the house roof y
 
 ---
 
-DAYMER BAY GARAGE
+# DAYMER BAY GARAGE
 
 The Daymer Bay Garage, was located at the junction of Worthy Hill and Daymer Lane, was operated by Norman Cleave, a motor car enthusiast and the father of Leadville Cleave and grandfather of Jon Cleave, from Port Isaac. The garage included workshops, garages, and a petrol pump. Norman also managed the Clock Garage at Rock.
 Below the garage on Daymer Lane, Worthy House ​was built ​and served as both a Post Office and a telephone exchange, playing a central role in the village's communication. 
 ---
 <img width="50%" src="https://github.com/user-attachments/assets/ae91209b-76fc-42dd-a774-cfd82602f07d" alt="View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
-View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
+---
+# View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
 
 ---
 
 <img width="50%" src="https://github.com/user-attachments/assets/85596d60-78d2-440e-85d2-51c5eaf3f03f" alt="This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956">
-This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956">
 
 ---
-<img width="50%" src="https://github.com/user-attachments/assets/b9a3f2b7-c1fd-4660-a68c-66fe02124037" alt="Looking up Daymer Lane almost at the top, this was a set 4 garages~3">
+
+# This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956">
+
+---
+<img width="50%" src="https://github.com/user-attachments/assets/0f568466-1dd9-4bbe-ab3f-907b0e57da04" alt="At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left">
+---
+# At the top of Worthy hill, looking down, Daymer Bay Garage is on the right and The Haven entrance is on the left">
 ---
 
-
-<img width="50%" src="https://github.com/user-attachments/assets/0f568466-1dd9-4bbe-ab3f-907b0e57da04" alt="At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left.
 ---
 
 <img width="50%" src="https://github.com/user-attachments/assets/b9a3f2b7-c1fd-4660-a68c-66fe02124037" alt="Looking up Daymer Lane almost at the top, this was a set 4 garages~3">
