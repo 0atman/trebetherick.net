@@ -34,7 +34,7 @@ Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950
 The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony
 
 
-1920-40s - Sand Carter With Pony Nearing The Top Of Daymer Lane
+1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane
 ---
 <img width="50%" alt="Screenshot_20240503-181033" src="https://github.com/user-attachments/assets/79072e57-3a65-4610-9354-0ad7dcb680d1" />
 
