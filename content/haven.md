@@ -21,7 +21,7 @@ These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 2
 
 <img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2">
 
-In 1906, The Haven was the first house constructed in Trebetherick, which was then primarily open farmland with farms, farm cottages, and barns. Following its construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 parallel to the old road. In the 1960s, the Daymer Garage was demolished allowing the old road to be moved westward and straightened, the old road being left as the current layby.
+In 1906, The Haven was the first house constructed in Trebetherick, which was then primarily open farmland with a few farm houses, farm cottages, and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby.
 
 
 
@@ -30,7 +30,7 @@ In 1906, The Haven was the first house constructed in Trebetherick, which was th
 <img width="50%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" 
  src="https://github.com/user-attachments/assets/c9e57040-952b-4e44-8890-0ce933f7d44a" />
  
-Mabyn Oaten on the balcony of The Haven before the bay windows were converted into a mahogany sunroom in the late 1950s
+Mabyn Oaten on the balcony of The Haven before the bay windows were converted into a mahogany sunroom extension in the late 1950s
 
 ---
 
@@ -43,6 +43,12 @@ The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in
 ---
 
 <img width="50%" src="https://github.com/user-attachments/assets/5ec3f16a-e12d-414e-9893-6f1118684160" alt="1965 74">
+
+# Pre 1950
+
+<img width="50%" alt="Screenshot_20220202-141059" src="https://github.com/user-attachments/assets/2de8ab64-f5b0-44ed-8630-349ed5df060b" />
+
+This postcard was taken sometime 1910-1950. Note The Haven top right and the car on the beach.
 
 ---
 
@@ -71,6 +77,7 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 
 Looking uphill, at The Haven entrance on the right, Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements in late 1960s.
 
+---
 
 # DAYMER BAY GARAGE and WORKSHOPS
 
@@ -91,22 +98,24 @@ This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have be
 ---
 <img width="50%" src="https://github.com/user-attachments/assets/0f568466-1dd9-4bbe-ab3f-907b0e57da04" alt="At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left">
 
----
+
 
 At the top of Worthy hill, looking down, Daymer Bay Garage is on the right and The Haven entrance is on the left
 
 ---
 
-<img width="50%" src="https://github.com/user-attachments/assets/c35f6a9b-6d2d-4615-baa5-ccd47a77670a" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left">
+<img width="50%" src="https://github.com/user-attachments/assets/72ebcdb5-108f-4897-a2c8-b8e92e42140e" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left~2">
 
-Almost at the top of Worthy Hill, The Haven entrance is on the left
+
+
+Almost at the top of Worthy Hill, The Haven entrance is on the left with gate posts parallel with the original old road. Daymer Bay Garage is noe gone.
 
 ---
 <img width="50%" src="https://github.com/user-attachments/assets/b9a3f2b7-c1fd-4660-a68c-66fe02124037" alt="Looking up Daymer Lane almost at the top, this was a set 4 garages~3">
 
 Looking up Daymer Lane almost at the top, this was a set 4 garages with the post office on the right
 
-The Haven itself was rendered ​on the outside using sand and shingle containing small shells, which were brought up from the beach by pony and cart. ​With one of these loads, the Trebetherick Point defense cannon was brought up for safe​keeping. It was mounted in the front garden until 1999, when Naval historian ​Tim Parr, who was researching Henrician Cannons, visited. He was instrumental in arranging for its preservation and subsequent display at Prideaux Place, where its sister cannon from the Padstow side is also located.
+
 
 ---
 
@@ -127,61 +136,61 @@ Bill Tucker from Trewornan Farm, was a horse and coaching enthusiast and he used
 
 ---
 
----
 
 
-Higher Trebetherick - Looking North - Before Road Widening 1960s
----
+# Higher Trebetherick - Looking North - Before Road Widening 1960s
 
----
+
 <img width="50%" src="https://github.com/user-attachments/assets/bb8ddf97-094b-4c80-a85a-f9fe1f73add4" alt="The old coastguard houses on the right on th way to Polzeath through Trebetherick">
 
----
+
 
 Higher Farm on Left - Shop on Right
 
 
 <img width="50%" src="https://github.com/user-attachments/assets/ede0dce9-f982-4f10-8380-5c0a130ba51c" alt="At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath">
----
+
+New Telphone Exchange on right
+
+<img width="50%" src="https://github.com/user-attachments/assets/4981fe64-326c-40f6-8ca4-a503cb024e5e" alt="1972 Old Caravan belonging to Basil and Edna Male">
 
 ---
-Looking North Up Worthy Hill- Floraldene On Right
----
+
+# Worthy Hill 
+
+
 <img width="50%" src="https://github.com/user-attachments/assets/b70465b0-5094-45a8-b46e-d5d450775973" alt="Looking up the middle section of Worthy Hill, Floraldene is on the right">
----
 
-Looking Down Worthy Hill - Floraldene on Left.
----
-Before the building of Tide Race, Breafield and public footpath. 
-Note the council wintertime piles of sand to grit the hill
-
+Looking North - Floraldene On Right
 
 <img width="50%" src="https://github.com/user-attachments/assets/c547c8cb-c262-4591-b660-4b4933b7ee5a" alt="Opposite The Haven entrance, looking down Worthy Hill, in the mid 1960s only The Coppice had been built down to the cream house, Floradene">
 
----
+Worthy Hill - Looking South - Floraldene on Left.
 
 
+Before the building of Tide Race, Breafield and public footpath. 
+Note the council wintertime piles of sand to grit the hill
+
 ---
+
+# 1979 Daymer Beach 
 
 <img width="50%" src="https://github.com/user-attachments/assets/d243d244-6590-4587-9c16-7323db070e06" alt="Screenshot_20250819-172308~2">
 ---
 <img width="50%" src="https://github.com/user-attachments/assets/b034d5a3-e3be-4a63-8c48-bcd037898642" alt="Screenshot_20250819-172220~2">
----
 
----
-<img width="50%" src="https://github.com/user-attachments/assets/7190dba4-63d0-45b9-8e05-d0ad53f83954" alt="PXL_20250828_080716208">
----
-<img width="50%" src="https://github.com/user-attachments/assets/4981fe64-326c-40f6-8ca4-a503cb024e5e" alt="1972 Old Caravan belonging to Basil and Edna Male">
----
-<img width="50%" alt="Screenshot_20220202-141059" src="https://github.com/user-attachments/assets/2de8ab64-f5b0-44ed-8630-349ed5df060b" />
 ---
 <img width="50%" src="https://github.com/user-attachments/assets/d2e8f665-8a92-4e94-8764-2bbb224b0add" alt="Mabyn Oaten on the balcony of _The Haven_ before it was 
  removed in the late 1950s~2">
 ---
 
-<img width="50%" src="https://github.com/user-attachments/assets/72ebcdb5-108f-4897-a2c8-b8e92e42140e" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left~2">
+
+
+<img width="50%" src="https://github.com/user-attachments/assets/7190dba4-63d0-45b9-8e05-d0ad53f83954" alt="PXL_20250828_080716208">
+
 ---
 
+The Haven itself was rendered ​on the outside using sand and shingle containing small shells, which were brought up from the beach by pony and cart. ​With one of these loads, the Trebetherick Point defense cannon was brought up for safe​keeping. It was mounted in the front garden until 1999, when Naval historian ​Tim Parr, who was researching Henrician Cannons, visited. He was instrumental in arranging for its preservation and subsequent display at Prideaux Place, where its sister cannon from the Padstow side is also located.
 ---
 
 THE TREBETHERICK CANNON - circa 16th centuary
