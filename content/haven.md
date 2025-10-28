@@ -108,9 +108,19 @@ At the top of Worthy hill, looking down, Daymer Bay Garage is on the right and T
 
 
 
-Almost at the top of Worthy Hill, The Haven entrance is on the left with gate posts parallel with the original old road. Daymer Bay Garage is noe gone.
+Almost at the top of Worthy Hill, The Haven entrance is on the left with gate posts parallel with the original old road. Daymer Bay Garage is now gone.
 
 ---
+
+<img width="50%" height="728" alt="Screenshot_20251028-102328" src="https://github.com/user-attachments/assets/4804e2bd-08a1-4ab7-b588-d7ca06ca4e11" />
+
+
+1963 Aerial View of The Haven
+
+sheltered from north and east by mature Cornish elm trees - all died of the Dutch elm disease in 1970/80s.
+
+---
+
 <img width="50%" src="https://github.com/user-attachments/assets/b9a3f2b7-c1fd-4660-a68c-66fe02124037" alt="Looking up Daymer Lane almost at the top, this was a set 4 garages~3">
 
 Looking up Daymer Lane almost at the top, this was a set 4 garages with the post office on the right
