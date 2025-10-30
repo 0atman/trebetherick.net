@@ -21,7 +21,7 @@ These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 2
 
 <img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2">
 
-In 1906, The Haven was the first house constructed in Trebetherick, which was then primarily open farmland with a few farm houses, farm cottages, and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby.
+In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to agriculture. Trebetherick was then primarily open farmland with only farm houses, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby. 
 
 
 
@@ -38,7 +38,7 @@ Mabyn Oaten on the balcony of The Haven before the bay windows were converted in
  src="https://github.com/user-attachments/assets/bdd8520d-f5bf-43c5-8c24-b809ac7f5f8a" />
  
 
-The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony
+The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony. Mabyn did bed and breakfasts while Lewis, a carpenter, ran a small carpentry/joinery and general repairs business.
 
 ---
 
