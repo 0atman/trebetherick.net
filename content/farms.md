@@ -4,7 +4,7 @@ date: 2025-01-01
 ---
 
 ### Working Farms
-#### Farms Still Working To This Day
+> As of 2025
 - [Trewiston Farm](/trewiston)
 - Restharrow Farm
 
