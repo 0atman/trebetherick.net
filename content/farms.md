@@ -6,7 +6,7 @@ date: 2025-01-01
 ### Working Farms
 > Farming as of 2025
 - [Trewiston Farm](/trewiston)
-- Restharrow Farm
+- Restharrow Farm - shop and camping
 
 ### Historical Farms
 > Now converted to residential/holiday accommodation
