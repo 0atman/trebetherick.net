@@ -71,10 +71,6 @@
   {% if section.content %}
     <div class="content px-3">{{section.content | safe}}</div>
   {% endif %}
-	{% for page in paginator.pages %}
-    {{post::render(page=page)}}
-	{% endfor %}
-  {{paginator::render(paginator=paginator)}}
   {% if section.extra.tags %}
     {{header::render(text=config.extra.tags)}}
     {% set tags = get_taxonomy(kind="tags") %}
