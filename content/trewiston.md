@@ -5,6 +5,8 @@ tags:
  - farm
 ---
 <static/1732 Diary - Francis Mably, Trewint Farm>
+![1732 Diary Extract - John Mably](https://github.com/user-attachments/assets/8ba5c207-5b20-40f0-86c6-bb336330405e)
+
 ---
 
 # Mably Diaries 1850 - 1950 
