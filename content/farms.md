@@ -12,6 +12,6 @@ date: 2025-01-01
 > Now converted to residential/holiday accommodation
 - Trewint Farm, circa 1600
 - Old Farm, circa 1600 - Was originally called Higher Farm but the land was sold to Harry Mail in 1929 who built himself a new house over the road, the original was renamed Old Farm. 
-- [Lower Farm](/lower farm) , circa 1600
+- [Lower Farm](/lowerfarm) , circa 1600
 - Higher Farm, Farmhouse built 1930 - demolished and rebuilt as holiday accommodation 2016
 - Trenain Farm
