@@ -4,6 +4,9 @@ date: 1906-01-02
 tags: 
  - farm
 ---
+<static/1732 Diary - Francis Mably, Trewint Farm>
+---
+
 # Mably Diaries 1850 - 1950 
 ## Part 1
 <object data="/Mably Diary Part 1.pdf" width="100%" height="500px"></object>
