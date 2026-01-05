@@ -6,7 +6,7 @@ tags:
 ---
 <object data="/1732-name-here.pdf" width="100%" height="500px"></object>
 
-![1732 Diary Extract - John Mably](https://github.com/user-attachments/assets/8ba5c207-5b20-40f0-86c6-bb336330405e)
+<img width="50%" alt="1732 Diary Extract - John Mably" src="https://github.com/user-attachments/assets/8ba5c207-5b20-40f0-86c6-bb336330405e" />
 
 ---
 
