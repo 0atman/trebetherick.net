@@ -9,4 +9,4 @@ tags:
 
 # Recent Photos
 
-<img width="50%" alt="Lower Farm-photos." src="/Lower Farm - Photos.jpg" />
+<img width="50%" alt="Old Farm-photos." src="/Old Farm - Photos.jpg" />
