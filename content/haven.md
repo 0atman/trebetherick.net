@@ -26,11 +26,11 @@ In 1906, The Haven was the first house constructed in Trebetherick, which was no
 
 
 ---
-
+Mabyn Oaten on the balcony of The Haven before the bay windows were converted into a mahogany sunroom extension in the late 1950s
 <img width="50%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" 
  src="https://github.com/user-attachments/assets/c9e57040-952b-4e44-8890-0ce933f7d44a" />
  
-Mabyn Oaten on the balcony of The Haven before the bay windows were converted into a mahogany sunroom extension in the late 1950s
+
 
 ---
 
@@ -41,10 +41,10 @@ Mabyn Oaten on the balcony of The Haven before the bay windows were converted in
 The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony. Mabyn did bed and breakfasts while Lewis, a carpenter, ran a small carpentry/joinery and general repairs business.
 
 ---
-
+# Pre 1950
 <img width="50%" src="https://github.com/user-attachments/assets/5ec3f16a-e12d-414e-9893-6f1118684160" alt="1965 74">
 
-# Pre 1950
+
 
 <img width="50%" alt="Screenshot_20220202-141059" src="https://github.com/user-attachments/assets/2de8ab64-f5b0-44ed-8630-349ed5df060b" />
 
@@ -59,10 +59,10 @@ This postcard was taken sometime 1930-1950. Note The Haven top right and the car
 1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane
 
 ---
+
 # 1925 TREBETHERICK DUCK POND
 <img width="50%" src="https://github.com/user-attachments/assets/915a502c-3706-46f4-b827-b4815d09a886" alt="Collage of duck pond 1925 and today 2021">
 
-# 1925 TREBETHERICK DUCK POND
 
 Collage of duck pond 1925 and today 2021
 
@@ -85,45 +85,48 @@ The Daymer Bay Garage, was located at the junction of Worthy Hill and Daymer Lan
 Below the garage on Daymer Lane, Worthy House ​was built ​and served as both a Post Office and a telephone exchange, playing a central role in the village's communication. 
 
 ---
-<img width="50%" src="https://github.com/user-attachments/assets/ae91209b-76fc-42dd-a774-cfd82602f07d" alt="View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
 
  View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages
+ 
+<img width="50%" src="https://github.com/user-attachments/assets/ae91209b-76fc-42dd-a774-cfd82602f07d" alt="View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
+
+
 
 ---
-
-<img width="50%" src="https://github.com/user-attachments/assets/85596d60-78d2-440e-85d2-51c5eaf3f03f" alt="This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956">
 
 This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956
 
+<img width="50%" src="https://github.com/user-attachments/assets/85596d60-78d2-440e-85d2-51c5eaf3f03f" alt="This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956">
+
+
+
 ---
-<img width="50%" src="https://github.com/user-attachments/assets/0f568466-1dd9-4bbe-ab3f-907b0e57da04" alt="At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left">
-
-
 
 At the top of Worthy hill, looking down, Daymer Bay Garage is on the right and The Haven entrance is on the left
 
+<img width="50%" src="https://github.com/user-attachments/assets/0f568466-1dd9-4bbe-ab3f-907b0e57da04" alt="At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left">
+
+
 ---
-
-<img width="50%" src="https://github.com/user-attachments/assets/72ebcdb5-108f-4897-a2c8-b8e92e42140e" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left~2">
-
 
 
 Almost at the top of Worthy Hill, The Haven entrance is on the left with gate posts parallel with the original old road. Daymer Bay Garage is now gone.
+<img width="50%" src="https://github.com/user-attachments/assets/72ebcdb5-108f-4897-a2c8-b8e92e42140e" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left~2">
 
 ---
+
+# 1963 Aerial View of The Haven
+sheltered from north and east by mature Cornish elm trees - all died of the Dutch elm disease in 1970/80s.
 
 <img width="50%" height="50%" alt="Screenshot_20251028-102328" src="https://github.com/user-attachments/assets/4804e2bd-08a1-4ab7-b588-d7ca06ca4e11" />
 
 
-# 1963 Aerial View of The Haven
-
-sheltered from north and east by mature Cornish elm trees - all died of the Dutch elm disease in 1970/80s.
 
 ---
 
-<img width="50%" src="https://github.com/user-attachments/assets/b9a3f2b7-c1fd-4660-a68c-66fe02124037" alt="Looking up Daymer Lane almost at the top, this was a set 4 garages~3">
-
 Looking up Daymer Lane almost at the top, this was a set 4 garages with the post office on the right
+
+<img width="50%" src="https://github.com/user-attachments/assets/b9a3f2b7-c1fd-4660-a68c-66fe02124037" alt="Looking up Daymer Lane almost at the top, this was a set 4 garages~3">
 
 
 
