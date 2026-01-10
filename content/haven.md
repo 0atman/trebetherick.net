@@ -73,9 +73,11 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 
 # BEFORE THE ROAD WAS WIDENED IN 1960s
 
+Looking uphill, at The Haven entrance on the right, Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements in late 1960s.
+
 <img width="50%" src="https://github.com/user-attachments/assets/2a54caa4-7bf5-4a3e-a288-5316b0055b45" alt="Looking uphill, at The Haven entrance on the right, Old Farm is the house you can just about see in the centre">
 
-Looking uphill, at The Haven entrance on the right, Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements in late 1960s.
+
 
 ---
 
