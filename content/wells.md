@@ -47,9 +47,9 @@ date: 1930-01-01
  - Bide-a-While
  - Tin Huts
 
-Spring in hill above Coad's 
+Spring in hill above Coad's Dairy, Polzeath.
 
-If wells ran dry in Polzeath the spring coming out of cliff (Queen's Cave) on the beach from Tinners Hill was used.
+If the wells ran dry in Polzeath the spring coming out of cliff (Queen's Cave) on the beach from Tinners Hill was used.
 
 Mains water pipes laid into Polzeath[^1] 1928
 
