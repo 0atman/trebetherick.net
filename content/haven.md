@@ -48,7 +48,7 @@ The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in
 
 <img width="50%" alt="Screenshot_20220202-141059" src="https://github.com/user-attachments/assets/2de8ab64-f5b0-44ed-8630-349ed5df060b" />
 
-This postcard was taken sometime 1910-1950. Note The Haven top right and the car on the beach.
+This postcard was taken sometime 1930-1950. Note The Haven top right and the car on the beach.
 
 ---
 
