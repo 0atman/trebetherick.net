@@ -112,7 +112,7 @@ Almost at the top of Worthy Hill, The Haven entrance is on the left with gate po
 
 ---
 
-<img width="50%" alt="Screenshot_20251028-102328" src="https://github.com/user-attachments/assets/4804e2bd-08a1-4ab7-b588-d7ca06ca4e11" />
+<img width="50%" height="50%" alt="Screenshot_20251028-102328" src="https://github.com/user-attachments/assets/4804e2bd-08a1-4ab7-b588-d7ca06ca4e11" />
 
 
 1963 Aerial View of The Haven
