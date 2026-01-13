@@ -10,7 +10,7 @@ tags:
 # Recent Photos 2025
 
 <img width="50%" height="50%"  alt="Higher Farm Barns 2025.jpg" src="/Higher Farm Barns 2025.jpg" />
-
+...
 <img width="50%" height="50%"  alt="Higher Farm Tall Barn.jpg" src="/Higher Farm Tall Barn.jpg" />
 
 Higher Farm - 1930 - 2020.pdf
