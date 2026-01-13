@@ -24,8 +24,12 @@ These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 2
 In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to agriculture. Trebetherick was then primarily open farmland with only farm houses, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby. 
 
 # 1941 - Brian Oaten age 2 or 3  having ridden with his grandfather, John Oaten, from 'Kitts Hill', St Kew, to now  be inside the gate at the first Trelawney
+<img height="50%" width="50%" src="https://github.com/36 Brian Oaten age 2 or 3  having ridden with his grandfather, John Oaten, from 'Kitts Hill', St Kew, to now  be inside the gate at the first Trelawney.png.pdf" alt="36 Brian Oaten age 2 or 3  having ridden with his grandfather, John Oaten, from 'Kitts Hill', St Kew, to now  be inside the gate at the first Trelawney.png.pdf">
+
 
 #  Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.
+<img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2">
+
 
 ---
 Mabyn Oaten on the balcony of The Haven before the bay windows were converted into a mahogany sunroom extension in the late 1950s
