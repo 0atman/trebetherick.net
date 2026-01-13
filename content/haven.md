@@ -17,7 +17,7 @@ These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 2
 <object data="/The Haven 3.pdf" width="100%" height="500px"></object>
 
 ---
-# 1906 - The Haven was the first house constructed in Trebetherick.
+# 1906 - The Haven was the first non-farming house to be constructed in Trebetherick.
 
 <img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2">
 
