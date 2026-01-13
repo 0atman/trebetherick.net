@@ -1,0 +1,28 @@
+<footer>
+    <div class="social">
+        {%- for link in config.extra.social.link -%}
+        <a rel="me" href="{{link.url}}"><div><img alt="{{link.name}}" class="icon" src="{{link.img}}"/> <span>{{link.name}}</span></div></a>
+        {% endfor -%}
+    </div>
+
+    <div>
+        <div>{{i::place(color="white", size="20px")}} Trebetherick, Cornwall, PL27, UK</div> 
+    </div>
+
+    <div>
+        {% for link in config.extra.footer.links %}
+            {#- hack to get page or section #}
+            {%- if link is ending_with("_index.md") -%}
+            {%- set s = get_section(path=link) -%}
+                <div><a href="{{ s.permalink }}">{{s.title | safe}}</a></div>
+            {%- else -%}
+            {%- set p = get_page(path=link) -%}
+                <div><a href="{{ p.permalink }}">{{p.title | safe}}</a></div>
+            {%- endif -%}
+        {% endfor %}
+    </div>
+
+    <div>
+        <p>© All rights reserved</p>
+    </div>
+</footer>

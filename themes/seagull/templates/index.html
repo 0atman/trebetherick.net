@@ -1,0 +1,86 @@
+{% import "macros.html" as macros %}
+{% import "icon_macros.html" as i %}
+
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8"/>
+    {#--------- the following block can be replaced ---------#}
+    {# title is displayed in browser tab #}
+    {%- block title %}<title>{{config.extra.name}} | 
+        {%- if page %} {{page.title | safe}}
+        {%- elif section %} {{section.title | safe}}
+        {%- elif term %} {{term.name}}
+        {%- elif taxonomy %} {{taxonomy.name}}
+        {%- else %} ???
+        {%- endif %}</title>
+    {%- endblock title %}
+
+    {# meta description is sometimes used by search engines to provide description -#}
+    {%- block description -%}
+        {%- if page -%}
+           <meta name="description" content="{{ page.description }}">
+        {%- elif section -%}
+           <meta name="description" content="{{ section.description }}">
+        {%- else -%}
+            <meta name="description" content="{{ config.extra.description }}"/>
+        {%- endif -%}
+    {%- endblock description -%}
+
+    {#- keyword helps some search engines knowing what the page is about -#}
+    {%- block keywords %}
+        {%- if page -%}
+            {% if page.taxonomies.tags %}<meta name="keywords" content="
+            {%- for tag in page.taxonomies.tags %}{{tag}},{% endfor %}">{% endif %}
+        {%- elif section -%}
+            {% if section.taxonomies.tags %}<meta name="keywords" content="
+            {%- for tag in section.taxonomies.tags %}{{tag}},{% endfor %}">{% endif %}
+        {%- else -%}
+            <meta name="keywords" content="Albatros, Zola, theme"/>
+        {%- endif -%}
+    {%- endblock keywords -%}
+
+    {%- block rss %}
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
+    {% endblock rss %}
+
+    {#- you can add meta tags in meta block -#}
+    {% block meta %}{% endblock meta %}
+
+    {# you can add extra things in the head #}
+    {%- block extrahead %}{% endblock extrahead %}
+
+    {#--------- the following are included in every page inheriting from index ---------#}
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="generator" content="Zola 0.16"/> 
+    <link rel="stylesheet" type="text/css" href="/combine.css"/>
+    <link rel="stylesheet" type="text/css" href="/custom.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/photoswipe.css"/>
+
+    {# add canonical url if the website is served at multiple places #}
+    {%- if page -%}
+        <link rel="canonical" href="{{page.permalink | safe}}"/>
+    {%- elif section -%}
+        <link rel="canonical" href="{{section.permalink | safe}}"/>
+    {%- endif -%}
+
+    {# -------- the following are only included if argument is given in front matter ---------#}
+    {%- if page -%}
+        {%- if page.extra.thumbnail %}<meta property="og:image" content="{{page.extra.thumbnail}}"/>{% endif %}
+        {%- if page.extra.custom_css %}<link rel="stylesheet" type="text/css" href="{{page.extra.custom_css}}"/>{% endif %}
+    {%- elif section -%}
+        {%- if section.extra.thumbnail %}<meta property="og:image" content="{{section.extra.thumbnail}}"/>{% endif %}
+        {%- if section.extra.custom_css %}<link rel="stylesheet" type="text/css" href="{{section.extra.custom_css}}"/>{% endif %}
+    {%- else -%}
+        <meta property="og:image" content="{{config.extra.logo}}"/>
+    {%- endif %}
+</head>
+
+<body>
+    {% block header %}{% endblock header %}
+    {% include "nav.html" %}
+    {% block content %}{% endblock content %}
+    {% include "footer.html" %}
+</body>
+
+</html>

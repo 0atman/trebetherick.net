@@ -1,0 +1,22 @@
+{% extends "index.html" %}
+
+{% block extrahead %}
+  {{ macros::photoswipe_script(gallery=".images")}}
+{% endblock extrahead %}
+
+{% block header %}
+  {% if page.extra.header_image %}
+    {% set style = 
+      'style=' ~
+      'background-image:url(' ~ page.extra.header_image ~ ');' ~
+      'min-height:30vh;'
+    %}
+    <div class="hero" {{ style }}></div>
+  {% endif %}
+{% endblock header %}
+
+{% block content %}
+<main class="page">
+    {% include "gallery/item.html" %}
+</main>
+{% endblock content %}

@@ -1,0 +1,23 @@
+{% extends "index.html" %}
+
+{% block header %}
+{% if section.extra.header_image %}
+<div class="hero" style="background-image: url({{ section.extra.header_image }}); min-height: 30vh;">
+</div>
+{% endif %}
+{% endblock header %}
+
+{% block content %}
+<main class="page">
+    {{ section.content | safe }}
+
+    {% for article in section.pages -%}
+      {% include "feed_item.html" %}
+    {%- endfor %}
+
+    {% for subs in section.subsections -%}
+    {%- set s = get_section(path=subs) -%}
+    <h2>{{ i::folder(size="1em") }} <a href="{{s.permalink}}">{{s.title | safe}}</a></h2>
+    {%- endfor %}
+</main>
+{% endblock content %}

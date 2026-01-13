@@ -1,0 +1,36 @@
+@import "../_variables"
+    
+// displays (thumbnail / taxonomies / preview) of blog articles
+.feed-block
+    border-left: solid 5px $color-feed-border
+    padding: 3em 1em
+    color: black
+    // preview
+    .feed-preview
+        display: flex
+        flex-wrap: wrap
+        align-items: flex-start
+        color: black
+        text-decoration: none
+    // preview
+    .feed-img
+        flex: 1
+        object-fit: contain
+        margin-right: 20px
+        height: 240px
+    // title and description
+    .feed-desc
+        flex: 5
+        h3
+            margin-top: 0
+    // taxonomies
+    .feed-tax
+        margin-top: 0.5em
+        display: flex
+        flex-wrap: wrap
+        justify-content: space-between
+
+
+.feed-block:hover
+    border-left: solid 5px $color-feed-border-focused
+    background-color: $color-feed-focused

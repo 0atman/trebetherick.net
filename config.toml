@@ -5,7 +5,7 @@ base_url = "https://www.trebetherick.net"
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+build_search_index = false
 generate_sitemap = true
 generate_robots_txt = true
 
@@ -19,7 +19,7 @@ description = "A community-built website chronicalling the history of the villag
 default_language = "en"
 
 # The site theme to use.
-theme = "zolastrap"
+theme = "seagull"
 
 feed_filenames = ["atom.xml", "rss.xml"]
 
@@ -36,6 +36,10 @@ render_emoji = true
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 highlight_theme = "visual-studio-dark"
+
+
+[extra.nav]
+links = ["houses.md", "farms.md", "stenodoc.md", "area.md", "about.md"]
 
 [[extra.links]]
 title = "🏡 Houses"
@@ -59,12 +63,19 @@ url = "/about"
 
 
 [[extra.links]]
-title = "📃 Github"
+
+# the following links will appear in the footer
+[[extra.social.link]]
+name = "Github"
 url = "https://github.com/0atman/trebetherick.net/tree/main/content"
+img = "https://cdn.simpleicons.org/github/FFF"
 
 [extra]
 # Put all your custom variables here
-theme = "superhero"
+#theme = "superhero"
 email = "contact@trebetherick.net"
+name = "Trebetherick.net"
+logo = "img/gull.svg"
+description = "The Trebetherick Museum"
 
 #schemes = ""

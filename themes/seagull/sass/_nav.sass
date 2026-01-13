@@ -1,0 +1,37 @@
+@import "_variables"
+    
+// nav bar
+nav
+    color: white
+    background-color: $color-main
+    display: flex
+    flex-direction: row
+    flex-wrap: wrap
+    justify-content: center
+    align-items: stretch
+    // links, groups of links, and links inside 
+    > a.item, > span, > span a.item
+        display: flex
+        flex-wrap: wrap
+        align-items: center
+    a.item, .dropper
+        min-height: 3em
+        padding: 0 1em
+    a
+        color: white
+        text-decoration: none
+    a.active
+        background-color: $color-nav-link-active
+    a:hover
+        background-color: $color-nav-link-hover
+        color: white
+        text-decoration: none
+    img
+        height: 1.2em
+        margin-right: .2em
+    .dropper
+        padding: 0 0.5em
+    .dropdown-content
+        position: absolute
+        right: 0
+        min-width: 8.5em

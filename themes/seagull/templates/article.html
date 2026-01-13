@@ -1,0 +1,29 @@
+{% extends "index.html" %}
+
+{# TODO refactor article with page template to provide same features in both #}
+
+{% block extrahead %}
+{%- if page.extra.gallery -%}
+{{ macros::photoswipe_script(gallery=".images")}}
+{%- endif -%}
+{% endblock extrahead %}
+
+{% block header %}
+{% if page.extra.header_image %}
+<div class="hero" style="background-image: url({{ page.extra.header_image }}); min-height: 30vh;">
+</div>
+{% endif %}
+{% endblock header %}
+
+{% block content %}
+<main class="page">
+    {{ macros::taxonomies(taxonomies=page.taxonomies) }}
+    {{ macros::date(date=page.date)}}
+
+    {%- if page.extra.gallery -%}
+    {{ macros::replace_gallery(resource=page) | safe }}
+    {%- else -%}
+    {{ page.content | safe }}
+    {%- endif -%}
+</main>
+{% endblock content %}

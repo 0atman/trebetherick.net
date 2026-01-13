@@ -1,0 +1,59 @@
+
+.note
+    margin-bottom: 15px
+    p:first-child
+        margin-top: 0
+    p:last-child
+        margin-bottom: 0
+.note-icon::before
+    content: ""
+    float: left
+    position: relative
+.note-icon-small::before
+    margin: 6px 6px 6px 0
+    height: 24px
+    width: 24px
+    background-size: 24px
+.note-icon-medium::before
+    margin: 12px 12px 12px 0
+    height: 48px
+    width: 48px
+    background-size: 48px
+.note-icon-large::before
+    margin: 18px 18px 18px 0
+    height: 72px
+    width: 72px
+    background-size: 72px
+.note-icon::after
+    content: ""
+    display: block
+    clear: both
+.note-block
+    padding: 4px 12px
+    border-left-style: solid
+    border-left-width: 6px
+.note-neutral
+    background-color: #f3f3f3
+    border-left-color: #858585
+.note-ok
+    background-color: #DFD
+    border-left-color: #4CAF50
+.note-warning
+    background-color: #FFF9E3
+    border-left-color: #DBAE26
+.note-error
+    background-color: #FFE7E7
+    border-left-color: #C62E2E
+.note-info
+    background-color: #dff5ff
+    border-left-color: #454ec5
+.note::before
+    background-repeat: no-repeat
+.note-icon-ok::before
+    background-image: url("/theme/ok.png")
+.note-icon-warning::before
+    background-image: url("/theme/warning.png")
+.note-icon-info::before
+    background-image: url("/theme/info.png")
+.note-icon-error::before
+    background-image: url("/theme/error.png")

@@ -1,0 +1,51 @@
+@import "_variables"
+
+    
+html
+    background-color: #EEE
+body
+    background-color: #FFF
+main
+    min-height: 100vh
+
+.row, .col
+    display: flex
+.row
+    flex-direction: row
+    flex-wrap: wrap
+.col
+    flex-direction: column
+.center
+    justify-content: center
+    align-items: center
+.flex
+    display: flex
+    flex-wrap: wrap
+    align-items: center
+    justify-content: space-evenly
+
+a.center, p.center, h1.center, h2.center, h3.center, h4.center, h5.center
+    text-align: center 
+
+// body
+body
+    margin: auto
+    min-height: 100vh
+    
+// small screen
+@media (max-width: $breakpoint-small)
+    .hidden-s
+        display: none
+    .page
+        width: calc(100% - 10px)
+        padding: 0 5px
+
+// medium screen
+@media (min-width: $breakpoint-small) and (max-width: $breakpoint-medium)
+    .page
+        width: 80%
+
+// large screen
+@media (min-width: $breakpoint-medium)
+    .page
+        width: 66%

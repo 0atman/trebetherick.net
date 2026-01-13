@@ -1,0 +1,16 @@
+{% extends "index.html" %}
+
+{% block title %}<title>{{config.extra.name}} | 404</title>{% endblock title %}
+
+{% block content %}
+<main class="page">
+    <h1>404 - page not found</h1>
+    <span id="url"></span>
+    <p>The above URL leads to no known page.</p>
+</main>
+
+<script>
+var span_url = document.getElementById("url");
+span_url.innerHTML = document.location.href;
+</script>
+{% endblock content %}

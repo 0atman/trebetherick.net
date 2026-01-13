@@ -1,0 +1,19 @@
+{# === these macro are used in icon macros === #}
+
+{% macro aria() -%}
+aria-hidden="true" role="img" focusable="false"
+{%- endmacro %} 
+
+{% macro printsize(size) -%}
+width="{{size}}" height="{{size}}"
+{%- endmacro %} 
+
+{% macro xmlns() -%}
+xmlns="http://www.w3.org/2000/svg"
+{%- endmacro %} 
+
+{% macro svg(size="24px", body) -%}
+<svg {{i::printsize(size=size)}} {{i::aria()}} {{i::xmlns()}}>
+    {{body}}
+</svg>
+{%- endmacro %} 

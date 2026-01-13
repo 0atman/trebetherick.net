@@ -1,0 +1,40 @@
+{% extends "index.html" %}
+
+{% block extrahead %}
+<link rel="stylesheet" type="text/css" href="/interactive-map.css">
+<!-- <script src="/javascript/mastodon-timeline.js"></script> -->
+{% endblock extrahead %}
+
+{% block header %}
+<div class="hero" style="background-image: url(/img/seagulls.jpg); background-position-y: -350px; min-height: 30vh;">
+</div>
+{% endblock header %}
+
+{% block content %}
+<main>
+    <div class="page">
+        <div class="textimage">
+            <div style="max-width: min(800px, 95vw); font-size: larger;">
+                <h2>The interactive map</h2>
+                <p>The <em>interactive map</em> is a simple feature build on custom <b>svg</b> and <b>js</b>. That's not a feature of the site itself but if gives a good idea of what can be included inside.</p>
+                <p>To discover the seagulls, use the <em>interactive map</em> below.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col center">
+        <h2>Interactive map</h2>
+        {% include "custom/interactive-map.html" %}
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <div class="page col center">
+        <p>Isn't that cool?</p>
+    </div>
+
+
+</main>
+{% endblock content %}

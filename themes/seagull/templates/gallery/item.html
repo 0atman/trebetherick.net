@@ -1,0 +1,12 @@
+<div class="titletextimage col center">
+    <h2><a href="{{ page.permalink }}" style="color: inherit;">{{ page.title | safe}}</a></h2>
+    <div class="col center">
+        <img src="{{page.extra.image}}" style="height:min(95vw,300px)"/>
+        <div style="max-width: 50em;">
+            {{ page.content | safe }}
+        </div>
+    </div>
+</div>
+{% if page.extra.gallery %}
+{{ macros::gallery(images=page.extra.gallery, single_line=true) }}
+{% endif %}

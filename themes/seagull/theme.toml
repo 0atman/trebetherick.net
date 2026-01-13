@@ -1,0 +1,67 @@
+# ==== THEME.TOML ====
+
+# Seagull theme for Zola
+name = "Seagull"
+description = "A Zola theme."
+license = "AGPL"
+homepage = "https://git.lacontrevoie.fr/HugoTrentesaux/seagull"
+# The minimum version of Zola required
+min_version = "0.17.0"
+# An optional live demo URL
+demo = "https://seagull.coinduf.eu/"
+
+# The theme author info: you!
+[author]
+name = "Hugo Trentesaux"
+homepage = "https://trentesaux.fr/"
+
+# Any variable there can be overridden in the end user `config.toml`
+# You don't need to prefix variables by the theme name but as this will
+# be merged with user data, some kind of prefix or nesting is preferable
+# Use snake_casing to be consistent with the rest of Zola
+[extra]
+# Put all your custom variables here
+name = "Seagull"
+logo = "img/gull.svg"
+description = "Seagull demo website"
+
+# Number of articles to display on homepage
+[extra.homepage]
+n_articles = 5
+
+# This configures the navigation menu
+[extra.nav]
+links = [
+    "_index.md",
+]
+
+[extra.footer]
+links = [
+    "_index.md"
+]
+
+# the following links will appear in the footer
+[[extra.social.link]]
+name = "Mastodon"
+url = "#"
+img = "https://cdn.simpleicons.org/mastodon/FFF"
+[[extra.social.link]]
+name = "Twitter"
+url = "#"
+img = "https://cdn.simpleicons.org/twitter/FFF"
+[[extra.social.link]]
+name = "Facebook"
+url = "#"
+img = "https://cdn.simpleicons.org/facebook/FFF"
+[[extra.social.link]]
+name = "Instagram"
+url = "#"
+img = "https://cdn.simpleicons.org/instagram/FFF"
+
+[extra.theme]
+toc_title = "Table of content"
+feed_thumb_height = 240
+
+[extra.theme.date]
+format="%Y-%m-%d"
+locale="en_US"

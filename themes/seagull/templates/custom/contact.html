@@ -1,0 +1,104 @@
+{% extends "index.html" %}
+
+{% block extrahead %}
+<link rel="stylesheet" type="text/css" href="/css/form.css" />
+{% endblock extrahead %}
+
+{% block header %}
+<div class="hero row center" style="background-color: #1B317A; min-height: 30vh;">
+    <img src="/img/gull.svg" style="height: 160px;" />
+</div>
+{% endblock header %}
+
+{% block content %}
+<main>
+    <div class="page">
+        <div class="col center">
+            <div style="max-width: min(800px, 95vw); font-size: larger;">
+                <h2 class="center">Contact the seagull</h2>
+                <p><b>Seagull is the work of <em>someone</em></b>. Yes <a href="/">homepage</a>.</p>
+                <p>It can be contacted here: <a href="mailto:contact@example.com">contact@example.com</a>.</p>
+            </div>
+
+            <div class="row center contact-links">
+                <style>
+                    .contact-links a { margin: 0 1em }
+                    .contact-links { margin: 1em 0 6em 0 }
+                </style>
+                <a target="_blank" class="button button-main" href="">Mastodon</a>
+                <a target="_blank" class="button button-main" href="">Facebook</a>
+                <a target="_blank" class="button button-main" href="">Instagram</a>
+                <a target="_blank" class="button button-main" href="">Newsletter</a>
+            </div>
+        </div>
+
+        <!-- <form> -->
+            
+        <div class="form">
+            <h2 class="center">Mail form</h2>
+            <label for="pseudo">Name or pseudo</label>
+            <input type="text" id="pseudo" name="pseudo" placeholder="Your name or pseudo...">
+
+            <label for="email">Email address</label>
+            <input type="text" id="email" name="email" placeholder="Your email address ...">
+
+            <label for="type">Type</label>
+            <select id="type" name="type">
+                <option value="Other">Other</option>
+                <option value="Question">Question</option>
+                <option value="Suggestion">Suggestion</option>
+            </select>
+
+            <label for="subject">Subject</label>
+            <input type="text" id="subject" name="subject" placeholder="[seagull] about...">
+
+            <label for="message">Message</label>
+            <textarea id="message" name="message" placeholder="Your message..." style="height:200px"></textarea>
+
+            <div class="row center">
+                <input class="button button-main" type="submit" value="Send" onclick="submit()">
+            </div>
+        </div>
+
+        <!-- </form> -->
+
+        <script>
+            // define constants
+            const FIELDS = ["pseudo", "email", "type", "subject", "message"]
+            const TARGET_EMAIL = "contact@example.com"
+            const TEMPLATE = (form) => `through web form\n\nType: ${form.type}\nEmail: ${form.email}\nPseudo: ${form.pseudo}\nMessage:\n\n${form.message}\n`
+
+            // get form content
+            function getForm() {
+                let form = {}
+                FIELDS.map(f => {
+                    form[f] = document.getElementById(f).value
+                })
+                return form
+            }
+
+            // build email body
+            function buildBody(form) {
+                form.body = encodeURIComponent(TEMPLATE(form))
+            }
+
+            // "submit" callback (open mailto: link)
+            function submit() {
+                let form = getForm()
+                buildBody(form)
+                let url = `mailto:${TARGET_EMAIL}?subject=${form.subject}&body=${form.body}`
+                console.log(url)
+                document.location.href = url
+            }
+        </script>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+    </div>
+
+</main>
+{% endblock content %}

@@ -1,0 +1,84 @@
+# The URL the site will be built for
+base_url = "https://seagull.coinduf.eu/"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+# Do build rss.xml
+generate_feeds = true
+feed_filenames = ["rss.xml"]
+
+taxonomies = [
+    {name = "authors"},
+    {name = "tags"},
+    {name = "category"},
+    ]
+
+default_language = "fr"
+
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+name = "Seagull"
+logo = "img/gull.svg"
+description = "Seagull demo website"
+
+
+# Number of articles to display on homepage
+[extra.homepage]
+n_articles = 5
+
+# This configures the navigation menu
+[extra.nav]
+links = [
+    # "_index.md",
+    "features.md",
+    "contribute.md",
+    "map/_index.md",
+    "contact.md",
+    "blog/_index.md",
+]
+
+# This configures the footer menu
+[extra.footer]
+links = [
+    "_index.md",
+    "about.md",
+    "contact.md",
+    "contribute.md",
+]
+
+# the following links will appear in the footer
+[[extra.social.link]]
+name = "Mastodon"
+url = "#"
+img = "https://cdn.simpleicons.org/mastodon/FFF"
+[[extra.social.link]]
+name = "Twitter"
+url = "#"
+img = "https://cdn.simpleicons.org/twitter/FFF"
+[[extra.social.link]]
+name = "Facebook"
+url = "#"
+img = "https://cdn.simpleicons.org/facebook/FFF"
+[[extra.social.link]]
+name = "Instagram"
+url = "#"
+img = "https://cdn.simpleicons.org/instagram/FFF"
+
+
+[extra.theme]
+toc_title = "Table of content"
+feed_thumb_height = 240
+
+[extra.theme.date]
+format="%Y-%m-%d"
+locale="en_US"

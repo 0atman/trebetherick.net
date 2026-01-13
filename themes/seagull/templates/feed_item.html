@@ -1,0 +1,27 @@
+{% set url = article.permalink -%}
+<div class="feed-block">
+    <a href="{{url}}" class="feed-preview">
+    {%- if article.extra.thumbnail -%}
+    {%- set thumbnail = article.extra.thumbnail -%}
+    <img alt="" class="feed-img hidden-s" src="
+    {%- if thumbnail is matching("[.](jpg|png|jpeg)$") -%}
+    {{ macros::resize_static(path=article.extra.thumbnail,height=config.extra.theme.feed_thumb_height) }}
+    {%- else -%}
+    {{ article.extra.thumbnail }}
+    {%- endif -%}"/>
+    {%- endif %}
+    <div class="feed-desc">
+        <h3>{{ article.title | safe}}</h3>
+        {%- if article.description -%}<p>{{ article.description }}</p>{%- endif %}
+    </div>
+    </a>
+    <div class="feed-tax">
+    {%- set tax = article.taxonomies %}
+    <span>
+        {% if tax.category %}<span>{{ macros::category(category=tax.category )}}</span>{% endif %}
+        {% if tax.authors %}<span>{{ macros::authors(authors=tax.authors )}}</span>{% endif %}
+        {% if tax.tags %}<span>{{ macros::tags(tags=tax.tags )}}</span>{% endif %}
+    </span>
+    {% if article.date %}<span class="date">{{ macros::date(date=article.date) }}</span>{% endif %}
+    </div>
+</div>

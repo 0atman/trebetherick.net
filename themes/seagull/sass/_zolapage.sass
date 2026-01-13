@@ -1,0 +1,82 @@
+@import "_variables"
+    
+// this file is intended to style content inside a zola page
+.page
+    box-sizing: border-box
+    margin: 2em auto
+    blockquote
+        border-left: solid 3px gray
+        padding-left: 1em
+    pre
+        overflow: auto
+        padding: 0.5em 1em
+    img
+        max-width: 100%
+    q
+        font-style: italic
+    
+.toc 
+    background: #f7f7f7
+    padding: 0 2em 0em 2em
+    border-left: 5px solid $color-main
+    display: inline-block
+    ol.h2
+        list-style-type: upper-roman
+        ol.h3
+            list-style-type: decimal
+            ol.h4
+                list-style-type: lower-alpha
+                ol.h5
+                    list-style-type: circle
+
+
+.breadcrumb
+    margin-bottom: 20px
+    border-top: solid 2px #EEE
+    border-bottom: solid 2px #EEE
+    padding: 1em 0
+
+.breadcrumb-next
+    color: lightgray
+    position: relative
+    display: inline-block
+    ul
+        display: none
+
+.breadcrumb-next:hover
+    color: gray
+    ul
+        border: solid 1px #DDD
+        box-shadow: 2px 2px 1px 1px #00000033
+        display: block
+        background-color: #FDFDFD
+        position: absolute
+        left: 0
+        top: 0.2em
+        width: 30em
+        padding: 0.5em 1em
+        li
+            list-style: none
+
+.page img.credits
+    width: 5em
+
+.tags, .authors, .category
+    display: inline-block
+    margin-right: 7px
+    a
+        text-decoration: none
+
+.float-right
+    float: right
+
+.tags .tag
+    margin-right: 4px
+    padding: 0px 6px
+    border-radius: 1em
+    // border: solid 1px gray
+    background-color: $color-main
+    color: white
+
+.authors, .author, .date
+    color: gray

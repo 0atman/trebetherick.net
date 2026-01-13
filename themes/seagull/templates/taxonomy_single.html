@@ -1,0 +1,10 @@
+{% extends "index.html" %}
+
+{% block content %}
+<main class="page">
+    <h1>{{taxonomy.name}}: {{ term.name }} <span class="gray">({{term.page_count}})</span></h1>
+    {%- for article in term.pages -%}
+    {% include "feed_item.html" %}
+    {%- endfor -%}
+</main>
+{% endblock content %}

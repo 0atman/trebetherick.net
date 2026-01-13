@@ -1,6 +1,7 @@
 ---
-title: "🚧UNDER CONSTRUCTION!🚧"
+title: "Trebetherick Museum"
 paginate_by: 5
+template: custom/home.html
 ---
 
 > This is a residents'-made archive of the history of Trebetherick (Cornish: _Trebedrek_), a village on the east side of the River Camel estuary in Cornwall.
