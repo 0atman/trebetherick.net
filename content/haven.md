@@ -35,6 +35,8 @@ In 1906, The Haven was the first house constructed in Trebetherick, which was no
 
 ---
 Mabyn Oaten on the balcony of The Haven before the bay windows were converted into a mahogany sunroom extension in the late 1950s
+
+
 <img width="50%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" 
  src="https://github.com/user-attachments/assets/c9e57040-952b-4e44-8890-0ce933f7d44a" />
  
