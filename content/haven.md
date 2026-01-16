@@ -8,7 +8,7 @@ tags:
 
 
 <img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
-
+...
 
 ## A Snapshot Of Living In Trebetherick - Part 1
 These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 238, 239 of [The Link](http://www.stminverlink.org) magazine.
