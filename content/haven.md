@@ -4,16 +4,14 @@ date: 1906-01-02
 tags: 
  - houses
 ---
-## The Haven
+## The Haven - built 1906 - This Painting 1960
 
 
 <img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
 
 
-
-These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 238, 239 of [The Link](http://www.stminverlink.org) magazine.
-
 ## A Snapshot Of Living In Trebetherick - Part 1
+These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 238, 239 of [The Link](http://www.stminverlink.org) magazine.
 <object data="/The Haven 1.pdf" width="100%" height="500px"></object>
 
 ## Part 2
