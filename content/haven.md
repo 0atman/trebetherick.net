@@ -25,7 +25,7 @@ In 1906, The Haven was the first house constructed in Trebetherick, which was no
 ...
 
 # 1941 - Brian Oaten age 2 or 3, inside the gate at the first Trelawney Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew.
-<img height="50%" width="50%" src="https://github.com/36 Brian Oaten age 2 or 3  having ridden with his grandfather, John Oaten, from 'Kitts Hill', St Kew, to now  be inside the gate at the first Trelawney.png.pdf" alt="36 Brian Oaten age 2 or 3  having ridden with his grandfather, John Oaten, from 'Kitts Hill', St Kew, to now  be inside the gate at the first Trelawney.png.pdf">
+<img height="50%" width="50%" src="https://github.com/lewis-oaten-and-mother-and-brian-at-kitts.hill.png" alt="1941 - Brian Oaten age 2 or 3, inside the gate at the first Trelawney Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew">
 
 ...
 
