@@ -30,7 +30,7 @@ In 1906, The Haven was the first house constructed in Trebetherick, which was no
 ...
 
 #  Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.
-<img width="50%" src="https://30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf" alt="30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf">
+<img width="50%" src="/lewis-oaten-and-mother-and-brian-at-kitts.hill.png" alt="30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf">
 
 
 ---
