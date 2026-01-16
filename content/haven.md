@@ -4,7 +4,7 @@ date: 1906-01-02
 tags: 
  - houses
 ---
-## The Haven - built 1906 - This Painting 1960
+## The Haven - Built 1906 - This Painting 1960
 
 
 <img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
