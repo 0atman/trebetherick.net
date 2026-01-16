@@ -4,10 +4,11 @@ date: 1906-01-02
 tags: 
  - houses
 ---
-##The Haven
+## The Haven
 
 
-<img width="50%" src="/the-haven-1960-jpg" " alt="The Haven 1960">
+<img width="50%" src="/the-haven-1960-jpg" alt="The Haven 1960">
+
 
 
 These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 238, 239 of [The Link](http://www.stminverlink.org) magazine.
