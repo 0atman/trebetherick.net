@@ -4,7 +4,8 @@ date: 1906-01-02
 tags: 
  - houses
 ---
-## The Haven - Built 1906 - This Painting 1960
+## The Haven - Built 1906 - This Painting 1960 
+showing four sets of guests all Rolls Royce CEOs from Duffield with their RRs.
 
 
 <img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
