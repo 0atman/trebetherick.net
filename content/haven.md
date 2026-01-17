@@ -8,13 +8,15 @@ tags:
 
 
 <img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
+
 ...
-## 2000
+
 
 <img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+
 ...
 
-
+<img width="50%" src="/The Haven 2000.jpg" alt="The Haven 2000">
 
 
 ## A Snapshot Of Living In Trebetherick - Part 1
