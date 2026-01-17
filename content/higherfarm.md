@@ -14,4 +14,6 @@ tags:
 <img width="50%" height="50%"  alt="Higher Farm Tall Barn.jpg" src="/Higher Farm Tall Barn.jpg" />
 ...
 
-Higher Farm - 1930 - 2020.pdf
+
+
+<object data="/Higher Farm - 1930 - 2020.pdf" width="100%" height="500px"></object>
