@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>The Trebetherick Museum</title>
+    <subtitle>A community-built website chronicalling the history of the village of Trebetherick, Cornwall, UK.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://www.trebetherick.net/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.trebetherick.net"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-08-27T00:00:00+00:00</updated>
+    <id>https://www.trebetherick.net/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Footpaths</title>
+        <published>2025-08-27T00:00:00+00:00</published>
+        <updated>2025-08-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/footpaths/"/>
+        <id>https://www.trebetherick.net/footpaths/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/footpaths/">&lt;p&gt;Footpaths Around Trebetherick🏃🐕‍🦺🚸🦋🌼🚶🏖&lt;&#x2F;p&gt;
+&lt;p&gt;Trebetherick is a great place to visit and there are many footpaths away from the busy ​and very narrow roads​.  ​All ​paths are marked with beautiful wooden fingerboards, thanks to the TRA, Trebetherick Residents Association. There is so much to explore and enjoy from dog walks to walking with family or friends​, using the footpaths to ​safely ​explore and enjoy the local ​beaches, the hideaways of ​Trebetherick, Rock, Polzeath, St Minver, St Enodoc Church, ​and perhaps even catch the ferry ​over the estuary to Padstow and join the Camel trail to Wadebridge and Bodmin.&lt;&#x2F;p&gt;
+&lt;p&gt;Walking ​on busy narrow roads ​with no footpaths and having to compete with busy ​and fast moving traffic is dangerous​, whereas the well marked footpath routes are delightful​ly peaceful and full of fauna and flora, so much safer for you in Trebetherick.&lt;&#x2F;p&gt;
+&lt;img width=&quot;1080&quot; height=&quot;1228&quot; alt=&quot;Screenshot_20250827-073529 (1)&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;15aff403-3b44-412e-91d4-dc2a0a0adc97&quot; &#x2F;&gt;
+&lt;p&gt;For an interactive and zoomable version of the above map, Visit the Cornwall County Council’s mapping site here: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;experience.arcgis.com&#x2F;experience&#x2F;515bb9766732435e97c521afa247c5e9&quot;&gt;https:&#x2F;&#x2F;experience.arcgis.com&#x2F;experience&#x2F;515bb9766732435e97c521afa247c5e9&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;img width=&quot;951&quot; height=&quot;1254&quot; alt=&quot;Screenshot_20250826-142144&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;24ed5f0c-c9b6-4957-86a2-0cf6196901b1&quot; &#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;120f7d04-75e9-4bd2-94b7-02d4f4fef3de&quot; alt=&quot;Screenshot_20250825-163311~2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>About The Museum</title>
+        <published>2025-01-01T00:00:00+00:00</published>
+        <updated>2025-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/about/"/>
+        <id>https://www.trebetherick.net/about/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/about/">&lt;p&gt;While a wealth of historical information about Trebetherick has always existed, there hasn’t been a single, publicly accessible place for it to be safely stored and displayed for everyone to view and enjoy, until now.
+We invite you to explore the Trebetherick Museum and discover the fascinating history of our area.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;background&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#background&quot; aria-label=&quot;Anchor link for: background&quot;&gt;Background&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;The site was conceived by Trebetherick residents, Jenny &amp;amp; Brian Oaten. Their son, Tristram, a web developer, built this digital museum for the entire community to use, contribute to and enjoy. Brian’s parents, Mabyn and Lewis Oaten, born in St Mabyn and St Kew, lived in Trebetherick from 1938. The Oaten family’s roots in these villages can be traced back to 1781, with earlier generations recorded in neighbouring parishes.&lt;&#x2F;p&gt;
+&lt;p&gt;This website is currently in its infancy, and we are relying on your &lt;a href=&quot;mailto:contact@trebetherick.net&quot;&gt;submissions&lt;&#x2F;a&gt; of stories and pictures to help it grow. As new pages are added, they will be listed on the front page. The only house featured at the moment is our entry for The Haven, the Oatens’ family home until 2000 (when we moved next-door). We hope that soon there will be many other pages for houses, farms, shops, St Enodoc Church - anything in and around Trebetherick.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;how-is-the-site-built&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#how-is-the-site-built&quot; aria-label=&quot;Anchor link for: how-is-the-site-built&quot;&gt;How is the site built?&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;We are using GitHub.com to make the website because it enables us to keep everything safe, organized, and easy to update.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;github&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#github&quot; aria-label=&quot;Anchor link for: github&quot;&gt;GitHub?&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;GitHub is the largest, most trusted web-based collaboration platform in the Web world. It allows us to review changes, discuss issues, and manage projects in one place.&lt;&#x2F;p&gt;
+&lt;p&gt;Launched in 2008, and bought by Microsoft in 2018, GitHub has become foundational infrastructure of the Internet. By storing our important information and photos with GitHub, we can be sure that this legacy will last for as long as possible.&lt;&#x2F;p&gt;
+&lt;p&gt;In simple terms:&lt;&#x2F;p&gt;
+&lt;p&gt;🧺 GitHub is like an online vault for our website. It keeps all the pictures, history, and stories in one safe place. It keeps track of every change we make. If a mistake is made, we can go back to an older version, just like keeping a copy before trying something new.&lt;&#x2F;p&gt;
+&lt;p&gt;🧑‍🤝‍🧑 Other people can help. If someone from the village wants to add a photo or text, we can do it through GitHub easily. Just email it to us, link below, and we will give it its own page in the museum. (For those of a technical background, we also accept GitHub PRs directly)&lt;&#x2F;p&gt;
+&lt;p&gt;🌍 GitHub hosts the website for free, and all the documents and photos are available to the public for free, forever. Anyone can visit and see our museum’s story online.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;contributing&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#contributing&quot; aria-label=&quot;Anchor link for: contributing&quot;&gt;Contributing&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;We would be delighted if you have information, and&#x2F;or photographs that you would like to submit for preservation in the Trebetherick Museum, &lt;a href=&quot;mailto:contact@trebetherick.net&quot;&gt;please email it to us at contact@trebetherick.net&lt;&#x2F;a&gt;
+Please include as much accurate information and names as possible about every submission.
+Please submit your photos in as high a quality as you can, original resolution ideally, and be aware that apps like WhatsApp reduce the quality of photos without asking (ask for originals by email, if you have been sent photos through WhatsApp).&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Local Area</title>
+        <published>2025-01-01T00:00:00+00:00</published>
+        <updated>2025-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/area/"/>
+        <id>https://www.trebetherick.net/area/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/area/">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;wells&quot;&gt;The Wells&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;footpaths&quot;&gt;The Footpaths&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Add to The Museum</title>
+        <published>2025-01-01T00:00:00+00:00</published>
+        <updated>2025-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/contribute/"/>
+        <id>https://www.trebetherick.net/contribute/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/contribute/">&lt;p&gt;If you have information, and&#x2F;or photographs that you would like to submit for preservation in the Trebetherick Museum, &lt;a href=&quot;mailto:contact@trebetherick.net&quot;&gt;please email us at contact@trebetherick.net&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Please submit photos in as high a quality as you can, originals ideally, and be aware that apps like WhatsApp reduce the quality of photos (ask for originals by email, if you have been using WhatsApp).&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Farms</title>
+        <published>2025-01-01T00:00:00+00:00</published>
+        <updated>2025-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/farms/"/>
+        <id>https://www.trebetherick.net/farms/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/farms/">&lt;h3 id=&quot;working-farms&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#working-farms&quot; aria-label=&quot;Anchor link for: working-farms&quot;&gt;Working Farms&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Farming as of 2025&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;trewiston&quot;&gt;Trewiston Farm&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Restharrow Farm - shop and camping&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;historical-farms&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#historical-farms&quot; aria-label=&quot;Anchor link for: historical-farms&quot;&gt;Historical Farms&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Now converted to residential&#x2F;holiday accommodation&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;trewintfarm&quot;&gt;Trewint Farm&lt;&#x2F;a&gt;, circa 1600&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;oldfarm&quot;&gt;Old Farm&lt;&#x2F;a&gt;, circa 1600 - Was originally called Higher Farm but the land was sold to Harry Mail in 1929 who built himself a new house over the road, the original was renamed Old Farm.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;lowerfarm&quot;&gt;Lower Farm&lt;&#x2F;a&gt; , circa 1600&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;higherfarm&quot;&gt;Higher Farm&lt;&#x2F;a&gt;, Farmhouse built 1930 - demolished and rebuilt as holiday accommodation 2016&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;trenainfarm&quot;&gt;Trenain Farm&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Houses</title>
+        <published>2025-01-01T00:00:00+00:00</published>
+        <updated>2025-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/houses/"/>
+        <id>https://www.trebetherick.net/houses/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/houses/">&lt;h1 id=&quot;the-haven&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-haven&quot; aria-label=&quot;Anchor link for: the-haven&quot;&gt;&lt;a href=&quot;&#x2F;haven&quot;&gt;The Haven&lt;&#x2F;a&gt;&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>title here</title>
+        <published>2025-01-01T00:00:00+00:00</published>
+        <updated>2025-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/maps/somemaps/"/>
+        <id>https://www.trebetherick.net/maps/somemaps/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/maps/somemaps/">&lt;p&gt;body here&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>St Enodoc Church</title>
+        <published>2025-01-01T00:00:00+00:00</published>
+        <updated>2025-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/stenodoc/"/>
+        <id>https://www.trebetherick.net/stenodoc/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/stenodoc/">&lt;h1 id=&quot;construction-site-under-construction&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#construction-site-under-construction&quot; aria-label=&quot;Anchor link for: construction-site-under-construction&quot;&gt;🏗 Under Construction&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The Wells</title>
+        <published>1930-01-01T00:00:00+00:00</published>
+        <updated>1930-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/wells/"/>
+        <id>https://www.trebetherick.net/wells/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/wells/">&lt;blockquote&gt;
+&lt;p&gt;Water supply in Trebetherick and Polzeath before 1930 was by hand dug wells as listed by Trebetherick Coastguard Ralph Tellam-Hocking.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;wells-in-trebetherick-21&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#wells-in-trebetherick-21&quot; aria-label=&quot;Anchor link for: wells-in-trebetherick-21&quot;&gt;Wells In Trebetherick (21)&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Coast Guard House&lt;&#x2F;li&gt;
+&lt;li&gt;Elm Cottage&lt;&#x2F;li&gt;
+&lt;li&gt;Lowerdale&lt;&#x2F;li&gt;
+&lt;li&gt;The Haven&lt;&#x2F;li&gt;
+&lt;li&gt;Old Farm&lt;&#x2F;li&gt;
+&lt;li&gt;Higher Farm&lt;&#x2F;li&gt;
+&lt;li&gt;Trebetherick P.O.&lt;&#x2F;li&gt;
+&lt;li&gt;The Yard (now Mowhay garden)&lt;&#x2F;li&gt;
+&lt;li&gt;Roseleigh&lt;&#x2F;li&gt;
+&lt;li&gt;Minefield&lt;&#x2F;li&gt;
+&lt;li&gt;Trenain&lt;&#x2F;li&gt;
+&lt;li&gt;North Field&lt;&#x2F;li&gt;
+&lt;li&gt;St Enodoc Cottage&lt;&#x2F;li&gt;
+&lt;li&gt;Shortlands(now called Boskenna).&lt;&#x2F;li&gt;
+&lt;li&gt;Coolgrena&lt;&#x2F;li&gt;
+&lt;li&gt;Singleton&lt;&#x2F;li&gt;
+&lt;li&gt;Linkside&lt;&#x2F;li&gt;
+&lt;li&gt;Torquil&lt;&#x2F;li&gt;
+&lt;li&gt;Daymer House&lt;&#x2F;li&gt;
+&lt;li&gt;Glenarm&lt;&#x2F;li&gt;
+&lt;li&gt;Hillside&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;wells-in-polzeath-17&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#wells-in-polzeath-17&quot; aria-label=&quot;Anchor link for: wells-in-polzeath-17&quot;&gt;Wells In Polzeath (17)&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Polzeath P.O.&lt;&#x2F;li&gt;
+&lt;li&gt;Valley View&lt;&#x2F;li&gt;
+&lt;li&gt;Polzeath House&lt;&#x2F;li&gt;
+&lt;li&gt;Polzeath Lodge&lt;&#x2F;li&gt;
+&lt;li&gt;Ivy Cottage&lt;&#x2F;li&gt;
+&lt;li&gt;Nook&lt;&#x2F;li&gt;
+&lt;li&gt;Edgecombe Field&lt;&#x2F;li&gt;
+&lt;li&gt;Old’s Garage&lt;&#x2F;li&gt;
+&lt;li&gt;Little Portkillock (field)&lt;&#x2F;li&gt;
+&lt;li&gt;Polzeath Hill (Galleon)&lt;&#x2F;li&gt;
+&lt;li&gt;Pentire View&lt;&#x2F;li&gt;
+&lt;li&gt;Westray&lt;&#x2F;li&gt;
+&lt;li&gt;Westaway&lt;&#x2F;li&gt;
+&lt;li&gt;Gullsway&lt;&#x2F;li&gt;
+&lt;li&gt;Maranth&lt;&#x2F;li&gt;
+&lt;li&gt;Bide-a-While&lt;&#x2F;li&gt;
+&lt;li&gt;Tin Huts&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Spring in hill above Coad’s Dairy, Polzeath.&lt;&#x2F;p&gt;
+&lt;p&gt;If the wells ran dry in Polzeath the spring coming out of cliff (Queen’s Cave) on the beach from Tinners Hill was used.&lt;&#x2F;p&gt;
+&lt;p&gt;Mains water pipes laid into Polzeath&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; 1928&lt;&#x2F;p&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;And possibly Trebetherick? &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;section&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The Haven, Worthy Hill. 1906-2000</title>
+        <published>1906-01-02T00:00:00+00:00</published>
+        <updated>1906-01-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/haven/"/>
+        <id>https://www.trebetherick.net/haven/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/haven/">&lt;h2 id=&quot;the-haven-built-1906-this-painting-1960&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-haven-built-1906-this-painting-1960&quot; aria-label=&quot;Anchor link for: the-haven-built-1906-this-painting-1960&quot;&gt;The Haven - Built 1906 - This Painting 1960&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;showing four sets of guests all Rolls Royce CEOs from Duffield with their RRs.&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;The Haven-1960.jpg&quot; alt=&quot;The Haven 1960&quot;&gt;
+&lt;p&gt;…&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;The Haven-2000.jpg&quot; alt=&quot;The Haven 2000&quot;&gt;
+&lt;p&gt;…&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;The Haven 2000.jpg&quot; alt=&quot;The Haven 2000&quot;&gt;
+&lt;h2 id=&quot;a-snapshot-of-living-in-trebetherick-part-1&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#a-snapshot-of-living-in-trebetherick-part-1&quot; aria-label=&quot;Anchor link for: a-snapshot-of-living-in-trebetherick-part-1&quot;&gt;A Snapshot Of Living In Trebetherick - Part 1&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 238, 239 of &lt;a rel=&quot;external&quot; href=&quot;http:&#x2F;&#x2F;www.stminverlink.org&quot;&gt;The Link&lt;&#x2F;a&gt; magazine.
+&lt;object data=&quot;&#x2F;The Haven 1.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;&#x2F;object&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;part-2&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#part-2&quot; aria-label=&quot;Anchor link for: part-2&quot;&gt;Part 2&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;object data=&quot;&#x2F;The Haven 2.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;&#x2F;object&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;part-3&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#part-3&quot; aria-label=&quot;Anchor link for: part-3&quot;&gt;Part 3&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;object data=&quot;&#x2F;The Haven 3.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;&#x2F;object&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;1906-the-haven-was-the-first-non-farming-house-to-be-constructed-in-trebetherick&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1906-the-haven-was-the-first-non-farming-house-to-be-constructed-in-trebetherick&quot; aria-label=&quot;Anchor link for: 1906-the-haven-was-the-first-non-farming-house-to-be-constructed-in-trebetherick&quot;&gt;1906 - The Haven was the first non-farming house to be constructed in Trebetherick.&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;297e7e48-a081-4aa9-a008-1758e1227221&quot; alt=&quot;Post Card Face~2&quot;&gt;
+&lt;p&gt;In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to agriculture. Trebetherick was then primarily open farmland with only farm houses, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby.
+…&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;1941-brian-oaten-age-2-inside-the-gate-at-the-first-trelawney-trebetherick-built-by-his-father-lewis-oaten-and-now-renamed-pen-y-bryn-having-ridden-with-brian-s-grandfather-john-oaten-from-grandparent-s-home-kitts-hill-st-kew&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1941-brian-oaten-age-2-inside-the-gate-at-the-first-trelawney-trebetherick-built-by-his-father-lewis-oaten-and-now-renamed-pen-y-bryn-having-ridden-with-brian-s-grandfather-john-oaten-from-grandparent-s-home-kitts-hill-st-kew&quot; aria-label=&quot;Anchor link for: 1941-brian-oaten-age-2-inside-the-gate-at-the-first-trelawney-trebetherick-built-by-his-father-lewis-oaten-and-now-renamed-pen-y-bryn-having-ridden-with-brian-s-grandfather-john-oaten-from-grandparent-s-home-kitts-hill-st-kew&quot;&gt;1941 - Brian Oaten age 2, inside the gate at the first Trelawney, Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian’s grandfather John Oaten, from grandparent’s home ‘Kitts Hill’, St Kew.&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img height=&quot;50%&quot; width=&quot;50%&quot; src=&quot;&#x2F;Brian-Oaten-age-2-or-3-in-pony-and-trap..png&quot; alt=&quot;1941 - Brian Oaten age 2 or 3, inside the gate at the first Trelawney Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian&#x27;s grandfather John Oaten, from grandparent&#x27;s home &#x27;Kitts Hill&#x27;, St Kew&quot;&gt;
+&lt;p&gt;…&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;lewis-oaten-and-his-mother-mary-polly-oaten-outside-the-house-where-they-both-were-born-kitts-hill-st-kew-with-his-son-brian-oaten&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#lewis-oaten-and-his-mother-mary-polly-oaten-outside-the-house-where-they-both-were-born-kitts-hill-st-kew-with-his-son-brian-oaten&quot; aria-label=&quot;Anchor link for: lewis-oaten-and-his-mother-mary-polly-oaten-outside-the-house-where-they-both-were-born-kitts-hill-st-kew-with-his-son-brian-oaten&quot;&gt;Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;lewis-oaten-and-mother-and-brian-at-kitts.hill.png&quot; alt=&quot;30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Mabyn Oaten on the balcony of The Haven before the bay windows were converted into a mahogany sunroom extension in the late 1950s&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img width=&quot;50%&quot; alt=&quot;Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s&quot; 
+ src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;c9e57040-952b-4e44-8890-0ce933f7d44a&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;img width=&quot;50%&quot; alt=&quot;The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony&quot; 
+ src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;bdd8520d-f5bf-43c5-8c24-b809ac7f5f8a&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony. Mabyn did bed and breakfasts while Lewis, a carpenter, ran a small carpentry&#x2F;joinery and general repairs business.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;pre-1950&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#pre-1950&quot; aria-label=&quot;Anchor link for: pre-1950&quot;&gt;Pre 1950&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;5ec3f16a-e12d-414e-9893-6f1118684160&quot; alt=&quot;1965 74&quot;&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Screenshot_20220202-141059&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;2de8ab64-f5b0-44ed-8630-349ed5df060b&quot; &#x2F;&gt;
+&lt;p&gt;This postcard was taken sometime 1930-1950. Note The Haven top right and the car on the beach.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;sand-cart-and-pony-pulling-up-daymer-lane&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#sand-cart-and-pony-pulling-up-daymer-lane&quot; aria-label=&quot;Anchor link for: sand-cart-and-pony-pulling-up-daymer-lane&quot;&gt;Sand Cart and Pony Pulling Up Daymer Lane&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Screenshot_20240503-181033&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;79072e57-3a65-4610-9354-0ad7dcb680d1&quot; &#x2F;&gt;
+&lt;p&gt;1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;1925-trebetherick-duck-pond&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1925-trebetherick-duck-pond&quot; aria-label=&quot;Anchor link for: 1925-trebetherick-duck-pond&quot;&gt;1925 TREBETHERICK DUCK POND&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;915a502c-3706-46f4-b827-b4815d09a886&quot; alt=&quot;Collage of duck pond 1925 and today 2021&quot;&gt;
+&lt;p&gt;Collage of duck pond 1925 and today 2021&lt;&#x2F;p&gt;
+&lt;p&gt;Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, was drained in the 1930s after mains water was installed, making way for the ​new and larger Trebetherick telephone exchange. On the right is the gate into Ham Field, so called as it was the triangular shape of a ham.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;before-the-road-was-widened-in-1960s&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#before-the-road-was-widened-in-1960s&quot; aria-label=&quot;Anchor link for: before-the-road-was-widened-in-1960s&quot;&gt;BEFORE THE ROAD WAS WIDENED IN 1960s&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Looking uphill, at The Haven entrance on the right, Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements in late 1960s.&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;2a54caa4-7bf5-4a3e-a288-5316b0055b45&quot; alt=&quot;Looking uphill, at The Haven entrance on the right, Old Farm is the house you can just about see in the centre&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;daymer-bay-garage-and-workshops&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#daymer-bay-garage-and-workshops&quot; aria-label=&quot;Anchor link for: daymer-bay-garage-and-workshops&quot;&gt;DAYMER BAY GARAGE and WORKSHOPS&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;The Daymer Bay Garage, was located at the junction of Worthy Hill and Daymer Lane, was operated by Norman Cleave, a motor car enthusiast and the father of Leadville Cleave and grandfather of Jon Cleave, from Port Isaac. The garage included workshops, garages, and a petrol pump. Norman also managed the Clock Garage at Rock.
+Below the garage on Daymer Lane, Worthy House ​was built ​and served as both a Post Office and a telephone exchange, playing a central role in the village’s communication.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;ae91209b-76fc-42dd-a774-cfd82602f07d&quot; alt=&quot;View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;85596d60-78d2-440e-85d2-51c5eaf3f03f&quot; alt=&quot;This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;At the top of Worthy hill, looking down, Daymer Bay Garage is on the right and The Haven entrance is on the left&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;0f568466-1dd9-4bbe-ab3f-907b0e57da04&quot; alt=&quot;At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Almost at the top of Worthy Hill, The Haven entrance is on the left with gate posts parallel with the original old road. Daymer Bay Garage is now gone.
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;72ebcdb5-108f-4897-a2c8-b8e92e42140e&quot; alt=&quot;Almost at the top of Worthy Hill, The Haven entrance is on the left~2&quot;&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;1963-aerial-view-of-the-haven&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1963-aerial-view-of-the-haven&quot; aria-label=&quot;Anchor link for: 1963-aerial-view-of-the-haven&quot;&gt;1963 Aerial View of The Haven&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;sheltered from north and east by mature Cornish elm trees - all died of the Dutch elm disease in 1970&#x2F;80s.&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; height=&quot;50%&quot; alt=&quot;Screenshot_20251028-102328&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;4804e2bd-08a1-4ab7-b588-d7ca06ca4e11&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Looking up Daymer Lane almost at the top, this was a set 4 garages with the post office on the right&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;b9a3f2b7-c1fd-4660-a68c-66fe02124037&quot; alt=&quot;Looking up Daymer Lane almost at the top, this was a set 4 garages~3&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;1970s-bill-tucker-s-coach-trips&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1970s-bill-tucker-s-coach-trips&quot; aria-label=&quot;Anchor link for: 1970s-bill-tucker-s-coach-trips&quot;&gt;1970s BILL TUCKER’S COACH TRIPS&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;bill-tucker-from-trewornan-farm-was-a-horse-and-coaching-enthusiast-and-he-used-to-conduct-pleasure-trips-that-passed-by-the-haven-sounding-a-long-shining-copper-coaching-horn-at-corners-and-other-suitable-points-along-the-route&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#bill-tucker-from-trewornan-farm-was-a-horse-and-coaching-enthusiast-and-he-used-to-conduct-pleasure-trips-that-passed-by-the-haven-sounding-a-long-shining-copper-coaching-horn-at-corners-and-other-suitable-points-along-the-route&quot; aria-label=&quot;Anchor link for: bill-tucker-from-trewornan-farm-was-a-horse-and-coaching-enthusiast-and-he-used-to-conduct-pleasure-trips-that-passed-by-the-haven-sounding-a-long-shining-copper-coaching-horn-at-corners-and-other-suitable-points-along-the-route&quot;&gt;Bill Tucker from Trewornan Farm, was a horse and coaching enthusiast and he used to conduct pleasure trips that passed by The Haven, sounding a long, shining copper coaching horn at corners and other suitable points along the route.&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;ca8c0d6e-2550-4895-a241-d9de0e116dbc&quot; alt=&quot;Coach and Four&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;d1452cf4-fd0d-43a2-baca-5effc3f88c5a&quot; alt=&quot;Bill Tucker&#x27;s Coach and Four&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;51c3f48f-e78f-4e33-989a-7eff73e18302&quot; alt=&quot;Coach and Four&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;higher-trebetherick-looking-north-before-road-widening-1960s&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#higher-trebetherick-looking-north-before-road-widening-1960s&quot; aria-label=&quot;Anchor link for: higher-trebetherick-looking-north-before-road-widening-1960s&quot;&gt;Higher Trebetherick - Looking North - Before Road Widening 1960s&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;bb8ddf97-094b-4c80-a85a-f9fe1f73add4&quot; alt=&quot;The old coastguard houses on the right on th way to Polzeath through Trebetherick&quot;&gt;
+&lt;p&gt;Higher Farm on Left - Shop on Right&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;ede0dce9-f982-4f10-8380-5c0a130ba51c&quot; alt=&quot;At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath&quot;&gt;
+&lt;p&gt;New Telphone Exchange on right&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;4981fe64-326c-40f6-8ca4-a503cb024e5e&quot; alt=&quot;1972 Old Caravan belonging to Basil and Edna Male&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;worthy-hill&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#worthy-hill&quot; aria-label=&quot;Anchor link for: worthy-hill&quot;&gt;Worthy Hill&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;b70465b0-5094-45a8-b46e-d5d450775973&quot; alt=&quot;Looking up the middle section of Worthy Hill, Floraldene is on the right&quot;&gt;
+&lt;p&gt;Looking North - Floraldene On Right&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;c547c8cb-c262-4591-b660-4b4933b7ee5a&quot; alt=&quot;Opposite The Haven entrance, looking down Worthy Hill, in the mid 1960s only The Coppice had been built down to the cream house, Floradene&quot;&gt;
+&lt;p&gt;Worthy Hill - Looking South - Floraldene on Left.&lt;&#x2F;p&gt;
+&lt;p&gt;Before the building of Tide Race, Breafield and public footpath.
+Note the council wintertime piles of sand to grit the hill&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;1979-daymer-beach&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1979-daymer-beach&quot; aria-label=&quot;Anchor link for: 1979-daymer-beach&quot;&gt;1979 Daymer Beach&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;d243d244-6590-4587-9c16-7323db070e06&quot; alt=&quot;Screenshot_20250819-172308~2&quot;&gt;
+---
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;b034d5a3-e3be-4a63-8c48-bcd037898642&quot; alt=&quot;Screenshot_20250819-172220~2&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#&quot; aria-label=&quot;Anchor link for: &quot;&gt;&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;d2e8f665-8a92-4e94-8764-2bbb224b0add&quot; alt=&quot;Mabyn Oaten on the balcony of _The Haven_ before it was 
+ removed in the late 1950s~2&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;7190dba4-63d0-45b9-8e05-d0ad53f83954&quot; alt=&quot;PXL_20250828_080716208&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-haven-itself-was-rendered-on-the-outside-using-sand-and-shingle-containing-small-shells-which-were-brought-up-from-the-beach-by-pony-and-cart-with-one-of-these-loads-the-trebetherick-point-defense-cannon-was-brought-up-for-safe-keeping-it-was-mounted-in-the-front-garden-until-1999-when-naval-historian-tim-parr-who-was-researching-henrician-cannons-visited-he-was-instrumental-in-arranging-for-its-preservation-and-subsequent-display-at-prideaux-place-where-its-sister-cannon-from-the-padstow-side-is-also-located&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-haven-itself-was-rendered-on-the-outside-using-sand-and-shingle-containing-small-shells-which-were-brought-up-from-the-beach-by-pony-and-cart-with-one-of-these-loads-the-trebetherick-point-defense-cannon-was-brought-up-for-safe-keeping-it-was-mounted-in-the-front-garden-until-1999-when-naval-historian-tim-parr-who-was-researching-henrician-cannons-visited-he-was-instrumental-in-arranging-for-its-preservation-and-subsequent-display-at-prideaux-place-where-its-sister-cannon-from-the-padstow-side-is-also-located&quot; aria-label=&quot;Anchor link for: the-haven-itself-was-rendered-on-the-outside-using-sand-and-shingle-containing-small-shells-which-were-brought-up-from-the-beach-by-pony-and-cart-with-one-of-these-loads-the-trebetherick-point-defense-cannon-was-brought-up-for-safe-keeping-it-was-mounted-in-the-front-garden-until-1999-when-naval-historian-tim-parr-who-was-researching-henrician-cannons-visited-he-was-instrumental-in-arranging-for-its-preservation-and-subsequent-display-at-prideaux-place-where-its-sister-cannon-from-the-padstow-side-is-also-located&quot;&gt;The Haven itself was rendered ​on the outside using sand and shingle containing small shells, which were brought up from the beach by pony and cart. ​With one of these loads, the Trebetherick Point defense cannon was brought up for safe​keeping. It was mounted in the front garden until 1999, when Naval historian ​Tim Parr, who was researching Henrician Cannons, visited. He was instrumental in arranging for its preservation and subsequent display at Prideaux Place, where its sister cannon from the Padstow side is also located.&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;THE TREBETHERICK CANNON - circa 16th centuary&lt;&#x2F;p&gt;
+&lt;p&gt;This 3 pounder gun was mounted in the Trebetherick Battery at Greenaway, 20 feet above the High Water Mark, on the East side of the Camel Estuary, as part of the defences of Padstow. It is very badly corroded as it was exposed to salt spray in every gale in the prevailing South West wind for at least 200 years.​ It is thought that the guns on their wheeled carriage may have been kept in St Enodoc Church to be rolled out and up onto Greenaway when needed.&lt;&#x2F;p&gt;
+&lt;p&gt;The gun was brought up from the Battery in the early 1900’s, by a farmer Mr.​ Barton, with his last load of shingle from Greenaway beach​. The gun was set on a concrete plinth ​at the ​south west corner of The Haven in Trebetherick​ in 1906.&lt;&#x2F;p&gt;
+&lt;p&gt;​Brian Oaten kindly arranged with Tim Parr naval historian, for the gun​s safekeeping to be displayed ​at Prideaux Place, where it has been conserved and has now been mounted on a ​1600 replica “bed and bracket” carriage​, for display.&lt;&#x2F;p&gt;
+&lt;p&gt;While the degree of corrosion makes it difficult to be precise about its date, or its history, based on its proportions and the shape of its trunnions it is considered likely that it was cast in the 16th century, and is therefore another early cast iron gun.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;this-gun-with-the-three-finbankers-which-lay-in-pentire-farm-formed-the-trebetherick-battery-which-was-a-part-of-the-defences-of-the-safe-haven-which-was-established-in-padstow-in-1780-to-shelter-british-ships-being-pursued-by-american-privateers-as-described-in-the-panel-on-the-war-of-american-independence&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#this-gun-with-the-three-finbankers-which-lay-in-pentire-farm-formed-the-trebetherick-battery-which-was-a-part-of-the-defences-of-the-safe-haven-which-was-established-in-padstow-in-1780-to-shelter-british-ships-being-pursued-by-american-privateers-as-described-in-the-panel-on-the-war-of-american-independence&quot; aria-label=&quot;Anchor link for: this-gun-with-the-three-finbankers-which-lay-in-pentire-farm-formed-the-trebetherick-battery-which-was-a-part-of-the-defences-of-the-safe-haven-which-was-established-in-padstow-in-1780-to-shelter-british-ships-being-pursued-by-american-privateers-as-described-in-the-panel-on-the-war-of-american-independence&quot;&gt;This gun, with the three “Finbankers, which lay in Pentire Farm, formed the Trebetherick battery, which was a part of the defences of the “Safe Haven” which was established in Padstow, in 1780, to shelter British ships being pursued by American Privateers, as described in the panel on the War of American Independence.&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;69301249-5516-4800-bb27-d80897f754c3&quot; alt=&quot;IMG_20160525_125707&quot;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;f8554ef2-3cc0-419d-a8b6-9ab725fb5881&quot; alt=&quot;IMG_20160525_125626&quot;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;f336b093-e5e5-4bf9-be76-8dd8cd3eeb95&quot; alt=&quot;Unknown woman with Lewis and Mabyn Oaten by the Trebetherick Point cannon at _The Haven_ in the mid 1950s~2&quot;&gt;
+&lt;p&gt;Unknown lady with Lewis and Mabyn Oaten in the front garden of The Haven by the Trebetherick Point cannon in the mid 1950s&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;e640a161-4a0a-4df7-84f6-bed3278124ed&quot; alt=&quot;20250820_135354-COLLAGE&quot;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;6c3ffaba-0fca-4a21-afbb-65e751792fa3&quot; alt=&quot;IMG_20160525_124932~2&quot;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;fa2313e9-dd51-4b2c-9042-400b1eb56abd&quot; alt=&quot;1965 77&quot;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;2b1b6089-3060-4458-8550-0b2f20d3cff1&quot; alt=&quot;PXL_20250828_080716208~2&quot;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;e7fbd933-3a62-4740-9a3d-6ea71d9856ec&quot; alt=&quot;IMG_20160525_125558&quot;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Brea Hill</title>
+        <published>1906-01-01T00:00:00+00:00</published>
+        <updated>1906-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/brea/"/>
+        <id>https://www.trebetherick.net/brea/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/brea/">&lt;p&gt;Brea Hill (Cornish: &lt;em&gt;Bre&lt;&#x2F;em&gt;, meaning hill), pronounced “Bray Hill” is a round hill beside the River Camel.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Trewiston Farm</title>
+        <published>1732-02-17T00:00:00+00:00</published>
+        <updated>1732-02-17T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/trewiston/"/>
+        <id>https://www.trebetherick.net/trewiston/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/trewiston/">&lt;p&gt;&lt;object data=&quot;&#x2F;1732-name-here.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;&#x2F;object&gt;&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;1732 Diary Extract - John Mably&quot; src=&quot;&#x2F;1732 Diary Extract - John Mably.jpg&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;mably-diaries-1850-1950&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#mably-diaries-1850-1950&quot; aria-label=&quot;Anchor link for: mably-diaries-1850-1950&quot;&gt;Mably Diaries 1850 - 1950&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;part-1&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#part-1&quot; aria-label=&quot;Anchor link for: part-1&quot;&gt;Part 1&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;object data=&quot;&#x2F;Mably Diary Part 1.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;&#x2F;object&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;part-2&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#part-2&quot; aria-label=&quot;Anchor link for: part-2&quot;&gt;Part 2&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;object data=&quot;&#x2F;Mably Diary Part 2.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;&#x2F;object&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;part-3&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#part-3&quot; aria-label=&quot;Anchor link for: part-3&quot;&gt;Part 3&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;object data=&quot;&#x2F;Mably Diary Part 3.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;&#x2F;object&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;part-4&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#part-4&quot; aria-label=&quot;Anchor link for: part-4&quot;&gt;Part 4&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;object data=&quot;&#x2F;Mably Diary Part 4.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;&#x2F;object&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Higher Farm</title>
+        <published>1600-01-01T00:00:00+00:00</published>
+        <updated>1600-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/higherfarm/"/>
+        <id>https://www.trebetherick.net/higherfarm/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/higherfarm/">&lt;h1 id=&quot;recent-photos-2025&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#recent-photos-2025&quot; aria-label=&quot;Anchor link for: recent-photos-2025&quot;&gt;Recent Photos 2025&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; height=&quot;50%&quot;  alt=&quot;Higher Farm Barns 2025.jpg&quot; src=&quot;&#x2F;Higher Farm Barns 2025.jpg&quot; &#x2F;&gt;
+...
+&lt;img width=&quot;50%&quot; height=&quot;50%&quot;  alt=&quot;Higher Farm Tall Barn.jpg&quot; src=&quot;&#x2F;Higher Farm Tall Barn.jpg&quot; &#x2F;&gt;
+...
+&lt;p&gt;&lt;object data=&quot;&#x2F;Higher Farm - 1930 - 2020.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;&#x2F;object&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Lower Farm</title>
+        <published>1600-01-01T00:00:00+00:00</published>
+        <updated>1600-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/lowerfarm/"/>
+        <id>https://www.trebetherick.net/lowerfarm/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/lowerfarm/">&lt;h1 id=&quot;recent-photos-2025&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#recent-photos-2025&quot; aria-label=&quot;Anchor link for: recent-photos-2025&quot;&gt;Recent Photos 2025&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Lower Farm - photos.jpg&quot; src=&quot;&#x2F;Lower Farm - Photos.jpg&quot; &#x2F;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Old Farm</title>
+        <published>1600-01-01T00:00:00+00:00</published>
+        <updated>1600-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/oldfarm/"/>
+        <id>https://www.trebetherick.net/oldfarm/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/oldfarm/">&lt;h1 id=&quot;recent-photos-2025&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#recent-photos-2025&quot; aria-label=&quot;Anchor link for: recent-photos-2025&quot;&gt;Recent Photos 2025&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Old Farm-photos.&quot; src=&quot;&#x2F;Old Farm- Photos.png&quot; &#x2F;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Trenain Farm</title>
+        <published>1600-01-01T00:00:00+00:00</published>
+        <updated>1600-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/trenainfarm/"/>
+        <id>https://www.trebetherick.net/trenainfarm/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/trenainfarm/">&lt;h1 id=&quot;recent-photos&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#recent-photos&quot; aria-label=&quot;Anchor link for: recent-photos&quot;&gt;Recent Photos&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;2025 aerial photo showing Daymer and Bray Hill&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Trenain Farm-photos.&quot; src=&quot;&#x2F;Trenain Farm - Photo.png&quot; &#x2F;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Trewint Farm</title>
+        <published>1600-01-01T00:00:00+00:00</published>
+        <updated>1600-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              The Oaten family &amp; Trebetherick residents and friends
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.trebetherick.net/trewintfarm/"/>
+        <id>https://www.trebetherick.net/trewintfarm/</id>
+        
+        <content type="html" xml:base="https://www.trebetherick.net/trewintfarm/">&lt;h1 id=&quot;recent-photos&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#recent-photos&quot; aria-label=&quot;Anchor link for: recent-photos&quot;&gt;Recent Photos&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Lower Farm-photos.&quot; src=&quot;&#x2F;Lower Farm - Photos.jpg&quot; &#x2F;&gt;
+</content>
+        
+    </entry>
+</feed>
