@@ -16,7 +16,10 @@ showing four sets of guests all Rolls Royce CEOs from Duffield with their RRs.
 ## First Built 1906
 <img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2">
 
-...
+---
+
+# 1950
+<img width="50%" src="https://github.com/user-attachments/assets/5ec3f16a-e12d-414e-9893-6f1118684160" alt="1965 74">
 
 
 <img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
@@ -71,8 +74,6 @@ Mabyn Oaten on the balcony of The Haven before the bay windows were converted in
 The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony. Mabyn did bed and breakfasts while Lewis, a carpenter, ran a small carpentry/joinery and general repairs business.
 
 ---
-# Pre 1950
-<img width="50%" src="https://github.com/user-attachments/assets/5ec3f16a-e12d-414e-9893-6f1118684160" alt="1965 74">
 
 
 
