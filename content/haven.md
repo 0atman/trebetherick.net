@@ -21,10 +21,12 @@ showing four sets of guests all Rolls Royce CEOs from Duffield with their RRs.
 # 1950
 <img width="50%" src="https://github.com/user-attachments/assets/5ec3f16a-e12d-414e-9893-6f1118684160" alt="1965 74">
 
+---
+
 
 <img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
 
-...
+---
 
 <img width="50%" src="/The Haven 2000.jpg" alt="The Haven 2000">
 
@@ -45,12 +47,12 @@ These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 2
 <img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2">
 
 In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to agriculture. Trebetherick was then primarily open farmland with only farm houses, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby. 
-...
+---
 
 # 1941 - Brian Oaten age 2, inside the gate at the first Trelawney, Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew.
 <img height="50%" width="50%" src="/Brian-Oaten-age-2-or-3-in-pony-and-trap..png" alt="1941 - Brian Oaten age 2 or 3, inside the gate at the first Trelawney Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew">
 
-...
+---
 
 #  Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.
 <img width="50%" src="/lewis-oaten-and-mother-and-brian-at-kitts.hill.png" alt="30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf">
