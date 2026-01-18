@@ -5,7 +5,7 @@ tags:
  - houses
 ---
 ## The Haven - Built 1906 - This Painting 1960 
-showing four sets of guests all Rolls Royce CEOs from Duffield with their RRs.
+showing four Rolls Royce CEO guests from Duffield, with their families and each driving a Rolls Royce. 
 
 ...
 
@@ -18,7 +18,7 @@ showing four sets of guests all Rolls Royce CEOs from Duffield with their RRs.
 
 ---
 
-# 1950
+## 1950
 <img width="50%" src="https://github.com/user-attachments/assets/5ec3f16a-e12d-414e-9893-6f1118684160" alt="1965 74">
 
 ---
