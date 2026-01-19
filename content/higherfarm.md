@@ -11,8 +11,10 @@ tags:
 
 <img width="50%" height="50%"  alt="Higher Farm Barns 2025.jpg" src="/Higher Farm Barns 2025.jpg" />
 ---
+
 <img width="50%" height="50%"  alt="Higher Farm Tall Barn.jpg" src="/Higher Farm Tall Barn.jpg" />
 ---
+
 <img width="50%" src="https://github.com/user-attachments/assets/ede0dce9-f982-4f10-8380-5c0a130ba51c" alt="At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath">
 
 ## Higher Farm 1950/60 - chimneys left background
