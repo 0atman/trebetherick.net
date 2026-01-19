@@ -269,11 +269,15 @@ Unknown lady with Lewis and Mabyn Oaten in the front garden of The Haven by the 
 <img width="50%" src="https://github.com/user-attachments/assets/e7fbd933-3a62-4740-9a3d-6ea71d9856ec" alt="IMG_20160525_125558">
 
 
-
+## Additional Photos
 <img width="50%" src="/The Haven-1965" alt="The Haven 1965">
+
 <img width="50%" src="/The Haven 1965.jpg" alt="The Haven 1965">
+
 <img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
+
 <img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
+
 <img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
 
 
