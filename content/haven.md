@@ -274,7 +274,7 @@ Unknown lady with Lewis and Mabyn Oaten in the front garden of The Haven by the 
 
 <img width="50%" src="/The Haven 1965.jpg" alt="The Haven 1965">
 
-<img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
+<img width="50%" src="/Daymer Beach from Brea 1967" alt="The Haven 1960">
 
 <img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
 
