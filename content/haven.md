@@ -46,20 +46,20 @@ These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 2
 
 <img width="50%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
 
-In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to agriculture. Trebetherick was then primarily open farmland with only farm houses, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby. 
+- In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to agriculture. Trebetherick was then primarily open farmland with only farm houses, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby. 
 ---
 
-# 1941 - Brian Oaten age 2, inside the gate at the first Trelawney, Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew.
+- 1941 - Brian Oaten age 2, inside the gate at the first Trelawney, Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew.
 <img height="50%" width="50%" src="/Brian-Oaten-age-2-or-3-in-pony-and-trap..png" alt="1941 - Brian Oaten age 2 or 3, inside the gate at the first Trelawney Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew">
 
 ---
 
-#  Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.
+- Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.
 <img width="50%" src="/lewis-oaten-and-mother-and-brian-at-kitts.hill.png" alt="30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf">
 
 
 ---
-Mabyn Oaten on the balcony of The Haven before the bay windows were converted into a mahogany sunroom extension in the late 1950s
+- Mabyn Oaten on the balcony of The Haven before the bay windows were converted into a mahogany sunroom extension in the late 1950s
 
 
 <img width="50%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" src="/mabyn-oaten-balcony-before-1950.jpg" />
@@ -71,7 +71,7 @@ Mabyn Oaten on the balcony of The Haven before the bay windows were converted in
 <img width="50%" alt="The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony" src="/haven-mid-1950s-original-balcony.jpg" />
  
 
-The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony. Mabyn did bed and breakfasts while Lewis, a carpenter, ran a small carpentry/joinery and general repairs business.
+- The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony. Mabyn did bed and breakfasts while Lewis, a carpenter, ran a small carpentry/joinery and general repairs business.
 
 ---
 
@@ -79,7 +79,7 @@ The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in
 
 <img width="50%" alt="Screenshot_20220202-141059" src="/haven-postcard-1930-1950-car-beach.jpg" />
 
-This postcard was taken sometime 1930-1950. Note The Haven top right and the car on the beach.
+- This postcard was taken sometime 1930-1950. Note The Haven top right and the car on the beach.
 
 ---
 
@@ -87,7 +87,7 @@ This postcard was taken sometime 1930-1950. Note The Haven top right and the car
 
 <img width="50%" alt="Screenshot_20240503-181033" src="/sand-carter-pony-daymer-lane-1920-40.jpg" />
 
-1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane
+- 1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane
 
 ---
 
@@ -104,7 +104,7 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 
 # BEFORE THE ROAD WAS WIDENED IN 1960s
 
-Looking uphill, at The Haven entrance on the right, Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements in late 1960s.
+- Looking uphill, at The Haven entrance on the right, Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements in late 1960s.
 
 <img width="50%" src="/haven-uphill-old-farm-centre.jpg" alt="Looking uphill, at The Haven entrance on the right, Old Farm is the house you can just about see in the centre">
 
@@ -114,7 +114,7 @@ Looking uphill, at The Haven entrance on the right, Old Farm is the house roof y
 
 # DAYMER BAY GARAGE and WORKSHOPS
 
-The Daymer Bay Garage, was located at the junction of Worthy Hill and Daymer Lane, was operated by Norman Cleave, a motor car enthusiast and the father of Leadville Cleave and grandfather of Jon Cleave, from Port Isaac. The garage included workshops, garages, and a petrol pump. Norman also managed the Clock Garage at Rock.
+- The Daymer Bay Garage, was located at the junction of Worthy Hill and Daymer Lane, was operated by Norman Cleave, a motor car enthusiast and the father of Leadville Cleave and grandfather of Jon Cleave, from Port Isaac. The garage included workshops, garages, and a petrol pump. Norman also managed the Clock Garage at Rock.
 Below the garage on Daymer Lane, Worthy House ​was built ​and served as both a Post Office and a telephone exchange, playing a central role in the village's communication. 
 
 ---
@@ -184,7 +184,7 @@ Bill Tucker from Trewornan Farm, was a horse and coaching enthusiast and he used
 
 
 
-# Higher Trebetherick - Looking North - Before Road Widening 1960s
+- Higher Trebetherick - Looking North - Before Road Widening 1960s
 
 
 <img width="50%" src="/higher-trebetherick-north-before-road-widening-1960s.jpg" alt="The old coastguard houses on the right on th way to Polzeath through Trebetherick">
@@ -202,7 +202,7 @@ New Telphone Exchange on right
 
 ---
 
-# Worthy Hill 
+- Worthy Hill 
 
 
 <img width="50%" src="/middle-worthy-hill-floraldene-right.jpg" alt="Looking up the middle section of Worthy Hill, Floraldene is on the right">
@@ -211,7 +211,7 @@ Looking North - Floraldene On Right
 
 <img width="50%" src="/worthy-hill-downhill-coppice-floraldene-1960.jpg" alt="Opposite The Haven entrance, looking down Worthy Hill, in the mid 1960s only The Coppice had been built down to the cream house, Floradene">
 
-Worthy Hill - Looking South - Floraldene on Left.
+- Worthy Hill - Looking South - Floraldene on Left.
 
 
 Before the building of Tide Race, Breafield and public footpath. 
@@ -219,7 +219,7 @@ Note the council wintertime piles of sand to grit the hill
 
 ---
 
-# 1979 Daymer Beach 
+- 1979 Daymer Beach 
 
 <img width="50%" src="daymer-1979.jpg" alt="Screenshot_20250819-172308~2">
 ---
@@ -236,7 +236,7 @@ Note the council wintertime piles of sand to grit the hill
 
 ---
 
-The Haven itself was rendered ​on the outside using sand and shingle containing small shells, which were brought up from the beach by pony and cart. ​With one of these loads, the Trebetherick Point defense cannon was brought up for safe​keeping. It was mounted in the front garden until 1999, when Naval historian ​Tim Parr, who was researching Henrician Cannons, visited. He was instrumental in arranging for its preservation and subsequent display at Prideaux Place, where its sister cannon from the Padstow side is also located.
+- The Haven itself was rendered ​on the outside using sand and shingle containing small shells, which were brought up from the beach by pony and cart. ​With one of these loads, the Trebetherick Point defense cannon was brought up for safe​keeping. It was mounted in the front garden until 1999, when Naval historian ​Tim Parr, who was researching Henrician Cannons, visited. He was instrumental in arranging for its preservation and subsequent display at Prideaux Place, where its sister cannon from the Padstow side is also located.
 ---
 
 THE TREBETHERICK CANNON - circa 16th centuary
