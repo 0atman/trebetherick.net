@@ -4,7 +4,7 @@ date: 1906-01-02
 tags: 
  - houses
 ---
-- The Haven - Built 1906
+## The Haven - Built 1906
 
 ...
 
