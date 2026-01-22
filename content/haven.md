@@ -6,7 +6,6 @@ tags:
 ---
 ## The Haven - Built 1906
 
-...
 
  
 <img width="50%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
