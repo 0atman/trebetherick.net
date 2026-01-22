@@ -4,23 +4,23 @@ date: 1906-01-02
 tags: 
  - houses
 ---
-## The Haven - Built 1906
+- The Haven - Built 1906
 
 ...
 
-## First Built 1906
+- First Built 1906
 <img width="50%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
 
 
 
 ---
 
-## 1950
+- 1950
 <img width="50%" src="/haven-1965-74.jpg" alt="1965 74">
 
 ---
 
-# This Painting 1960 showing four Rolls Royce CEO guests from Duffield, with their families and each driving a Rolls Royce. 
+- This Painting 1960 showing four Rolls Royce CEO guests from Duffield, with their families and each driving a Rolls Royce. 
 <img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
 
 ---
