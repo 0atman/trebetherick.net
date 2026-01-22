@@ -51,15 +51,6 @@ These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 2
 <img width="50%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
 
 - In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to agriculture. Trebetherick was then primarily open farmland with only farm houses, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby. 
----
-
-- 1941 - Brian Oaten age 2, inside the gate at the first Trelawney, Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew.
-<img height="50%" width="50%" src="/Brian-Oaten-age-2-or-3-in-pony-and-trap..png" alt="1941 - Brian Oaten age 2 or 3, inside the gate at the first Trelawney Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew">
-
----
-
-- Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.
-<img width="50%" src="/lewis-oaten-and-mother-and-brian-at-kitts.hill.png" alt="30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf">
 
 
 ---
@@ -226,10 +217,13 @@ Note the council wintertime piles of sand to grit the hill
 - 1979 Daymer Beach 
 
 <img width="50%" src="daymer-1979.jpg" alt="Screenshot_20250819-172308~2">
+
 ---
+
 <img width="50%" src="/daymer-and-bre-1979.jpg" alt="Screenshot_20250819-172220~2">
 
 ---
+
 <img width="50%" src="/mabyn-oaten-balcony-before-1950-2.jpg" alt="Mabyn Oaten on the balcony of _The Haven_ before it was 
  removed in the late 1950s~2">
 ---
@@ -272,6 +266,18 @@ Unknown lady with Lewis and Mabyn Oaten in the front garden of The Haven by the 
 
 ## Additional Photos
 
+- 1941 - Brian Oaten age 2, inside the gate at the first Trelawney, Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew.
+
+
+<img height="50%" width="50%" src="/Brian-Oaten-age-2-or-3-in-pony-and-trap..png" alt="1941 - Brian Oaten age 2 or 3, inside the gate at the first Trelawney Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew">
+
+
+- Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.
+
+
+<img width="50%" src="/lewis-oaten-and-mother-and-brian-at-kitts.hill.png" alt="30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf">
+
+
 - The Haven 1960
 
 <img width="50%" src="/The Haven-1965.jpg" alt="The Haven 1965">
@@ -299,7 +305,6 @@ Unknown lady with Lewis and Mabyn Oaten in the front garden of The Haven by the 
 <img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="On the main road through Trebetherick 1965 looking towards Brea, the bus shelter has been moved to the other side of the road.jpg">
 
 ---
-
 
 
 
