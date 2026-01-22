@@ -286,11 +286,11 @@ Unknown lady with Lewis and Mabyn Oaten in the front garden of The Haven by the 
 
 ---
 
-<img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
+<img width="50%" src="/Trebetherick-from-Brea-1965.jpg" alt="Trebetherick-from-Brea-1965.jpg">
 
 ---
 
-<img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
+<img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="On the main road through Trebetherick 1965 looking towards Brea, the bus shelter has been moved to the other side of the road">
 
 ---
 
