@@ -294,7 +294,7 @@ Unknown lady with Lewis and Mabyn Oaten in the front garden of The Haven by the 
 
 ---
 
-- On the main road through Trebetherick 1965 looking at Brea, the bus shelter has now been been moved to the other side of the road
+- On the main road through Trebetherick 1965 looking towards Brea, the bus shelter has now been been moved to the other side of the road
  
 <img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="On the main road through Trebetherick 1965 looking towards Brea, the bus shelter has been moved to the other side of the road.jpg">
 
