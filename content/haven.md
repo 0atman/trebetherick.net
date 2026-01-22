@@ -278,18 +278,24 @@ Unknown lady with Lewis and Mabyn Oaten in the front garden of The Haven by the 
 
 ---
 - The Haven 1965
+- 
 <img width="50%" src="/The Haven 1965.jpg" alt="The Haven 1965">
 
 ---
 - 1967 Daymer Beach and Trebetherick Point from Brea
+- 
 <img width="50%" src="/Daymer Beach from Brea 1967.jpg" alt="The Haven 1960">
 
 ---
 
+- 1965 Trebetherick from Brea
+- 
 <img width="50%" src="/Trebetherick-from-Brea-1965.jpg" alt="Trebetherick-from-Brea-1965.jpg">
 
 ---
 
+- On the main road through Trebetherick 1965 looking at Brea, the bus shelter has just been moved to the other side of the road
+- 
 <img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="On the main road through Trebetherick 1965 looking towards Brea, the bus shelter has been moved to the other side of the road">
 
 ---
