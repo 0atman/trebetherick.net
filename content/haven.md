@@ -14,12 +14,12 @@ showing four Rolls Royce CEO guests from Duffield, with their families and each 
 ...
 
 ## First Built 1906
-<img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2">
+<img width="50%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
 
 ---
 
 ## 1950
-<img width="50%" src="https://github.com/user-attachments/assets/5ec3f16a-e12d-414e-9893-6f1118684160" alt="1965 74">
+<img width="50%" src="/haven-1965-74.jpg" alt="1965 74">
 
 ---
 
@@ -44,7 +44,7 @@ These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 2
 ---
 # 1906 - The Haven was the first non-farming house to be constructed in Trebetherick.
 
-<img width="50%" src="https://github.com/user-attachments/assets/297e7e48-a081-4aa9-a008-1758e1227221" alt="Post Card Face~2">
+<img width="50%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
 
 In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to agriculture. Trebetherick was then primarily open farmland with only farm houses, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby. 
 ---
@@ -62,15 +62,13 @@ In 1906, The Haven was the first house constructed in Trebetherick, which was no
 Mabyn Oaten on the balcony of The Haven before the bay windows were converted into a mahogany sunroom extension in the late 1950s
 
 
-<img width="50%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" 
- src="https://github.com/user-attachments/assets/c9e57040-952b-4e44-8890-0ce933f7d44a" />
+<img width="50%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" src="/mabyn-oaten-balcony-before-1950.jpg" />
  
 
 
 ---
 
-<img width="50%" alt="The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony" 
- src="https://github.com/user-attachments/assets/bdd8520d-f5bf-43c5-8c24-b809ac7f5f8a" />
+<img width="50%" alt="The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony" src="/haven-mid-1950s-original-balcony.jpg" />
  
 
 The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony. Mabyn did bed and breakfasts while Lewis, a carpenter, ran a small carpentry/joinery and general repairs business.
@@ -79,7 +77,7 @@ The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in
 
 
 
-<img width="50%" alt="Screenshot_20220202-141059" src="https://github.com/user-attachments/assets/2de8ab64-f5b0-44ed-8630-349ed5df060b" />
+<img width="50%" alt="Screenshot_20220202-141059" src="/haven-postcard-1930-1950-car-beach.jpg" />
 
 This postcard was taken sometime 1930-1950. Note The Haven top right and the car on the beach.
 
@@ -87,14 +85,14 @@ This postcard was taken sometime 1930-1950. Note The Haven top right and the car
 
 # Sand Cart and Pony Pulling Up Daymer Lane
 
-<img width="50%" alt="Screenshot_20240503-181033" src="https://github.com/user-attachments/assets/79072e57-3a65-4610-9354-0ad7dcb680d1" />
+<img width="50%" alt="Screenshot_20240503-181033" src="/sand-carter-pony-daymer-lane-1920-40.jpg" />
 
 1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane
 
 ---
 
 # 1925 TREBETHERICK DUCK POND
-<img width="50%" src="https://github.com/user-attachments/assets/915a502c-3706-46f4-b827-b4815d09a886" alt="Collage of duck pond 1925 and today 2021">
+<img width="50%" src="/duck-pond-1925-vs-2021.jpg" alt="Collage of duck pond 1925 and today 2021">
 
 
 Collage of duck pond 1925 and today 2021
@@ -108,7 +106,7 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 
 Looking uphill, at The Haven entrance on the right, Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements in late 1960s.
 
-<img width="50%" src="https://github.com/user-attachments/assets/2a54caa4-7bf5-4a3e-a288-5316b0055b45" alt="Looking uphill, at The Haven entrance on the right, Old Farm is the house you can just about see in the centre">
+<img width="50%" src="/haven-uphill-old-farm-centre.jpg" alt="Looking uphill, at The Haven entrance on the right, Old Farm is the house you can just about see in the centre">
 
 
 
@@ -123,7 +121,7 @@ Below the garage on Daymer Lane, Worthy House ​was built ​and served as both
 
  View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages
  
-<img width="50%" src="https://github.com/user-attachments/assets/ae91209b-76fc-42dd-a774-cfd82602f07d" alt="View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
+<img width="50%" src="/junction-of-daymer-lane-and-worth-hill-with-garage-cable.jpg" alt="View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
 
 
 
@@ -131,7 +129,7 @@ Below the garage on Daymer Lane, Worthy House ​was built ​and served as both
 
 This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956
 
-<img width="50%" src="https://github.com/user-attachments/assets/85596d60-78d2-440e-85d2-51c5eaf3f03f" alt="This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956">
+<img width="50%" src="/daymer-bay-garage-derelict-1956.jpg" alt="This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956">
 
 
 
@@ -139,21 +137,21 @@ This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have be
 
 At the top of Worthy hill, looking down, Daymer Bay Garage is on the right and The Haven entrance is on the left
 
-<img width="50%" src="https://github.com/user-attachments/assets/0f568466-1dd9-4bbe-ab3f-907b0e57da04" alt="At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left">
+<img width="50%" src="/worthy-hill-downhill-haven-and-garage.jpg" alt="At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left">
 
 
 ---
 
 
 Almost at the top of Worthy Hill, The Haven entrance is on the left with gate posts parallel with the original old road. Daymer Bay Garage is now gone.
-<img width="50%" src="https://github.com/user-attachments/assets/72ebcdb5-108f-4897-a2c8-b8e92e42140e" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left~2">
+<img width="50%" src="/top-worthy-hill-haven-entrance-left.jpg" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left~2">
 
 ---
 
 ## 1963 Aerial View of The Haven - showing Lewis Oaten's newly constructed mahogany sunlounge
 sheltered from north and east by mature Cornish elm trees - all died of the Dutch elm disease in 1970/80s.
 
-<img width="50%" height="50%" alt="Screenshot_20251028-102328" src="https://github.com/user-attachments/assets/4804e2bd-08a1-4ab7-b588-d7ca06ca4e11" />
+<img width="50%" height="50%" alt="Screenshot_20251028-102328" src="/haven-aerial-new-mahogany-sunlounge.jpg" />
 
 
 
@@ -161,7 +159,7 @@ sheltered from north and east by mature Cornish elm trees - all died of the Dutc
 
 Looking up Daymer Lane almost at the top, this was a set 4 garages with the post office on the right
 
-<img width="50%" src="https://github.com/user-attachments/assets/b9a3f2b7-c1fd-4660-a68c-66fe02124037" alt="Looking up Daymer Lane almost at the top, this was a set 4 garages~3">
+<img width="50%" src="/daymer-lane-near-top-4-garages.jpg" alt="Looking up Daymer Lane almost at the top, this was a set 4 garages~3">
 
 
 
@@ -172,11 +170,11 @@ Looking up Daymer Lane almost at the top, this was a set 4 garages with the post
 Bill Tucker from Trewornan Farm, was a horse and coaching enthusiast and he used to conduct pleasure trips that passed by The Haven, sounding a long, shining copper coaching horn at corners and other suitable points along the route.
 ---
 
-<img width="50%" src="https://github.com/user-attachments/assets/ca8c0d6e-2550-4895-a241-d9de0e116dbc" alt="Coach and Four">
+<img width="50%" src="/coach-and-four.jpg" alt="Coach and Four">
 
 ---
 
-<img width="50%" src="https://github.com/user-attachments/assets/d1452cf4-fd0d-43a2-baca-5effc3f88c5a" alt="Bill Tucker's Coach and Four">
+<img width="50%" src="/bill-tucker-coach-and-four.jpg" alt="Bill Tucker's Coach and Four">
 
 ---
 
@@ -189,29 +187,29 @@ Bill Tucker from Trewornan Farm, was a horse and coaching enthusiast and he used
 # Higher Trebetherick - Looking North - Before Road Widening 1960s
 
 
-<img width="50%" src="https://github.com/user-attachments/assets/bb8ddf97-094b-4c80-a85a-f9fe1f73add4" alt="The old coastguard houses on the right on th way to Polzeath through Trebetherick">
+<img width="50%" src="/higher-trebetherick-north-before-road-widening-1960s.jpg" alt="The old coastguard houses on the right on th way to Polzeath through Trebetherick">
 
 
 
 Higher Farm on Left - Shop on Right
 
 
-<img width="50%" src="https://github.com/user-attachments/assets/ede0dce9-f982-4f10-8380-5c0a130ba51c" alt="At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath">
+<img width="50%" src="/higher-farm-left-shop-right.jpg" alt="At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath">
 
 New Telphone Exchange on right
 
-<img width="50%" src="https://github.com/user-attachments/assets/4981fe64-326c-40f6-8ca4-a503cb024e5e" alt="1972 Old Caravan belonging to Basil and Edna Male">
+<img width="50%" src="/caravan-basil-edna-male-1972.jpg" alt="1972 Old Caravan belonging to Basil and Edna Male">
 
 ---
 
 # Worthy Hill 
 
 
-<img width="50%" src="https://github.com/user-attachments/assets/b70465b0-5094-45a8-b46e-d5d450775973" alt="Looking up the middle section of Worthy Hill, Floraldene is on the right">
+<img width="50%" src="/middle-worthy-hill-floraldene-right.jpg" alt="Looking up the middle section of Worthy Hill, Floraldene is on the right">
 
 Looking North - Floraldene On Right
 
-<img width="50%" src="https://github.com/user-attachments/assets/c547c8cb-c262-4591-b660-4b4933b7ee5a" alt="Opposite The Haven entrance, looking down Worthy Hill, in the mid 1960s only The Coppice had been built down to the cream house, Floradene">
+<img width="50%" src="/worthy-hill-downhill-coppice-floraldene-1960.jpg" alt="Opposite The Haven entrance, looking down Worthy Hill, in the mid 1960s only The Coppice had been built down to the cream house, Floradene">
 
 Worthy Hill - Looking South - Floraldene on Left.
 
@@ -223,18 +221,18 @@ Note the council wintertime piles of sand to grit the hill
 
 # 1979 Daymer Beach 
 
-<img width="50%" src="https://github.com/user-attachments/assets/d243d244-6590-4587-9c16-7323db070e06" alt="Screenshot_20250819-172308~2">
+<img width="50%" src="daymer-1979.jpg" alt="Screenshot_20250819-172308~2">
 ---
-<img width="50%" src="https://github.com/user-attachments/assets/b034d5a3-e3be-4a63-8c48-bcd037898642" alt="Screenshot_20250819-172220~2">
+<img width="50%" src="/daymer-and-bre-1979.jpg" alt="Screenshot_20250819-172220~2">
 
 ---
-<img width="50%" src="https://github.com/user-attachments/assets/d2e8f665-8a92-4e94-8764-2bbb224b0add" alt="Mabyn Oaten on the balcony of _The Haven_ before it was 
+<img width="50%" src="/mabyn-oaten-balcony-before-1950-2.jpg" alt="Mabyn Oaten on the balcony of _The Haven_ before it was 
  removed in the late 1950s~2">
 ---
 
 
 
-<img width="50%" src="https://github.com/user-attachments/assets/7190dba4-63d0-45b9-8e05-d0ad53f83954" alt="PXL_20250828_080716208">
+<img width="50%" src="/lewis-mabyn-brian-oaten-canon.jpg" alt="PXL_20250828_080716208">
 
 ---
 
@@ -254,23 +252,22 @@ While the degree of corrosion makes it difficult to be precise about its date, o
 This gun, with the three "Finbankers, which lay in Pentire Farm, formed the Trebetherick battery, which was a part of the defences of the "Safe Haven" which was established in Padstow, in 1780, to shelter British ships being pursued by American Privateers, as described in the panel on the War of American Independence.
 ---
 
-<img width="50%" src="https://github.com/user-attachments/assets/69301249-5516-4800-bb27-d80897f754c3" alt="IMG_20160525_125707">
-<img width="50%" src="https://github.com/user-attachments/assets/f8554ef2-3cc0-419d-a8b6-9ab725fb5881" alt="IMG_20160525_125626">
-<img width="50%" src="https://github.com/user-attachments/assets/f336b093-e5e5-4bf9-be76-8dd8cd3eeb95" alt="Unknown woman with Lewis and Mabyn Oaten by the Trebetherick Point cannon at _The Haven_ in the mid 1950s~2">
+<img width="50%" src="/brian-oaten-canon-museum.jpg" alt="IMG_20160525_125707">
+<img width="50%" src="/canon-museum.jpg" alt="IMG_20160525_125626">
+<img width="50%" src="/unknown-lewis-mabyn-oaten-haven-1960.jpg" alt="Unknown woman with Lewis and Mabyn Oaten by the Trebetherick Point cannon at _The Haven_ in the mid 1950s~2">
 
 Unknown lady with Lewis and Mabyn Oaten in the front garden of The Haven by the Trebetherick Point cannon in the mid 1950s
 
 
-<img width="50%" src="https://github.com/user-attachments/assets/e640a161-4a0a-4df7-84f6-bed3278124ed" alt="20250820_135354-COLLAGE">
-<img width="50%" src="https://github.com/user-attachments/assets/6c3ffaba-0fca-4a21-afbb-65e751792fa3" alt="IMG_20160525_124932~2">
-<img width="50%" src="https://github.com/user-attachments/assets/fa2313e9-dd51-4b2c-9042-400b1eb56abd" alt="1965 77">
+<img width="50%" src="/map-padstow-safe-haven.jpg" alt="20250820_135354-COLLAGE">
+<img width="50%" src="/brian-oaten-canon-museum-2.jpg" alt="IMG_20160525_124932~2">
+<img width="50%" src="/1965-77.jpg" alt="1965 77">
 
-<img width="50%" src="https://github.com/user-attachments/assets/2b1b6089-3060-4458-8550-0b2f20d3cff1" alt="PXL_20250828_080716208~2">
-<img width="50%" src="https://github.com/user-attachments/assets/e7fbd933-3a62-4740-9a3d-6ea71d9856ec" alt="IMG_20160525_125558">
+<img width="50%" src="/finbanker-on-haven-veranda-from-museum.jpg" alt="IMG_20160525_125558">
 
 
 ## Additional Photos
-<img width="50%" src="/The Haven-1965" alt="The Haven 1965">
+<img width="50%" src="/The Haven-1965.jpg" alt="The Haven 1965">
 
 ---
 
@@ -278,7 +275,7 @@ Unknown lady with Lewis and Mabyn Oaten in the front garden of The Haven by the 
 
 ---
 
-<img width="50%" src="/Daymer Beach from Brea 1967" alt="The Haven 1960">
+<img width="50%" src="/Daymer Beach from Brea 1967.jpg" alt="The Haven 1960">
 
 ---
 
