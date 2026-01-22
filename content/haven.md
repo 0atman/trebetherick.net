@@ -214,7 +214,7 @@ Note the council wintertime piles of sand to grit the hill
 
 ---
 
-- 1979 Daymer Beach 
+- 1979 Daymer Beach, when it was a lovely sandy beach.
 
 <img width="50%" src="daymer-1979.jpg" alt="Screenshot_20250819-172308~2">
 
