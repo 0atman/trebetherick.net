@@ -139,6 +139,8 @@ At the top of Worthy hill, looking down, Daymer Bay Garage is on the right and T
 
 
 Almost at the top of Worthy Hill, The Haven entrance is on the left with gate posts parallel with the original old road. Daymer Bay Garage is now gone.
+
+
 <img width="50%" src="/top-worthy-hill-haven-entrance-left.jpg" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left~2">
 
 ---
