@@ -20,6 +20,8 @@ tags:
 ## Higher Farm 1950/60 - chimneys left background
 - more photos to follow
 
+---
+
 <img width="50%" src="https://github.com/user-attachments/assets/4981fe64-326c-40f6-8ca4-a503cb024e5e" alt="1972 Old Caravan belonging to Basil and Edna Male">
 ---
 
