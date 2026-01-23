@@ -4,6 +4,10 @@ date: 2025-01-01
 ---
 
 
+<img width="50%" src="/St Enodoc bright banner photo.jpg" alt="St Enodoc bright banner photo.jpg">
+
+---
+
 <img width="50%" src="/St Enodoc Church.png" alt="St Enodoc Church.png">
 
 ---
