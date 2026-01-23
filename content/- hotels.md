@@ -7,7 +7,7 @@ tags:
 
 
 
-# Recent Photos 2025
+# St Moritz Hotel
 
 <img width="50%" alt="Lower Farm - photos.jpg" src="/Lower Farm - Photos.jpg" />
 
