@@ -3,6 +3,7 @@ title: "St Enodoc Church"
 date: 2025-01-01
 ---
 
+- ## St Enodoc Church - St Enodoc Golf Course - Daymer Bay and Lower Trebetherick
 
 <img width="50%" src="/St Enodoc bright banner photo.jpg" alt="St Enodoc bright banner photo.jpg">
 
