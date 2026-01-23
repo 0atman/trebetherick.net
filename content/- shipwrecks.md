@@ -7,11 +7,14 @@ tags:
 
 # Map Of Shipwrecks
 
+<img width="50%" alt="Shipwrecks Camel Estuary up to 1939.jpg" src="/Shipwrecks Camel Estuary up to 1939.jpg" />
+
+
 <img width="50%" alt="map-padstow-safe-haven.jpg" src="/map-padstow-safe-haven.jpg" />
 
 # The Medea
 
-<img width="50%" alt="Medea on Greenaway 5JAN1939png" src="/Medea on Greenaway 5JAN1939png" />
+<img width="50%" alt="Medea on Greenaway 5JAN1939.png" src="/Medea on Greenaway 5JAN1939.png" />
 
 # Maria Asumpta
 
