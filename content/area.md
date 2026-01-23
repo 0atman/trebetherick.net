@@ -7,6 +7,8 @@ date: 2025-01-01
 
 - [The Footpaths](/footpaths)
 
+- [Hotels](/hotels)
+
 - [Shipwrecks](/shipwrecks)
 
 
