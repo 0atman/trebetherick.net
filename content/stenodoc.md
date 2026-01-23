@@ -12,6 +12,8 @@ date: 2025-01-01
 
 ---
 
+- ### Notes on the Two Bells of St Enodoc Church
+
 <img width="50%" src="/1613 St Enodoc 2 Bells.jpg" alt="1613 St Enodoc 2 Bells.jpg">
 
 
