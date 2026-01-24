@@ -19,6 +19,12 @@ tags:
 
 ## Higher Farm 1950/60 - chimneys left background
 - more photos to follow
+- 
+
+# 1938 Higher Farm Horses 
+
+- <img width="50%" height="50%"  alt="1938 Higher Farm Horses.jpg" src="/1938 Higher Farm Horses.jpg" />
+
 
 ---
 
