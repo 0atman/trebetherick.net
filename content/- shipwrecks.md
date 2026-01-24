@@ -26,7 +26,7 @@ From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly bro
 The team were nationally recognised when the company was awarded The Wreck Service Shield (a top national honour!) in 1939 for saving three lives from the wreck of HMS Medea.
 
 
-<img width="50%" alt="Trebetherick Coastguards doing Breeches Buoy Practice.jpg" src="/Trebetherick Coastguards doing Breeches Buoy Practice.jpg" />
+<img width="50%" alt="Trebetherick Coastguards doing Breeches Buoy Practice.png" src="/Trebetherick Coastguards doing Breeches Buoy Practice.png" />
 
 ---
 
