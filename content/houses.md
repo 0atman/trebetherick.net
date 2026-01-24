@@ -3,8 +3,8 @@ title: "Houses"
 date: 2025-01-01
 ---
 
-# [The Haven](/haven)
+- [The Haven](/haven)
 
 ---
 
-#  [Undertown](/undertown)
+- [Undertown](/undertown)
