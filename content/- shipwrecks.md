@@ -65,7 +65,7 @@ The team were nationally recognised when the company was awarded The Wreck Servi
 
 - All that remains of the wreck of the Medea in 2021
 
-- 
+
 <img width="50%" alt="Remains of Medea 2021.jpg" src="/Remains of Medea 2021.jpg" />
 
 
