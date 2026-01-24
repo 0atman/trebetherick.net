@@ -43,12 +43,12 @@ The team were nationally recognised when the company was awarded The Wreck Servi
 
 ---
 
-
-<img width="50%" alt="C W Chapman from Peace and Plenty St Enodoc grave stone.jpg" src="/C W Chapman from Peace and Plenty St Enodoc grave stone.jpg" />
+<img width="50%" alt="1900 Grave of Sailor Age 20.png" src="/1900 Grave of Sailor Age 20.png" />
 
 ---
 
-<img width="50%" alt="1900 Grave of Sailor Age 20.png" src="/1900 Grave of Sailor Age 20.png" />
+<img width="50%" alt="C W Chapman from Peace and Plenty St Enodoc grave stone.jpg" src="/C W Chapman from Peace and Plenty St Enodoc grave stone.jpg" />
+
 
 ---
 
