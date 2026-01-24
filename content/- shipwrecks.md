@@ -52,7 +52,7 @@ The team were nationally recognised when the company was awarded The Wreck Servi
 
 ---
 
-# The Medea - on the rocks at Greenaway
+# 1939 The Medea - on the rocks at Greenaway
 
 <img width="50%" alt="JAN.1939. Medea on Greenaway.jpg" src="/JAN.1939. Medea on Greenaway.jpg" />
 
