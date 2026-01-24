@@ -14,6 +14,10 @@ tags:
 
 ---
 # Many Sailers Were Lost but Many Were Saved by the Trebetherick Coastguard Team.
+
+The Trebetherick Coastguard Cottages and Rocket Equipment House was originally built in 1840 as a pair of semi-detached buildings for the full time Coastguards. Eventually as the RNLI grew and developed, the role of Coastguard became a part time position, the cottages were sold separately as Upalong and Tregawne. The latter was owned and run as Trebetherick Stores by the Tellam-Hockings and as of 2023 is Flo's Deli.
+
+
 ---
 
 1900 Peace and Plenty and Lifeboat Arab.
