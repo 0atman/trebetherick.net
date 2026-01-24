@@ -13,7 +13,7 @@ tags:
 <img width="50%" alt="map-padstow-safe-haven.jpg" src="/map-padstow-safe-haven.jpg" />
 
 ---
-# Many Sailers Were lost but Many Were Saved by the Trebetherick Coastguard Team.
+# Many Sailers Were Lost but Many Were Saved by the Trebetherick Coastguard Team.
 ---
 
 1900 Peace and Plenty and Lifeboat Arab.
