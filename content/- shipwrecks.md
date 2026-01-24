@@ -42,7 +42,7 @@ The team were nationally recognised when the company was awarded The Wreck Servi
 ---
 
 
-<img width="50%" alt="C W Chapman from Peace and Plenty St Enodoc grave stone.png" src="/C W Chapman from Peace and Plenty St Enodoc grave stone.png" />
+<img width="50%" alt="C W Chapman from Peace and Plenty St Enodoc grave stone.jpg" src="/C W Chapman from Peace and Plenty St Enodoc grave stone.jpg" />
 
 ---
 
