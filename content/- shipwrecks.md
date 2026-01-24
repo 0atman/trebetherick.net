@@ -54,7 +54,13 @@ The team were nationally recognised when the company was awarded The Wreck Servi
 
 # The Medea - on the rocks at Greenaway
 
+<img width="50%" alt="JAN.1939. Medea on Greenaway.jpg" src="/JAN.1939. Medea on Greenaway.jpg" />
+
+---
+
 <img width="50%" alt="Medea on Greenaway 5JAN1939.png" src="/Medea on Greenaway 5JAN1939.png" />
+
+---
 
 
 - All that remains of the wreck of the Medea in 2021
