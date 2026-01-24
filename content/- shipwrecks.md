@@ -39,6 +39,10 @@ The team were nationally recognised when the company was awarded The Wreck Servi
 ---
 
 # 1900 Peace and Plenty wrecked on Greenaway also Lifeboat Arab who tried to save her. 
+
+- On 11 April, with a stormy west-north-westerly wind blowing, the ketch Peace and Plenty struck Greenway Rocks. The lifeboat Arab, whilst at anchor close to the casualty, was struck by a tremendous sea that broke 10 oars and washed eight of her crew overboard. The men managed to regain the lifeboat without loss but she was wrecked on the rocks and became a total loss.
+
+ 
 <img width="50%" alt="1900 Wrecked Lifeboat-Arab.png" src="/1900 Wrecked Lifeboat-Arab.png" />
 
 ---
