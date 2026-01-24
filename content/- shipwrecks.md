@@ -57,6 +57,14 @@ The team were nationally recognised when the company was awarded The Wreck Servi
 <img width="50%" alt="Medea on Greenaway 5JAN1939.png" src="/Medea on Greenaway 5JAN1939.png" />
 
 
+- All that remains of the wreck of the Medea in 2021
+
+- 
+<img width="50%" alt="Remains of Medea 2021.jpg" src="/Remains of Medea 2021.jpg" />
+
+
+
+
 
 # Maria Asumpta - Pentire Point
 
