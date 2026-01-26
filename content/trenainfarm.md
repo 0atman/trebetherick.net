@@ -10,7 +10,7 @@ tags:
 # Recent Photos
 2025 aerial photo showing Daymer and Bray Hill
 
-<img width="50%" alt="Trenain Farm pano.png" src="/Trenain Farm pano.png" />
+<img width="100%" alt="Trenain Farm pano.png" src="/Trenain Farm pano.png" />
 
 ---
 
