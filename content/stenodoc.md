@@ -9,11 +9,12 @@ date: 2025-01-01
 <img width="50%" src="/St Enodoc bright banner photo.jpg" alt="St Enodoc bright banner photo.jpg">
 
 ---
+- photoshopped image
 
 <img width="50%" src="/St Enodoc Church.png" alt="St Enodoc Church.png">
 
 ---
-
+- photoshopped image
 <img width="50%" src="/St Enodoc Church AI 1863.png" alt="St Enodoc Church AI 1863.png">
 
 ---
