@@ -17,7 +17,7 @@ tags:
  
  <img width="50%" src="/Christine Kelway-Gwinn 1970.png" alt="Christine Kelway-Gwinn 1970.png">
 
-- Christine Gwinn's Books
+- Christine Kelway-Gwinn's Books
 
  <img width="50%" src="/Christine Gwinn's Books.png" alt="Christine Gwinn's Books.png">
 
