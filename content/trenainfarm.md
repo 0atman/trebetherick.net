@@ -16,4 +16,3 @@ tags:
 # 1976 - Trenain as a working farm in the foreground
 
 <img width="50%" alt="1976-Trenain as a working farm.jpg" src="/1976-Trenain as a working farm.jpg" />
-
