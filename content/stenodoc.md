@@ -18,7 +18,7 @@ date: 2025-01-01
 
 ---
 
-- ### Notes on the Two Bells of St Enodoc Church
+- ### Two Bells of St Enodoc Church
 - 1613 ALFREDUS REX
 - 1875 SAHEL, bought from the Italian wreck, Immacolata
 
