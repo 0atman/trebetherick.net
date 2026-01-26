@@ -15,4 +15,4 @@ date: 2025-01-01
 
 ---
 
-- [White Wings(/whitewings)
+- [White Wings](/whitewings)
