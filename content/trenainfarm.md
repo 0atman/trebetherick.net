@@ -12,7 +12,6 @@ tags:
 
 <img width="50%" alt="Trenain Farm pano.png" src="/Trenain Farm pano.png" />
 
-
 ---
 
 # 1976 - Trenain as a working farm in the foreground
