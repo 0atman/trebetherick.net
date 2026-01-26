@@ -9,9 +9,15 @@ tags:
 
 - <img width="50%" src="/White Wings.png" alt="White Wings.png">
 
+- White Wings 1970
+
 - <img width="50%" src="/White Wings 1970.png" alt="White Wings 1970.png">
 
+-  Christine Kelway-Gwinn 1970
+ 
 - <img width="50%" src="/Christine Kelway-Gwinn 1970.png" alt="Christine Kelway-Gwinn 1970.png">
+
+- Christine Gwinn's Books
 
 - <img width="50%" src="/Christine Gwinn's Books.png" alt="Christine Gwinn's Books.png">
 
