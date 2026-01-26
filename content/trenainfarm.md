@@ -10,7 +10,7 @@ tags:
 # Recent Photos
 2025 aerial photo showing Daymer and Bray Hill
 
-<img width="50%" alt="Trenain Farm-photos." src="/Trenain Farm - Photo.png" />
+<img width="50%" alt="Trenain Farmhouse.png" src="/Trenain Farmhouse.png" />
 ---
 
 # 1976 - Trenain as a working farm in the foreground
