@@ -15,6 +15,7 @@ date: 2025-01-01
 
 ---
 - photoshopped image
+
 <img width="50%" src="/St Enodoc Church AI 1863.png" alt="St Enodoc Church AI 1863.png">
 
 ---
