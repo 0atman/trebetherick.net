@@ -280,6 +280,12 @@ Unknown lady with Lewis and Mabyn Oaten in the front garden of The Haven by the 
 
 <img width="50%" src="/lewis-oaten-and-mother-and-brian-at-kitts.hill.png" alt="30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf">
 
+- This photo could be Brian's Grandfather travelling from Kitts Hill to Trebetherick sometime before 1932 on his pony and trap going down Dunder Hill and through Polzeath. The original Tin Tabernackle still in place at Chapel Corner before the road improvements and being re built in its present day poition.
+ 
+
+<img width="50%" src="/1920s-Pony and Trap-Dunder Hill, Polzeath.jpg" alt="1920s-Pony and Trap-Dunder Hill, Polzeath.jpg">
+
+
 
 - The Haven 1960
 
