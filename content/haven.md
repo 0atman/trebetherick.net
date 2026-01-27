@@ -124,24 +124,12 @@ MABYN AND LEWIS OATEN 1911-1990
 Mabyn was born in St Mabyn and Lewis Oaten was born in St Kew, both in 1911.  Lewis Oaten had trained as a carpenter with the Wadebridge builder, Lewis Brown. They built some of the early Greenaway estate houses before the Second World War. Lewis Oaten bought a small piece of land in Trebetherick from Harry Mail, and built his own bungalow which they named Trelawney. Basil's father, Harry had bought Higher Farm of 180 acres and built a new farmhouse in 1930. The old farmhouse with sitting tenant was renamed Old Farm. 
 Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s when they sold that bungalow and moved to The Haven, the bungalow was renamed Pen-y-bryn.
 
-
-
-
-These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 238, 239 of [The Link](http://www.stminverlink.org) magazine.
-<object data="/The Haven 1.pdf" width="100%" height="500px"></object>
-
-## Part 2
-<object data="/The Haven 2.pdf" width="100%" height="500px"></object>
-
-## Part 3
-<object data="/The Haven 3.pdf" width="100%" height="500px"></object>
-
 ---
 # 1906 - The Haven was the first non-farming house to be constructed in Trebetherick.
 
 <img width="50%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
 
-- In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to agriculture. Trebetherick was then primarily open farmland with only farm houses, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby. 
+- In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to agriculture. It was rather atractively pebble-dashed with small stone and many shells brought up from the beach. Trebetherick was then primarily open farmland with only farm houses, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby. 
 
 
 ---
