@@ -107,7 +107,7 @@ In 1938 Lewis Oaten sensed that Hitler's actions were becoming increasingly mena
 ## TREBETHERICK DUCK PONDS - 1925
 Brian remembers, as a boy in the very cold winter of 1946, sliding on the several frozen Trebetherick duck ponds. They were on the road side of Higher Farm, close to the hedge, another was next to Elm Cottage. The one above Worthy House in the photo below was drained in the 1940s for road improvements.
 
-<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+<img width="50%" src="/Trebetherick-duck-pond.jpg" alt="Trebetherick-duck-pond.jpg">
 
 ## THE HAVEN - 1950s
 
