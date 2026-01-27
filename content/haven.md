@@ -36,6 +36,91 @@ tags:
 
 
 ## A Snapshot Of Living In Trebetherick - Part 1
+
+## THE HAVEN - 1906
+
+In 1906 The Haven was built in Trebetherick
+as an 8 bedroom guest house,
+near the top of Worthy Hill,
+to provide accommodation primarily for golfers
+to visit the new St Enodoc golf course.
+
+## The 1901 CENSUS for TREBETHERICK 
+
+There were eight households and one uninhabited house, 17 adults and 11 children.
+1901 TREBETHERICK INHABITANTS were 3 farmers, John Wills, John Mably, Charles Mably.  Humphrey Craddock a stone quarry mason, Ann White a shirt maker seamstress,
+The 2 coastguards were Benjamin Longworthy from Liverpool and William Clode, 
+The Mably sisters Joanna and Harriet were elderly and retired but employed several labourers. 
+One visiting migrant or in-service working family Cottell, husband, wife and 5 children, formerly of St Tudy and then Trevalga, listed with 75yr old widowed farmer, John Mably. 
+
+No road between Trebetherick and PolzeathAt this time there was no road between Trebetherick and Polzeath, only a pedestrian/pony track through the six fields between the two villages. An elderly gentleman visiting us at The Haven could remember using this track and having to open and close the six field gates to go from Trebetherick to Polzeath.
+The residents of Polzeath would make journeys north and eastwards by pony and trap or cart and horse to market, for business, or for visiting further afield. It was customary for passengers and children to walk up the hills to lighten the load for the pony. On the return journey, when reaching Port Quin Cross, being mostly downhill and flat from there to the top of Dunder Hill, Polzeath, it was possible to give the ponies a good gallop. Those flat fields are called Galloping Fields. 
+In summer, day trippers to Polzeath beach, for example the St. Mabyn and St. Kew Sunday School or feast day outings, travelled by horse drawn charabanc, (open cart or coach with bench seats). On arrival the horses were stabled, fed and watered at Male's Stables/Refreshment Rooms, (photo)
+The first Polzeath Chapel was built in 1911 using mostly corrugated iron and became known locally as the Tin Tabernacle at Chapel Corner, (1920 photo).
+In 1932/3 the new chapel was built further away from the corner to allow for road improvements.
+
+<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+
+<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+
+## DAYMER LANE - SAND CARTING TRAFFIC
+
+Tenant farmers' manorial leases to Trewornan and Roscarrock required 12 cart loads of sea sand to be applied to every cultivated acre. The carters sold sea sand in 1930 for 1/6 per load, 6 loads being gathered at each tide, (photo). Halfway down Daymer Lane a large horse trough was built, fed by a spring (photo). This was essential in the 19c for the many horses pulling the heavy carts loaded  with sand up the lane. 
+Several cottages were built backing onto the lane (enjoying lovely south facing, sheltered gardens), perhaps as many as 8 or 10, all but Cob Cottage and Torquil Cottage are now gone.
+
+<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+
+## CAUGHT IN THE 1881 or 1891 BLIZZARD
+
+Brian's great grandparents were returning in their cart from market in the late 1800s
+with a quantity of supplies and meat when it started to snow. It became a blizzard and soon they could go no further. They had to unhitch the pony and leave the cart where it was stuck. They led the pony and just managed to struggle home, telling of sometimes having to walk on the tops of the hedges as the snow was so deep. It was two weeks before the freeze thawed enough for them to return to fetch the cart. All their meat was frozen and none was spoiled.
+
+## THE HAVEN IN THE 1920s
+
+Ernest Betjeman, (Sir John Betjeman's father), brought his family to holiday in Trebetherick and stayed at The Haven 
+which was run as a guest house. Their pony and trap were kept in a stable at the rear and used to collect guests from Wadebridge train station or from Rock. As a boy, John Betjeman remembered being collected from the train station by The Haven owners in their pony and trap/cart. However, John recounted that sometimes if the weather was favourable they could stay on the train past Wadebridge and all the way to Padstow, crossing the estuary on the rowed/sailed ferry to Rock where they would be collected for the shorter journey to The Haven. 
+A family and all their luggage would have been quite a load for the pony but I'm sure the children would have delighted in walking alongside to lighten the load on the hills. We wonder which route they took from Rock to Trebetherick? If the tide was right they may well have taken the shorter and flatter beach option along the firm sand of the high tide line and up only the one hill of Daymer Lane? We hardly notice it now in our cars but the journey from Rock to Trebetherick up Rock Road, TREWINT Lane, TREWINT Hill and WORTHY Hill consists of several steep hills. 
+In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick and called it Undertown.
+
+<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+
+<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+
+## Richard Tellam-Hocking's First Trebetherick Shop (please contact me if you have a photo of this little shop I wouild love to have one)
+
+At the top of Polzeath Hill was a purpose built shop, double fronted with door in the middle, run by Ralph Tellem-Hocking's father, Richard. In the summer they made ice-cream and his wife sold it on the beach. When she needed more she waved a flag as a signal to her husband to bring down some more. At a later date this little building was used as the Polzeath doctors surgery.
+
+## 1930 The Haven - No Water Mains and Self Sufficiant
+On The Haven front lawn a grass tennis court was built at some time in those early years, chickens were kept, a cow for milk and a vegetable garden was tended in the field, on the southern side of the house.
+Water was drawn from a well in the garden, which still exists, though it is falling into disrepair at this time. A man was employed for two hours twice a day, pumping to fill the roof tank for WC flushing and washing, a wonderful 'modern' luxury and convenience at that time. A secondary hand pump was located in the scullery for drinking/cooking water.
+1941 WW2 Brian Oaten remembers as a child of two and a half being woken by his mother to be held up to the window to see the glow in the eastern sky which was Plymouth on fire during the WW2 blitz. It must have been particularly distressing for Mabyn as her husband Lewis, like many carpenters and shipwrights were working in Plymouth. 
+In 1938 Lewis Oaten sensed that Hitler's actions were becoming increasingly menacing and that things were changing in the building trade. He looked for alternative work and took a job in Looe as a shipwright making wooden launches for the Admiralty. Soon those with shipwright skills like Lewis and his colleagues were all required to go to Devonport and work in the Admiralty Dockyard which he did for the rest of the war.
+
+<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+
+## TREBETHERICK DUCK PONDS - 1925
+Brian remembers, as a boy in the very cold winter of 1946, sliding on the several frozen Trebetherick duck ponds. They were on the road side of Higher Farm, close to the hedge, another was next to Elm Cottage. The one above Worthy House in the photo below was drained in the 1940s for road improvements.
+
+<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+
+## THE HAVEN - 1950s
+
+The Haven was bought by Mr Harrison but remained unoccupied for 3 or 4 years. In the mid 1950s it was bought by Brian's parents, Mabyn and Lewis Oaten. Lewis was a qualified carpenter and builder employing several local people, using the stables as a storeroom and garage. Mabyn did bed and breakfast, taking overflow sleepers from St Moritz. One group of those guests was the Gill family. William T Gill was a financial director at Rolls Royce in Derby. The following year they brought down their friends and Mabyn was delighted to recount how she looked down from The Haven balcony at four Rolls Royces parked in the garden. (photo below).
+In 1951 Brian went to Bodmin Grammar school. Transport was a taxi to Rock, bus to Wadebridge then the train to Bodmin. As a teenager, he took the summer holiday job of assistant postman at Trebetherick post office, Worthy House. The postmaster and manual telephone switchboard operator was George Harris. Brian used George's 1934 black Austen 7 van to deliver mail and papers. George was full of fun and when operating the phone lines he used to say to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'.
+During the next 20 years Mabyn and Lewis continued to improve to The Haven, including adding a sun lounge and installing central heating.
+
+<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+
+## The Haven - 1970s
+
+In the mid 1970s Mabyn and Lewis retired and built a bungalow on their south field next to The Haven, calling it Trelawney. They sold The Haven to their son Brian Oaten and his wife Jenny, teachers at St Minver Primary School and Port Isaac Primary School. We remember the old wooden tennis net posts with brass winders still lying up in the garage loft.
+MABYN AND LEWIS OATEN 1911-1990
+Mabyn was born in St Mabyn and Lewis Oaten was born in St Kew, both in 1911.  Lewis Oaten had trained as a carpenter with the Wadebridge builder, Lewis Brown. They built some of the early Greenaway estate houses before the Second World War. Lewis Oaten bought a small piece of land in Trebetherick from Harry Mail, and built his own bungalow which they named Trelawney. Basil's father, Harry had bought Higher Farm of 180 acres and built a new farmhouse in 1930. The old farmhouse with sitting tenant was renamed Old Farm. 
+Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s when they sold that bungalow and moved to The Haven, the bungalow was renamed Pen-y-bryn.
+
+
+
+
 These PDFs were compiled by Brian and Jenny Oaten, as published in issues 237, 238, 239 of [The Link](http://www.stminverlink.org) magazine.
 <object data="/The Haven 1.pdf" width="100%" height="500px"></object>
 
