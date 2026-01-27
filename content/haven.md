@@ -88,9 +88,9 @@ which was run as a guest house. Their pony and trap were kept in a stable at the
 A family and all their luggage would have been quite a load for the pony but I'm sure the children would have delighted in walking alongside to lighten the load on the hills. We wonder which route they took from Rock to Trebetherick? If the tide was right they may well have taken the shorter and flatter beach option along the firm sand of the high tide line and up only the one hill of Daymer Lane? We hardly notice it now in our cars but the journey from Rock to Trebetherick up Rock Road, TREWINT Lane, TREWINT Hill and WORTHY Hill consists of several steep hills. 
 In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick and called it Undertown.
 
-<img width="50%" src="/1925 Pony&Trap at Polzeath.jpg" alt="1925 Pony&Trap at Polzeath.jpg">
+<img width="50%" src="/1925 Pony&Trap on Polzeath.jpg" alt="1925 Pony&Trap on Polzeath.jpg">
 
-<img width="50%" src="/1926 Pony&Trap on Polzeath Beach.jpg" alt="1926 Pony&Trap on Polzeath Beach.jpg">
+<img width="50%" src="/1926 Pony&Trap at Polzeath Beach.jpg" alt="1926 Pony&Trap at Polzeath Beach.jpg">
 
 ## Richard Tellam-Hocking's First Trebetherick Shop (please contact me if you have a photo of this little shop I wouild love to have one)
 
