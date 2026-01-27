@@ -35,7 +35,7 @@ tags:
 <img width="50%" src="/The Haven 2000.jpg" alt="The Haven 2000">
 
 
-## A Snapshot Of Living In Trebetherick - Part 1
+## A Snapshot Of Trebetherick - Brian Oaten - Born and Lived In Trebetherick
 
 ## THE HAVEN - 1906
 
