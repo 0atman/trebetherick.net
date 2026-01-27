@@ -65,7 +65,7 @@ In 1932/3 the new chapel was built further away from the corner to allow for roa
 
 ## DAYMER LANE - SAND CARTING TRAFFIC
 
-<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+<img width="50%" src="/1930-sand-carting.jpg" alt="1930-sand-carting.jpg">
 
 Tenant farmers' manorial leases to Trewornan and Roscarrock required 12 cart loads of sea sand to be applied to every cultivated acre. The carters sold sea sand in 1930 for 1/6 per load, 6 loads being gathered at each tide, (photo). Halfway down Daymer Lane a large horse trough was built, fed by a spring (photo). This was essential in the 19c for the many horses pulling the heavy carts loaded  with sand up the lane. 
 Several cottages were built backing onto the lane (enjoying lovely south facing, sheltered gardens), perhaps as many as 8 or 10, all but Cob Cottage and Torquil Cottage are now gone.
@@ -84,9 +84,9 @@ which was run as a guest house. Their pony and trap were kept in a stable at the
 A family and all their luggage would have been quite a load for the pony but I'm sure the children would have delighted in walking alongside to lighten the load on the hills. We wonder which route they took from Rock to Trebetherick? If the tide was right they may well have taken the shorter and flatter beach option along the firm sand of the high tide line and up only the one hill of Daymer Lane? We hardly notice it now in our cars but the journey from Rock to Trebetherick up Rock Road, TREWINT Lane, TREWINT Hill and WORTHY Hill consists of several steep hills. 
 In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick and called it Undertown.
 
-<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+<img width="50%" src="/1925 Pony&Trap at Polzeath.jpg" alt="1925 Pony&Trap at Polzeath.jpg">
 
-<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+<img width="50%" src="/1926 Pony&Trap on Polzeath Beach.jpg" alt="1926 Pony&Trap on Polzeath Beach.jpg">
 
 ## Richard Tellam-Hocking's First Trebetherick Shop (please contact me if you have a photo of this little shop I wouild love to have one)
 
@@ -98,7 +98,7 @@ Water was drawn from a well in the garden, which still exists, though it is fall
 1941 WW2 Brian Oaten remembers as a child of two and a half being woken by his mother to be held up to the window to see the glow in the eastern sky which was Plymouth on fire during the WW2 blitz. It must have been particularly distressing for Mabyn as her husband Lewis, like many carpenters and shipwrights were working in Plymouth. 
 In 1938 Lewis Oaten sensed that Hitler's actions were becoming increasingly menacing and that things were changing in the building trade. He looked for alternative work and took a job in Looe as a shipwright making wooden launches for the Admiralty. Soon those with shipwright skills like Lewis and his colleagues were all required to go to Devonport and work in the Admiralty Dockyard which he did for the rest of the war.
 
-<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+<img width="50%" src="/The Haven-top right.png" alt="The Haven-top right.png">
 
 ## TREBETHERICK DUCK PONDS - 1925
 Brian remembers, as a boy in the very cold winter of 1946, sliding on the several frozen Trebetherick duck ponds. They were on the road side of Higher Farm, close to the hedge, another was next to Elm Cottage. The one above Worthy House in the photo below was drained in the 1940s for road improvements.
@@ -111,7 +111,7 @@ The Haven was bought by Mr Harrison but remained unoccupied for 3 or 4 years. In
 In 1951 Brian went to Bodmin Grammar school. Transport was a taxi to Rock, bus to Wadebridge then the train to Bodmin. As a teenager, he took the summer holiday job of assistant postman at Trebetherick post office, Worthy House. The postmaster and manual telephone switchboard operator was George Harris. Brian used George's 1934 black Austen 7 van to deliver mail and papers. George was full of fun and when operating the phone lines he used to say to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'.
 During the next 20 years Mabyn and Lewis continued to improve to The Haven, including adding a sun lounge and installing central heating.
 
-<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+<img width="50%" src="/1920 Fish Delivery.jpg" alt="1920 Fish Delivery.jpg">
 
 ## The Haven - 1970s
 
