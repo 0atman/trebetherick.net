@@ -59,16 +59,18 @@ In summer, day trippers to Polzeath beach, for example the St. Mabyn and St. Kew
 The first Polzeath Chapel was built in 1911 using mostly corrugated iron and became known locally as the Tin Tabernacle at Chapel Corner, (1920 photo).
 In 1932/3 the new chapel was built further away from the corner to allow for road improvements.
 
-<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+<img width="50%" src="/1920-The Haven.jpg" alt="1920-The Haven.jpg">
 
-<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+<img width="50%" src="/1920s-The Haven-Looking South.jpg" alt="1920s-The Haven-Looking South.jpg">
 
 ## DAYMER LANE - SAND CARTING TRAFFIC
+
+<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
 
 Tenant farmers' manorial leases to Trewornan and Roscarrock required 12 cart loads of sea sand to be applied to every cultivated acre. The carters sold sea sand in 1930 for 1/6 per load, 6 loads being gathered at each tide, (photo). Halfway down Daymer Lane a large horse trough was built, fed by a spring (photo). This was essential in the 19c for the many horses pulling the heavy carts loaded  with sand up the lane. 
 Several cottages were built backing onto the lane (enjoying lovely south facing, sheltered gardens), perhaps as many as 8 or 10, all but Cob Cottage and Torquil Cottage are now gone.
 
-<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+<img width="50%" src="/1930-drinking trough Daymer Lane.png" alt="1930-drinking trough Daymer Lane.png">
 
 ## CAUGHT IN THE 1881 or 1891 BLIZZARD
 
