@@ -59,7 +59,7 @@ In summer, day trippers to Polzeath beach, for example the St. Mabyn and St. Kew
 The first Polzeath Chapel was built in 1911 using mostly corrugated iron and became known locally as the Tin Tabernacle at Chapel Corner, (1920 photo).
 In 1932/3 the new chapel was built further away from the corner to allow for road improvements.
 
-<img width="50%" src="/1920-The Haven.jpg" alt="1920-The Haven.jpg">
+<img width="50%" src="/1920 Chapel Corner, Polzeath.jpg" alt="1920 Chapel Corner, Polzeath.jpg">
 
 <img width="50%" src="/1920s-The Haven-Looking South.jpg" alt="1920s-The Haven-Looking South.jpg">
 
