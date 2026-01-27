@@ -56,6 +56,10 @@ One visiting migrant or in-service working family Cottell, husband, wife and 5 c
 No road between Trebetherick and PolzeathAt this time there was no road between Trebetherick and Polzeath, only a pedestrian/pony track through the six fields between the two villages. An elderly gentleman visiting us at The Haven could remember using this track and having to open and close the six field gates to go from Trebetherick to Polzeath.
 The residents of Polzeath would make journeys north and eastwards by pony and trap or cart and horse to market, for business, or for visiting further afield. It was customary for passengers and children to walk up the hills to lighten the load for the pony. On the return journey, when reaching Port Quin Cross, being mostly downhill and flat from there to the top of Dunder Hill, Polzeath, it was possible to give the ponies a good gallop. Those flat fields are called Galloping Fields. 
 In summer, day trippers to Polzeath beach, for example the St. Mabyn and St. Kew Sunday School or feast day outings, travelled by horse drawn charabanc, (open cart or coach with bench seats). On arrival the horses were stabled, fed and watered at Male's Stables/Refreshment Rooms, (photo)
+
+<img width="50%" src="/The Haven 2000.jpg" alt="The Haven 2000">
+
+
 The first Polzeath Chapel was built in 1911 using mostly corrugated iron and became known locally as the Tin Tabernacle at Chapel Corner, (1920 photo).
 In 1932/3 the new chapel was built further away from the corner to allow for road improvements.
 
