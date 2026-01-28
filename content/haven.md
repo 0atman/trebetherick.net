@@ -104,7 +104,7 @@ Water was drawn from a well in the garden, which still exists, though it is fall
 1941 WW2 Brian Oaten remembers as a child of two and a half being woken by his mother to be held up to the window to see the glow in the eastern sky which was Plymouth on fire during the WW2 blitz. It must have been particularly distressing for Mabyn as her husband Lewis, like many carpenters and shipwrights were working in Plymouth. 
 In 1938 Lewis Oaten sensed that Hitler's actions were becoming increasingly menacing and that things were changing in the building trade. He looked for alternative work and took a job in Looe as a shipwright making wooden launches for the Admiralty. Soon those with shipwright skills like Lewis and his colleagues were all required to go to Devonport and work in the Admiralty Dockyard which he did for the rest of the war.
 
-<img width="50%" src="/The Haven-top right.png" alt="The Haven-top right.png">
+<img width="80%" src="/The Haven-top right.png" alt="The Haven-top right.png">
 
 ## TREBETHERICK DUCK PONDS - 1925
 Brian remembers, as a boy in the very cold winter of 1946, sliding on the several frozen Trebetherick duck ponds. They were on the road side of Higher Farm, close to the hedge, another was next to Elm Cottage. The one above Worthy House in the photo below was drained in the 1940s for road improvements.
