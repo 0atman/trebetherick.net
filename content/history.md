@@ -56,7 +56,7 @@ Down Daymer Lane was Lower Trebetherick with cottages on the landward site, and 
 
 - 1930 - On the site of “Higher Farm” built in 1930, there were 2 blocks of farm buildings, and no trace of Joice Guy’s cottage.
 
-## Summary
+# Summary
 There has been a farming community forming the village of Trebetherick since 1630. Roscarrock, St Minver and probably Trewornan are all described in the Domesday Survey of 1086, and it seems probable that Trebetherick is much older than 350 years. The siting of the village with its 6 farmhouses on high ground, above the tree line and yet protected from the prevailing winds is a typical setting for a Celtic hamlet. These settlements of 6 or 8 farmsteads grouped together have in some cases been in continuous occupation in the South West of England since Pre-Roman times. There have been Roman coins uncovered in the vicinity of the village, there were Saxon graves on Bray Hill, and a Bronze Age barrow at the top of Bray. These all point to a long history of human occupation in the area. None of this research shows any sign of a fishing community, nor of an abandoned village at the head of Daymer Bay.
 
 
