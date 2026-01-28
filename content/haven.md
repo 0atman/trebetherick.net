@@ -14,7 +14,7 @@ tags:
 
 ---
 
-- 1950
+## 1950
 
   
 <img width="80%" src="/haven-1965-74.jpg" alt="1965 74">
@@ -134,6 +134,22 @@ Collage of duck pond 1925 and today 2021
 
 Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, was drained in the 1930s after mains water was installed, making way for the ​new and larger Trebetherick telephone exchange. On the right is the gate into Ham Field, so called as it was the triangular shape of a ham.
 
+## 1941
+- 1941 - Brian Oaten age 2, inside the gate at the first Trelawney, Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew.
+
+
+<img height="50%" width="50%" src="/Brian-Oaten-age-2-or-3-in-pony-and-trap..png" alt="1941 - Brian Oaten age 2 or 3, inside the gate at the first Trelawney Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew">
+
+
+- Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.
+
+
+<img width="50%" src="/lewis-oaten-and-mother-and-brian-at-kitts.hill.png" alt="30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf">
+
+- This photo could be Brian's Grandfather, John Oaten, travelling from Kitts Hill to Trebetherick sometime before 1932 on his pony and trap going down Dunder Hill and through Polzeath. The original Tin Tabernackle still in place at Chapel Corner before the road improvements and being re built in its present day poition.
+ 
+
+<img width="50%" src="/Pre 1932- Dunder Hill, Polzeath.jpg" alt="Pre 1932- Dunder Hill, Polzeath.jpg">
 ---
 
 ## THE HAVEN - 1950s
@@ -355,22 +371,6 @@ Unknown lady with Lewis and Mabyn Oaten in the front garden of The Haven by the 
 
 
 ## Additional Photos
-
-- 1941 - Brian Oaten age 2, inside the gate at the first Trelawney, Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew.
-
-
-<img height="50%" width="50%" src="/Brian-Oaten-age-2-or-3-in-pony-and-trap..png" alt="1941 - Brian Oaten age 2 or 3, inside the gate at the first Trelawney Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew">
-
-
-- Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.
-
-
-<img width="50%" src="/lewis-oaten-and-mother-and-brian-at-kitts.hill.png" alt="30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf">
-
-- This photo could be Brian's Grandfather, John Oaten, travelling from Kitts Hill to Trebetherick sometime before 1932 on his pony and trap going down Dunder Hill and through Polzeath. The original Tin Tabernackle still in place at Chapel Corner before the road improvements and being re built in its present day poition.
- 
-
-<img width="50%" src="/Pre 1932- Dunder Hill, Polzeath.jpg" alt="Pre 1932- Dunder Hill, Polzeath.jpg">
 
 
 
