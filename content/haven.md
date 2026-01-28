@@ -14,10 +14,6 @@ tags:
 
 
 
- 
-<img width="80%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
-
-
 
 ---
 
