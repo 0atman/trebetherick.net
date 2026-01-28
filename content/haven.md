@@ -8,7 +8,7 @@ tags:
 
 
  
-<img width="50%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
+<img width="80%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
 
 
 
@@ -17,7 +17,7 @@ tags:
 - 1950
 
   
-<img width="50%" src="/haven-1965-74.jpg" alt="1965 74">
+<img width="80%" src="/haven-1965-74.jpg" alt="1965 74">
 
 ---
 
@@ -28,11 +28,11 @@ tags:
 
 ---
 
-<img width="50%" src="/The Haven-2000.jpg" alt="The Haven 2000">
+<img width="80%" src="/The Haven-2000.jpg" alt="The Haven 2000">
 
 ---
 
-<img width="50%" src="/The Haven 2000.jpg" alt="The Haven 2000">
+<img width="80%" src="/The Haven 2000.jpg" alt="The Haven 2000">
 
 
 ## A Snapshot Of Trebetherick - Brian Oaten - Born and Lived In Trebetherick
@@ -59,24 +59,24 @@ At this time there was no road between Trebetherick and Polzeath only a pedestri
 The residents of Polzeath would make journeys north and eastwards up Dunder Hill by pony and trap or cart and horse to market, for business, or for visiting further afield. It was customary for passengers and children to walk up the hills to lighten the load for the pony. On the return journey, when reaching Port Quin Cross, being mostly downhill and flat from there to the top of Dunder Hill, Polzeath, it was possible to give the ponies a good gallop. Those flat fields are called Galloping Fields. 
 In summer, day trippers to Polzeath beach, for example the St. Mabyn and St. Kew Sunday School or feast day outings, travelled by horse drawn charabanc, (open cart or coach with bench seats). On arrival the horses were stabled, fed and watered at F Male's (no relation to Trebetherick Higher Farm Harry and Basil Male) Stables/Refreshment Rooms, charabancs stabled, cars parked (photo)
 
-<img width="50%" src="/Males-tea-rooms.jpg" alt="Males-tea-rooms.jpg">
+<img width="80%" src="/Males-tea-rooms.jpg" alt="Males-tea-rooms.jpg">
 
 
 The first Polzeath Chapel was built in 1911 using mostly corrugated iron and became known locally as the Tin Tabernacle at Chapel Corner, (1920 photo).
 In 1932/3 the new chapel was built further away from the corner to allow for road improvements.
 
-<img width="50%" src="/1920 Chapel Corner, Polzeath.jpg" alt="1920 Chapel Corner, Polzeath.jpg">
+<img width="80%" src="/1920 Chapel Corner, Polzeath.jpg" alt="1920 Chapel Corner, Polzeath.jpg">
 
-<img width="50%" src="/1920s-The Haven-Looking South.jpg" alt="1920s-The Haven-Looking South.jpg">
+<img width="80%" src="/1920s-The Haven-Looking South.jpg" alt="1920s-The Haven-Looking South.jpg">
 
 ## DAYMER LANE - SAND CARTING TRAFFIC
 
-<img width="50%" src="/1930-sand-carting.jpg" alt="1930-sand-carting.jpg">
+<img width="80%" src="/1930-sand-carting.jpg" alt="1930-sand-carting.jpg">
 
 Tenant farmers' manorial leases to Trewornan and Roscarrock required 12 cart loads of sea sand to be applied to every cultivated acre. The carters sold sea sand in 1930 for 1/6 per load, 6 loads being gathered at each tide, (photo). Halfway down Daymer Lane a large horse trough was built, fed by a spring (photo). This was essential in the 19c for the many horses pulling the heavy carts loaded  with sand up the lane. 
 Several cottages were built backing onto the lane (enjoying lovely south facing, sheltered gardens), perhaps as many as 8 or 10, all but Cobb Cottage and Torquil Cottage are now gone.
 
-<img width="50%" src="/1930-drinking trough Daymer Lane.png" alt="1930-drinking trough Daymer Lane.png">
+<img width="80%" src="/1930-drinking trough Daymer Lane.png" alt="1930-drinking trough Daymer Lane.png">
 
 ## CAUGHT IN THE 1881 or 1891 BLIZZARD
 
@@ -90,17 +90,24 @@ which was run as a guest house. Their pony and trap were kept in a stable at the
 A family and all their luggage would have been quite a load for the pony but I'm sure the children would have delighted in walking alongside to lighten the load on the hills. We wonder which route they took from Rock to Trebetherick? If the tide was right they may well have taken the shorter and flatter beach option along the firm sand of the high tide line and up only the one hill of Daymer Lane? We hardly notice it now in our cars but the journey from Rock to Trebetherick up Rock Road, TREWINT Lane, TREWINT Hill and WORTHY Hill consists of several steep hills. 
 In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick and called it Undertown.
 
-<img width="50%" src="/1925 Pony&Trap on Polzeath Beach.jpg" alt="1925 Pony&Trap on Polzeath Beach.jpg">
+<img width="80%" src="/1925 Pony&Trap on Polzeath Beach.jpg" alt="1925 Pony&Trap on Polzeath Beach.jpg">
 
-<img width="50%" src="/1926 Pony&Trap at Polzeath.jpg" alt="1926 Pony&Trap at Polzeath.jpg">
+<img width="80%" src="/1926 Pony&Trap at Polzeath.jpg" alt="1926 Pony&Trap at Polzeath.jpg">
 
 ## Richard Tellam-Hocking's First Trebetherick Shop (please contact me if you have a photo of this little shop I wouild love to have one)
 
 At the top of Polzeath Hill was a purpose built shop, double fronted with door in the middle, run by Ralph Tellem-Hocking's father, Richard. In the summer they made ice-cream and his wife sold it on the beach. When she needed more she waved a flag as a signal to her husband to bring down some more. At a later date this little building was used as the Polzeath doctors surgery.
 
 ## 1930 The Haven - No Water Mains and Self Sufficiant
+
+
 On The Haven front lawn a grass tennis court was built at some time in those early years, chickens were kept, a cow for milk and a vegetable garden was tended in the field, on the southern side of the house.
 Water was drawn from a well in the garden, which still exists, though it is falling into disrepair at this time. A man was employed for two hours twice a day, pumping to fill the roof tank for WC flushing and washing, a wonderful 'modern' luxury and convenience at that time. A secondary hand pump was located in the scullery for drinking/cooking water.
+
+## The Haven Pump and Well
+<img width="80%" src="/Haven-pump.jpg" alt="Haven-pump.jpg">
+
+
 1941 WW2 Brian Oaten remembers as a child of two and a half being woken by his mother to be held up to the window to see the glow in the eastern sky which was Plymouth on fire during the WW2 blitz. It must have been particularly distressing for Mabyn as her husband Lewis, like many carpenters and shipwrights were working in Plymouth. 
 In 1938 Lewis Oaten sensed that Hitler's actions were becoming increasingly menacing and that things were changing in the building trade. He looked for alternative work and took a job in Looe as a shipwright making wooden launches for the Admiralty. Soon those with shipwright skills like Lewis and his colleagues were all required to go to Devonport and work in the Admiralty Dockyard which he did for the rest of the war.
 
@@ -111,7 +118,7 @@ Brian remembers, as a boy in the very cold winter of 1946, sliding on the severa
 
 <img width="80%" src="/Trebetherick-duck-pond.jpg" alt="Trebetherick-duck-pond.jpg">
 
-<img width="50%" src="/duck-pond-1925-vs-2021.jpg" alt="Collage of duck pond 1925 and today 2021">
+<img width="80%" src="/duck-pond-1925-vs-2021.jpg" alt="Collage of duck pond 1925 and today 2021">
 
 
 Collage of duck pond 1925 and today 2021
@@ -127,7 +134,7 @@ The Haven was bought by Mr Harrison but remained unoccupied for 3 or 4 years. In
 In 1951 Brian went to Bodmin Grammar school. Transport was a taxi to Rock, bus to Wadebridge then the train to Bodmin. As a teenager, he took the summer holiday job of assistant postman at Trebetherick post office, Worthy House. The postmaster and manual telephone switchboard operator was George Harris. Brian used George's 1934 black Austen 7 van to deliver mail and papers. George was full of fun and when operating the phone lines he used to say to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'.
 During the next 20 years Mabyn and Lewis continued to improve to The Haven, including adding a sun lounge and installing central heating.
 
-<img width="50%" src="/1920 Fish Delivery.jpg" alt="1920 Fish Delivery.jpg">
+<img width="80%" src="/1920 Fish Delivery.jpg" alt="1920 Fish Delivery.jpg">
 
 ## The Haven - 1970s
 
@@ -139,7 +146,7 @@ Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s 
 ---
 # 1906 - The Haven was the first non-farming house to be constructed in Trebetherick.
 
-<img width="50%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
+<img width="80%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
 
 - In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to agriculture. It was rather atractively pebble-dashed with small stone and many shells brought up from the beach. Trebetherick was then primarily open farmland with only farm houses, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby. 
 
@@ -148,13 +155,13 @@ Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s 
 - Mabyn Oaten on the balcony of The Haven before the bay windows were converted into a mahogany sunroom extension in the late 1950s
 
 
-<img width="50%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" src="/mabyn-oaten-balcony-before-1950.jpg" />
+<img width="80%" alt="Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s" src="/mabyn-oaten-balcony-before-1950.jpg" />
  
 
 
 ---
 
-<img width="50%" alt="The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony" src="/haven-mid-1950s-original-balcony.jpg" />
+<img width="80%" alt="The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony" src="/haven-mid-1950s-original-balcony.jpg" />
  
 
 - The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony. Mabyn did bed and breakfasts while Lewis, a carpenter, ran a small carpentry/joinery and general repairs business.
@@ -163,7 +170,7 @@ Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s 
 
 
 
-<img width="50%" alt="Screenshot_20220202-141059" src="/haven-postcard-1930-1950-car-beach.jpg" />
+<img width="80%" alt="Screenshot_20220202-141059" src="/haven-postcard-1930-1950-car-beach.jpg" />
 
 - This postcard was taken sometime 1930-1950. Note The Haven top right and the car on the beach.
 
@@ -171,7 +178,7 @@ Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s 
 
 # Sand Cart and Pony Pulling Up Daymer Lane
 
-<img width="50%" alt="Screenshot_20240503-181033" src="/sand-carter-pony-daymer-lane-1920-40.jpg" />
+<img width="80%" alt="Screenshot_20240503-181033" src="/sand-carter-pony-daymer-lane-1920-40.jpg" />
 
 - 1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane
 
@@ -181,7 +188,7 @@ Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s 
 
 - Looking uphill, at The Haven entrance on the right, Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements in late 1960s.
 
-<img width="50%" src="/haven-uphill-old-farm-centre.jpg" alt="Looking uphill, at The Haven entrance on the right, Old Farm is the house you can just about see in the centre">
+<img width="80%" src="/haven-uphill-old-farm-centre.jpg" alt="Looking uphill, at The Haven entrance on the right, Old Farm is the house you can just about see in the centre">
 
 
 
@@ -196,7 +203,7 @@ Below the garage on Daymer Lane, Worthy House ​was built ​and served as both
 
  View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages
  
-<img width="50%" src="/junction-of-daymer-lane-and-worth-hill-with-garage-cable.jpg" alt="View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
+<img width="80%" src="/junction-of-daymer-lane-and-worth-hill-with-garage-cable.jpg" alt="View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
 
 
 
@@ -204,7 +211,7 @@ Below the garage on Daymer Lane, Worthy House ​was built ​and served as both
 
 This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956
 
-<img width="50%" src="/daymer-bay-garage-derelict-1956.jpg" alt="This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956">
+<img width="80%" src="/daymer-bay-garage-derelict-1956.jpg" alt="This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956">
 
 
 
@@ -212,7 +219,7 @@ This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have be
 
 At the top of Worthy hill, looking down, Daymer Bay Garage is on the right and The Haven entrance is on the left
 
-<img width="50%" src="/worthy-hill-downhill-haven-and-garage.jpg" alt="At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left">
+<img width="80%" src="/worthy-hill-downhill-haven-and-garage.jpg" alt="At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left">
 
 
 ---
@@ -221,14 +228,14 @@ At the top of Worthy hill, looking down, Daymer Bay Garage is on the right and T
 Almost at the top of Worthy Hill, The Haven entrance is on the left with gate posts parallel with the original old road. Daymer Bay Garage is now gone.
 
 
-<img width="50%" src="/top-worthy-hill-haven-entrance-left.jpg" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left~2">
+<img width="80%" src="/top-worthy-hill-haven-entrance-left.jpg" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left~2">
 
 ---
 
 ## 1963 Aerial View of The Haven - showing Lewis Oaten's newly constructed mahogany sunlounge
 sheltered from north and east by mature Cornish elm trees - all died of the Dutch elm disease in 1970/80s.
 
-<img width="50%" height="50%" alt="Screenshot_20251028-102328" src="/haven-aerial-new-mahogany-sunlounge.jpg" />
+<img width="80%" height="50%" alt="Screenshot_20251028-102328" src="/haven-aerial-new-mahogany-sunlounge.jpg" />
 
 
 
@@ -236,7 +243,7 @@ sheltered from north and east by mature Cornish elm trees - all died of the Dutc
 
 Looking up Daymer Lane almost at the top, this was a set 4 garages with the post office on the right
 
-<img width="50%" src="/daymer-lane-near-top-4-garages.jpg" alt="Looking up Daymer Lane almost at the top, this was a set 4 garages~3">
+<img width="80%" src="/daymer-lane-near-top-4-garages.jpg" alt="Looking up Daymer Lane almost at the top, this was a set 4 garages~3">
 
 
 
@@ -247,15 +254,15 @@ Looking up Daymer Lane almost at the top, this was a set 4 garages with the post
 Bill Tucker from Trewornan Farm, was a horse and coaching enthusiast and he used to conduct pleasure trips that passed by The Haven, sounding a long, shining copper coaching horn at corners and other suitable points along the route.
 ---
 
-<img width="50%" src="/coach-and-four.jpg" alt="Coach and Four">
+<img width="80%" src="/coach-and-four.jpg" alt="Coach and Four">
 
 ---
 
-<img width="50%" src="/bill-tucker-coach-and-four.jpg" alt="Bill Tucker's Coach and Four">
+<img width="80%" src="/bill-tucker-coach-and-four.jpg" alt="Bill Tucker's Coach and Four">
 
 ---
 
-<img width="50%" src="https://github.com/user-attachments/assets/51c3f48f-e78f-4e33-989a-7eff73e18302" alt="Coach and Four">
+<img width="80%" src="https://github.com/user-attachments/assets/51c3f48f-e78f-4e33-989a-7eff73e18302" alt="Coach and Four">
 
 ---
 
@@ -264,29 +271,29 @@ Bill Tucker from Trewornan Farm, was a horse and coaching enthusiast and he used
 - Higher Trebetherick - Looking North - Before Road Widening 1960s
 
 
-<img width="50%" src="/higher-trebetherick-north-before-road-widening-1960s.jpg" alt="The old coastguard houses on the right on th way to Polzeath through Trebetherick">
+<img width="80%" src="/higher-trebetherick-north-before-road-widening-1960s.jpg" alt="The old coastguard houses on the right on th way to Polzeath through Trebetherick">
 
 
 
 Higher Farm on Left - Shop on Right
 
 
-<img width="50%" src="/higher-farm-left-shop-right.jpg" alt="At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath">
+<img width="80%" src="/higher-farm-left-shop-right.jpg" alt="At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath">
 
 New Telphone Exchange on right
 
-<img width="50%" src="/caravan-basil-edna-male-1972.jpg" alt="1972 Old Caravan belonging to Basil and Edna Male">
+<img width="80%" src="/caravan-basil-edna-male-1972.jpg" alt="1972 Old Caravan belonging to Basil and Edna Male">
 
 ---
 
 - Worthy Hill 
 
 
-<img width="50%" src="/middle-worthy-hill-floraldene-right.jpg" alt="Looking up the middle section of Worthy Hill, Floraldene is on the right">
+<img width="80%" src="/middle-worthy-hill-floraldene-right.jpg" alt="Looking up the middle section of Worthy Hill, Floraldene is on the right">
 
 Looking North - Floraldene On Right
 
-<img width="50%" src="/worthy-hill-downhill-coppice-floraldene-1960.jpg" alt="Opposite The Haven entrance, looking down Worthy Hill, in the mid 1960s only The Coppice had been built down to the cream house, Floradene">
+<img width="80%" src="/worthy-hill-downhill-coppice-floraldene-1960.jpg" alt="Opposite The Haven entrance, looking down Worthy Hill, in the mid 1960s only The Coppice had been built down to the cream house, Floradene">
 
 - Worthy Hill - Looking South - Floraldene on Left.
 
@@ -299,21 +306,21 @@ Note the council wintertime piles of sand to grit the hill
 - 1979 Daymer Beach, when it was a lovely sandy beach.
 - 
 
-<img width="50%" src="daymer-1979.jpg" alt="Screenshot_20250819-172308~2">
+<img width="80%" src="daymer-1979.jpg" alt="Screenshot_20250819-172308~2">
 
 ---
 
-<img width="50%" src="/daymer-and-bre-1979.jpg" alt="Screenshot_20250819-172220~2">
+<img width="80%" src="/daymer-and-bre-1979.jpg" alt="Screenshot_20250819-172220~2">
 
 ---
 
-<img width="50%" src="/mabyn-oaten-balcony-before-1950-2.jpg" alt="Mabyn Oaten on the balcony of _The Haven_ before it was 
+<img width="80%" src="/mabyn-oaten-balcony-before-1950-2.jpg" alt="Mabyn Oaten on the balcony of _The Haven_ before it was 
  removed in the late 1950s~2">
 ---
 
 
 
-<img width="50%" src="/lewis-mabyn-brian-oaten-canon.jpg" alt="PXL_20250828_080716208">
+<img width="80%" src="/lewis-mabyn-brian-oaten-canon.jpg" alt="PXL_20250828_080716208">
 
 ---
 
