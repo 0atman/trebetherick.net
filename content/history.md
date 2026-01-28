@@ -71,13 +71,13 @@ Mr R Hocking of Trebetherick
 Mrs Jean Dils of Reading
 
 ## Primary Sources
-# Cornwall Record Office
+## Cornwall Record Office
 Probate material – Wills, Inventories and Accounts.
 Deeds from the Manors of Pentire and Trewornan.
 Tithe map and apportionment schedule for St Minver 1838.
 Census return for Trebetherick 1851.
 Pages from a farm account book 1872.
-# Redruth Local History Library
+## Redruth Local History Library
 Bishops Transcripts of St Minver Parish Register. O.S. 25 inch map 1882.
 ## Secondary Sources
 The History of the Hundred of Trigg Minor. Sir John Maclean 1879.
@@ -85,31 +85,5 @@ Victoria County History of Cornwall.
 General Review of Cornwall, Board of Agriculture, A. Worgan. 1811.
 The Making of the English Landscape. W.G. Hoskins. 1955.
 O.S. 1 inch map 1813.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
