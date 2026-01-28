@@ -87,7 +87,7 @@ In 1932/3 the new chapel was built further away from the corner to allow for roa
 <img width="80%" src="/1930-sand-carting.jpg" alt="1930-sand-carting.jpg">
 
 Tenant farmers' manorial leases to Trewornan and Roscarrock required 12 cart loads of sea sand to be applied to every cultivated acre. The carters sold sea sand in 1930 for 1/6 per load, 6 loads being gathered at each tide, (photo). Halfway down Daymer Lane a large horse trough was built, fed by a spring (photo). This was essential in the 19c for the many horses pulling the heavy carts loaded  with sand up the lane. 
-Several cottages were built backing onto the lane (enjoying lovely south facing, sheltered gardens), perhaps as many as 8 or 10, all but Cobb Cottage and Torquil Cottage are now gone.
+Several cottages were built backing onto Daymer Lane (enjoying lovely south facing, sheltered gardens), perhaps as many as 8 or 10, all but Cobb Cottage and Torquil Cottage are now gone.
 
 <img width="30%" src="/1930-drinking trough Daymer Lane.png" alt="1930-drinking trough Daymer Lane.png">
 
