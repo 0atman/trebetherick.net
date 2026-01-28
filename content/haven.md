@@ -24,7 +24,7 @@ tags:
 - This Painting 1960 shows four Rolls Royce CEO guests from Duffield, with their families and each driving a Rolls Royce.
 
 
-<img width="50%" src="/The Haven-1960.jpg" alt="The Haven 1960">
+<img width="80%" src="/The Haven-1960.jpg" alt="The Haven 1960">
 
 ---
 
