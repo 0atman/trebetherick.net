@@ -57,7 +57,7 @@ No road between Trebetherick and PolzeathAt this time there was no road between 
 The residents of Polzeath would make journeys north and eastwards by pony and trap or cart and horse to market, for business, or for visiting further afield. It was customary for passengers and children to walk up the hills to lighten the load for the pony. On the return journey, when reaching Port Quin Cross, being mostly downhill and flat from there to the top of Dunder Hill, Polzeath, it was possible to give the ponies a good gallop. Those flat fields are called Galloping Fields. 
 In summer, day trippers to Polzeath beach, for example the St. Mabyn and St. Kew Sunday School or feast day outings, travelled by horse drawn charabanc, (open cart or coach with bench seats). On arrival the horses were stabled, fed and watered at Male's Stables/Refreshment Rooms, (photo)
 
-<img width="50%" src="/Males-tea-rooms" alt="Males-tea-rooms">
+<img width="50%" src="/Males-tea-rooms.jpg" alt="Males-tea-rooms.jpg">
 
 
 The first Polzeath Chapel was built in 1911 using mostly corrugated iron and became known locally as the Tin Tabernacle at Chapel Corner, (1920 photo).
@@ -88,9 +88,9 @@ which was run as a guest house. Their pony and trap were kept in a stable at the
 A family and all their luggage would have been quite a load for the pony but I'm sure the children would have delighted in walking alongside to lighten the load on the hills. We wonder which route they took from Rock to Trebetherick? If the tide was right they may well have taken the shorter and flatter beach option along the firm sand of the high tide line and up only the one hill of Daymer Lane? We hardly notice it now in our cars but the journey from Rock to Trebetherick up Rock Road, TREWINT Lane, TREWINT Hill and WORTHY Hill consists of several steep hills. 
 In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick and called it Undertown.
 
-<img width="50%" src="/1925 Pony&Trap on Polzeath.jpg" alt="1925 Pony&Trap on Polzeath.jpg">
+<img width="50%" src="/1925 Pony&Trap on Polzeath Beach.jpg" alt="1925 Pony&Trap on Polzeath Beach.jpg">
 
-<img width="50%" src="/1926 Pony&Trap at Polzeath Beach.jpg" alt="1926 Pony&Trap at Polzeath Beach.jpg">
+<img width="50%" src="/1926 Pony&Trap at Polzeath.jpg" alt="1926 Pony&Trap at Polzeath.jpg">
 
 ## Richard Tellam-Hocking's First Trebetherick Shop (please contact me if you have a photo of this little shop I wouild love to have one)
 
