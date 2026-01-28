@@ -4,7 +4,14 @@ date: 1906-01-02
 tags: 
  - houses
 ---
-## The Haven - Built 1906
+# The Haven - Built 1906
+
+## The Haven was the first non-farming house to be constructed in Trebetherick.
+
+<img width="80%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
+
+- In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to agriculture. It was rather atractively pebble-dashed with small stone and many shells brought up from the beach. Trebetherick was then primarily open farmland with only farm houses, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby. 
+
 
 
  
@@ -194,13 +201,6 @@ Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s 
 - On the main road through Trebetherick 1965 looking towards Brea,telephone exchange on left, the bus shelter has now been been moved to the other side of the road
  
 <img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="On the main road through Trebetherick 1965 looking towards Brea, the bus shelter has been moved to the other side of the road.jpg">
-
----
-# 1906 - The Haven was the first non-farming house to be constructed in Trebetherick.
-
-<img width="80%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
-
-- In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to agriculture. It was rather atractively pebble-dashed with small stone and many shells brought up from the beach. Trebetherick was then primarily open farmland with only farm houses, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby. 
 
 
 ---
