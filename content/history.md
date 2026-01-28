@@ -3,7 +3,7 @@ title: "History"
 date: 1930-01-01
 ---
 
-# A Look into the Past of the Village of Trebetherick - researched and written by Mary Fellgett 1984 
+# The History of the Village of Trebetherick - researched and written by Mary Fellgett 1984 
 
 # 17th century 
 
