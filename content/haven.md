@@ -45,7 +45,7 @@ near the top of Worthy Hill,
 to provide accommodation primarily for golfers
 to visit the new St Enodoc golf course.
 
-## The 1901 CENSUS for TREBETHERICK 
+## The 1901 CENSUS and Early Life in TREBETHERICK 
 
 There were eight households and one uninhabited house, 17 adults and 11 children.
 1901 TREBETHERICK INHABITANTS were 3 farmers, John Wills, John Mably, Charles Mably.  Humphrey Craddock a stone quarry mason, Ann White a shirt maker seamstress,
