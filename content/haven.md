@@ -106,10 +106,20 @@ In 1938 Lewis Oaten sensed that Hitler's actions were becoming increasingly mena
 
 <img width="80%" src="/The Haven-top right.png" alt="The Haven-top right.png">
 
-## TREBETHERICK DUCK PONDS - 1925
+## 1925 TREBETHERICK DUCK PONDS
 Brian remembers, as a boy in the very cold winter of 1946, sliding on the several frozen Trebetherick duck ponds. They were on the road side of Higher Farm, close to the hedge, another was next to Elm Cottage. The one above Worthy House in the photo below was drained in the 1940s for road improvements.
 
-<img width="50%" src="/Trebetherick-duck-pond.jpg" alt="Trebetherick-duck-pond.jpg">
+<img width="80%" src="/Trebetherick-duck-pond.jpg" alt="Trebetherick-duck-pond.jpg">
+
+<img width="50%" src="/duck-pond-1925-vs-2021.jpg" alt="Collage of duck pond 1925 and today 2021">
+
+
+Collage of duck pond 1925 and today 2021
+
+
+Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, was drained in the 1930s after mains water was installed, making way for the ​new and larger Trebetherick telephone exchange. On the right is the gate into Ham Field, so called as it was the triangular shape of a ham.
+
+---
 
 ## THE HAVEN - 1950s
 
@@ -164,17 +174,6 @@ Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s 
 <img width="50%" alt="Screenshot_20240503-181033" src="/sand-carter-pony-daymer-lane-1920-40.jpg" />
 
 - 1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane
-
----
-
-# 1925 TREBETHERICK DUCK POND
-<img width="50%" src="/duck-pond-1925-vs-2021.jpg" alt="Collage of duck pond 1925 and today 2021">
-
-
-Collage of duck pond 1925 and today 2021
-
-
-Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, was drained in the 1930s after mains water was installed, making way for the ​new and larger Trebetherick telephone exchange. On the right is the gate into Ham Field, so called as it was the triangular shape of a ham.
 
 ---
 
