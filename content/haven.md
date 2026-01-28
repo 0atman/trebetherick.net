@@ -69,7 +69,13 @@ In 1932/3 the new chapel was built further away from the corner to allow for roa
 
 <img width="80%" src="/1920s-The Haven-Looking South.jpg" alt="1920s-The Haven-Looking South.jpg">
 
+---
+
 ## DAYMER LANE - SAND CARTING TRAFFIC
+
+<img width="80%" alt="Screenshot_20240503-181033" src="/sand-carter-pony-daymer-lane-1920-40.jpg" />
+
+- 1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane
 
 <img width="80%" src="/1930-sand-carting.jpg" alt="1930-sand-carting.jpg">
 
@@ -77,6 +83,8 @@ Tenant farmers' manorial leases to Trewornan and Roscarrock required 12 cart loa
 Several cottages were built backing onto the lane (enjoying lovely south facing, sheltered gardens), perhaps as many as 8 or 10, all but Cobb Cottage and Torquil Cottage are now gone.
 
 <img width="80%" src="/1930-drinking trough Daymer Lane.png" alt="1930-drinking trough Daymer Lane.png">
+
+---
 
 ## CAUGHT IN THE 1881 or 1891 BLIZZARD
 
@@ -173,14 +181,6 @@ Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s 
 <img width="80%" alt="Screenshot_20220202-141059" src="/haven-postcard-1930-1950-car-beach.jpg" />
 
 - This postcard was taken sometime 1930-1950. Note The Haven top right and the car on the beach.
-
----
-
-# Sand Cart and Pony Pulling Up Daymer Lane
-
-<img width="80%" alt="Screenshot_20240503-181033" src="/sand-carter-pony-daymer-lane-1920-40.jpg" />
-
-- 1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane
 
 ---
 
