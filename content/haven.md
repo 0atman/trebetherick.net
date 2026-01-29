@@ -156,6 +156,8 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
  
 
 <img width="50%" src="/Pre 1932- Dunder Hill, Polzeath.jpg" alt="Pre 1932- Dunder Hill, Polzeath.jpg">
+
+
 ---
 
 ## THE HAVEN - 1950s
