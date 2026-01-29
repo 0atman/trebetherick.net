@@ -152,7 +152,7 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 
 <img width="50%" src="/lewis-oaten-and-mother-and-brian-at-kitts.hill.png" alt="30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf">
 
-- This photo could be Brian's Grandfather, John Oaten, travelling from Kitts Hill to Trebetherick sometime before 1932 on his pony and trap going down Dunder Hill and through Polzeath. The original Tin Tabernackle still in place at Chapel Corner before being re built in its present day poition so the roads steep and sharp corner could be improved.
+- This photo could be Brian's Grandfather, John Oaten, travelling from Kitts Hill to Trebetherick sometime before 1932 on his pony and trap going down Dunder Hill and through Polzeath. The original Tin Tabernackle still in place at Chapel Corner before being re built in its present day poition so the road's steep and sharp corner could be widened.
  
 
 <img width="50%" src="/Pre 1932- Dunder Hill, Polzeath.jpg" alt="Pre 1932- Dunder Hill, Polzeath.jpg">
