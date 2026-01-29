@@ -116,7 +116,7 @@ On The Haven front lawn a grass tennis court was built at some time in those ear
 Water was drawn from a well in the garden, which still exists, though it is falling into disrepair at this time. A man was employed for two hours twice a day, pumping to fill the roof tank for WC flushing and washing, a wonderful 'modern' luxury and convenience at that time. A secondary hand pump was located in the scullery for drinking/cooking water.
 
 ## The Haven Poultry-1950
-<img width="50%" src="/Haven-poultry-1950.png" alt="Haven-poultry-1950.png">
+<img width="40%" src="/Haven-poultry-1950.png" alt="Haven-poultry-1950.png">
 
 ## The Haven Pump and Well
 <img width="50%" src="/Haven-pump.jpg" alt="Haven-pump.jpg">
