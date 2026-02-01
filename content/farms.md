@@ -16,3 +16,4 @@ date: 2025-01-01
 - [Lower Farm](/lowerfarm) , circa 1600
 - [Higher Farm](/higherfarm), Farmhouse built 1930 - demolished and rebuilt as holiday accommodation 2016
 - [Trenain Farm](/trenainfarm)
+- [Lower Trebetherick Farm](/lowertrebetherickfarm) , disappeared bebore 1950
