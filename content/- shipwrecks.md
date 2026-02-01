@@ -28,6 +28,12 @@ Inspired by the 1807 wreck of HMS Anson, Henry Trengrouse, Cornish cabinet maker
 
 ---
 
+# 1864 During an Autumn storm a ship with cargo of rum and sugar was wrecked on Polzeath Beach.
+
+All the sailors were saved by the locals and coastguards. No lives were lost, save one poor soul from St Austell who died of alcohol poisoning.
+
+---
+
 1900 Peace and Plenty and Lifeboat Arab.
 The Trebetherick Coastguard team regularly risked their lives. In April 1900, they rescued five crewmen from the wrecked ketch Peace and Plenty as she drifted helplessly towards Greenaway and Daymer. The storm was so bad it tragically wrecked and claimed the lives of several lifeboat men sent to assist. This painting captures something of the Trebetherick Coastguards and a time when Trebetherick Point and Greenaway were houseless. The rocket team of 20 volunteers in the early 1900s is seen here in action practising firing a line from their apparatus across the fields towards Daymer beach.
 From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly brought down by a horse drawn cart for practice. The apparatus was kept in the distinctive brick building still known as The Rocket House, adjacent to the Coastguard Cottages.
