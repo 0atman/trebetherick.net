@@ -117,8 +117,14 @@ At the top of Polzeath Hill was a purpose built shop, double fronted with door i
 
 ## 1930 The Haven - No Water Mains and Self Sufficiant
 
+## Water Mains laid to Polzeath 1928, did they carry on to Trebetherick at thei time?
 
-On The Haven front lawn a grass tennis court was built at some time in those early years, chickens were kept, a cow for milk and a vegetable garden was tended in the field, on the southern side of the house.
+<img width="80%" src="/1926 Pony&Trap at Polzeath.jpg" alt="1926 Pony&Trap at Polzeath.jpg">
+
+## 1938 Electricity Was Brought to Trebetherick
+
+
+On The Haven front lawn a grass tennis court was built possibly around 1920, chickens were kept and a cow for milk also a vegetable garden was tended, all in the field on the southern side of the house.
 Water was drawn from a well in the garden, which still exists, though it is falling into disrepair at this time. A man was employed for two hours twice a day, pumping to fill the roof tank for WC flushing and washing, a wonderful 'modern' luxury and convenience at that time. A secondary hand pump was located in the scullery for drinking/cooking water.
 
 ## The Haven Poultry-1950
