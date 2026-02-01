@@ -16,4 +16,17 @@ date: 2025-01-01
 - [Lower Farm](/lowerfarm) , circa 1600
 - [Higher Farm](/higherfarm), Farmhouse built 1930 - demolished and rebuilt as holiday accommodation 2016
 - [Trenain Farm](/trenainfarm)
-- [Lower Trebetherick Farm](/lowertrebetherickfarm) , disappeared bebore 1950
+- [Lower Trebetherick Farm](/lowertrebetherickfarm) , disappeared before 1950. (It may be that Lower Trebetherick Farm and Lower Farm are one and the same. Please message me if you know).
+
+---
+## A Short Summary of Farming in Trebetherick in the 19th Centuary
+
+​- By 1850 almost every farm ​in Trebetherick kept a flock of sheep and beef cattle, mostly dark red north Devon crossed with Hereford, which were sold on the first Tuesday in the month at Wadebridge Market. This Market was always held on the 2nd and 4th Tuesday Until after the first World war it changed to 2nd and 4th Monday.
+
+​- By 1880 beef cattle began to replace the flocks of sheep, especially after the very bad wet weather of 1879 when many sheep got liver rot or "fluke," which killed millions of sheep across Britain. There was a shortage of labour, hedges were neglected and wool prices dropped.
+
+​- Oxen were strong and often used for ploughing and other farm work. When on the road they always had a horse in front to lead them. By the 1880s oxen had mostly been replaced by horses which were more easily managed.​ Old discarded horse and oxen shoes can be found today while digging in the garden. 
+
+
+
+
