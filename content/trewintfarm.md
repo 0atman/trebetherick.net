@@ -9,4 +9,8 @@ tags:
 
 # Trewint Farm
 
-<img width="50%" alt="Lower Farm-photos." src="/Lower Farm - Photos.jpg" />
+- 1732 Francis Mably
+
+<img width="80%" alt="1732 Diary Extract - John Mably" src="/1732 Diary Extract - John Mably.jpg" />
+
+
