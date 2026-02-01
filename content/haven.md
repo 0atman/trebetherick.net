@@ -119,7 +119,7 @@ At the top of Polzeath Hill was a purpose built shop, double fronted with door i
 
 ## Water Mains laid to Polzeath 1928, did they carry on to Trebetherick at thei time?
 
-<img width="80%" src="/1926 Pony&Trap at Polzeath.jpg" alt="1926 Pony&Trap at Polzeath.jpg">
+<img width="80%" src="/Piped water to Polzeath-1928.jpg" alt="Piped water to Polzeath-1928.jpg">
 
 ## 1938 Electricity Was Brought to Trebetherick
 
