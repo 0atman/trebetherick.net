@@ -117,7 +117,7 @@ At the top of Polzeath Hill was a purpose built shop, double fronted with door i
 
 ## 1930 The Haven - No Water Mains and Self Sufficiant
 
-## Water Mains laid to Polzeath 1928, did they carry on to Trebetherick at thei time?
+## Water Mains laid to Polzeath 1928, did they carry on to Trebetherick at the same time?
 
 <img width="80%" src="/Piped water to Polzeath-1928.jpg" alt="Piped water to Polzeath-1928.jpg">
 
