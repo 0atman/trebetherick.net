@@ -66,12 +66,14 @@ One visiting migrant or in-service working family Cottell, husband, wife and 5 c
 
 At this time there was no road between Trebetherick and Polzeath only a pedestrian/pony track through the six fields between the two villages. The main way in and out of Polzeath was via Dunder Hill. An elderly gentleman visiting us at The Haven could remember using the track to walk from Trebetherick to Polzeath and having to open and close the six field gates to get there.
 The residents of Polzeath would make journeys north and eastwards up Dunder Hill by pony and trap or cart and horse to market, for business, or for visiting further afield. It was customary for passengers and children to walk up the hills to lighten the load for the pony. On the return journey, when reaching Port Quin Cross, being mostly downhill and flat from there to the top of Dunder Hill, Polzeath, it was possible to give the ponies a good gallop. Those flat fields are called Galloping Fields. 
-In summer, day trippers to Polzeath beach, for example the St. Mabyn and St. Kew Sunday School or feast day outings, travelled by horse drawn charabanc, (open cart or coach with bench seats). On arrival the horses were stabled, fed and watered at F Male's (no relation to Trebetherick Higher Farm Harry and Basil Male) Stables/Refreshment Rooms, charabancs stabled, cars parked (photo)
+In summer, day trippers to Polzeath beach, for example the St. Mabyn and St. Kew Sunday School or feast day outings, travelled by horse drawn charabanc, (open cart or coach with bench seats). On arrival the horses were stabled, fed and watered at F Male's Stables and Picnic Tea Rooms, charabancs stabled, cars parked (photo)
+(no relation to Trebetherick Higher Farm Harry and Basil Male ) 
 
+- F MALE'S Stables and Tea Rooms
 <img width="80%" src="/Males-tea-rooms.jpg" alt="Males-tea-rooms.jpg">
 
 
-The first Polzeath Chapel was built in 1911 using mostly corrugated iron and became known locally as the Tin Tabernacle at Chapel Corner, (1920 photo).
+The Polzeath Chapel was moved into purpose built shed in 1898 using a corrugated iron roof and became known locally as the Tin Tabernacle at Chapel Corner, (1920 photo).
 In 1932/3 the new chapel was built further away from the corner to allow for road improvements.
 
 <img width="80%" src="/1920 Chapel Corner, Polzeath.jpg" alt="1920 Chapel Corner, Polzeath.jpg">
@@ -111,7 +113,7 @@ In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick a
 
 <img width="80%" src="/1926 Pony&Trap at Polzeath.jpg" alt="1926 Pony&Trap at Polzeath.jpg">
 
-## Richard Tellam-Hocking's First Trebetherick Shop (please contact me if you have a photo of this little shop I wouild love to have one)
+## Richard Tellam-Hocking's First Trebetherick Shop (please contact me if you have a photo of this little shop I would love to have one)
 
 At the top of Polzeath Hill was a purpose built shop, double fronted with door in the middle, run by Ralph Tellem-Hocking's father, Richard. In the summer they made ice-cream and his wife sold it on the beach. When she needed more she waved a flag as a signal to her husband to bring down some more. At a later date this little building was used as the Polzeath doctors surgery.
 
