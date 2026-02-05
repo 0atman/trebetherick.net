@@ -20,7 +20,7 @@ date: 2025-01-01
 
 ---
 ## A Short Summary of Farming in Trebetherick in the 19th Centuary
-#  Trebetherick Farm Animals - Sheep Replaced by Cattle - 1800-1900 - Wadebridge Cattle Market
+## Trebetherick Farm Animals - Sheep Replaced by Cattle - 1800-1900 - Wadebridge Cattle Market
 
 -  1800 Oxen were strong and often used for ploughing and other farm work. When on the road they always had a horse in front to lead them. By the 1880s oxen had mostly been replaced by horses which were more easily managed. Now while digging in The Haven garden I still find old discarded horse and oxen shoes.
 
