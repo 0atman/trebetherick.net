@@ -9,14 +9,15 @@ date: 2025-01-01
 - Restharrow Farm - shop and camping
 
 ### Historical Farms
-> Now converted to residential/holiday accommodation
+> Since the mid 20th centuary these farms all became unviable and were converted to residential/holiday accommodation. The last two old barns of Higher Farm still remain but are unused as of 2025.
 - [Trewint Farm](/trewintfarm), circa 1600
 - [Elm Cottage](/elmcottage), circa 1600
 - [Old Farm](/oldfarm), circa 1600 - Was originally called Higher Farm but the land was sold to Harry Male in 1929 who built himself a new house over the road, the original was renamed Old Farm. 
 - [Lower Farm](/lowerfarm) , circa 1600
-- [Higher Farm](/higherfarm), Farmhouse built 1930 - demolished and rebuilt as holiday accommodation 2016
-- [Trenain Farm](/trenainfarm)
 - [Lower Trebetherick Farm](/lowertrebetherickfarm) , disappeared before 1950. (It may be that Lower Trebetherick Farm and Lower Farm are one and the same. Please message me if you know).
+- [Trenain Farm](/trenainfarm)
+- [Higher Farm](/higherfarm), Farmhouse built 1930 - demolished and rebuilt as holiday accommodation 2016
+
 
 ---
 ## A Short Summary of Farming in Trebetherick Before 1900
