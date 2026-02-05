@@ -20,12 +20,16 @@ date: 2025-01-01
 
 ---
 ## A Short Summary of Farming in Trebetherick in the 19th Centuary
+#  Trebetherick Farm Animals - Sheep Replaced by Cattle - 1800-1900 - Wadebridge Cattle Market
 
-​- By 1850 almost every farm ​in Trebetherick kept a flock of sheep and beef cattle, mostly dark red north Devon crossed with Hereford, which were sold on the first Tuesday in the month at Wadebridge Market. This Market was always held on the 2nd and 4th Tuesday Until after the first World war it changed to 2nd and 4th Monday.
+-  1800 Oxen were strong and often used for ploughing and other farm work. When on the road they always had a horse in front to lead them. By the 1880s oxen had mostly been replaced by horses which were more easily managed. Now while digging in The Haven garden I still find old discarded horse and oxen shoes.
 
-​- By 1880 beef cattle began to replace the flocks of sheep, especially after the very bad wet weather of 1879 when many sheep got liver rot or "fluke," which killed millions of sheep across Britain. There was a shortage of labour caused by the Boer Wars, hedges were neglected and wool prices dropped.
+- By 1850 almost every farm in Trebetherick kept a flock of sheep and beef cattle, mostly dark red north Devon crossed with Hereford, which were sold on the first Tuesday in the month at Wadebridge Market. Up to the first World war this Market was held on the 2nd and 4th Tuesday and afterwards changed to 2nd and 4th Monday's.
 
-​- Oxen were strong and often used for ploughing and other farm work. When on the road they always had a horse in front to lead them. By the 1880s oxen had mostly been replaced by horses which were more easily managed.​ Old discarded horse and oxen shoes can be found today while digging in the garden. 
+- By 1880 beef cattle began to replace the flocks of sheep, especially after the very bad wet weather of 1879 when many sheep got liver rot or "fluke," which killed millions of sheep across Britain. 
+
+- ​1900  There was a shortage of labour, hedges were neglected and wool prices dropped​ because of the two Boer Wars, one in 1880-1881 and the second in 1899-1902​.
+
 
 
 
