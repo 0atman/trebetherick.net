@@ -4,7 +4,7 @@ date: 2025-01-01
 ---
 
 ### Working Farms
-> Farming as of 2025
+> Farms as of 2025
 - [Trewiston Farm](/trewiston)
 - Restharrow Farm - shop and camping
 
