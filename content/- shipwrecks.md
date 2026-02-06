@@ -28,10 +28,8 @@ Inspired by the 1807 wreck of HMS Anson, Henry Trengrouse, Cornish cabinet maker
 
 ---
 
-# 1864 During an Autumn storm a ship with cargo of rum and sugar was wrecked on Polzeath Beach.
-1865: the barque Juliet wrecked at Trebetherick with all 17 crew saved but half the cargo of 400 barrels of rum washed ashore at Polzeath. William Ham visiting from St Austell dies of alcohol poisoning
-
-All the sailors were saved by the locals and coastguards. No lives were lost, save one poor soul from St Austell who died of alcohol poisoning.
+# 1865 During an Autumn storm a ship with cargo of rum and sugar was wrecked on Polzeath Beach.
+1865 -  the barque Juliet was wrecked at Trebetherick with half the cargo of 400 barrels of rum washed ashore at Polzeath. All 17 crew of sailors were saved by the locals and coastguards, however,  William Ham visiting from St Austell died of alcohol poisoning.
 
 ---
 
