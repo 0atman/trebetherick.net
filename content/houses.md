@@ -16,3 +16,7 @@ date: 2025-01-01
 ---
 
 - [White Wings](/whitewings)
+
+---
+
+[Cobb Cottage](/cobb)
