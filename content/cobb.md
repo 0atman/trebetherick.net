@@ -11,4 +11,5 @@ Cobb Cottage was standing at the end of a row of 6 cottages extending down the l
 - St Enodoc Cottage
 
 <img width="80%" alt="St Enodoc Cottage, Daymer Lane.png" src="/St Enodoc Cottage, Daymer Lane.png" />
+
 St Enodoc Cottage was built in 1826 and is here today, unchanged.  It was built by Theophilus Hoskin, and was occupied in the early 1900s by Captain Faulkner. Cobb Cottage seems to have been tied to St Enodoc Cottage either as a gardener’s cottage or an annexe. John Betjeman recounted that the first German spy to be captured during the First World War was arrested there after local people reported having seen smoke rising from the chimney of the unoccupied cottage; he had come off a submarine in Daymer Bay.
