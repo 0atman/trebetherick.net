@@ -7,7 +7,7 @@ tags:
 
 ## Trebetherick Mines
 
-<img width="50%" alt="minefield.png" src="/minefield.png" />
+<img width="50%" alt="Minefield.png" src="/Minefield.png" />
 
 
 - 1861: Trebetherick Mine (Trewiston Mine) at Mine Field was closed, although it reopened briefly around 1900
