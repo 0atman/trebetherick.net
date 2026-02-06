@@ -19,4 +19,4 @@ date: 2025-01-01
 
 ---
 
-[Cobb Cottage](/cobb)
+- [Cobb Cottage](/cobb)
