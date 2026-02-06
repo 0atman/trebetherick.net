@@ -5,4 +5,4 @@ tags:
  - Mines
 ---
 
-- 1861: Trebetherick Mine (Trewiston Mine) was closed, although it reopened briefly around 1900
+- 1861: Trebetherick Mine (Trewiston Mine) at Mine Field was closed, although it reopened briefly around 1900
