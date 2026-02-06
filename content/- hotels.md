@@ -7,7 +7,7 @@ tags:
 
 
 
-# St Moritz Hotel
+# St Moritz Hotel - Opened 1946
 
 <img width="50%" alt="Lower Farm - photos.jpg" src="/Lower Farm - Photos.jpg" />
 
