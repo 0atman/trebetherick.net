@@ -6,6 +6,10 @@ tags:
 ---
 
 ## Trebetherick Mines
+
+<img width="50%" alt="minefield.png" src="/minefield.png" />
+
+
 - 1861: Trebetherick Mine (Trewiston Mine) at Mine Field was closed, although it reopened briefly around 1900
 - Trewiston Lead Mine: Historical records indicate a lead mine ("Trewiston") was located in this area, with a sett granted in 1875 for three fields known as Lower, Inner, and Middle Hobby-house.
 - Location: This site is situated east of the road, roughly between Trebetherick and Trewint.
