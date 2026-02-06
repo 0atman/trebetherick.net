@@ -19,6 +19,9 @@ date: 2025-01-01
 <img width="50%" src="/St Enodoc Church AI 1863.png" alt="St Enodoc Church AI 1863.png">
 
 ---
+# 1864: St Enodoc's north chapel was restored. A thousand people attend the reopening on 29 July 1864
+
+---
 
 - ### Two Bells at St Enodoc Church
 - 1613 ALFREDUS REX
