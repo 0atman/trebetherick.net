@@ -7,7 +7,7 @@ tags:
 
 # Map Of Shipwrecks up to 1939
 
-<img width="50%" alt="Shipwrecks Camel Estuary up to 1939.jpg" src="/Shipwrecks Camel Estuary up to 1939.jpg" />
+<img width="80%" alt="Shipwrecks Camel Estuary up to 1939.jpg" src="/Shipwrecks Camel Estuary up to 1939.jpg" />
 
 
 <img width="50%" alt="map-padstow-safe-haven.jpg" src="/map-padstow-safe-haven.jpg" />
