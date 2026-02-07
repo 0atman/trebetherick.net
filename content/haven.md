@@ -83,7 +83,7 @@ Brian used George's 1934 black Austen 7 van to deliver mail and papers. George w
 
 
 - For Brian's Memories of being Born and Living in Trebetherick 1939 to Today please go to The Haven subheading.....
-### Brian Oaten's Memories of Trebetherick
+  - Brian Oaten's Memories of Trebetherick
 
 
 
