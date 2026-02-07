@@ -82,7 +82,7 @@ Brian used George's 1934 black Austen 7 van to deliver mail and papers. George w
 <img width="80%" src="/The Haven 2000.jpg" alt="The Haven 2000">
 
 
-- For Brian's memories of having been born and growing up in Trebetherick, 1939 to today, please go to The Haven subheading.....
+- Brian was born and grew up in Trebetherick, 1939 to today, for some of his memories please go to The Haven subheading.....
   - **Brian Oaten's Memories of Trebetherick**
 
 
