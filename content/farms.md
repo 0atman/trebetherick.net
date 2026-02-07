@@ -6,7 +6,7 @@ date: 2025-01-01
 ### Working Farms
 > Farms as of 2025
 - [Trewiston Farm](/trewiston)
-- [Restharrow Farm](/shop and camping)
+- [Restharrow Farm](/restharrow)
 
 ### Historical Farms
 > Since the mid 20th centuary these farms all became unviable and were converted to residential/holiday accommodation. The last two old barns of Higher Farm still remain but are unused as of 2025.
