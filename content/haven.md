@@ -15,6 +15,22 @@ tags:
 ## 1920
 <img width="80%" src="/1920s-The Haven-Looking South.jpg" alt="1920s-The Haven-Looking South.jpg">
 
+---
+
+## 1938 Electricity Was Brought to Trebetherick
+
+
+## 1920n 
+The Haven front lawn a grass tennis court was built possibly, chickens were kept and a cow for milk also a vegetable garden was tended, all in the field on the southern side of the house.
+Water was drawn from a well in the garden, which still exists, though it is falling into disrepair at this time. A man was employed for two hours twice a day, pumping to fill the roof tank for WC flushing and washing, a wonderful 'modern' luxury and convenience at that time. A secondary hand pump was located in the scullery for drinking/cooking water.
+
+## The Haven Poultry
+<img width="40%" src="/Haven-poultry-1950.png" alt="Haven-poultry-1950.png">
+
+## The Haven Pump and Well
+<img width="50%" src="/Haven-pump.jpg" alt="Haven-pump.jpg">
+
+
 
 ---
 
@@ -122,17 +138,7 @@ At the top of Polzeath Hill was a purpose built shop, double fronted with door i
 
 <img width="80%" src="/Piped water to Polzeath-1928.jpg" alt="Piped water to Polzeath-1928.jpg">
 
-## 1938 Electricity Was Brought to Trebetherick
 
-
-On The Haven front lawn a grass tennis court was built possibly around 1920, chickens were kept and a cow for milk also a vegetable garden was tended, all in the field on the southern side of the house.
-Water was drawn from a well in the garden, which still exists, though it is falling into disrepair at this time. A man was employed for two hours twice a day, pumping to fill the roof tank for WC flushing and washing, a wonderful 'modern' luxury and convenience at that time. A secondary hand pump was located in the scullery for drinking/cooking water.
-
-## The Haven Poultry-1950
-<img width="40%" src="/Haven-poultry-1950.png" alt="Haven-poultry-1950.png">
-
-## The Haven Pump and Well
-<img width="50%" src="/Haven-pump.jpg" alt="Haven-pump.jpg">
 
 
 1941 WW2 Brian Oaten remembers as a child of two and a half being woken by his mother to be held up to the window to see the glow in the eastern sky which was Plymouth on fire during the WW2 blitz. It must have been particularly distressing for Mabyn as her husband Lewis, like many carpenters and shipwrights were working in Plymouth. 
