@@ -1,4 +1,4 @@
----
+/---
 title: "The Haven, Worthy Hill. 1906-2000"
 date: 1906-01-02
 tags: 
@@ -83,7 +83,7 @@ Brian used George's 1934 black Austen 7 van to deliver mail and papers. George w
 
 
 - Brian was born and grew up in Trebetherick, 1939 to today, for some of his memories please go to The Haven subheading.....
-  - [Brian Oaten's Memories of Trebetherick](trebetherick-snapshot)
+  - [Brian Oaten's Memories of Trebetherick](/trebetherick-snapshot)
 
 
 
