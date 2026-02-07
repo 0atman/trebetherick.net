@@ -98,7 +98,7 @@ The residents of Polzeath would make journeys north and eastwards up Dunder Hill
 In summer, day trippers to Polzeath beach, for example the St. Mabyn and St. Kew Sunday School or feast day outings, travelled by horse drawn charabanc, (open cart or coach with bench seats). On arrival the horses were stabled, fed and watered at F Male's Stables and Picnic Tea Rooms, charabancs stabled, cars parked (photo)
 (no relation to Trebetherick Higher Farm Harry and Basil Male ) 
 
-- F MALE'S Stables and Tea Rooms
+- F MALE'S Stables and Tea Rooms - Before the road was built
 <img width="80%" src="/Males-tea-rooms.jpg" alt="Males-tea-rooms.jpg">
 
 
