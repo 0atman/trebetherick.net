@@ -5,7 +5,7 @@ tags:
  - Mines
 ---
 
-## Trebetherick Mines
+## Trebetherick (Trewiston) Mine at Minefield
 
 <img width="50%" alt="Minefield.png" src="/Minefield.png" />
 
