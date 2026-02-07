@@ -43,6 +43,7 @@ In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick a
 
 ---
 ## 1927 - Worthy House, Trebetherick Telephone Exchange starts in the Paper Shop and Post Office. 
+
 - The Post Master was George Harris, he ran the shop, delivered the mail and papers and for thirty years connected the phone calls by hand
 - In 1957 the new telephone exchange building was built next to Old Farm.
 -  
