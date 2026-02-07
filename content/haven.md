@@ -12,7 +12,8 @@ tags:
 
 - In 1906, The Haven was the first house constructed in Trebetherick, which was not directly linked to or reliant on agriculture. It was thought that the St Enodoc Golf Club, which was founded in 1890, would bring people to the area who would need accommodation. It was rather atractively pebble-dashed with small stones and shells brought up from the beach. In the setting sun it glowed with a slightly pinkish tinge. Trebetherick was then primarily open farmland with in the 1901 census only 8 households of farmers, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby. 
 
-
+## 1920
+<img width="80%" src="/1920s-The Haven-Looking South.jpg" alt="1920s-The Haven-Looking South.jpg">
 
 
 ---
@@ -77,8 +78,6 @@ The Polzeath Chapel was moved into purpose built shed in 1898 using a corrugated
 In 1932/3 the new chapel was built further away from the corner to allow for road improvements.
 
 <img width="80%" src="/1920 Chapel Corner, Polzeath.jpg" alt="1920 Chapel Corner, Polzeath.jpg">
-
-<img width="80%" src="/1920s-The Haven-Looking South.jpg" alt="1920s-The Haven-Looking South.jpg">
 
 ---
 
