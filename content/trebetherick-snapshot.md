@@ -7,7 +7,8 @@ tags:
 
 
 
-## A Snapshot Of Trebetherick - Brian Oaten - Born and Lived In Trebetherick
+## A Snapshot Of Life in Trebetherick
+- Brian Oaten - Born and Lived In Trebetherick 1939 to Today
 
 ## THE HAVEN - 1906
 
@@ -37,7 +38,7 @@ In summer, day trippers to Polzeath beach, for example the St. Mabyn and St. Kew
 <img width="80%" src="/Males-tea-rooms.jpg" alt="Males-tea-rooms.jpg">
 
 
-The Polzeath Chapel was moved into purpose built shed in 1898 using a corrugated iron roof and became known locally as the Tin Tabernacle at Chapel Corner, (1920 photo).
+The Polzeath Chapel was moved into a purpose built shed in 1898 using a corrugated iron roof and became known locally as the Tin Tabernacle at Chapel Corner, (1920 photo).
 In 1932/3 the new chapel was built further away from the corner to allow for road improvements.
 
 <img width="80%" src="/1920 Chapel Corner, Polzeath.jpg" alt="1920 Chapel Corner, Polzeath.jpg">
@@ -59,19 +60,18 @@ Several cottages were built backing onto Daymer Lane (enjoying lovely south faci
 
 ---
 
-## CAUGHT IN THE 1881 or 1891 BLIZZARD
+## BRIAN'S GREAT GRANDPARENTS CAUGHT IN THE 1881 or 1891 BLIZZARD
 
-Brian's great grandparents were returning in their cart from market in the late 1800s
-with a quantity of supplies and meat when it started to snow. It became a blizzard and soon they could go no further. They had to unhitch the pony and leave the cart where it was stuck. They led the pony and just managed to struggle home, telling of sometimes having to walk on the tops of the hedges as the snow was so deep. It was two weeks before the freeze thawed enough for them to return to fetch the cart. All their meat was frozen and none was spoiled.
+Brian's great grandparents were returning in their cart from market in 1881 or 1891 with a quantity of supplies and meat when it started to snow. It soon became a blizzard and they could go no further. They had to unhitch the pony and leaving the cart where it was stuck, they led the pony and just managed to struggle home. The told of the snow drifts being so deep that sometimes they had to walk on the tops of the hedges. It was two weeks before the freeze thawed enough for them to return to fetch the cart. Rather surprisingly all their meat had remained frozen and none was spoiled!!
 
 
 ## Richard Tellam-Hocking's First Trebetherick Shop (please contact me if you have a photo of this little shop I would love to have one)
 
-At the top of Polzeath Hill was a purpose built shop, double fronted with door in the middle, run by Ralph Tellem-Hocking's father, Richard. In the summer they made ice-cream and his wife sold it on the beach. When she needed more she waved a flag as a signal to her husband to bring down some more. At a later date this little building was used as the Polzeath doctors surgery.
+At the top of Polzeath Hill was a purpose built shop, double fronted with door in the middle, run by Ralph Tellem-Hocking's father, Richard. In the summer they made ice-cream which his wife sold on the beach. When she needed more she waved a flag as a signal to her husband to bring down more supplies. At a later date this little building was re-purposed as the Polzeath doctors surgery.
 
-## 1930 The Haven - No Water Mains and Self Sufficiant
+## Before 1928 Trebetherick Had No Mains Water and so The Haven was Self Sufficiant
 
-## Water Mains laid to Polzeath 1928, did they carry on to Trebetherick at the same time?
+## Water Mains laid to Polzeath 1928, to Trebetherick also at the same time I think.
 
 <img width="80%" src="/Piped water to Polzeath-1928.jpg" alt="Piped water to Polzeath-1928.jpg">
 
@@ -110,7 +110,7 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 
 ---
 
-- This photo could be Brian's Grandfather, John Oaten, travelling from Kitts Hill to Trebetherick sometime before 1932 on his pony and trap going down Dunder Hill and through Polzeath. The original Tin Tabernackle still in place at Chapel Corner before being re built in its present day poition so the road's steep and sharp corner could be widened.
+- This photo could be Brian's Grandfather, John Oaten, travelling from Kitts Hill, St Kew to Trebetherick sometime before 1932 on his pony and trap going down Dunder Hill and through Polzeath. The original Tin Tabernackle still in place at Chapel Corner before being re-built in its present day poition so the road's steep and sharp corner could be widened.
  
 
 <img width="50%" src="/Pre 1932- Dunder Hill, Polzeath.jpg" alt="Pre 1932- Dunder Hill, Polzeath.jpg">
