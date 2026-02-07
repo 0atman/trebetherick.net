@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://marcodpt.github.io/zolastrap/sitemap.xml
