@@ -104,7 +104,8 @@ The residents of Polzeath would make journeys north and eastwards up Dunder Hill
 In summer, day trippers to Polzeath beach, for example the St. Mabyn and St. Kew Sunday School or feast day outings, travelled by horse drawn charabanc, (open cart or coach with bench seats). On arrival the horses were stabled, fed and watered at F Male's Stables and Picnic Tea Rooms, charabancs stabled, cars parked (photo)
 (no relation to Trebetherick Higher Farm Harry and Basil Male ) 
 
-- F MALE'S Stables and Tea Rooms - Before the road was built
+## F MALE'S Stables and Tea Rooms - Before the road was built
+
 <img width="80%" src="/Males-tea-rooms.jpg" alt="Males-tea-rooms.jpg">
 
 
@@ -159,10 +160,10 @@ Brian remembers, as a boy in the very cold winter of 1946, sliding on the severa
 
 <img width="80%" src="/Trebetherick-duck-pond.jpg" alt="Trebetherick-duck-pond.jpg">
 
+## Collage of duck pond 1925 and today 2021
+
 <img width="80%" src="/duck-pond-1925-vs-2021.jpg" alt="Collage of duck pond 1925 and today 2021">
 
-
-Collage of duck pond 1925 and today 2021
 
 
 Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, was drained in the 1930s after mains water was installed, making way for the ​new and larger Trebetherick telephone exchange. On the right is the gate into Ham Field, so called as it was the triangular shape of a ham.
@@ -179,6 +180,8 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 
 <img width="50%" src="/lewis-oaten-and-mother-and-brian-at-kitts.hill.png" alt="30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf">
 
+---
+
 - This photo could be Brian's Grandfather, John Oaten, travelling from Kitts Hill to Trebetherick sometime before 1932 on his pony and trap going down Dunder Hill and through Polzeath. The original Tin Tabernackle still in place at Chapel Corner before being re built in its present day poition so the road's steep and sharp corner could be widened.
  
 
@@ -194,11 +197,11 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 - 1943 Brian went to St Minver Primary School. His mother, Mabyn, took him on the back of her bycicle until he was old enough to walk there and back.
 - This is Brian's pre-school letter to his grandmother Alice Jane Burne living at Southleigh, St Mabyn
 
-<img width="80%" src="/Brian Oaten's pre-school letter to his grandmother Alice Jane Burne living at Southleigh, St Mabyn" alt="Brian Oaten's pre-school letter to his grandmother Alice Jane Burne living at Southleigh, St Mabyn">
+<img width="80%" src="/Brian Oaten's pre-school letter to his grandmother Alice Jane Burne living at Southleigh, St Mabyn.png" alt="Brian Oaten's pre-school letter to his grandmother Alice Jane Burne living at Southleigh, St Mabyn.png">
 
-- Brian loved school and was full of admiration for the wonderful teacher Miss Buse and headmaster, Mr Lanxon.
+- Brian loved school and was full of admiration for the wonderful head teacher Mr Russel Lanxon and class teacher Miss Buse. Mr Lanxon was still the headmaster 30 years later who employed Brian as a teacher in about 1975.
 
-In 1951 Brian went to Bodmin Grammar school. Transport was a taxi to Rock, bus to Wadebridge then the train to Bodmin. As a teenager, he took the summer holiday job of assistant postman at Trebetherick post office, Worthy House. The postmaster and manual telephone switchboard operator was George Harris. Brian used George's 1934 black Austen 7 van to deliver mail and papers. George was full of fun and when operating the phone lines he used to say to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'.
+In 1951 Brian went to Bodmin Grammar school. Transport was a taxi to Rock, bus to Wadebridge then the train to Bodmin. As a teenager, he took the summer holiday job of assistant postman at Trebetherick post office, Worthy House. The postmaster and manual telephone switchboard operator was George Harris. 
 During the next 20 years Mabyn and Lewis continued to improve to The Haven, including adding a sun lounge and installing central heating.
 
 <img width="80%" src="/1920 Fish Delivery.jpg" alt="1920 Fish Delivery.jpg">
