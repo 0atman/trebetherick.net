@@ -17,8 +17,6 @@ tags:
 
 ---
 
-## 1938 Electricity Was Brought to Trebetherick
-
 
 ## 1920 
 The Haven front lawn a grass tennis court was built possibly, chickens were kept and a cow for milk also a vegetable garden was tended, all in the field on the southern side of the house.
@@ -29,9 +27,22 @@ Water was drawn from a well in the garden, which still exists, though it is fall
 
 ## The Haven Pump and Well
 <img width="50%" src="/Haven-pump.jpg" alt="Haven-pump.jpg">
+---
 
+## THE HAVEN IN THE 1920s
 
+Ernest Betjeman, (Sir John Betjeman's father), brought his family to holiday in Trebetherick and stayed at The Haven 
+which was run as a guest house. Their pony and trap were kept in a stable at the rear and used to collect guests from Wadebridge train station or from Rock. As a boy, John Betjeman remembered being collected from the train station by The Haven owners in their pony and trap/cart. However, John recounted that sometimes if the weather was favourable they could stay on the train past Wadebridge and all the way to Padstow, crossing the estuary on the rowed/sailed ferry to Rock where they would be collected for the shorter journey to The Haven. 
+A family and all their luggage would have been quite a load for the pony but I'm sure the children would have delighted in walking alongside to lighten the load on the hills. We wonder which route they took from Rock to Trebetherick? If the tide was right they may well have taken the shorter and flatter beach option along the firm sand of the high tide line and up only the one hill of Daymer Lane? We hardly notice it now in our cars but the journey from Rock to Trebetherick up Rock Road, TREWINT Lane, TREWINT Hill and WORTHY Hill consists of several steep hills. 
+In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick and called it Undertown.
 
+<img width="80%" src="/1925 Pony&Trap on Polzeath Beach.jpg" alt="1925 Pony&Trap on Polzeath Beach.jpg">
+
+<img width="80%" src="/1926 Pony&Trap at Polzeath.jpg" alt="1926 Pony&Trap at Polzeath.jpg">
+
+---
+
+## 1938 Electricity Was Brought to Trebetherick
 ---
 
 ## 1950
@@ -117,16 +128,6 @@ Several cottages were built backing onto Daymer Lane (enjoying lovely south faci
 Brian's great grandparents were returning in their cart from market in the late 1800s
 with a quantity of supplies and meat when it started to snow. It became a blizzard and soon they could go no further. They had to unhitch the pony and leave the cart where it was stuck. They led the pony and just managed to struggle home, telling of sometimes having to walk on the tops of the hedges as the snow was so deep. It was two weeks before the freeze thawed enough for them to return to fetch the cart. All their meat was frozen and none was spoiled.
 
-## THE HAVEN IN THE 1920s
-
-Ernest Betjeman, (Sir John Betjeman's father), brought his family to holiday in Trebetherick and stayed at The Haven 
-which was run as a guest house. Their pony and trap were kept in a stable at the rear and used to collect guests from Wadebridge train station or from Rock. As a boy, John Betjeman remembered being collected from the train station by The Haven owners in their pony and trap/cart. However, John recounted that sometimes if the weather was favourable they could stay on the train past Wadebridge and all the way to Padstow, crossing the estuary on the rowed/sailed ferry to Rock where they would be collected for the shorter journey to The Haven. 
-A family and all their luggage would have been quite a load for the pony but I'm sure the children would have delighted in walking alongside to lighten the load on the hills. We wonder which route they took from Rock to Trebetherick? If the tide was right they may well have taken the shorter and flatter beach option along the firm sand of the high tide line and up only the one hill of Daymer Lane? We hardly notice it now in our cars but the journey from Rock to Trebetherick up Rock Road, TREWINT Lane, TREWINT Hill and WORTHY Hill consists of several steep hills. 
-In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick and called it Undertown.
-
-<img width="80%" src="/1925 Pony&Trap on Polzeath Beach.jpg" alt="1925 Pony&Trap on Polzeath Beach.jpg">
-
-<img width="80%" src="/1926 Pony&Trap at Polzeath.jpg" alt="1926 Pony&Trap at Polzeath.jpg">
 
 ## Richard Tellam-Hocking's First Trebetherick Shop (please contact me if you have a photo of this little shop I would love to have one)
 
