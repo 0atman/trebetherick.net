@@ -5,11 +5,13 @@ tags:
  - Cobb Cottage
 ---
 
-- 1780-1838 - Cobb Cottage
+ # Cobb Cottage Built 1780
+
+ Awaiting photo
 
 Cobb Cottage was standing at the end of a row of 6 cottages extending down the lane. There was a gap, and then 2 more cottages, which now are incorporated in “Torquil Cottage”. The row of 6 cottages all had their backs to the lane, and a path ran from the present Undertown drive serving all their entrance doors. They were turned to the south and away from the lane for maximum sun and warmth on their gardens. In 1840 Nancy Kent was living in Cobb Cottage, a nearby field is known still as Nancy’s Meadow.  The other five cottages were then occupied by William Mably, Robert Mably, Aaron Slogett and John Kent. The centre cottage of the 6 was used in 1838 for housing the rocket apparatus used by the coastguards. By 1880 there is only one of the row of cottages left, Cobb Cottage.
 
-- St Enodoc Cottage
+# St Enodoc Cottage Built 1826
 
 <img width="80%" alt="St Enodoc Cottage, Daymer Lane.png" src="/St Enodoc Cottage, Daymer Lane.png" />
 
