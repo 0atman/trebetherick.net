@@ -20,7 +20,7 @@ tags:
 ## 1938 Electricity Was Brought to Trebetherick
 
 
-## 1920n 
+## 1920 
 The Haven front lawn a grass tennis court was built possibly, chickens were kept and a cow for milk also a vegetable garden was tended, all in the field on the southern side of the house.
 Water was drawn from a well in the garden, which still exists, though it is falling into disrepair at this time. A man was employed for two hours twice a day, pumping to fill the roof tank for WC flushing and washing, a wonderful 'modern' luxury and convenience at that time. A secondary hand pump was located in the scullery for drinking/cooking water.
 
