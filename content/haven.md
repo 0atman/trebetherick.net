@@ -44,7 +44,7 @@ In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick a
 ---
 ## 1927 - Worthy House, Trebetherick Telephone Exchange starts in the Paper Shop and Post Office. 
 
-- The Post Master was George Harris, he ran the shop, delivered the mail and papers and for thirty years connected the phone calls by hand
+- The Post Master was George Harris, he ran the shop, delivered the mail and papers and for thirty years connected the phone calls by hand. Brian used George's 1934 black Austen 7 van to deliver mail and papers. George was full of fun and when operating the phone lines he used to say to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'.
 - In 1957 the new telephone exchange building was built next to Old Farm.
 -  
 ---
