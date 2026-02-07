@@ -26,7 +26,7 @@ Water was drawn from a well in the garden, which still exists, though it is fall
 ## The Haven Poultry
 <img width="40%" src="/Haven-poultry-1950.png" alt="Haven-poultry-1950.png">
 
-## The Haven Pump and Well
+## The Haven Well and Hand Pump
 <img width="50%" src="/Haven-pump.jpg" alt="Haven-pump.jpg">
 ---
 
