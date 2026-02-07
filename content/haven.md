@@ -42,6 +42,8 @@ In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick a
 <img width="80%" src="/1926 Pony&Trap at Polzeath.jpg" alt="1926 Pony&Trap at Polzeath.jpg">
 
 ---
+## 1927 - Worthy House, Trebetherick Telephone Exchange starts in the Shop and Post Office. For thirty years, calls were connected by hand until 1957, when the new telephone exchange building was built next to Old Farm. 
+---
 
 ## 1938 Electricity Was Brought to Trebetherick
 ---
