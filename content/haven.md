@@ -20,8 +20,8 @@ The Haven was the first house constructed in Trebetherick, which was not directl
 
 
 ## 1920 
-The Haven front lawn a grass tennis court was built possibly, chickens were kept and a cow for milk also a vegetable garden was tended, all in the field on the southern side of the house.
-Water was drawn from a well in the garden, which still exists, though it is falling into disrepair at this time. A man was employed for two hours twice a day, pumping to fill the roof tank for WC flushing and washing, a wonderful 'modern' luxury and convenience at that time. A secondary hand pump was located in the scullery for drinking/cooking water.
+The Haven front lawn was laid out as a grass tennis court, chickens and a cow were kept also a vegetable garden was tended, all in the field on the southern side of the house.
+Water was drawn from a well in the garden, which still exists, though it is falling into disrepair at this time. A man was employed for two hours twice a day, pumping to fill the roof tank for WC flushing and washing water, a wonderful 'modern' luxury and convenience at that time. A secondary hand pump was located in the scullery for drinking/cooking water.
 
 ## The Haven Poultry
 <img width="40%" src="/Haven-poultry-1950.png" alt="Haven-poultry-1950.png">
@@ -44,15 +44,15 @@ In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick a
 ---
 ## 1927 - Worthy House, Trebetherick Telephone Exchange starts in the Paper Shop and Post Office. 
 
-- The Postmaster was George Harris, he ran the shop, delivered the mail and papers and for thirty years connected the phone calls by hand.
-As a teenager, Brian took the summer holiday job of assistant postman at Trebetherick post office, Worthy House. 
+- The Postmaster was George Harris, who ran the shop, delivered the mail and papers and for thirty years connected the phone calls with the hand opperated exchange.
+As the numbers of holiday homes and summer visitors increased, George needed Summer time help. As a teenager, Brian took this summer holiday job of assistant postman at Trebetherick Post Office, Worthy House. 
 Brian used George's 1934 black Austen 7 van to deliver mail and papers. George was full of fun and when operating the phone lines he used to say to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'.
 
 - In 1957 the new telephone exchange building was built next to Old Farm.
--  
+ 
 ---
 
-## 1938 Electricity Was Brought to Trebetherick
+## 1938 Domestic Electricity Was Brought to all Trebetherick Properties.
 ---
 
 ## 1950
