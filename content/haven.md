@@ -44,7 +44,10 @@ In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick a
 ---
 ## 1927 - Worthy House, Trebetherick Telephone Exchange starts in the Paper Shop and Post Office. 
 
-- The Post Master was George Harris, he ran the shop, delivered the mail and papers and for thirty years connected the phone calls by hand. Brian used George's 1934 black Austen 7 van to deliver mail and papers. George was full of fun and when operating the phone lines he used to say to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'.
+- The Postmaster was George Harris, he ran the shop, delivered the mail and papers and for thirty years connected the phone calls by hand.
+As a teenager, Brian took the summer holiday job of assistant postman at Trebetherick post office, Worthy House. 
+Brian used George's 1934 black Austen 7 van to deliver mail and papers. George was full of fun and when operating the phone lines he used to say to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'.
+
 - In 1957 the new telephone exchange building was built next to Old Farm.
 -  
 ---
@@ -201,8 +204,9 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 
 - Brian loved school and was full of admiration for the wonderful head teacher Mr Russel Lanxon and class teacher Miss Buse. Mr Lanxon was still the headmaster 30 years later who employed Brian as a teacher in about 1975.
 
-In 1951 Brian went to Bodmin Grammar school. Transport was a taxi to Rock, bus to Wadebridge then the train to Bodmin. As a teenager, he took the summer holiday job of assistant postman at Trebetherick post office, Worthy House. The postmaster and manual telephone switchboard operator was George Harris. 
-During the next 20 years Mabyn and Lewis continued to improve to The Haven, including adding a sun lounge and installing central heating.
+- In 1951 Brian went to Bodmin Grammar school. Transport was a taxi to Rock, bus to Wadebridge then the train to Bodmin. 
+
+- During the next 20 years Mabyn and Lewis continued to improve to The Haven, including adding a sun lounge and installing central heating.
 
 <img width="80%" src="/1920 Fish Delivery.jpg" alt="1920 Fish Delivery.jpg">
 
