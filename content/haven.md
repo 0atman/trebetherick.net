@@ -185,10 +185,12 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 
 - The Haven was bought by Mr Harrison but remained unoccupied for 3 or 4 years. In the mid 1950s it was bought by Brian's parents, Mabyn and Lewis Oaten. Lewis was a qualified carpenter and builder employing several local people, using the stables as a storeroom and garage. Mabyn did bed and breakfast, taking overflow sleepers from St Moritz. One group of those guests was the Gill family. William T Gill was a financial director at Rolls Royce in Derby. The following year they brought down their friends and Mabyn was delighted to recount how she looked down from The Haven balcony at four Rolls Royces parked in the garden. ( see photo).
 
-- 1943 Brian went to St Minver Primary School. His mum Mabyn took him on the back of his bycicle until he was old enough to walk there.
+- 1943 Brian went to St Minver Primary School. His mother, Mabyn, took him on the back of her bycicle until he was old enough to walk there and back.
 - This is Brian's pre-school letter to his grandmother Alice Jane Burne living at Southleigh, St Mabyn
 
 <img width="80%" src="/Brian Oaten's pre-school letter to his grandmother Alice Jane Burne living at Southleigh, St Mabyn" alt="Brian Oaten's pre-school letter to his grandmother Alice Jane Burne living at Southleigh, St Mabyn">
+
+- Brian loved school and was full of admiration for the wonderful teacher Miss Buse and headmaster, Mr Lanxon.
 
 In 1951 Brian went to Bodmin Grammar school. Transport was a taxi to Rock, bus to Wadebridge then the train to Bodmin. As a teenager, he took the summer holiday job of assistant postman at Trebetherick post office, Worthy House. The postmaster and manual telephone switchboard operator was George Harris. Brian used George's 1934 black Austen 7 van to deliver mail and papers. George was full of fun and when operating the phone lines he used to say to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'.
 During the next 20 years Mabyn and Lewis continued to improve to The Haven, including adding a sun lounge and installing central heating.
