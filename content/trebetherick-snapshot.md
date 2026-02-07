@@ -1,3 +1,12 @@
+---
+title: "Brian Oaten's Snapshot of being Born and Living in Trebetherick 1939-Today"
+date: 1939-01-02
+tags: 
+ - houses
+---
+
+
+
 ## A Snapshot Of Trebetherick - Brian Oaten - Born and Lived In Trebetherick
 
 ## THE HAVEN - 1906
