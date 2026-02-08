@@ -11,9 +11,16 @@ tags:
 
 - waiting for photos
 
-<img width="50%" alt="Lower Farm - photos.jpg" src="/Lower Farm - Photos.jpg" />
+<img width="80%" alt="St Moritz Court-Hotel.png" src="/St Moritz Court-Hotel.png" />
+---
 
+<img width="50%" alt="St Moritz Hotel 1950.png" src="/St Moritz Hotel 1950.png" />
 
+---
+<img width="50%" alt="StMoritz1960.png" src="/StMoritz1960.png" />
+---
+<img width="50%" alt="St Moritz Hotel 1980.png" src="/St Moritz Hotel 1980.png" />
+---
 
 # Daymer Bay Hotel - Opened 1946
 
