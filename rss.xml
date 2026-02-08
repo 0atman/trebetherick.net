@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>The Trebetherick Museum</title>
+      <link>https://www.trebetherick.net</link>
+      <description>A community-built website chronicalling the history of the village of Trebetherick, Cornwall, UK.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://www.trebetherick.net/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Footpaths</title>
+          <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/footpaths/</link>
+          <guid>https://www.trebetherick.net/footpaths/</guid>
+          <description xml:base="https://www.trebetherick.net/footpaths/">&lt;p&gt;Footpaths Around Trebetherick🏃🐕‍🦺🚸🦋🌼🚶🏖&lt;&#x2F;p&gt;
+&lt;p&gt;Trebetherick is a great place to visit and there are many footpaths away from the busy ​and very narrow roads​.  ​All ​paths are marked with beautiful wooden fingerboards, thanks to the TRA, Trebetherick Residents Association. There is so much to explore and enjoy from dog walks to walking with family or friends​, using the footpaths to ​safely ​explore and enjoy the local ​beaches, the hideaways of ​Trebetherick, Rock, Polzeath, St Minver, St Enodoc Church, ​and perhaps even catch the ferry ​over the estuary to Padstow and join the Camel trail to Wadebridge and Bodmin.&lt;&#x2F;p&gt;
+&lt;p&gt;Walking ​on busy narrow roads ​with no footpaths and having to compete with busy ​and fast moving traffic is dangerous​, whereas the well marked footpath routes are delightful​ly peaceful and full of fauna and flora, so much safer for you in Trebetherick.&lt;&#x2F;p&gt;
+&lt;img width=&quot;1080&quot; height=&quot;1228&quot; alt=&quot;Screenshot_20250827-073529 (1)&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;15aff403-3b44-412e-91d4-dc2a0a0adc97&quot; &#x2F;&gt;
+&lt;p&gt;For an interactive and zoomable version of the above map, Visit the Cornwall County Council’s mapping site here: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;experience.arcgis.com&#x2F;experience&#x2F;515bb9766732435e97c521afa247c5e9&quot;&gt;https:&#x2F;&#x2F;experience.arcgis.com&#x2F;experience&#x2F;515bb9766732435e97c521afa247c5e9&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;img width=&quot;951&quot; height=&quot;1254&quot; alt=&quot;Screenshot_20250826-142144&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;24ed5f0c-c9b6-4957-86a2-0cf6196901b1&quot; &#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;120f7d04-75e9-4bd2-94b7-02d4f4fef3de&quot; alt=&quot;Screenshot_20250825-163311~2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>About The Museum</title>
+          <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/about/</link>
+          <guid>https://www.trebetherick.net/about/</guid>
+          <description xml:base="https://www.trebetherick.net/about/">&lt;p&gt;While a wealth of historical information about Trebetherick has always existed, there hasn’t been a single, publicly accessible place for it to be safely stored and displayed for everyone to view and enjoy, until now.
+We invite you to explore the Trebetherick Museum and discover the fascinating history of our area.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;background&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#background&quot; aria-label=&quot;Anchor link for: background&quot;&gt;Background&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;The site was conceived by Trebetherick residents, Jenny &amp;amp; Brian Oaten. Their son, Tristram, a web developer, built this digital museum for the entire community to use, contribute to and enjoy. Brian’s parents, Mabyn and Lewis Oaten, born in St Mabyn and St Kew, lived in Trebetherick from 1938. The Oaten family’s roots in these villages can be traced back to 1781, with earlier generations recorded in neighbouring parishes.&lt;&#x2F;p&gt;
+&lt;p&gt;This website is currently in its infancy, and we are relying on your &lt;a href=&quot;mailto:contact@trebetherick.net&quot;&gt;submissions&lt;&#x2F;a&gt; of stories and pictures to help it grow. As new pages are added, they will be listed on the front page. The only house featured at the moment is our entry for The Haven, the Oatens’ family home until 2000 (when we moved next-door). We hope that soon there will be many other pages for houses, farms, shops, St Enodoc Church - anything in and around Trebetherick.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;how-is-the-site-built&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#how-is-the-site-built&quot; aria-label=&quot;Anchor link for: how-is-the-site-built&quot;&gt;How is the site built?&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;We are using GitHub.com to make the website because it enables us to keep everything safe, organized, and easy to update.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;github&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#github&quot; aria-label=&quot;Anchor link for: github&quot;&gt;GitHub?&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;GitHub is the largest, most trusted web-based collaboration platform in the Web world. It allows us to review changes, discuss issues, and manage projects in one place.&lt;&#x2F;p&gt;
+&lt;p&gt;Launched in 2008, and bought by Microsoft in 2018, GitHub has become foundational infrastructure of the Internet. By storing our important information and photos with GitHub, we can be sure that this legacy will last for as long as possible.&lt;&#x2F;p&gt;
+&lt;p&gt;In simple terms:&lt;&#x2F;p&gt;
+&lt;p&gt;🧺 GitHub is like an online vault for our website. It keeps all the pictures, history, and stories in one safe place. It keeps track of every change we make. If a mistake is made, we can go back to an older version, just like keeping a copy before trying something new.&lt;&#x2F;p&gt;
+&lt;p&gt;🧑‍🤝‍🧑 Other people can help. If someone from the village wants to add a photo or text, we can do it through GitHub easily. Just email it to us, link below, and we will give it its own page in the museum. (For those of a technical background, we also accept GitHub PRs directly)&lt;&#x2F;p&gt;
+&lt;p&gt;🌍 GitHub hosts the website for free, and all the documents and photos are available to the public for free, forever. Anyone can visit and see our museum’s story online.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;contributing&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#contributing&quot; aria-label=&quot;Anchor link for: contributing&quot;&gt;Contributing&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;We would be delighted if you have information, and&#x2F;or photographs that you would like to submit for preservation in the Trebetherick Museum, &lt;a href=&quot;mailto:contact@trebetherick.net&quot;&gt;please email it to us at contact@trebetherick.net&lt;&#x2F;a&gt;
+Please include as much accurate information and names as possible about every submission.
+Please submit your photos in as high a quality as you can, original resolution ideally, and be aware that apps like WhatsApp reduce the quality of photos without asking (ask for originals by email, if you have been sent photos through WhatsApp).&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Local Area</title>
+          <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/area/</link>
+          <guid>https://www.trebetherick.net/area/</guid>
+          <description xml:base="https://www.trebetherick.net/area/">&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;history&quot;&gt;History&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;wells&quot;&gt;The Wells&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;footpaths&quot;&gt;The Footpaths&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;hotels&quot;&gt;Hotels&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;shipwrecks&quot;&gt;Shipwrecks&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;mines&quot;&gt;Mines&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Add to The Museum</title>
+          <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/contribute/</link>
+          <guid>https://www.trebetherick.net/contribute/</guid>
+          <description xml:base="https://www.trebetherick.net/contribute/">&lt;p&gt;If you have information, and&#x2F;or photographs that you would like to submit for preservation in the Trebetherick Museum, &lt;a href=&quot;mailto:contact@trebetherick.net&quot;&gt;please email us at contact@trebetherick.net&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Please submit photos in as high a quality as you can, originals ideally, and be aware that apps like WhatsApp reduce the quality of photos (ask for originals by email, if you have been using WhatsApp).&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Farms</title>
+          <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/farms/</link>
+          <guid>https://www.trebetherick.net/farms/</guid>
+          <description xml:base="https://www.trebetherick.net/farms/">&lt;h3 id=&quot;working-farms&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#working-farms&quot; aria-label=&quot;Anchor link for: working-farms&quot;&gt;Working Farms&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Farms as of 2025&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;trewiston&quot;&gt;Trewiston Farm&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;restharrow&quot;&gt;Restharrow Farm&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;historical-farms&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#historical-farms&quot; aria-label=&quot;Anchor link for: historical-farms&quot;&gt;Historical Farms&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Since the mid 20th centuary these farms all became unviable and were converted to residential&#x2F;holiday accommodation. The last two old barns of Higher Farm still remain but are unused as of 2025.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;trewintfarm&quot;&gt;Trewint Farm&lt;&#x2F;a&gt;, circa 1600&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;elmcottage&quot;&gt;Elm Cottage&lt;&#x2F;a&gt;, circa 1600&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;oldfarm&quot;&gt;Old Farm&lt;&#x2F;a&gt;, circa 1600 - Was originally called Higher Farm but the land was sold to Harry Male in 1929 who built himself a new house over the road, the original was renamed Old Farm.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;lowerfarm&quot;&gt;Lower Farm&lt;&#x2F;a&gt; , circa 1600&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;lowertrebetherickfarm&quot;&gt;Lower Trebetherick Farm&lt;&#x2F;a&gt; , disappeared before 1950. (It may be that Lower Trebetherick Farm and Lower Farm are one and the same. Please message me if you know).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;trenainfarm&quot;&gt;Trenain Farm&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;higherfarm&quot;&gt;Higher Farm&lt;&#x2F;a&gt;, Farmhouse built 1930 - demolished and rebuilt as holiday accommodation 2016&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;a-short-summary-of-farming-in-trebetherick-before-1900&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#a-short-summary-of-farming-in-trebetherick-before-1900&quot; aria-label=&quot;Anchor link for: a-short-summary-of-farming-in-trebetherick-before-1900&quot;&gt;A Short Summary of Farming in Trebetherick Before 1900&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;trebetherick-farm-animals-oxen-sheep-replaced-by-cattle-1800-1900-wadebridge-cattle-market&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#trebetherick-farm-animals-oxen-sheep-replaced-by-cattle-1800-1900-wadebridge-cattle-market&quot; aria-label=&quot;Anchor link for: trebetherick-farm-animals-oxen-sheep-replaced-by-cattle-1800-1900-wadebridge-cattle-market&quot;&gt;Trebetherick Farm Animals - Oxen - Sheep Replaced by Cattle - 1800-1900 - Wadebridge Cattle Market&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1800 Oxen were strong and often used for ploughing and other farm work. When on the road they always had a horse in front to lead them. By the 1880s oxen had mostly been replaced by horses which were more easily managed. Now while digging in The Haven garden I still find old discarded horse and oxen shoes.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;By 1850 almost every farm in Trebetherick kept a flock of sheep and beef cattle, mostly dark red north Devon crossed with Hereford, which were sold on the first Tuesday in the month at Wadebridge Market. Up to the first World war this Market was held on the 2nd and 4th Tuesday and afterwards changed to 2nd and 4th Monday’s.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;By 1880 beef cattle began to replace the flocks of sheep, especially after the very bad wet weather of 1879 when many sheep got liver rot or “fluke,” which killed millions of sheep across Britain.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;​1900  There was a shortage of labour, hedges were neglected and wool prices dropped​ because of the two Boer Wars, one in 1880-1881 and the second in 1899-1902​.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Houses</title>
+          <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/houses/</link>
+          <guid>https://www.trebetherick.net/houses/</guid>
+          <description xml:base="https://www.trebetherick.net/houses/">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;haven&quot;&gt;The Haven&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;trebetherick-snapshot&quot;&gt;Brian Oaten’s Memories of Trebetherick&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;undertown&quot;&gt;Undertown&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;trefelix&quot;&gt;Trefelix&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;whitewings&quot;&gt;White Wings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;cobb&quot;&gt;Cobb Cottage&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>title here</title>
+          <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/maps/somemaps/</link>
+          <guid>https://www.trebetherick.net/maps/somemaps/</guid>
+          <description xml:base="https://www.trebetherick.net/maps/somemaps/">&lt;p&gt;body here&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>St Enodoc Church</title>
+          <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/stenodoc/</link>
+          <guid>https://www.trebetherick.net/stenodoc/</guid>
+          <description xml:base="https://www.trebetherick.net/stenodoc/">&lt;h1 id=&quot;st-enodoc-church&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#st-enodoc-church&quot; aria-label=&quot;Anchor link for: st-enodoc-church&quot;&gt;St Enodoc Church&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;St Enodoc Golf Course - Daymer Bay and Lower Trebetherick&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;St Enodoc bright banner photo.jpg&quot; alt=&quot;St Enodoc bright banner photo.jpg&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;photoshopped image&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;St Enodoc Church.png&quot; alt=&quot;St Enodoc Church.png&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;photoshopped image&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;St Enodoc Church AI 1863.png&quot; alt=&quot;St Enodoc Church AI 1863.png&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;1864-st-enodoc-s-north-chapel-was-restored&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1864-st-enodoc-s-north-chapel-was-restored&quot; aria-label=&quot;Anchor link for: 1864-st-enodoc-s-north-chapel-was-restored&quot;&gt;1864: St Enodoc’s north chapel was restored.&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;A thousand people attend the reopening on 29 July 1864&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h3 id=&quot;two-bells-at-st-enodoc-church&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#two-bells-at-st-enodoc-church&quot; aria-label=&quot;Anchor link for: two-bells-at-st-enodoc-church&quot;&gt;Two Bells at St Enodoc Church&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;1613 ALFREDUS REX&lt;&#x2F;li&gt;
+&lt;li&gt;1875 SAHEL, bought from the Italian wreck, Immacolata&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;1613 St Enodoc 2 Bells.jpg&quot; alt=&quot;1613 St Enodoc 2 Bells.jpg&quot;&gt;
+</description>
+      </item>
+      <item>
+          <title>Brian Oaten&#x27;s Snapshot of being Born and Living in Trebetherick 1939-Today</title>
+          <pubDate>Mon, 02 Jan 1939 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/trebetherick-snapshot/</link>
+          <guid>https://www.trebetherick.net/trebetherick-snapshot/</guid>
+          <description xml:base="https://www.trebetherick.net/trebetherick-snapshot/">&lt;h2 id=&quot;a-snapshot-of-life-in-trebetherick&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#a-snapshot-of-life-in-trebetherick&quot; aria-label=&quot;Anchor link for: a-snapshot-of-life-in-trebetherick&quot;&gt;A Snapshot Of Life in Trebetherick&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Brian Oaten - Born and Lived In Trebetherick 1939 to Today&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;the-haven-1906&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-haven-1906&quot; aria-label=&quot;Anchor link for: the-haven-1906&quot;&gt;THE HAVEN - 1906&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;In 1906 The Haven was built in Trebetherick
+as an 8 bedroom guest house,
+near the top of Worthy Hill,
+to provide accommodation primarily for golfers
+to visit the new St Enodoc golf course.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-1901-census-and-early-life-in-trebetherick&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-1901-census-and-early-life-in-trebetherick&quot; aria-label=&quot;Anchor link for: the-1901-census-and-early-life-in-trebetherick&quot;&gt;The 1901 CENSUS and Early Life in TREBETHERICK &lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;There were eight households and one uninhabited house, 17 adults and 11 children.
+1901 TREBETHERICK INHABITANTS were 3 farmers, John Wills, John Mably, Charles Mably.  Humphrey Craddock a stone quarry mason, Ann White a shirt maker seamstress,
+The 2 coastguards were Benjamin Longworthy from Liverpool and William Clode,
+The Mably sisters Joanna and Harriet were elderly and retired but employed several labourers.
+One visiting migrant or in-service working family Cottell, husband, wife and 5 children, formerly of St Tudy and then Trevalga, listed with 75yr old widowed farmer, John Mably.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;no-road-between-trebetherick-and-polzeath-no-road-across-polzeath-beach&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#no-road-between-trebetherick-and-polzeath-no-road-across-polzeath-beach&quot; aria-label=&quot;Anchor link for: no-road-between-trebetherick-and-polzeath-no-road-across-polzeath-beach&quot;&gt;No road between Trebetherick and Polzeath - No road across Polzeath Beach&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;At this time there was no road between Trebetherick and Polzeath only a pedestrian&#x2F;pony track through the six fields between the two villages. The main way in and out of Polzeath was via Dunder Hill. An elderly gentleman visiting us at The Haven could remember using the track to walk from Trebetherick to Polzeath and having to open and close the six field gates to get there.
+The residents of Polzeath would make journeys north and eastwards up Dunder Hill by pony and trap or cart and horse to market, for business, or for visiting further afield. It was customary for passengers and children to walk up the hills to lighten the load for the pony. On the return journey, when reaching Port Quin Cross, being mostly downhill and flat from there to the top of Dunder Hill, Polzeath, it was possible to give the ponies a good gallop. Those flat fields are called Galloping Fields.
+In summer, day trippers to Polzeath beach, for example the St. Mabyn and St. Kew Sunday School or feast day outings, travelled by horse drawn charabanc, (open cart or coach with bench seats). On arrival the horses were stabled, fed and watered at F Male’s Stables and Picnic Tea Rooms, charabancs stabled, cars parked (photo)
+(no relation to Trebetherick Higher Farm Harry and Basil Male )&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;f-male-s-stables-and-tea-rooms-before-the-road-was-built&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#f-male-s-stables-and-tea-rooms-before-the-road-was-built&quot; aria-label=&quot;Anchor link for: f-male-s-stables-and-tea-rooms-before-the-road-was-built&quot;&gt;F MALE’S Stables and Tea Rooms - Before the road was built&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;Males-tea-rooms.jpg&quot; alt=&quot;Males-tea-rooms.jpg&quot;&gt;
+&lt;p&gt;The Polzeath Chapel was moved into a purpose built shed in 1898 using a corrugated iron roof and became known locally as the Tin Tabernacle at Chapel Corner, (1920 photo).
+In 1932&#x2F;3 the new chapel was built further away from the corner to allow for road improvements.&lt;&#x2F;p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;1920 Chapel Corner, Polzeath.jpg&quot; alt=&quot;1920 Chapel Corner, Polzeath.jpg&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;daymer-lane-sand-carting-traffic&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#daymer-lane-sand-carting-traffic&quot; aria-label=&quot;Anchor link for: daymer-lane-sand-carting-traffic&quot;&gt;DAYMER LANE - SAND CARTING TRAFFIC&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;80%&quot; alt=&quot;Screenshot_20240503-181033&quot; src=&quot;&#x2F;sand-carter-pony-daymer-lane-1920-40.jpg&quot; &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;1930-sand-carting.jpg&quot; alt=&quot;1930-sand-carting.jpg&quot;&gt;
+&lt;p&gt;Tenant farmers’ manorial leases to Trewornan and Roscarrock required 12 cart loads of sea sand to be applied to every cultivated acre. The carters sold sea sand in 1930 for 1&#x2F;6 per load, 6 loads being gathered at each tide, (photo). Halfway down Daymer Lane a large horse trough was built, fed by a spring (photo). This was essential in the 19c for the many horses pulling the heavy carts loaded  with sand up the lane.
+Several cottages were built backing onto Daymer Lane (enjoying lovely south facing, sheltered gardens), perhaps as many as 8 or 10, all but Cobb Cottage and Torquil Cottage are now gone.&lt;&#x2F;p&gt;
+&lt;img width=&quot;30%&quot; src=&quot;&#x2F;1930-drinking trough Daymer Lane.png&quot; alt=&quot;1930-drinking trough Daymer Lane.png&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;brian-s-great-grandparents-caught-in-the-1881-or-1891-blizzard&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#brian-s-great-grandparents-caught-in-the-1881-or-1891-blizzard&quot; aria-label=&quot;Anchor link for: brian-s-great-grandparents-caught-in-the-1881-or-1891-blizzard&quot;&gt;BRIAN’S GREAT GRANDPARENTS CAUGHT IN THE 1881 or 1891 BLIZZARD&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Brian’s great grandparents were returning in their cart from market in 1881 or 1891 with a quantity of supplies and meat when it started to snow. It soon became a blizzard and they could go no further. They had to unhitch the pony and leaving the cart where it was stuck, they led the pony and just managed to struggle home. The told of the snow drifts being so deep that sometimes they had to walk on the tops of the hedges. It was two weeks before the freeze thawed enough for them to return to fetch the cart. Rather surprisingly all their meat had remained frozen and none was spoiled!!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;richard-tellam-hocking-s-first-trebetherick-shop-please-contact-me-if-you-have-a-photo-of-this-little-shop-i-would-love-to-have-one&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#richard-tellam-hocking-s-first-trebetherick-shop-please-contact-me-if-you-have-a-photo-of-this-little-shop-i-would-love-to-have-one&quot; aria-label=&quot;Anchor link for: richard-tellam-hocking-s-first-trebetherick-shop-please-contact-me-if-you-have-a-photo-of-this-little-shop-i-would-love-to-have-one&quot;&gt;Richard Tellam-Hocking’s First Trebetherick Shop (please contact me if you have a photo of this little shop I would love to have one)&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;At the top of Polzeath Hill was a purpose built shop, double fronted with door in the middle, run by Ralph Tellem-Hocking’s father, Richard. In the summer they made ice-cream which his wife sold on the beach. When she needed more she waved a flag as a signal to her husband to bring down more supplies. At a later date this little building was re-purposed as the Polzeath doctors surgery.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;before-1928-trebetherick-had-no-mains-water-and-so-the-haven-was-self-sufficiant&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#before-1928-trebetherick-had-no-mains-water-and-so-the-haven-was-self-sufficiant&quot; aria-label=&quot;Anchor link for: before-1928-trebetherick-had-no-mains-water-and-so-the-haven-was-self-sufficiant&quot;&gt;Before 1928 Trebetherick Had No Mains Water and so The Haven was Self Sufficiant&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;water-mains-laid-to-polzeath-1928-to-trebetherick-also-at-the-same-time-i-think&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#water-mains-laid-to-polzeath-1928-to-trebetherick-also-at-the-same-time-i-think&quot; aria-label=&quot;Anchor link for: water-mains-laid-to-polzeath-1928-to-trebetherick-also-at-the-same-time-i-think&quot;&gt;Water Mains laid to Polzeath 1928, to Trebetherick also at the same time I think.&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;Piped water to Polzeath-1928.jpg&quot; alt=&quot;Piped water to Polzeath-1928.jpg&quot;&gt;
+&lt;p&gt;1941 WW2 Brian Oaten remembers as a child of two and a half being woken by his mother to be held up to the window to see the glow in the eastern sky which was Plymouth on fire during the WW2 blitz. It must have been particularly distressing for Mabyn as her husband Lewis, like many carpenters and shipwrights were working in Plymouth.
+In 1938 Lewis Oaten sensed that Hitler’s actions were becoming increasingly menacing and that things were changing in the building trade. He looked for alternative work and took a job in Looe as a shipwright making wooden launches for the Admiralty. Soon those with shipwright skills like Lewis and his colleagues were all required to go to Devonport and work in the Admiralty Dockyard which he did for the rest of the war.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;1925-trebetherick-duck-ponds&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1925-trebetherick-duck-ponds&quot; aria-label=&quot;Anchor link for: 1925-trebetherick-duck-ponds&quot;&gt;1925 TREBETHERICK DUCK PONDS&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Brian remembers, as a boy in the very cold winter of 1946, sliding on the several frozen Trebetherick duck ponds. They were on the road side of Higher Farm, close to the hedge, another was next to Elm Cottage. The one above Worthy House in the photo below was drained in the 1940s for road improvements.&lt;&#x2F;p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;Trebetherick-duck-pond.jpg&quot; alt=&quot;Trebetherick-duck-pond.jpg&quot;&gt;
+&lt;h2 id=&quot;collage-of-duck-pond-1925-and-today-2021&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#collage-of-duck-pond-1925-and-today-2021&quot; aria-label=&quot;Anchor link for: collage-of-duck-pond-1925-and-today-2021&quot;&gt;Collage of duck pond 1925 and today 2021&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;duck-pond-1925-vs-2021.jpg&quot; alt=&quot;Collage of duck pond 1925 and today 2021&quot;&gt;
+&lt;p&gt;Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, was drained in the 1930s after mains water was installed, making way for the ​new and larger Trebetherick telephone exchange. On the right is the gate into Ham Field, so called as it was the triangular shape of a ham.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;1941&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1941&quot; aria-label=&quot;Anchor link for: 1941&quot;&gt;1941&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1941 - Brian Oaten age 2, inside the gate at the first Trelawney, Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian’s grandfather John Oaten, from grandparent’s home ‘Kitts Hill’, St Kew.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img height=&quot;50%&quot; width=&quot;50%&quot; src=&quot;&#x2F;Brian-Oaten-age-2-or-3-in-pony-and-trap..png&quot; alt=&quot;1941 - Brian Oaten age 2 or 3, inside the gate at the first Trelawney Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian&#x27;s grandfather John Oaten, from grandparent&#x27;s home &#x27;Kitts Hill&#x27;, St Kew&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;lewis-oaten-and-mother-and-brian-at-kitts.hill.png&quot; alt=&quot;30 Lewis Oaten and his mother Mary (Polly) Oaten outside the house where they both were born, Kitts Hill, St Kew, with his son Brian Oaten.PNG.pdf&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;This photo could be Brian’s Grandfather, John Oaten, travelling from Kitts Hill, St Kew to Trebetherick sometime before 1932 on his pony and trap going down Dunder Hill and through Polzeath. The original Tin Tabernackle still in place at Chapel Corner before being re-built in its present day poition so the road’s steep and sharp corner could be widened.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;Pre 1932- Dunder Hill, Polzeath.jpg&quot; alt=&quot;Pre 1932- Dunder Hill, Polzeath.jpg&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;the-haven-1950s&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-haven-1950s&quot; aria-label=&quot;Anchor link for: the-haven-1950s&quot;&gt;THE HAVEN - 1950s&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The Haven was bought by Mr Harrison but remained unoccupied for 3 or 4 years. In the mid 1950s it was bought by Brian’s parents, Mabyn and Lewis Oaten. Lewis was a qualified carpenter and builder employing several local people, using the stables as a storeroom and garage. Mabyn did bed and breakfast, taking overflow sleepers from St Moritz. One group of those guests was the Gill family. William T Gill was a financial director at Rolls Royce in Derby. The following year they brought down their friends and Mabyn was delighted to recount how she looked down from The Haven balcony at four Rolls Royces parked in the garden. ( see photo).&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;1943 Brian went to St Minver Primary School. His mother, Mabyn, took him on the back of her bycicle until he was old enough to walk there and back.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;This is Brian’s pre-school letter to his grandmother Alice Jane Burne living at Southleigh, St Mabyn&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;Brian Oaten&#x27;s pre-school letter to his grandmother Alice Jane Burne living at Southleigh, St Mabyn.png&quot; alt=&quot;Brian Oaten&#x27;s pre-school letter to his grandmother Alice Jane Burne living at Southleigh, St Mabyn.png&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Brian loved school and was full of admiration for the wonderful head teacher Mr Russel Lanxon and class teacher Miss Buse. Mr Lanxon was still the headmaster 30 years later who employed Brian as a teacher in about 1975.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;In 1951 Brian went to Bodmin Grammar school. Transport was a taxi to Rock, bus to Wadebridge then the train to Bodmin.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;During the next 20 years Mabyn and Lewis continued to improve to The Haven, including adding a sun lounge and installing central heating.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;1920 Fish Delivery.jpg&quot; alt=&quot;1920 Fish Delivery.jpg&quot;&gt;
+&lt;h2 id=&quot;the-haven-1970s&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-haven-1970s&quot; aria-label=&quot;Anchor link for: the-haven-1970s&quot;&gt;The Haven - 1970s&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;In the mid 1970s Mabyn and Lewis retired and built a bungalow on their south field next to The Haven, calling it Trelawney. They sold The Haven to their son Brian Oaten and his wife Jenny, teachers at St Minver Primary School and Port Isaac Primary School. We remember the old wooden tennis net posts with brass winders still lying up in the garage loft.
+MABYN AND LEWIS OATEN 1911-1990
+Mabyn was born in St Mabyn and Lewis Oaten was born in St Kew, both in 1911.  Lewis Oaten had trained as a carpenter with the Wadebridge builder, Lewis Brown. They built some of the early Greenaway estate houses before the Second World War. Lewis Oaten bought a small piece of land in Trebetherick from Harry Mail, and built his own bungalow which they named Trelawney. Basil’s father, Harry had bought Higher Farm of 180 acres and built a new farmhouse in 1930. The old farmhouse with sitting tenant was renamed Old Farm.
+Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s when they sold that bungalow and moved to The Haven, the bungalow was renamed Pen-y-bryn.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Haven 1960&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;The Haven-1965.jpg&quot; alt=&quot;The Haven 1965&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;The Haven 1965&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;The Haven 1965.jpg&quot; alt=&quot;The Haven 1965&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;1967 Daymer Beach and Trebetherick Point from Brea&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;Daymer Beach from Brea 1967.jpg&quot; alt=&quot;The Haven 1960&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;1965 Trebetherick from Brea&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;Trebetherick-from-Brea-1965.jpg&quot; alt=&quot;Trebetherick-from-Brea-1965.jpg&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;On the main road through Trebetherick 1965 looking towards Brea,telephone exchange on left, the bus shelter has now been been moved to the other side of the road&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg&quot; alt=&quot;On the main road through Trebetherick 1965 looking towards Brea, the bus shelter has been moved to the other side of the road.jpg&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;80%&quot; alt=&quot;The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony&quot; src=&quot;&#x2F;haven-mid-1950s-original-balcony.jpg&quot; &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;The Haven, Trebetherick, as it was when first bought by Lewis and Mabyn Oaten in the mid 1950s with first floor west-facing balcony. Mabyn did bed and breakfasts while Lewis, a carpenter, ran a small carpentry&#x2F;joinery and general repairs business.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;80%&quot; alt=&quot;Screenshot_20220202-141059&quot; src=&quot;&#x2F;haven-postcard-1930-1950-car-beach.jpg&quot; &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;This postcard was taken sometime 1930-1950. Note The Haven top right and the car on the beach.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;before-the-road-was-widened-in-1960s&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#before-the-road-was-widened-in-1960s&quot; aria-label=&quot;Anchor link for: before-the-road-was-widened-in-1960s&quot;&gt;BEFORE THE ROAD WAS WIDENED IN 1960s&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Looking uphill, at The Haven entrance on the right, Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements in late 1960s.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;haven-uphill-old-farm-centre.jpg&quot; alt=&quot;Looking uphill, at The Haven entrance on the right, Old Farm is the house you can just about see in the centre&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;daymer-bay-garage-and-workshops&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#daymer-bay-garage-and-workshops&quot; aria-label=&quot;Anchor link for: daymer-bay-garage-and-workshops&quot;&gt;DAYMER BAY GARAGE and WORKSHOPS&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;The Daymer Bay Garage, was located at the junction of Worthy Hill and Daymer Lane, was operated by Norman Cleave, a motor car enthusiast and the father of Leadville Cleave and grandfather of Jon Cleave, from Port Isaac. The garage included workshops, garages, and a petrol pump. Norman also managed the Clock Garage at Rock.
+Below the garage on Daymer Lane, Worthy House ​was built ​and served as both a Post Office and a telephone exchange, playing a central role in the village’s communication.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages&lt;&#x2F;p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;junction-of-daymer-lane-and-worth-hill-with-garage-cable.jpg&quot; alt=&quot;View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956&lt;&#x2F;p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;daymer-bay-garage-derelict-1956.jpg&quot; alt=&quot;This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;At the top of Worthy hill, looking down, Daymer Bay Garage is on the right and The Haven entrance is on the left&lt;&#x2F;p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;worthy-hill-downhill-haven-and-garage.jpg&quot; alt=&quot;At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Almost at the top of Worthy Hill, The Haven entrance is on the left with gate posts parallel with the original old road. Daymer Bay Garage is now gone.&lt;&#x2F;p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;top-worthy-hill-haven-entrance-left.jpg&quot; alt=&quot;Almost at the top of Worthy Hill, The Haven entrance is on the left~2&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;1963-aerial-view-of-the-haven-showing-lewis-oaten-s-newly-constructed-mahogany-sunlounge&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1963-aerial-view-of-the-haven-showing-lewis-oaten-s-newly-constructed-mahogany-sunlounge&quot; aria-label=&quot;Anchor link for: 1963-aerial-view-of-the-haven-showing-lewis-oaten-s-newly-constructed-mahogany-sunlounge&quot;&gt;1963 Aerial View of The Haven - showing Lewis Oaten’s newly constructed mahogany sunlounge&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;sheltered from north and east by mature Cornish elm trees - all died of the Dutch elm disease in 1970&#x2F;80s.&lt;&#x2F;p&gt;
+&lt;img width=&quot;80%&quot; height=&quot;50%&quot; alt=&quot;Screenshot_20251028-102328&quot; src=&quot;&#x2F;haven-aerial-new-mahogany-sunlounge.jpg&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Looking up Daymer Lane almost at the top, this was a set 4 garages with the post office on the right&lt;&#x2F;p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;daymer-lane-near-top-4-garages.jpg&quot; alt=&quot;Looking up Daymer Lane almost at the top, this was a set 4 garages~3&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;1970s-bill-tucker-s-coach-trips&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1970s-bill-tucker-s-coach-trips&quot; aria-label=&quot;Anchor link for: 1970s-bill-tucker-s-coach-trips&quot;&gt;1970s BILL TUCKER’S COACH TRIPS&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;bill-tucker-from-trewornan-farm-was-a-horse-and-coaching-enthusiast-and-he-used-to-conduct-pleasure-trips-that-passed-by-the-haven-sounding-a-long-shining-copper-coaching-horn-at-corners-and-other-suitable-points-along-the-route&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#bill-tucker-from-trewornan-farm-was-a-horse-and-coaching-enthusiast-and-he-used-to-conduct-pleasure-trips-that-passed-by-the-haven-sounding-a-long-shining-copper-coaching-horn-at-corners-and-other-suitable-points-along-the-route&quot; aria-label=&quot;Anchor link for: bill-tucker-from-trewornan-farm-was-a-horse-and-coaching-enthusiast-and-he-used-to-conduct-pleasure-trips-that-passed-by-the-haven-sounding-a-long-shining-copper-coaching-horn-at-corners-and-other-suitable-points-along-the-route&quot;&gt;Bill Tucker from Trewornan Farm, was a horse and coaching enthusiast and he used to conduct pleasure trips that passed by The Haven, sounding a long, shining copper coaching horn at corners and other suitable points along the route.&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;coach-and-four.jpg&quot; alt=&quot;Coach and Four&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;bill-tucker-coach-and-four.jpg&quot; alt=&quot;Bill Tucker&#x27;s Coach and Four&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;80%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;51c3f48f-e78f-4e33-989a-7eff73e18302&quot; alt=&quot;Coach and Four&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Higher Trebetherick - Looking North - Before Road Widening 1960s&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;higher-trebetherick-north-before-road-widening-1960s.jpg&quot; alt=&quot;The old coastguard houses on the right on th way to Polzeath through Trebetherick&quot;&gt;
+&lt;p&gt;Higher Farm on Left - Shop on Right&lt;&#x2F;p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;higher-farm-left-shop-right.jpg&quot; alt=&quot;At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath&quot;&gt;
+&lt;p&gt;New Telphone Exchange on right&lt;&#x2F;p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;caravan-basil-edna-male-1972.jpg&quot; alt=&quot;1972 Old Caravan belonging to Basil and Edna Male&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Worthy Hill&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;middle-worthy-hill-floraldene-right.jpg&quot; alt=&quot;Looking up the middle section of Worthy Hill, Floraldene is on the right&quot;&gt;
+&lt;p&gt;Looking North - Floraldene On Right&lt;&#x2F;p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;worthy-hill-downhill-coppice-floraldene-1960.jpg&quot; alt=&quot;Opposite The Haven entrance, looking down Worthy Hill, in the mid 1960s only The Coppice had been built down to the cream house, Floradene&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Worthy Hill - Looking South - Floraldene on Left.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Before the building of Tide Race, Breafield and public footpath.
+Note the council wintertime piles of sand to grit the hill&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;1979 Daymer Beach, when it was a lovely sandy beach.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;80%&quot; src=&quot;daymer-1979.jpg&quot; alt=&quot;Screenshot_20250819-172308~2&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;daymer-and-bre-1979.jpg&quot; alt=&quot;Screenshot_20250819-172220~2&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#&quot; aria-label=&quot;Anchor link for: &quot;&gt;&lt;img width=&quot;80%&quot; src=&quot;&#x2F;mabyn-oaten-balcony-before-1950-2.jpg&quot; alt=&quot;Mabyn Oaten on the balcony of _The Haven_ before it was 
+ removed in the late 1950s~2&quot;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;lewis-mabyn-brian-oaten-canon.jpg&quot; alt=&quot;PXL_20250828_080716208&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;The Haven itself was rendered ​on the outside using sand and shingle containing small shells, which were brought up from the beach by pony and cart. ​With one of these loads, the Trebetherick Point defense cannon was brought up for safe​keeping. It was mounted in the front garden until 1999, when Naval historian ​Tim Parr, who was researching Henrician Cannons, visited. He was instrumental in arranging for its preservation and subsequent display at Prideaux Place, where its sister cannon from the Padstow side is also located.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;THE TREBETHERICK CANNON - circa 16th centuary&lt;&#x2F;p&gt;
+&lt;p&gt;This 3 pounder gun was mounted in the Trebetherick Battery at Greenaway, 20 feet above the High Water Mark, on the East side of the Camel Estuary, as part of the defences of Padstow. It is very badly corroded as it was exposed to salt spray in every gale in the prevailing South West wind for at least 200 years.​ It is thought that the guns on their wheeled carriage may have been kept in St Enodoc Church to be rolled out and up onto Greenaway when needed.&lt;&#x2F;p&gt;
+&lt;p&gt;The gun was brought up from the Battery in the early 1900’s, by a farmer Mr.​ Barton, with his last load of shingle from Greenaway beach​. The gun was set on a concrete plinth ​at the ​south west corner of The Haven in Trebetherick​ in 1906.&lt;&#x2F;p&gt;
+&lt;p&gt;​Brian Oaten kindly arranged with Tim Parr naval historian, for the gun​s safekeeping to be displayed ​at Prideaux Place, where it has been conserved and has now been mounted on a ​1600 replica “bed and bracket” carriage​, for display.&lt;&#x2F;p&gt;
+&lt;p&gt;While the degree of corrosion makes it difficult to be precise about its date, or its history, based on its proportions and the shape of its trunnions it is considered likely that it was cast in the 16th century, and is therefore another early cast iron gun.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;this-gun-with-the-three-finbankers-which-lay-in-pentire-farm-formed-the-trebetherick-battery-which-was-a-part-of-the-defences-of-the-safe-haven-which-was-established-in-padstow-in-1780-to-shelter-british-ships-being-pursued-by-american-privateers-as-described-in-the-panel-on-the-war-of-american-independence&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#this-gun-with-the-three-finbankers-which-lay-in-pentire-farm-formed-the-trebetherick-battery-which-was-a-part-of-the-defences-of-the-safe-haven-which-was-established-in-padstow-in-1780-to-shelter-british-ships-being-pursued-by-american-privateers-as-described-in-the-panel-on-the-war-of-american-independence&quot; aria-label=&quot;Anchor link for: this-gun-with-the-three-finbankers-which-lay-in-pentire-farm-formed-the-trebetherick-battery-which-was-a-part-of-the-defences-of-the-safe-haven-which-was-established-in-padstow-in-1780-to-shelter-british-ships-being-pursued-by-american-privateers-as-described-in-the-panel-on-the-war-of-american-independence&quot;&gt;This gun, with the three “Finbankers, which lay in Pentire Farm, formed the Trebetherick battery, which was a part of the defences of the “Safe Haven” which was established in Padstow, in 1780, to shelter British ships being pursued by American Privateers, as described in the panel on the War of American Independence.&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;brian-oaten-canon-museum.jpg&quot; alt=&quot;IMG_20160525_125707&quot;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;canon-museum.jpg&quot; alt=&quot;IMG_20160525_125626&quot;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;unknown-lewis-mabyn-oaten-haven-1960.jpg&quot; alt=&quot;Unknown woman with Lewis and Mabyn Oaten by the Trebetherick Point cannon at _The Haven_ in the mid 1950s~2&quot;&gt;
+&lt;p&gt;Unknown lady with Lewis and Mabyn Oaten in the front garden of The Haven by the Trebetherick Point cannon in the mid 1950s&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;map-padstow-safe-haven.jpg&quot; alt=&quot;20250820_135354-COLLAGE&quot;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;brian-oaten-canon-museum-2.jpg&quot; alt=&quot;IMG_20160525_124932~2&quot;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;1965-77.jpg&quot; alt=&quot;1965 77&quot;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;finbanker-on-haven-veranda-from-museum.jpg&quot; alt=&quot;IMG_20160525_125558&quot;&gt;
+</description>
+      </item>
+      <item>
+          <title>History</title>
+          <pubDate>Wed, 01 Jan 1930 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/history/</link>
+          <guid>https://www.trebetherick.net/history/</guid>
+          <description xml:base="https://www.trebetherick.net/history/">&lt;h1 id=&quot;the-history-of-the-village-of-trebetherick-researched-and-written-by-mary-fellgett-1984&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-history-of-the-village-of-trebetherick-researched-and-written-by-mary-fellgett-1984&quot; aria-label=&quot;Anchor link for: the-history-of-the-village-of-trebetherick-researched-and-written-by-mary-fellgett-1984&quot;&gt;The History of the Village of Trebetherick - researched and written by Mary Fellgett 1984&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;h1 id=&quot;17th-century&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#17th-century&quot; aria-label=&quot;Anchor link for: 17th-century&quot;&gt;17th century &lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1632 - On the 16th July 1632, Thomas Guy of Trebetherick married Constance Hendra in the parish church of St Minver. At that date he was a copyhold tenant, and held a dwelling house and land “in the village, fields, waste and commons of Trebethericke”. He owed manorial service to the lord of the manor, who was Charles Roscarrock of Roscarrock, in the parish of St Endellion. Thomas Guy had to provide a capon or 12 pence at Christmas, to make a harvest journey or pay 6 pence, and the lord could take his best beast in the event of his death. He had a son Francis who was baptized in the church on December 14th 1634, and there was also a daughter of this marriage called Grace. But this was a short lived marriage, for by June 2nd 1638, the inventory of all his goods and chattels was taken following his death. He owned “one bed, furnished, one cubberd, one table and one chair2, and he had “one pan, one crock, six pewter dishes and one cauldron”, and other implements about the house valued at £5 – 15s. His wearing apparel and purse girdle were valued at £3. He had 2 cows, and some barley, 35 sheep and 14 lambs, one sow and 4 little pigs, 6 geese, 2 hens and a cock, a field and the lease on his house and land. Someone owed him £6 and in all his total wealth was set at £48 – 10s – 8d. It would appear from this that the parents and 2 children all slept in the same bed, that he probably lived in a single room house, with the minimum of kitchen utensils, and that his main farming occupation was sheep rearing. He had barley for his bread, poultry for the eggs, a cow for milk and pigs for the bacon to last through the winter. His life style was simple, but he was by money values of the time a relatively wealthy man. His wife Constance continued the lease and tending the animals as well as caring for 2 young children, and then disaster struck again, for on the 20th of February 1643 she died an unexpected and possibly violent death. The coroner was paid 12 pence to investigate the cause of her death. This left the children, who were taken into the care of their 2 uncles, Richard Hendra of Bodmin, and John Guy of St Minver. Francis was then 9 years old, and grace probably younger. The accounts presented to the court a year later show how they spent the money from the estate of Constance Guy. They paid the Coroner, and for the administration of the estate, and clearing of debts. For the care of the children they paid for “shoes, gloves and wormseed, a hat and for the schooling of Francis Guy” which cost 14s 8d. His food for one year cost them £3. Grace Guy needed 2 pairs of shoes, costing 2s 2d, a pair of stockings for 10d and her food for a year. Most surprisingly she too had schooling, paid for 3 quarters of the year for 3s. At this date there were no hard roads, all travel had to be on foot or by wagon, or possibly horse back, and one wonders where the children received their schooling. There was no compulsory schooling for children, and while there was the Bodmin Grammar School at this date to which perhaps Francis was sent, schooling for girls was relatively rare and very much dependent on who was available for teaching, and whether the family felt it was worth the money it cost. But this family felt the money was worth it, despite the very simple life they had lived in Trebetherick. It has been possible to follow something of the life of these 2 children, for the St Minver parish register shows a marriage between Francis Guy of Trebetherick and Mary Farrowe on June 1st, 1657, and on 13th July 1658 Grace Guy married Henry Grey. Francis Guy leased land a house from the manor of   Trewornan, and died in the 1680’s. His widow Mary Guy made her will on January 5th 1690, leaving her money to her sons William and Humphrey, and her daughter Elizabeth. The inventory of Henry Grey’s possessions was taken on 2nd February 1669 and was valued at £117 – 14s, and his widow Grace was his executor. When it came for her to sign the document, she made her mark and did not sign her name. After 25 years, perhaps she had forgotten the schooling she had as a little girl, or perhaps it had not included learning to write, but had been concerned with reading. It is interesting that although their uncle lived in Bodmin, both the children remained in St Minver parish, and Francis within the village of Trebetherick.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;1662
+In 1662 Thomas Morrishe, a husbandman of Trebetherick married Susanna Mably. In 1681, Thomas Morrishe leased from the manor of Trewornan his dwelling house, which consisted of “2 rooms and one other little house adjoining, with a convenient place for a wood ricke, and a place to make dung”. The manorial lord took from the household all the dung, leaving enough for Thomas Morrishe to dress his herb garden. He could also keep pigs, as the other tenants in Trebetherick could.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;1717
+On 23rd September 1717, Thomas Morrishe (senior) made his will. He had 6 children and numerous grandchildren, amongst whom he distributed money and his brewing pans. His possessions indicate an old man living by himself, for her had just enough for one person, and 2 brandy bottles for company.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;18th-century&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#18th-century&quot; aria-label=&quot;Anchor link for: 18th-century&quot;&gt;18th century&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;1724 - Richard Mably of Trebetherick died in 1724, and on his inventory he was described as a yeoman, and the total value was £532 – 13s – 2d, which was a very large sum for those days. He left corn and hay, 8 bullocks, one cow and 23 sheep together valued at £25 – 5s, household goods valued at £10 and all the remaining £500 or so was on loan to some 35 different people. He also had £20 in cash in the house. All this indicates a farming man, who is also a money lender, acting like a bank in the days before the joint stock banks. This was probably a very important service to maintain a flow of cash around the country districts enabling the buying and selling of stock and crops. When he made his will, Richard Mably rented from the manor of Trewornan 2 dwelling houses and 12 or more fields all in and around the village of Trebetherick. After his death this collection of property was divided into 4 parts of 4 more tenants, and 100 years later this division of this property was still referred to in the leases. He must have been a man of significance in the community. He left his money to many cousins and kinsmen, and to his sister Dorothy Guy and her children, but he does not mention a wife or his own children. Amongst his kinsmen occur the names of Hambly, Guy, Morrishe and Mabley, all names which are very common in the St Minver parish records. But for all his successful financial dealings, Richard Mabley made his mark at the end of his will, and did not sign his name. Perhaps he did not need to. His mark was as well known as his name.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Some of the field names mentioned in 1724 are Skippers Close, Polpry, Newparke, Mean Ground, Tristrams Bed, the Dales, Bullworks, Boroughfield, Coombe Park and Polseath Fields. Many of these field boundaries can be traced on the ground today, and their names perpetuated in some house names.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1741 - William Glyddon took on one quarter part of the Richard Mabley tenure in 1724, and died in 1741. His wife Catherine gave the responsibility for administering the estate to their son John. William left 2 beds, one brass pan and 2 brass pots, 2 pewter dishes, 2 basins and 4 plates, 3 chairs, some old wool, a dresser and a silver spoon. Living standards appear to have risen a little since Constance and Thomas Guy lived in the village a 100 years earlier.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;1761 - Thomas Edyvean leased a dwelling house and land in Trebetherick from Darrell Crabbe of Trewornan. The lease contains clauses reflecting the changes in agricultural practice that were taking place all over England during this century. Thomas Edyvean had to put on every acre of his land “4 score sacks of salt water sand or 4 score horse loads of good black well rotted dung”. He was then to take 2 successive corn crops, and then the fields were to lie fallow for 2 years. There is no mention of sown meadows suitable for grazing, probably because in these western parts of England the grass naturally grows rich and lush. The cottages in Trebetherick had thatched roofs at this time for Thomas Edyvean had also “to provide 100 niches or bundles of good reed well combed for Darrell Crabbe’s thatch of the houses”.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;1773 - Thomas Edyvean died and in his will he left to his grand- daughter Elizabeth Mably “2 plots of ground lying in the village of Trebetherick called by the name of the Dales”. She was also to receive “five pounds of lawful money of England and my third best Brass crock to be paid and delivered to her at the day of her marriage or at the age of twenty one”. He left to his “housekeeper Mary Guy ten shillings and sixpence, and his second best brass crock”, and all his remaining property he left “to his beloved son Thomas”. This son took on the lease of the house and land in 1773. There is a gravestone close by the porch of St Enodoc church on which the carving is partly obscured, but it is possible to see …… Edyvean of this parish who departed this life …. April 1776 in the 66th year of …. This is almost certainly our Thomas Edyvean (senior) for his will was proved on April 27th 1776.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;1793 - Some land and a house in Trebetherick was leased to James Hawke of Padstow, who described himself in 1793 as a hairdresser. By 1815 he had become James Hawke, a peruke (wig) maker of St Austell. He would appear not to be a working farmer.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;19th-century&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#19th-century&quot; aria-label=&quot;Anchor link for: 19th-century&quot;&gt;19th century&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;1825 - James Hawke’s property was next leased to David Arthur in 1825. In 1835 it was written that David Arthur was tenant and had occupied it for many years. The land holding was 50 acres, and the lease contains a number of specific instructions as to the care of the land. The tenant farmer was required to maintain the land in good heart, and return it to the landlord in as good a condition as he had taken it on, and the clauses in this lease show how requirements were changing. In 1825 he was to take “not more than 2 crops of corn or grain successively, and the last crop to be of barley or oats, then sow, harvest and brush in at least 3lbs weight of good clover and 12 gallons of good ever seeds to every acre, and not till part until same has been in grass and untilled the preceding years, and shall carry and make all this corn and grain which shall grow in this into the mowhay there and thresh out the same in the barne there”. In 1835 David Arthur was “to perform parish offices and take parish apprentices and inhabit the dwelling house – – the land was to be dressed per acre with 12 carts of sea sand well mixed with earth and dung on the premises, then only 2 successive crops of corn to be taken – he could have a crop of turnips between 2 corn crops, but then ground to be dressed with 30 cart loads of stall dung and 8 cart loads of sand per acre.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;After last crop of corn, the ground was to remain in grass seed and untilled for 3 years. With last crop of corn 8lbs of good clover seed and 12 gallons of good ever seed per acre to be sown, and then grass not to be cut more than once” Ever, or eaver, seed is a west country word for rye grass. Clearly the land around Trebetherick was increasingly used for crop raising, and the need was seen for improving the grass, probably really necessary after many centuries of sheep grazing. The sand on the north coast of Cornwall was highly prized for its excellent quality and materially affected the values of the estates according to the nearness or distance from the beaches. It was frequently carried as much as 15 miles inland. In 1811 it was written that Cornwall can now boast of fine flocks of sheep as in any county, whether considering form, weight of fleece or hardiness of constitution. They fattened quickly and so produced good flavoured meat and had a heavy fleece for the wool markets.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1851 -  There were 55 people living in the village of Trebetherick, 32 adults, and 13 children ranging in age from 10 years down to 9 months. They were grouped in 14 households and all of them gave as their place of origin the parish of St Minver. In England generally people moved around a great deal, sometimes settling hundreds of miles away from where they were born, but it would seem that the people of Trebetherick were different. Perhaps they wanted to stay near home, or perhaps they had no choice. It may have been their attachment to the land and their work, or it may have been the close family ties within the parish that kept them from wandering. Amongst the occupations given was a carpenter, a tailor, a mason’s labourer and miner. Three had been lead mines, now showing as hillocks beside the road of Polzeath, but in 1838 they were described as disused. Perhaps George Tucker mined for himself finding what minerals he could, or perhaps he worked away from the village. There were 10 agricultural labourers, some living as servants in a farmer’s house, the youngest of which was 15 years, and 5 were head of their own households. William Hitt had in his household his wife Elizabeth and daughter Ann who was 1 year old. He also had his mother-in-law and 2 brothers-in-law living with him; a lot to look after when he was only 22 years old. But in 1872 there was a Mr Hitt who was farming Fishing Cove field with turnips, and he had 2 horses, and a herd of 9 cattle, so perhaps William did well as a labourer and became a farmer in his own right.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;1851 - There were 5 men in 1851 described as farmers, living on income from the land. John Mably was a widower farming 40 acres for which he needed 2 labourers. His unmarried daughter Caroline lived with him, and he had a 17 year old girl servant and a 19 year old male labourer living in his household. He lived in and owned the house now called “Elm Cottage”, surrounded then by farm buildings with a well in the corner of the “courtlage” or farmyard. William Mably was another farmer who owned his own house and land, and he lived with his wife, 5 adult children and 2 grandsons in the Higher Farmhouse now called “Old Farm”. He was 61 years old and farmed 94 acres with the help of 1 labourer. His eldest son Robert, who was living with him, was aged 36 and widowed and perhaps he had gone back to his old home so that grandmother could help to look after his two sons William and Gregory, then aged 8 and 6. At “Lower Farm” lived Thomas Arthur aged 61. He farmed 90 acres, and had 2 labourers and a domestic servant living in the house, as well as his wife and 3 sons, one of whom was sadly deaf and dumb. Thomas Arthur rented his house and land, and he also rented 2 other properties in Trebetherick, described as dwelling houses, but which by 1838 had ceased to be farm houses, although still surrounded by what had been their farmyards. Perhaps he sub-let them to his farm labourers. One has now completely disappeared under the Fore Door Garage site. In the farmyard had been a well, some 50 yards from the road, and there were a few farm buildings left. The other dwelling house still stands today, in the triangular patch of waste ground opposite Old Farm and behind the bus shelter. In 1838 it was described as “dwelling house and waste”, and a close look today suggests a style of house and animal shed called a “long house”. This as its name implies was a long building which housed both humans and animals, and was common in Cornwall, as well as Yorkshire and Wales. The animal shed was at one end, if on a slope then at the lower end to help with drainage, and separated by a covered transverse passage from the dwelling house, which may have been 1 or 2 roomed. Both humans and animals entered the building by a common entrance into the passage, and then turned either left or right into their part of the long house. Today, this may seem extremely primitive, but when warmth and shelter were so important, it was a very practical arrangement. One can imagine that perhaps Thomas Guy and his bride Constance came home to such a house in Trebetherick after their marriage that summer day in 1632.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;There were 2 households in 1851 which had just one person. There was John Mably (another of the same name) who was 50, and an unmarried tailor, living in a cottage amongst where “Higher Farm” is today was Joice Guy, an unmarried woman of 74: who had been there since 1838. Perhaps it had been her home all her life, since her father was farming in the 18th century.&lt;&#x2F;p&gt;
+&lt;p&gt;Down Daymer Lane was Lower Trebetherick with cottages on the landward site, and there may have been some on the other side too, near where the car park is today.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1838 - Cobb Cottage was standing at the end of a row of 6 cottages extending down the lane. There was a gap, and then 2 more cottages, which now are incorporated in “Torquil Cottage”. The row of 6 cottages all had their backs to the lane, and a path ran from the present Undertown drive serving all their entrance doors. They were turned to the south and away from the lane for maximum sun and warmth on their gardens, and no doubt too to be away from the noise and the dirt of the horses pulling carts of sand up the lane from the beach. The sand at the top of the beach not covered by the tide, and the land now incorporated in the edge of the golf course was owned by William Mably of “Old Farm”, who perhaps used the sand on his own land, or sold it to other farmers. It is within living memory that Daymer Lane had much traffic of horses and carts, and then lorries, bringing up sand. Away from the lane too were the garden plots belonging to the cottages, giving good protection from the northerly winds. The centre cottage of the 6 was used in 1838 for housing the rocket apparatus used by the coastguards. Behind the block of 2 cottages were 5 or 6 plots of land, which could mean that there were more cottages there at an earlier date, for they were small garden sized plots laid out in a regular pattern.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;1840 - The whole semi-detached building and Rocket House were originally built as Coastguard Cottages in 1840. The rocket apparatus was housed in a red brick building, The Rocket House, attached to Upalong, the southern semi-detached next to Tregawne, the northern semi now Ralph Tellam-Hocking’s shop. The rocket apparatus and its breeches buoy was used by the skilled and well trained coastguards to save many lives of sailors from the many merchant sailing ships, foundering and wrecked on the Trebetherick side of the Camel Estuary.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;1851 - Out on Bray Hill, Richard Thomas from Devon built for himself a house on the south side. He had been a mariner, and in 1851 he was aged 50 and had retired. It was a good spot for him to choose, protected from the strong winds but still within sight and sound of the sea. He was living with his housekeeper, Jane Bennett of St Merryn. Perhaps they felt outsiders in such a close knit community, for they were the only ones not to have been born in the parish of St Minver. When the ground was being dug for his house Saxon graves were uncovered, and he kept in his house a Bronze Age urn that had been dug from the barrow at the top of Bray Hill. The site of his house was in the midst of an old warren. This would have been a valuable source of meat for the villagers of Trebetherick, for rabbits were farmed for many centuries, rather as domestic animals in a farmyard. This meat was particularly useful at a time when it was difficult if not impossible to keep farm animals fed through the winters.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;1880 - By the 1880’s 5 of the cottages in the row in Daymer Lane had gone, leaving Cobb Cottage alone. It must have been a busy little community, when so many people were living closely together in Lower Trebetherick. In the main part of the village, Higher trebetherick, the oldest farm buildings had gone from around the ‘long house’, leaving only a well and a pond where now stands the Fore Door Garage and the duck pond where the telephone exchange is now.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;“Elm Cottage”, “Old Farm” and “Lower Farm” were still active farms surrounded by their yards and buildings. Trebetherick Yard with its well being now the garden of the Mowhay.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;1930 - On the site of “Higher Farm” built in 1930, there were 2 blocks of farm buildings, and no trace of Joice Guy’s cottage.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;summary&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#summary&quot; aria-label=&quot;Anchor link for: summary&quot;&gt;Summary&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;There has been a farming community forming the village of Trebetherick since 1630. Roscarrock, St Minver and probably Trewornan are all described in the Domesday Survey of 1086, and it seems probable that Trebetherick is much older than 350 years. The siting of the village with its 6 farmhouses on high ground, above the tree line and yet protected from the prevailing winds is a typical setting for a Celtic hamlet. These settlements of 6 or 8 farmsteads grouped together have in some cases been in continuous occupation in the South West of England since Pre-Roman times. There have been Roman coins uncovered in the vicinity of the village, there were Saxon graves on Bray Hill, and a Bronze Age barrow at the top of Bray. These all point to a long history of human occupation in the area. None of this research shows any sign of a fishing community, nor of an abandoned village at the head of Daymer Bay.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;acknowledgements&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#acknowledgements&quot; aria-label=&quot;Anchor link for: acknowledgements&quot;&gt;Acknowledgements&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;I, Mary Fellgett, would like to thank all of whom I have received help and information which has made this research possible.&lt;&#x2F;p&gt;
+&lt;p&gt;The archivists and assistants at the Cornwall Record Office, Truro
+The Librarian at the Bodmin Public Library
+The Librarian at the Local History Library, Redruth
+The Director of the Institute of Cornish Studies, Redruth
+Mr R Hocking of Trebetherick
+Mrs Jean Dils of Reading&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;primary-sources&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#primary-sources&quot; aria-label=&quot;Anchor link for: primary-sources&quot;&gt;Primary Sources&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;cornwall-record-office&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#cornwall-record-office&quot; aria-label=&quot;Anchor link for: cornwall-record-office&quot;&gt;Cornwall Record Office&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Probate material – Wills, Inventories and Accounts.
+Deeds from the Manors of Pentire and Trewornan.
+Tithe map and apportionment schedule for St Minver 1838.
+Census return for Trebetherick 1851.
+Pages from a farm account book 1872.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;redruth-local-history-library&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#redruth-local-history-library&quot; aria-label=&quot;Anchor link for: redruth-local-history-library&quot;&gt;Redruth Local History Library&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Bishops Transcripts of St Minver Parish Register. O.S. 25 inch map 1882.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;secondary-sources&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#secondary-sources&quot; aria-label=&quot;Anchor link for: secondary-sources&quot;&gt;Secondary Sources&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;The History of the Hundred of Trigg Minor. Sir John Maclean 1879.
+Victoria County History of Cornwall.
+General Review of Cornwall, Board of Agriculture, A. Worgan. 1811.
+The Making of the English Landscape. W.G. Hoskins. 1955.
+O.S. 1 inch map 1813.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>The Wells</title>
+          <pubDate>Wed, 01 Jan 1930 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/wells/</link>
+          <guid>https://www.trebetherick.net/wells/</guid>
+          <description xml:base="https://www.trebetherick.net/wells/">&lt;blockquote&gt;
+&lt;p&gt;Water supply in Trebetherick and Polzeath before 1930 was by hand dug wells as listed by Trebetherick Coastguard Ralph Tellam-Hocking.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h4 id=&quot;wells-in-trebetherick-21&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#wells-in-trebetherick-21&quot; aria-label=&quot;Anchor link for: wells-in-trebetherick-21&quot;&gt;Wells In Trebetherick (21)&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Coast Guard House&lt;&#x2F;li&gt;
+&lt;li&gt;Elm Cottage&lt;&#x2F;li&gt;
+&lt;li&gt;Lowerdale&lt;&#x2F;li&gt;
+&lt;li&gt;The Haven&lt;&#x2F;li&gt;
+&lt;li&gt;Old Farm&lt;&#x2F;li&gt;
+&lt;li&gt;Higher Farm&lt;&#x2F;li&gt;
+&lt;li&gt;Trebetherick P.O.&lt;&#x2F;li&gt;
+&lt;li&gt;The Yard (now Mowhay garden)&lt;&#x2F;li&gt;
+&lt;li&gt;Roseleigh&lt;&#x2F;li&gt;
+&lt;li&gt;Minefield&lt;&#x2F;li&gt;
+&lt;li&gt;Trenain&lt;&#x2F;li&gt;
+&lt;li&gt;North Field&lt;&#x2F;li&gt;
+&lt;li&gt;St Enodoc Cottage&lt;&#x2F;li&gt;
+&lt;li&gt;Shortlands(now called Boskenna).&lt;&#x2F;li&gt;
+&lt;li&gt;Coolgrena&lt;&#x2F;li&gt;
+&lt;li&gt;Singleton&lt;&#x2F;li&gt;
+&lt;li&gt;Linkside&lt;&#x2F;li&gt;
+&lt;li&gt;Torquil&lt;&#x2F;li&gt;
+&lt;li&gt;Daymer House&lt;&#x2F;li&gt;
+&lt;li&gt;Glenarm&lt;&#x2F;li&gt;
+&lt;li&gt;Hillside&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;wells-in-polzeath-17&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#wells-in-polzeath-17&quot; aria-label=&quot;Anchor link for: wells-in-polzeath-17&quot;&gt;Wells In Polzeath (17)&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Polzeath P.O.&lt;&#x2F;li&gt;
+&lt;li&gt;Valley View&lt;&#x2F;li&gt;
+&lt;li&gt;Polzeath House&lt;&#x2F;li&gt;
+&lt;li&gt;Polzeath Lodge&lt;&#x2F;li&gt;
+&lt;li&gt;Ivy Cottage&lt;&#x2F;li&gt;
+&lt;li&gt;Nook&lt;&#x2F;li&gt;
+&lt;li&gt;Edgecombe Field&lt;&#x2F;li&gt;
+&lt;li&gt;Old’s Garage&lt;&#x2F;li&gt;
+&lt;li&gt;Little Portkillock (field)&lt;&#x2F;li&gt;
+&lt;li&gt;Polzeath Hill (Galleon)&lt;&#x2F;li&gt;
+&lt;li&gt;Pentire View&lt;&#x2F;li&gt;
+&lt;li&gt;Westray&lt;&#x2F;li&gt;
+&lt;li&gt;Westaway&lt;&#x2F;li&gt;
+&lt;li&gt;Gullsway&lt;&#x2F;li&gt;
+&lt;li&gt;Maranth&lt;&#x2F;li&gt;
+&lt;li&gt;Bide-a-While&lt;&#x2F;li&gt;
+&lt;li&gt;Tin Huts&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Spring in hill above Coad’s Dairy, Polzeath.&lt;&#x2F;p&gt;
+&lt;p&gt;If the wells ran dry in Polzeath the spring coming out of cliff (Queen’s Cave) on the beach from Tinners Hill was used.&lt;&#x2F;p&gt;
+&lt;p&gt;Mains water pipes laid into Polzeath&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; 1928&lt;&#x2F;p&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;And possibly Trebetherick? &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;section&gt;
+</description>
+      </item>
+      <item>
+          <title>The Haven, Worthy Hill. 1906-2000</title>
+          <pubDate>Tue, 02 Jan 1906 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/haven/</link>
+          <guid>https://www.trebetherick.net/haven/</guid>
+          <description xml:base="https://www.trebetherick.net/haven/">&lt;h1 id=&quot;the-haven-built-1906&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-haven-built-1906&quot; aria-label=&quot;Anchor link for: the-haven-built-1906&quot;&gt;The Haven - Built 1906&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;the-haven-was-the-first-non-farming-house-to-be-constructed-in-trebetherick&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-haven-was-the-first-non-farming-house-to-be-constructed-in-trebetherick&quot; aria-label=&quot;Anchor link for: the-haven-was-the-first-non-farming-house-to-be-constructed-in-trebetherick&quot;&gt;The Haven was the first non-farming house to be constructed in Trebetherick.&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;post-card-face-2.jpg&quot; alt=&quot;Post Card Face~2&quot;&gt;
+&lt;h2 id=&quot;1906&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1906&quot; aria-label=&quot;Anchor link for: 1906&quot;&gt;1906&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;The Haven was the first house constructed in Trebetherick, which was not directly linked to or reliant on agriculture. It was thought that the St Enodoc Golf Club, which was founded in 1890, would bring people to the area who would need accommodation. It was rather atractively pebble-dashed with small stones and shells brought up from the beach. In the setting sun it glowed with a slightly pinkish tinge. Trebetherick was then primarily open farmland with in the 1901 census only 8 households of farmers, farm workers and labourers cottages, smallholdings and barns. Following The Haven construction, other houses, guest houses, and eventually hotels were built in the area. The entrance pillars to The Haven, which now appear to be at an odd angle to the road, were built in 1906 and were perfectly parallel to the old road. In the 1960s, the Daymer Bay Garage was demolished allowing the old road to be improved, moved westward and straightened, the old road being left as the current layby.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;1920&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1920&quot; aria-label=&quot;Anchor link for: 1920&quot;&gt;1920&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;1920s-The Haven-Looking South.jpg&quot; alt=&quot;1920s-The Haven-Looking South.jpg&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;1920-1&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1920-1&quot; aria-label=&quot;Anchor link for: 1920-1&quot;&gt;1920&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;The Haven front lawn was laid out as a grass tennis court, chickens and a cow were kept also a vegetable garden was tended, all in the field on the southern side of the house.
+Water was drawn from a well in the garden, which still exists, though it is falling into disrepair at this time. A man was employed for two hours twice a day, pumping to fill the roof tank for WC flushing and washing water, a wonderful ‘modern’ luxury and convenience at that time. A secondary hand pump was located in the scullery for drinking&#x2F;cooking water.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-haven-poultry&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-haven-poultry&quot; aria-label=&quot;Anchor link for: the-haven-poultry&quot;&gt;The Haven Poultry&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;40%&quot; src=&quot;&#x2F;Haven-poultry-1950.png&quot; alt=&quot;Haven-poultry-1950.png&quot;&gt;
+&lt;h2 id=&quot;the-haven-well-and-hand-pump&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-haven-well-and-hand-pump&quot; aria-label=&quot;Anchor link for: the-haven-well-and-hand-pump&quot;&gt;The Haven Well and Hand Pump&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;Haven-pump.jpg&quot; alt=&quot;Haven-pump.jpg&quot;&gt;
+---
+&lt;h2 id=&quot;the-haven-in-the-1920s&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-haven-in-the-1920s&quot; aria-label=&quot;Anchor link for: the-haven-in-the-1920s&quot;&gt;THE HAVEN IN THE 1920s&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Ernest Betjeman, (Sir John Betjeman’s father), brought his family to holiday in Trebetherick and stayed at The Haven
+which was run as a guest house. Their pony and trap were kept in a stable at the rear and used to collect guests from Wadebridge train station or from Rock. As a boy, John Betjeman remembered being collected from the train station by The Haven owners in their pony and trap&#x2F;cart. However, John recounted that sometimes if the weather was favourable they could stay on the train past Wadebridge and all the way to Padstow, crossing the estuary on the rowed&#x2F;sailed ferry to Rock where they would be collected for the shorter journey to The Haven.
+A family and all their luggage would have been quite a load for the pony but I’m sure the children would have delighted in walking alongside to lighten the load on the hills. We wonder which route they took from Rock to Trebetherick? If the tide was right they may well have taken the shorter and flatter beach option along the firm sand of the high tide line and up only the one hill of Daymer Lane? We hardly notice it now in our cars but the journey from Rock to Trebetherick up Rock Road, TREWINT Lane, TREWINT Hill and WORTHY Hill consists of several steep hills.
+In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick and called it Undertown.&lt;&#x2F;p&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;1925 Pony&amp;Trap on Polzeath Beach.jpg&quot; alt=&quot;1925 Pony&amp;Trap on Polzeath Beach.jpg&quot;&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;1926 Pony&amp;Trap at Polzeath.jpg&quot; alt=&quot;1926 Pony&amp;Trap at Polzeath.jpg&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;1927-worthy-house-trebetherick-telephone-exchange-starts-in-the-paper-shop-and-post-office&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1927-worthy-house-trebetherick-telephone-exchange-starts-in-the-paper-shop-and-post-office&quot; aria-label=&quot;Anchor link for: 1927-worthy-house-trebetherick-telephone-exchange-starts-in-the-paper-shop-and-post-office&quot;&gt;1927 - Worthy House, Trebetherick Telephone Exchange starts in the Paper Shop and Post Office.&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The Postmaster was George Harris, who ran the shop, delivered the mail and papers and for thirty years connected the phone calls with the hand opperated exchange.
+As the numbers of holiday homes and summer visitors increased, George needed Summer time help. As a teenager, Brian took this summer holiday job of assistant postman at Trebetherick Post Office, Worthy House.
+Brian used George’s 1934 black Austen 7 van to deliver mail and papers. George was full of fun and when operating the phone lines he used to say to the callers “rubber knees” for ‘number please’ and “trying to forget you” for ‘trying to connect you’.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;In 1957 the new telephone exchange building was built next to Old Farm.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;1938-domestic-electricity-was-brought-to-all-trebetherick-properties&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1938-domestic-electricity-was-brought-to-all-trebetherick-properties&quot; aria-label=&quot;Anchor link for: 1938-domestic-electricity-was-brought-to-all-trebetherick-properties&quot;&gt;1938 Domestic Electricity Was Brought to all Trebetherick Properties.&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;1950&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1950&quot; aria-label=&quot;Anchor link for: 1950&quot;&gt;1950&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;haven-1965-74.jpg&quot; alt=&quot;1965 74&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;This Painting 1960 shows four Rolls Royce CEO guests from Duffield, with their families and each driving a Rolls Royce.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;The Haven-1960.jpg&quot; alt=&quot;The Haven 1960&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Mabyn Oaten on the balcony of The Haven before the bay windows were converted into a mahogany sunroom extension in the late 1950s&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;80%&quot; alt=&quot;Mabyn Oaten on the balcony of _The Haven_ before it was removed in the late 1950s&quot; src=&quot;&#x2F;mabyn-oaten-balcony-before-1950.jpg&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;The Haven-2000.jpg&quot; alt=&quot;The Haven 2000&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;80%&quot; src=&quot;&#x2F;The Haven 2000.jpg&quot; alt=&quot;The Haven 2000&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Brian was born and grew up in Trebetherick, 1939 to today, for some of his memories please go to The Haven subheading…..
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;trebetherick-snapshot&quot;&gt;Brian Oaten’s Memories of Trebetherick&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Brea Hill</title>
+          <pubDate>Mon, 01 Jan 1906 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/brea/</link>
+          <guid>https://www.trebetherick.net/brea/</guid>
+          <description xml:base="https://www.trebetherick.net/brea/">&lt;p&gt;Brea Hill (Cornish: &lt;em&gt;Bre&lt;&#x2F;em&gt;, meaning hill), pronounced “Bray Hill” is a round hill beside the River Camel.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Trewiston Farm</title>
+          <pubDate>Sun, 17 Feb 1732 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/trewiston/</link>
+          <guid>https://www.trebetherick.net/trewiston/</guid>
+          <description xml:base="https://www.trebetherick.net/trewiston/">&lt;img width=&quot;80%&quot; alt=&quot;1732 Diary Extract - John Mably&quot; src=&quot;&#x2F;1732 Diary Extract - John Mably.jpg&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;mably-diaries-1850-1950&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#mably-diaries-1850-1950&quot; aria-label=&quot;Anchor link for: mably-diaries-1850-1950&quot;&gt;Mably Diaries 1850 - 1950&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;part-1&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#part-1&quot; aria-label=&quot;Anchor link for: part-1&quot;&gt;Part 1&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;object data=&quot;&#x2F;Mably Diary Part 1.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;&#x2F;object&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;part-2&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#part-2&quot; aria-label=&quot;Anchor link for: part-2&quot;&gt;Part 2&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;object data=&quot;&#x2F;Mably Diary Part 2.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;&#x2F;object&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;part-3&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#part-3&quot; aria-label=&quot;Anchor link for: part-3&quot;&gt;Part 3&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;object data=&quot;&#x2F;Mably Diary Part 3.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;&#x2F;object&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;part-4&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#part-4&quot; aria-label=&quot;Anchor link for: part-4&quot;&gt;Part 4&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;object data=&quot;&#x2F;Mably Diary Part 4.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;&lt;&#x2F;object&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Cobb</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/cobb/</link>
+          <guid>https://www.trebetherick.net/cobb/</guid>
+          <description xml:base="https://www.trebetherick.net/cobb/">&lt;h1 id=&quot;cobb-cottage-built-1780&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#cobb-cottage-built-1780&quot; aria-label=&quot;Anchor link for: cobb-cottage-built-1780&quot;&gt;Cobb Cottage Built 1780&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Awaiting photo&lt;&#x2F;p&gt;
+&lt;p&gt;Cobb Cottage was standing at the end of a row of 6 cottages extending down the lane. There was a gap, and then 2 more cottages, which now are incorporated in “Torquil Cottage”. The row of 6 cottages all had their backs to the lane, and a path ran from the present Undertown drive serving all their entrance doors. They were turned to the south and away from the lane for maximum sun and warmth on their gardens. In 1840 Nancy Kent was living in Cobb Cottage, a nearby field is known still as Nancy’s Meadow.  The other five cottages were then occupied by William Mably, Robert Mably, Aaron Slogett and John Kent. The centre cottage of the 6 was used in 1838 for housing the rocket apparatus used by the coastguards. By 1880 there is only one of the row of cottages left, Cobb Cottage.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;st-enodoc-cottage-built-1826&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#st-enodoc-cottage-built-1826&quot; aria-label=&quot;Anchor link for: st-enodoc-cottage-built-1826&quot;&gt;St Enodoc Cottage Built 1826&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;80%&quot; alt=&quot;St Enodoc Cottage, Daymer Lane.png&quot; src=&quot;&#x2F;St Enodoc Cottage, Daymer Lane.png&quot; &#x2F;&gt;
+&lt;p&gt;St Enodoc Cottage was built in 1826 and is here today, unchanged.  It was built by Theophilus Hoskin, and was occupied in the early 1900s by Captain Faulkner. Cobb Cottage seems to have been tied to St Enodoc Cottage either as a gardener’s cottage or an annexe. John Betjeman recounted that the first German spy to be captured during the First World War was arrested there after local people reported having seen smoke rising from the chimney of the unoccupied cottage; he had come off a submarine in Daymer Bay.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Elm Cottage</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/elmcottage/</link>
+          <guid>https://www.trebetherick.net/elmcottage/</guid>
+          <description xml:base="https://www.trebetherick.net/elmcottage/">&lt;h1 id=&quot;elm-cottage-originally-a-farm&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#elm-cottage-originally-a-farm&quot; aria-label=&quot;Anchor link for: elm-cottage-originally-a-farm&quot;&gt;Elm Cottage - originally a farm&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;80%&quot; alt=&quot;Elm Cottage.jpg&quot; src=&quot;&#x2F;Elm Cottage.jpg&quot; &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In 1851 Elm Cottage was a Farm of 40 acres.
+John Mably was a widower farming 40 acres for which he needed 2 labourers. His unmarried daughter Caroline lived with him, and he had a 17 year old girl servant and a 19 year old male labourer living in his household. He lived in and owned the house now called “Elm Cottage”, surrounded then by farm buildings and pond with a well in the corner of the “courtlage” or farmyard.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;In 1970 Elm Cottage and its piggary, Elmside, no longer a working farm and was sold.
+Elm cottage had been used for animals below and living accommodation above with Elmside nextdoor used as a piggery.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Higher Farm</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/higherfarm/</link>
+          <guid>https://www.trebetherick.net/higherfarm/</guid>
+          <description xml:base="https://www.trebetherick.net/higherfarm/">&lt;h2 id=&quot;higher-farm-2025&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#higher-farm-2025&quot; aria-label=&quot;Anchor link for: higher-farm-2025&quot;&gt;Higher Farm 2025&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; height=&quot;50%&quot;  alt=&quot;Higher Farm Barns 2025.jpg&quot; src=&quot;&#x2F;Higher Farm Barns 2025.jpg&quot; &#x2F;&gt;
+---
+&lt;img width=&quot;50%&quot; height=&quot;50%&quot;  alt=&quot;Higher Farm Tall Barn.jpg&quot; src=&quot;&#x2F;Higher Farm Tall Barn.jpg&quot; &#x2F;&gt;
+---
+&lt;h2 id=&quot;old-photos&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#old-photos&quot; aria-label=&quot;Anchor link for: old-photos&quot;&gt;Old Photos&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;ede0dce9-f982-4f10-8380-5c0a130ba51c&quot; alt=&quot;At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath&quot;&gt;
+&lt;h2 id=&quot;higher-farm-1950-60-chimneys-left-background&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#higher-farm-1950-60-chimneys-left-background&quot; aria-label=&quot;Anchor link for: higher-farm-1950-60-chimneys-left-background&quot;&gt;Higher Farm 1950&#x2F;60 - chimneys left background&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;more photos to follow&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;1938-higher-farm-horses&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1938-higher-farm-horses&quot; aria-label=&quot;Anchor link for: 1938-higher-farm-horses&quot;&gt;1938 Higher Farm Horses&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img width=&quot;50%&quot; height=&quot;50%&quot;  alt=&quot;1938 Higher Farm Horses.jpg&quot; src=&quot;&#x2F;1938 Higher Farm Horses.jpg&quot; &#x2F;&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;50%&quot; src=&quot;https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;4981fe64-326c-40f6-8ca4-a503cb024e5e&quot; alt=&quot;1972 Old Caravan belonging to Basil and Edna Male&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;1930 - By this time there were only five working farms based in Trebetherick, out of the six recorded in earlier times. These were Higher Farm, at the top of the hill, Lower Farm on the lane down to the beach, and Trenain Farm on the way to Trewint, Restharrow Farm and Trewiston Farm&lt;&#x2F;p&gt;
+&lt;p&gt;2020 - By 2020 there now only exist two working farms, Restharrow and Trewiston Farm. All other farmhouses andbarns have been converted into holiday or residential properties.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;higher-farm-1930-2023&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#higher-farm-1930-2023&quot; aria-label=&quot;Anchor link for: higher-farm-1930-2023&quot;&gt;Higher Farm 1930-2023&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Harry Male was originally a builder by trade, but demand for building at the turn of the century was low, and in 1902 Harry went to South Africa for a few years, attached to the local Police force, to help with the reconstruction of therailways damaged during the Boer War. On his return he built Linkside and St Enodoc View. His son Basil recalledthat the bricks used for building these houses were landed from barges on Daymer beach, on a temporary platformconstructed for the purpose.&lt;&#x2F;p&gt;
+&lt;p&gt;Harry married Caroline Mably in 1910. Later on, he decided to become a farmer and bought 180 acre Higher Farm atauction. However, the 1929 sale did not include the original farmhouse, leased since 1918 to Colonel Cotton, whosubsequently bought it and changed its name to Old Farm so Harry could build himself a new farmhouse for HigherFarm, it was completed in 1930; the date is still visible on its outer wall. Basil Male, Harry’s son born in 1915 at ManorCottage in Rock, took over Higher Farm after his father’s death in 1968. He described the system of four-year croprotation, now long gone, which included ryegrass and clover for cattle feed. The farm made the family self-sufficient.&lt;&#x2F;p&gt;
+&lt;p&gt;1939 - By the time the Second World War broke out in 1939 Basil had been married to Edna for two years. Farming was a reserved occupation and so Basil did not have to join up, but many of his friends did, including Geoffrey Buse, killed in service with the RAF. Edna came from Bristol; she and Basil met in the early 1930s when she came to Polzeath with the Wills family to help with the household while they were on holiday.
+In Edna’s kitchen at Higher Farm there was always a large and ready supply of clotted cream in the fridge, and more in the making on the back of the stove. When Basil and Edna retired they built a bungalow next to Higher Farm’s ancient stone barns. They named it Trenoweth, Cornish for ‘new house’. Basil and Edna had two children, Judith Elizabeth Caroline (Midge) and Martyn; Martyn took over the farm from his father. Midge trained as a nurse, and then a midwife. She married Harry Hardcastle at St Minver in 1966. They had two children, Sarah and Andrew. Harry’s passion was always aviation; he joined the RAF in 1954. His parents had moved from Leeds to Trebetherick in 1946 when he was a boy to take over the Daymer Bay Hotel, built originally as No 1 and No 2 The Terrace but then joined together, and now semidetached houses again, Bar’s House and Honeybourne. Midge died in 2013, only a year after her father Basil, and Harry in 2015. Higher Farmhouse was sold for redevelopment in 2014 Most of the fields were sold piecemeal during Martyn Male’s tenure. Sarah continued the family farming tradition by keeping rare breed sheep on the only land remaining surrounding Trenoweth and using the old slate barn till 2023 when the last of the old barns were sold for sympathetic redevelopment.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Hotels</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/hotels/</link>
+          <guid>https://www.trebetherick.net/hotels/</guid>
+          <description xml:base="https://www.trebetherick.net/hotels/">&lt;h1 id=&quot;st-moritz-hotel-opened-1946&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#st-moritz-hotel-opened-1946&quot; aria-label=&quot;Anchor link for: st-moritz-hotel-opened-1946&quot;&gt;St Moritz Hotel - Opened 1946&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;1943&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1943&quot; aria-label=&quot;Anchor link for: 1943&quot;&gt;1943&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;St Moritz became a home for children evacuated from Aldersbrook in East London in the late summer of 1943. It housed about 25 school-aged evacuees with others going to places like Tristram House in New Polzeath.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;St Moritz Court was once a local prep school. Later, the Underwood family owned and managed it as part of the original St. Moritz Hotel. The Bedwell family acquired 4 St Moritz Court when the Underwoods sold the hotel in 1978.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;1950s&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1950s&quot; aria-label=&quot;Anchor link for: 1950s&quot;&gt;1950s&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;St Moritz Hotel 1950.png&quot; src=&quot;&#x2F;St Moritz Hotel 1950.png&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;1960s&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1960s&quot; aria-label=&quot;Anchor link for: 1960s&quot;&gt;1960s&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;StMoritz1960s.png&quot; src=&quot;&#x2F;StMoritz1960s.png&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;st-moritz-court&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#st-moritz-court&quot; aria-label=&quot;Anchor link for: st-moritz-court&quot;&gt;St Moritz Court&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;StMoritzCourt2.png&quot; src=&quot;&#x2F;StMoritzCourt2.png&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;1980s&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1980s&quot; aria-label=&quot;Anchor link for: 1980s&quot;&gt;1980s&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;St Moritz Hotel 1980.png&quot; src=&quot;&#x2F;St Moritz Hotel 1980.png&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;daymer-bay-hotel-opened-1946&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#daymer-bay-hotel-opened-1946&quot; aria-label=&quot;Anchor link for: daymer-bay-hotel-opened-1946&quot;&gt;Daymer Bay Hotel - Opened 1946&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;waiting for photos&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built originally as No 1 and No 2 The Terrace, both bought by Harry Hardcastle’s parents and joined together to convert into a hotel.&lt;&#x2F;li&gt;
+&lt;li&gt;Now semi detached houses again, Bar’s House and Honeybourne.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Lower Farm</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/lowerfarm/</link>
+          <guid>https://www.trebetherick.net/lowerfarm/</guid>
+          <description xml:base="https://www.trebetherick.net/lowerfarm/">&lt;h1 id=&quot;lower-farm-2025&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#lower-farm-2025&quot; aria-label=&quot;Anchor link for: lower-farm-2025&quot;&gt;Lower Farm 2025&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Lower Farm - photos.jpg&quot; src=&quot;&#x2F;Lower Farm - Photos.jpg&quot; &#x2F;&gt;
+&lt;h1 id=&quot;1851-lower-farm-90-acres&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1851-lower-farm-90-acres&quot; aria-label=&quot;Anchor link for: 1851-lower-farm-90-acres&quot;&gt;1851 - Lower Farm - 90 acres&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Thomas Arthur aged 61 farmed here with 90 acres, and had 2 labourers and a domestic servant living in the house, as well as his wife and 3 sons, one of whom was sadly deaf and dumb. Thomas Arthur rented his house and land, and he had also rented 2 other properties in Trebetherick, described as dwelling houses, but which by 1838 had ceased to be farm houses, although still surrounded by what had been their farmyards. Perhaps he sub-let them to his farm labourers. One has now completely disappeared under the Fore Door Garage site. In the farmyard there was a well, some 50 yards from the road, and there were a few farm buildings left.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Lower Trebetherick Farm</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/lowertrebetherickfarm/</link>
+          <guid>https://www.trebetherick.net/lowertrebetherickfarm/</guid>
+          <description xml:base="https://www.trebetherick.net/lowertrebetherickfarm/">&lt;h2 id=&quot;lower-trebetherick-farm&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#lower-trebetherick-farm&quot; aria-label=&quot;Anchor link for: lower-trebetherick-farm&quot;&gt;Lower Trebetherick Farm&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;There is no record of this farm after 1950. However it may be that Lower Trebetherick Farm and Lower Farm were one and the same. Please message me if you have any information regarding this.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Mines</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/mines/</link>
+          <guid>https://www.trebetherick.net/mines/</guid>
+          <description xml:base="https://www.trebetherick.net/mines/">&lt;h2 id=&quot;trebetherick-trewiston-mine-at-minefield&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#trebetherick-trewiston-mine-at-minefield&quot; aria-label=&quot;Anchor link for: trebetherick-trewiston-mine-at-minefield&quot;&gt;Trebetherick (Trewiston) Mine at Minefield&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;80%&quot; alt=&quot;Trewiston Mine.png&quot; src=&quot;&#x2F;Trewiston Mine.png&quot; &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;1861: Trebetherick Mine (Trewiston Mine) at Mine Field was closed, although it reopened briefly around 1900&lt;&#x2F;li&gt;
+&lt;li&gt;Trewiston Lead Mine: Historical records indicate a lead mine (“Trewiston”) was located in this area, with a sett granted in 1875 for three fields known as Lower, Inner, and Middle Hobby-house.&lt;&#x2F;li&gt;
+&lt;li&gt;Location: This site is situated east of the road, roughly between Trebetherick and Trewint.&lt;&#x2F;li&gt;
+&lt;li&gt;The area has seen significant development, with houses built over the former mining area. One house north of the footpath is named “Middle Hobby,” and another is known as “Hobby Field”.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;80%&quot; alt=&quot;Minefield.png&quot; src=&quot;&#x2F;Minefield.png&quot; &#x2F;&gt;
+&lt;p&gt;There is little to record beyond the fact that on March 25 1875 a sett was granted here of three fields called Lower, Inner and Middle Hobby-house numbered 640-642 on the St Minver tithe map.  The late Sir Arthur Russell informed the writer that the workings lay to the east of the road about midway between Trebetherick and Trewint (O.S.18 S.E&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Old Farm</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/oldfarm/</link>
+          <guid>https://www.trebetherick.net/oldfarm/</guid>
+          <description xml:base="https://www.trebetherick.net/oldfarm/">&lt;h1 id=&quot;old-farm-2025&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#old-farm-2025&quot; aria-label=&quot;Anchor link for: old-farm-2025&quot;&gt;Old Farm 2025&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Old Farm-photos.&quot; src=&quot;&#x2F;Old Farm- Photos.png&quot; &#x2F;&gt;
+&lt;h1 id=&quot;the-old-farm-of-today-began-life-being-called-higher-farm&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-old-farm-of-today-began-life-being-called-higher-farm&quot; aria-label=&quot;Anchor link for: the-old-farm-of-today-began-life-being-called-higher-farm&quot;&gt;The Old Farm of today began life being called Higher Farm.&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In 1851 William Mably was a farmer who owned Higher Farm and 94 acres of land. He lived with his wife, 5 adult children and 2 grandsons.
+In 1851 he was 61 years old and farmed 94 acres with the help of 1 labourer. His eldest son Robert, who was living with him, was aged 36 and widowed and perhaps he had gone back to his old home so that grandmother could help to look after his two sons William and Gregory, then aged 8 and 6.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;In 1929 the old house was renamed “Old Farm” when it was split up from its land, the land and a new farmhouse retained the name Higher Farm. More detailed information and name change in the LOCAL AREA section HISTORY page.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Restharrow Farm</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/restharrow/</link>
+          <guid>https://www.trebetherick.net/restharrow/</guid>
+          <description xml:base="https://www.trebetherick.net/restharrow/">&lt;h2 id=&quot;restharrow-farm&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#restharrow-farm&quot; aria-label=&quot;Anchor link for: restharrow-farm&quot;&gt;Restharrow Farm&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;farm-shop-seasonal-veg&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#farm-shop-seasonal-veg&quot; aria-label=&quot;Anchor link for: farm-shop-seasonal-veg&quot;&gt;Farm Shop - Seasonal Veg&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;summer-camping&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#summer-camping&quot; aria-label=&quot;Anchor link for: summer-camping&quot;&gt;Summer Camping&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;coffee-tea-room-garden&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#coffee-tea-room-garden&quot; aria-label=&quot;Anchor link for: coffee-tea-room-garden&quot;&gt;Coffee &#x2F; Tea Room &#x2F; Garden&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;80%&quot; alt=&quot;Restharrowfarm.png&quot; src=&quot;&#x2F;Restharrowfarm.png&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;seasonal-veg&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#seasonal-veg&quot; aria-label=&quot;Anchor link for: seasonal-veg&quot;&gt;Seasonal Veg&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;RestharrowVeg.png&quot; src=&quot;&#x2F;RestharrowVeg.png&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Restharrowtea.jpg&quot; src=&quot;&#x2F;Restharrowtea.jpg&quot; &#x2F;&gt;
+&lt;h2 id=&quot;delicious-cream-teas&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#delicious-cream-teas&quot; aria-label=&quot;Anchor link for: delicious-cream-teas&quot;&gt;Delicious Cream Teas&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Restharrowtearoom.jpg&quot; src=&quot;&#x2F;Restharrowtearoom.jpg&quot; &#x2F;&gt;
+</description>
+      </item>
+      <item>
+          <title>Shipwrecks</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/shipwrecks/</link>
+          <guid>https://www.trebetherick.net/shipwrecks/</guid>
+          <description xml:base="https://www.trebetherick.net/shipwrecks/">&lt;h1 id=&quot;map-of-shipwrecks-up-to-1939&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#map-of-shipwrecks-up-to-1939&quot; aria-label=&quot;Anchor link for: map-of-shipwrecks-up-to-1939&quot;&gt;Map Of Shipwrecks up to 1939&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;80%&quot; alt=&quot;Shipwrecks Camel Estuary up to 1939.jpg&quot; src=&quot;&#x2F;Shipwrecks Camel Estuary up to 1939.jpg&quot; &#x2F;&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;map-padstow-safe-haven.jpg&quot; src=&quot;&#x2F;map-padstow-safe-haven.jpg&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;many-sailers-were-lost-but-many-were-saved-by-the-trebetherick-coastguard-team&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#many-sailers-were-lost-but-many-were-saved-by-the-trebetherick-coastguard-team&quot; aria-label=&quot;Anchor link for: many-sailers-were-lost-but-many-were-saved-by-the-trebetherick-coastguard-team&quot;&gt;Many Sailers Were Lost but Many Were Saved by the Trebetherick Coastguard Team.&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;The Trebetherick Coastguard Cottages and Rocket Equipment House was originally built in 1840 as a pair of semi-detached buildings for the full time Coastguards. Eventually as the RNLI grew and developed, the role of Coastguard became a part time position, the cottages were sold separately as Upalong and Tregawne. The latter was owned and run as Trebetherick Stores by the Tellam-Hockings and as of 2023 is Flo’s Deli.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;1807&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1807&quot; aria-label=&quot;Anchor link for: 1807&quot;&gt;1807&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, was driven onto rocks and between 60 and 190 men were lost.
+Inspired by the 1807 wreck of HMS Anson, Henry Trengrouse, Cornish cabinet maker, patented a “portable apparatus for saving lives from a shipwreck. A rocket was used to propel a thin line onto a ship (far from easy in a storm and often needing many attempts), allowing a thicker rope to be hauled on so people could then be hauled ashore in a canvas sling (breeches) above the angry waves and lethal rocks. The breeches buoy, a life-saving apparatus for rescuing people from shipwrecks, is primarily credited to British inventor Henry Trengrouse (1772–1854). While Captain George William Manby also developed a famous mortar-based rescue system in 1808, Trengrouse is generally recognized for the specific “breeches buoy” apparatus (originally termed the “Bosun’s Chair”.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Breeches Buoy Painting.png&quot; src=&quot;&#x2F;Breeches Buoy Painting.png&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;1865-during-an-autumn-storm-the-juliet-with-a-cargo-of-rum-and-sugar-was-wrecked-off-greenaway-and-washed-onto-polzeath-beach&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1865-during-an-autumn-storm-the-juliet-with-a-cargo-of-rum-and-sugar-was-wrecked-off-greenaway-and-washed-onto-polzeath-beach&quot; aria-label=&quot;Anchor link for: 1865-during-an-autumn-storm-the-juliet-with-a-cargo-of-rum-and-sugar-was-wrecked-off-greenaway-and-washed-onto-polzeath-beach&quot;&gt;1865 During an Autumn storm The Juliet with a cargo of rum and sugar was wrecked off Greenaway and washed onto Polzeath Beach.&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;1865 -  the barque Juliet was wrecked on the Doom Bar with half the cargo of 400 barrels of rum washed ashore at Polzeath. All 17 crew of sailors were saved by the locals and coastguards, however, William Ham, visiting from St Austell died of alcohol poisoning.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;1900 Peace and Plenty and Lifeboat Arab.
+The Trebetherick Coastguard team regularly risked their lives. In April 1900, they rescued five crewmen from the wrecked ketch Peace and Plenty as she drifted helplessly towards Greenaway and Daymer. The storm was so bad it tragically wrecked and claimed the lives of several lifeboat men sent to assist. This painting captures something of the Trebetherick Coastguards and a time when Trebetherick Point and Greenaway were houseless. The rocket team of 20 volunteers in the early 1900s is seen here in action practising firing a line from their apparatus across the fields towards Daymer beach.
+From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly brought down by a horse drawn cart for practice. The apparatus was kept in the distinctive brick building still known as The Rocket House, adjacent to the Coastguard Cottages.
+The team were nationally recognised when the company was awarded The Wreck Service Shield (a top national honour!) in 1939 for saving three lives from the wreck of HMS Medea.&lt;&#x2F;p&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Trebetherick Coastguards doing Breeches Buoy Practice.png&quot; src=&quot;&#x2F;Trebetherick Coastguards doing Breeches Buoy Practice.png&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;1900-peace-and-plenty-wrecked-on-greenaway-also-lifeboat-arab-who-tried-to-save-her&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1900-peace-and-plenty-wrecked-on-greenaway-also-lifeboat-arab-who-tried-to-save-her&quot; aria-label=&quot;Anchor link for: 1900-peace-and-plenty-wrecked-on-greenaway-also-lifeboat-arab-who-tried-to-save-her&quot;&gt;1900 Peace and Plenty wrecked on Greenaway also Lifeboat Arab who tried to save her.&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;On 11 April, with a stormy west-north-westerly wind blowing, the ketch Peace and Plenty struck Greenway Rocks. The lifeboat Arab, whilst at anchor close to the casualty, was struck by a tremendous sea that broke 10 oars and washed eight of her crew overboard. The men managed to regain the lifeboat without loss but she was wrecked on the rocks and became a total loss.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;1900 Wrecked Lifeboat-Arab.png&quot; src=&quot;&#x2F;1900 Wrecked Lifeboat-Arab.png&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;1900 Grave of Sailor Age 20.png&quot; src=&quot;&#x2F;1900 Grave of Sailor Age 20.png&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;C W Chapman from Peace and Plenty St Enodoc grave stone.jpg&quot; src=&quot;&#x2F;C W Chapman from Peace and Plenty St Enodoc grave stone.jpg&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;1939-the-medea-on-the-rocks-at-greenaway&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1939-the-medea-on-the-rocks-at-greenaway&quot; aria-label=&quot;Anchor link for: 1939-the-medea-on-the-rocks-at-greenaway&quot;&gt;1939 The Medea - on the rocks at Greenaway&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;JAN.1939. Medea on Greenaway.jpg&quot; src=&quot;&#x2F;JAN.1939. Medea on Greenaway.jpg&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Medea on Greenaway 5JAN1939.png&quot; src=&quot;&#x2F;Medea on Greenaway 5JAN1939.png&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;All that remains of the wreck of the Medea in 2021&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Remains of Medea 2021.jpg&quot; src=&quot;&#x2F;Remains of Medea 2021.jpg&quot; &#x2F;&gt;
+&lt;h1 id=&quot;1995-maria-asumpta-pentire-point&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1995-maria-asumpta-pentire-point&quot; aria-label=&quot;Anchor link for: 1995-maria-asumpta-pentire-point&quot;&gt;1995 Maria Asumpta - Pentire Point&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Maria Asumpta at Seven Souls Rock.jpg&quot; src=&quot;&#x2F;Maria Asumpta at Seven Souls Rock.jpg&quot; &#x2F;&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;Maria Asumpta 30MAY95.png&quot; src=&quot;&#x2F;Maria Asumpta 30MAY95.png&quot; &#x2F;&gt;
+</description>
+      </item>
+      <item>
+          <title>Trefelix</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/trefelix/</link>
+          <guid>https://www.trebetherick.net/trefelix/</guid>
+          <description xml:base="https://www.trebetherick.net/trefelix/">&lt;h2 id=&quot;trefelix-built-1927&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#trefelix-built-1927&quot; aria-label=&quot;Anchor link for: trefelix-built-1927&quot;&gt;Trefelix - Built 1927&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;Trefelix.png&quot; alt=&quot;Trefelix.png&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;​Trefelix was built in 1927 by Sir John and Lady Walsham upon their retirement from China. They were long-time visitors to Trebetherick, as Lady Walsham’s sister, Ursula Warren, lived at Torquil with Elsie McCorkindale. During a visit to the Walshams in China, Miss McCorkindale acquired a significant collection of Chinese porcelain and rugs.​ John Walsham, born in 1910, married Sheila Bannerman, daughter of Commander Bertram “Bertie” Bannerman. Commander Bannerman eventually moved to Rock, where he built and operated the Dormy House Hotel (now Lowenna Manor). John and Sheila had three children—Tim, Susan, and Jane—while John ascended the Royal Navy ranks to become Admiral Superintendent of Portsmouth Dockyard.
+In 1949, John inherited Trefelix and the baronetcy but sold the house to the Frys shortly after. During the 1950s, it was sold to Mr. and Mrs. Bill Harrison, who converted the attic into additional rooms and built Bay View on Worthy Hill for their staff. In the 1970s, the property passed to psychiatrist Sidney Gottlieb.
+Trefelix returned to the Walsham family in 1983 when Susan and her husband, Christopher Harbour, purchased it. Christopher, who founded the British Universities North America Club (BUNAC), established a travel company in Wadebridge before his sudden passing in 1986.​ After a period spent running a hotel in Ireland with her second husband, Mike Robertson, Susan eventually returned to Trefelix​ where she restore​d the house to its former glory.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Trenain Farm</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/trenainfarm/</link>
+          <guid>https://www.trebetherick.net/trenainfarm/</guid>
+          <description xml:base="https://www.trebetherick.net/trenainfarm/">&lt;h1 id=&quot;trenain-farm&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#trenain-farm&quot; aria-label=&quot;Anchor link for: trenain-farm&quot;&gt;Trenain Farm&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;h1 id=&quot;2025&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#2025&quot; aria-label=&quot;Anchor link for: 2025&quot;&gt;2025&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;2025 aerial photo showing Trenain, Daymer and Bray Hill&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;100%&quot; alt=&quot;Trenain Farm pano.png&quot; src=&quot;&#x2F;Trenain Farm pano.png&quot; &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;1976-trenain-as-a-working-farm-in-the-foreground&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1976-trenain-as-a-working-farm-in-the-foreground&quot; aria-label=&quot;Anchor link for: 1976-trenain-as-a-working-farm-in-the-foreground&quot;&gt;1976 - Trenain as a working farm in the foreground&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;img width=&quot;50%&quot; alt=&quot;1976-Trenain as a working farm..jpg&quot; src=&quot;&#x2F;1976-Trenain as a working farm..jpg&quot; &#x2F;&gt;
+</description>
+      </item>
+      <item>
+          <title>Trewint Farm</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/trewintfarm/</link>
+          <guid>https://www.trebetherick.net/trewintfarm/</guid>
+          <description xml:base="https://www.trebetherick.net/trewintfarm/">&lt;h1 id=&quot;trewint-farm&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#trewint-farm&quot; aria-label=&quot;Anchor link for: trewint-farm&quot;&gt;Trewint Farm&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;1732 Francis Mably&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;80%&quot; alt=&quot;1732 Diary Extract - John Mably&quot; src=&quot;&#x2F;1732 Diary Extract - John Mably.jpg&quot; &#x2F;&gt;
+</description>
+      </item>
+      <item>
+          <title>Undertown</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/undertown/</link>
+          <guid>https://www.trebetherick.net/undertown/</guid>
+          <description xml:base="https://www.trebetherick.net/undertown/">&lt;h2 id=&quot;undertown-built-1928&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#undertown-built-1928&quot; aria-label=&quot;Anchor link for: undertown-built-1928&quot;&gt;Undertown - Built 1928&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Undertown - Including Terrace Walls and Sunken Garden Walls West, South and South West, Daymer Lane&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;Undertown.png&quot; alt=&quot;Undertown.png&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Having stayed at The Haven in the early days and rented Linkside in subsequent summers, Ernest Betjemann decided in 1928 to build his own house in Trebetherick. Undertown was designed by the architect Robert Atkinson with an Arts and Crafts flavour.
+Atkinson was also responsible for the design of Grey Ladies and Grey Gables, as well as houses in The Close.&lt;&#x2F;li&gt;
+&lt;li&gt;Lewis Oaten of The Haven was employed (mid centuary) to build a sympathetic extension to the end of the property, seen in this photo at the far end with the smaller chimney.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;undertown-wildflower-meadow&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#undertown-wildflower-meadow&quot; aria-label=&quot;Anchor link for: undertown-wildflower-meadow&quot;&gt;Undertown Wildflower Meadow&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;img width=&quot;50%&quot; src=&quot;&#x2F;restharrow@undertown.png&quot; alt=&quot;restharrow@undertown.png&quot;&gt;
+</description>
+      </item>
+      <item>
+          <title>whitewings</title>
+          <pubDate>Sat, 01 Jan 1600 00:00:00 +0000</pubDate>
+          <author>The Oaten family &amp; Trebetherick residents and friends</author>
+          <link>https://www.trebetherick.net/whitewings/</link>
+          <guid>https://www.trebetherick.net/whitewings/</guid>
+          <description xml:base="https://www.trebetherick.net/whitewings/">&lt;h2 id=&quot;white-wings-built-1937&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#white-wings-built-1937&quot; aria-label=&quot;Anchor link for: white-wings-built-1937&quot;&gt;White Wings - Built 1937&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+ &lt;img width=&quot;50%&quot; src=&quot;&#x2F;White Wings.png&quot; alt=&quot;White Wings.png&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;White Wings 1970&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+ &lt;img width=&quot;50%&quot; src=&quot;&#x2F;White Wings 1970.png&quot; alt=&quot;White Wings 1970.png&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Christine Kelway-Gwinn 1970&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+ &lt;img width=&quot;50%&quot; src=&quot;&#x2F;Christine Kelway-Gwinn 1970.png&quot; alt=&quot;Christine Kelway-Gwinn 1970.png&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Christine Kelway-Gwinn’s Books&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+ &lt;img width=&quot;50%&quot; src=&quot;&#x2F;Christine Gwinn&#x27;s Books.png&quot; alt=&quot;Christine Gwinn&#x27;s Books.png&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;White Wings was built in 1937 for Mr and Mrs Reginald Gwinn, on land previously owned by Mrs Bessie Betjeman, John Betjeman’s mother.  They used White Wings initially as their holiday retreat, moving down to Trebetherick permanently after the Second World War.Mr Gwinn, always known as Rex, was the headmaster of a boys’ prep school in Clevedon, Somerset; his wife was born Christine Kelway, of the well-known Kelway’s Nursery, Langport, Somerset – famous for its irises and peonies in particular, and still exhibiting at the Chelsea Flower Show though now under new ownership.  Christine was a knowledgeable and enthusiastic gardener herself, and created the garden at White Wings out of a cornfield.  The garden was much larger then as it also included the land on which Gwylanas now stands.  Based on her experiences she wrote three books under her maiden name: ‘Gardening on sand’, ‘Seaside gardening’ and ‘Gardening on the coast’. I have all of Christine’s books which she autographed for me, I visited her often and learnt a great deal about gardening here with our special mix of micro climate, alkaline sand and salt laden gales.In the 1970s, White Wings was bought by Mr and Mrs Stanley Wyles who lived there for 10 years.  They also loved the garden, until it became too much for them.  Mrs Wyles took part in one of BBC2’s Gardener’s World programmes during the 1980s; there is a video recording of her showing off the White Wings garden in its prime, including a wonderful vegetable plot with an amazing watering system.  They also have on display in the house some photographs acquired at an auction of the garden when it belonged to Christine Gwinn.  They were in touch with her about the house and garden shortly before her death in 1990.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+    </channel>
+</rss>
