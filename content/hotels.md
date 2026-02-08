@@ -9,7 +9,7 @@ tags:
 
 # St Moritz Hotel - Opened 1946
 
-<img width="80%" alt="St Moritz Court - Hotel.png" src="/St Moritz Court - Hotel.png" />
+<img width="80%" alt="StMoritzCourt2.png" src="/StMoritzCourt2.png" />
 
 ---
 
