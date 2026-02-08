@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Restharrow Farm
-## Farm Shop offering seasonal veg, Camping Field, Coffee / Tea Room / Garden
+## Farm Shop offering seasonal veg, Summer Camping, Coffee / Tea Room / Garden
 
 <img width="80%" alt="Restharrowfarm.png" src="/Restharrowfarm.png" />
 
