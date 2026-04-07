@@ -30,6 +30,7 @@ In 2004, Steve and Hugh Ridgway purchased the property. Following a multi-millio
 If you can add or correct any of our memories and dates we would love to hear from you. eg. does anyone know the name of the Underwoods house that they built in 1930 before it became St Moritz?
 
 ---
+# PHOTOS
 ## 1950s
 <img width="50%" alt="St Moritz Hotel 1950.png" src="/St Moritz Hotel 1950.png" />
 
