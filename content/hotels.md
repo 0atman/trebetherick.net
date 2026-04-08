@@ -20,7 +20,7 @@ Following the war, Richard Underwood trained as a chef in St. Moritz, Switzerlan
 In 1946 the St. Moritz Hotel was opened. The Underwoods ran the hotel and restaurant very successfully for 32 years. In the 1960s, they solved the shortage of bedroom capacity by employing large local houses to provide overflow sleeping arrangements for some St. Moritz guests who were happy to sleep off-site but eat in the hotel. Brian's parents, the Oatens, did just that, and you can read about that on The Haven page in the HOUSES chapter.
 
 ## 1978 - The Rushworths
-The Underwood family sold the hotel to Dorothy and Stephen Rushworth in 1978, while St. Moritz Court was sold separately to the Bedwell family. The Rushworths successfully managed the hotel until 2004, adding several extensions and the popular circular function/ball room. 
+The Underwood family sold the hotel to Dorothy and her son Stephen Rushworth in 1978, while St. Moritz Court was sold separately to the Bedwell family. The Rushworths successfully managed the hotel until 2004, adding several extensions and the popular circular function/ball room. 
 
 ## 2004 - The Ridgeways
 In 2004, Steve and Hugh Ridgway purchased the property. Following a multi-million-pound redevelopment, it reopened in 2008 with its current Art Deco-inspired design. As we look forward, 2030 will mark 100 years since the residence's original construction.
