@@ -10,7 +10,7 @@ tags:
 # St Moritz Hotel
 
 ## 1930 - The Underwoods
-The original private residence was commissioned and built in 1930 by Mr. and Mrs. Richard Underwood. 
+The original private residence was commissioned and built in 1930 by Mr. and Mrs. Richard Underwood. (Note from the editor...does anyone know what the original house was called before Richard re-named it St Moritz?)
 ## 1939
 During World War II, the house began to home evaccuees. 
 ## 1943 
