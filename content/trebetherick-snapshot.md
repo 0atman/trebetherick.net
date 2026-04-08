@@ -118,6 +118,9 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 
 ---
 
+<img width="80%" src="/Trebetherick Hill Polzeath.jpg" alt="Trebetherick Hill leading to Polzeath">
+
+
 ## THE HAVEN - 1950s
 
 - The Haven was bought by Mr Harrison but remained unoccupied for 3 or 4 years. In the mid 1950s it was bought by Brian's parents, Mabyn and Lewis Oaten. Lewis was a qualified carpenter and builder employing several local people, using the stables as a storeroom and garage. Mabyn did bed and breakfast, taking overflow sleepers from St Moritz. One group of those guests was the Gill family. William T Gill was a financial director at Rolls Royce in Derby. The following year they brought down their friends and Mabyn was delighted to recount how she looked down from The Haven balcony at four Rolls Royces parked in the garden. ( see photo).
