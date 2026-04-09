@@ -111,7 +111,10 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 ---
 
 - This photo could be Brian's Grandfather, John Oaten, travelling from Kitts Hill, St Kew to Trebetherick sometime before 1932 on his pony and trap going down Dunder Hill and through Polzeath. The original Tin Tabernackle still in place at Chapel Corner before being re-built in its present day poition so the road's steep and sharp corner could be widened.
- 
+
+ ## The Two Hills in and out of Polzeath. NE is DUNDER HILL : SW is TREBETHERICK HILL
+
+ The older locals use these names. Sadly through not knowing, new comers and recent arrivals have invented other names which is confusing especially for the emergency services.
 
 <img width="50%" src="/Pre 1932- Dunder Hill, Polzeath.jpg" alt="Pre 1932- Dunder Hill, Polzeath.jpg">
 
