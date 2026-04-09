@@ -22,7 +22,7 @@ In 1946 the St. Moritz Hotel was opened. The Underwoods ran the hotel and restau
 ## 1978 - The Rushworths
 The Underwood family sold the hotel to Dorothy and her son Stephen Rushworth in 1978, while St. Moritz Court was sold separately to the Bedwell family. The Rushworths successfully managed the hotel until 2004, adding several extensions and the popular circular function/ball room. 
 
-## there may have been another sale here..details to follow..
+## there may have been another owner here..more details to follow...Mr and Mrs Graham Meech
 
 ## 2004 - The Ridgeways
 In 2004, Steve and Hugh Ridgway purchased the property. Following a multi-million-pound redevelopment, it reopened in 2008 with its current Art Deco-inspired design. As we look forward, 2030 will mark 100 years since the residence's original construction.
