@@ -21,11 +21,11 @@ In 1946 the St. Moritz Hotel was opened. The Underwoods ran the hotel and restau
 ---
 
 
-## Sold date TBC to Mr and Mrs Graham Leach... 
+## Mr and Mrs Graham Leach ...Underwoods Sold to Leach...date TBC to ... 
 More info to follow
 
 ## 1978 - The Rushworths
-The Underwood family sold the hotel to Dorothy and her son Stephen Rushworth in 1978, while St. Moritz Court was sold separately to the Bedwell family. The Rushworths successfully managed the hotel until 2004, adding several extensions and the popular circular function/ball room. 
+The Leach family sold the hotel to Dorothy and her son Stephen Rushworth in 1978, while St. Moritz Court was sold separately to the Bedwell family. The Rushworths successfully managed the hotel until 2004, adding several extensions and the popular circular function/ball room. 
 
 ## 2004 - The Ridgeways
 In 2004, Steve and Hugh Ridgway purchased the property. Following a multi-million-pound redevelopment, it reopened in 2008 with its current Art Deco-inspired design. As we look forward, 2030 will mark 100 years since the residence's original construction.
