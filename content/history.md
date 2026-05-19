@@ -25,7 +25,7 @@ The History: While Phoenicians and other Mediterranean traders did indeed travel
 
 
 ---
-## Article 2 
+## Article 2 - by Mary Fellgett 1984 
 
 title: "History"
 date: 1930-01-01
