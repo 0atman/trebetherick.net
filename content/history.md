@@ -1,3 +1,27 @@
+# Iron Age to Medieval History
+
+## 2007 Crop Marks
+
+During the summer of 2007 the television episode of 'Time Team', Series 15, Episode 10 “From Constantinople to Cornwall,” was filmed at Lellizzick near St. George's Well and first broadcast on 9 March 2008 on Channel 4. 
+Now available on YouTube.
+
+#  Bronze Age Gold and Pottery from the Iron Age to Fifth Century
+
+Considerably numerous crop marks were noted in one of the fields, easily visible from Daymer. Geophysical surveys were done which produced some of the most interesting results that Time Team had ever seen. Not only that, but a metal detectorist found a tiny piece of Bronze Age gold and lots of pottery from the Iron Age to fifth century. During their three-day excavation, the team investigated a remarkable site where sixth-century pottery and amphora fragments from Turkey, North Africa and Constantinople had been discovered. These finds suggested that, around 1,500 years ago, this part of Cornwall was not an isolated outpost but an important trading settlement connected to the wider Mediterranean world.
+
+# Exporting Tin - required to make pewter and bronze
+
+The discoveries provided compelling evidence that early medieval Cornwall, possibly within the kingdom of Dumnonia, maintained long-distance trade links with the Byzantine Empire, importing luxury goods such as wine and olive oil and exporting tin. Tin was required to make pewter and bronze. Rich in tin deposits, Cornwall's tin inevitably became the lifeblood of the region's economy, supplying almost all of Western Europe and even reaching markets in the Middle East. The episode offered a fascinating glimpse into Cornwall’s surprisingly cosmopolitan past.  
+
+# A Legend Connected to the Cornish tin trade 
+
+According to medieval and Cornish legend and folklore, Joseph of Arimathea was a wealthy metal merchant involved in the ancient Mediterranean tin trade. The legends claim he sailed to Cornwall to trade and brought his great-nephew, the young Jesus, with him. 
+Stories suggest Jesus played on the shores of Looe Island (sometimes identified as the historic tin-trading port of Ictis) while Joseph met with miners, or that they anchored in St Just In Roseland.
+The History: While Phoenicians and other Mediterranean traders did indeed travel to Cornwall for tin in ancient times, scholars and historians classify the tales of Joseph of Arimathea and Jesus traveling to Britain as probably mythological.
+---
+
+
+
 ---
 title: "History"
 date: 1930-01-01
@@ -88,26 +112,6 @@ O.S. 1 inch map 1813.
 
 ---
 
-# Iron Age to Medieval History
-
-## 2007 Crop Marks
-
-During the summer of 2007 the television episode of 'Time Team', Series 15, Episode 10 “From Constantinople to Cornwall,” was filmed at Lellizzick near St. George's Well and first broadcast on 9 March 2008 on Channel 4. 
-Now available on YouTube.
-
-#  Bronze Age Gold and Pottery from the Iron Age to Fifth Century
-
-Considerably numerous crop marks were noted in one of the fields, easily visible from Daymer. Geophysical surveys were done which produced some of the most interesting results that Time Team had ever seen. Not only that, but a metal detectorist found a tiny piece of Bronze Age gold and lots of pottery from the Iron Age to fifth century. During their three-day excavation, the team investigated a remarkable site where sixth-century pottery and amphora fragments from Turkey, North Africa and Constantinople had been discovered. These finds suggested that, around 1,500 years ago, this part of Cornwall was not an isolated outpost but an important trading settlement connected to the wider Mediterranean world.
-
-# Exporting Tin - required to make pewter and bronze
-
-The discoveries provided compelling evidence that early medieval Cornwall, possibly within the kingdom of Dumnonia, maintained long-distance trade links with the Byzantine Empire, importing luxury goods such as wine and olive oil and exporting tin. Tin was required to make pewter and bronze. Rich in tin deposits, Cornwall's tin inevitably became the lifeblood of the region's economy, supplying almost all of Western Europe and even reaching markets in the Middle East. The episode offered a fascinating glimpse into Cornwall’s surprisingly cosmopolitan past.  
-
-# A Legend Connected to the Cornish tin trade 
-
-According to medieval and Cornish legend and folklore, Joseph of Arimathea was a wealthy metal merchant involved in the ancient Mediterranean tin trade. The legends claim he sailed to Cornwall to trade and brought his great-nephew, the young Jesus, with him. 
-Stories suggest Jesus played on the shores of Looe Island (sometimes identified as the historic tin-trading port of Ictis) while Joseph met with miners, or that they anchored in St Just In Roseland.
-The History: While Phoenicians and other Mediterranean traders did indeed travel to Cornwall for tin in ancient times, scholars and historians classify the tales of Joseph of Arimathea and Jesus traveling to Britain as probably mythological.
 
 
 
