@@ -5,7 +5,7 @@
 During the summer of 2007 the television episode of 'Time Team', Series 15, Episode 10 “From Constantinople to Cornwall,” was filmed at Lellizzick near St. George's Well and first broadcast on 9 March 2008 on Channel 4. 
 Now available on YouTube.
 
-#  Bronze Age Gold and Pottery from the Iron Age to Fifth Century
+#  Bronze Age Gold - Pottery from the Iron Age to Fifth Century
 
 Considerably numerous crop marks were noted in one of the fields, easily visible from Daymer. Geophysical surveys were done which produced some of the most interesting results that Time Team had ever seen. Not only that, but a metal detectorist found a tiny piece of Bronze Age gold and lots of pottery from the Iron Age to fifth century. During their three-day excavation, the team investigated a remarkable site where sixth-century pottery and amphora fragments from Turkey, North Africa and Constantinople had been discovered. These finds suggested that, around 1,500 years ago, this part of Cornwall was not an isolated outpost but an important trading settlement connected to the wider Mediterranean world.
 
