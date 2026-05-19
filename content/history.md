@@ -15,8 +15,8 @@ Considerably numerous crop marks were noted in one of the fields, easily visible
 
 The discoveries provided compelling evidence that early medieval Cornwall, possibly within the kingdom of Dumnonia, maintained long-distance trade links with the Byzantine Empire, importing luxury goods such as wine and olive oil and exporting tin. Tin was required to make pewter and bronze. Rich in tin deposits, Cornwall's tin inevitably became the lifeblood of the region's economy, supplying almost all of Western Europe and even reaching markets in the Middle East. The episode offered a fascinating glimpse into Cornwall’s surprisingly cosmopolitan past.  
 # Time Team Photos
-Time Team COLLAGE.jpg
 
+<img width="80%" src="/Time Team COLLAGE.jpg" alt="Time Team COLLAGE.jpg">
 
 
 ## A Legend Connected to the Cornish tin trade 
