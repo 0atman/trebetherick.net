@@ -1,4 +1,4 @@
-# ITEM 1 - Iron Age to Medieval History
+# Article 1 - Iron Age to Medieval History
 
 ## 2007 Crop Marks
 
@@ -23,9 +23,8 @@ The History: While Phoenicians and other Mediterranean traders did indeed travel
 
 
 ---
-ITEM 2 - title: "History"
+Article 2 - title: "History"
 date: 1930-01-01
----
 
 # The History of the Village of Trebetherick - researched and written by Mary Fellgett 1984 
 
