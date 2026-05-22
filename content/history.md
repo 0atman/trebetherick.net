@@ -24,7 +24,21 @@ The discoveries provided compelling evidence that early medieval Cornwall, possi
 
 According to medieval and Cornish legend and folklore, Joseph of Arimathea was a wealthy metal merchant involved in the ancient Mediterranean tin trade. The legends claim he sailed to Cornwall to trade and brought his great-nephew, the young Jesus, with him. 
 Stories suggest Jesus played on the shores of Looe Island (sometimes identified as the historic tin-trading port of Ictis) while Joseph met with miners, or that they anchored in St Just In Roseland.
-The History: While Phoenicians and other Mediterranean traders did indeed travel to Cornwall for tin in ancient times, scholars and historians classify the tales of Joseph of Arimathea and Jesus traveling to Britain as probably mythological.
+The History: 
+While Phoenicians and other Mediterranean traders did indeed travel to Cornwall for tin in ancient times, scholars and historians classify the tales of Joseph of Arimathea and Jesus traveling to Britain as probably mythological rather than established history.
+
+### William Blake
+
+A little out of the box but....the English poet William Blake drew inspiration from The Roseland's enduring legend when he wrote the famous lines beginning.......
+"And did those feet in ancient time,
+Walk upon Englands mountains green:
+And was the holy Lamb of God,
+On Englands pleasant pastures seen!"
+
+### Hubert Parry
+
+The poem later became widely known as the hymn Jerusalem after it was set to music in 1916 by Hubert Parry. It remains one of Britain’s most loved and stirring hymns, carrying with it a strange blend of mysticism, patriotism, and green-and-pleasant-land.
+
 ---
 
 
