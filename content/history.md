@@ -1,8 +1,6 @@
 ---
 title: "History"
-date: 2026-05-24
-tags: 
- - history
+date: 1930-01-01
 ---
 
 ## Article 1 
@@ -46,15 +44,9 @@ On Englands pleasant pastures seen!"
 
 The poem later became widely known as the hymn Jerusalem after it was set to music in 1916 by Hubert Parry. It remains one of Britain’s most loved and stirring hymns, carrying with it a strange blend of mysticism, patriotism, and green-and-pleasant-land.
 
----
 
-
-
----
 ## Article 2 - by Mary Fellgett 1984 
 
-title: "History"
-date: 1930-01-01
 
 # The History of the Village of Trebetherick - researched and written by Mary Fellgett 1984 
 
