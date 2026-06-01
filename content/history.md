@@ -51,6 +51,9 @@ The poem later became widely known as the hymn Jerusalem after it was set to mus
 # 1838 Tythe Maps of Trebetherick, St Minver.
 
 <img width="80%" src="/1838 Tythe Map Trebetherick (1).pdf" alt="1838 Tythe Map Trebetherick (1).pdf">
+---
+<img width="80%" src="/1838 Tythe Map Trebetherick (1).pdf" alt="1838 Tythe Map Trebetherick (1).pdf">
+---
 
 ---
 
