@@ -74,7 +74,7 @@ The poem later became widely known as the hymn Jerusalem after it was set to mus
 
 ---
 
-<img width="80%" src="/StMinv0005 - Trebetherick.jpg" alt="StMinv0005 - Trebetherick.jpg">
+<img width="80%" src="/1838 Tythe Map with Field Names.png" alt="1838 Tythe Map with Field Names.png">
 
 ---
 
