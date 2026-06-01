@@ -56,7 +56,7 @@ The poem later became widely known as the hymn Jerusalem after it was set to mus
 
 ---
 
-<img width="80%" src="/Time Team COLLAGE.jpg" alt="Time Team COLLAGE.jpg">
+<img width="80%" src="/StMinv0013+key (2).jpg" alt="StMinv0013+key (2).jpg">
 
 ---
 
