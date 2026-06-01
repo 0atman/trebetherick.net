@@ -22,7 +22,7 @@ The discoveries provided compelling evidence that early medieval Cornwall, possi
 
 ### Time Team Photos
 
-<img width="80%" src="/Time Team COLLAGE.jpg" alt="Time Team COLLAGE.jpg">
+<img width="80%" src="/1838 Tythe Map Trebetherick (1).pdf" alt="1838 Tythe Map Trebetherick (1).pdf">
 
 
 ### A Legend Connected to the Cornish tin trade 
