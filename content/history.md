@@ -68,7 +68,7 @@ The poem later became widely known as the hymn Jerusalem after it was set to mus
 <img width="80%" src="/StMinv0016.title.jpg" alt="StMinv0016.title.jpg">
 
 ---
-## Trebetherick 1813 Field Names
+## 1813 OS 1" Map - Field Names
 
 <img width="80%" src="/1838 Tythe Map Trebetherick (2).pdf" alt="1838 Tythe Map Trebetherick (2).pdf">
 
