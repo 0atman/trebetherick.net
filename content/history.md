@@ -22,7 +22,7 @@ The discoveries provided compelling evidence that early medieval Cornwall, possi
 
 ### Time Team Photos
 
-<img width="80%" src="/1838 Tythe Map Trebetherick (1).pdf" alt="1838 Tythe Map Trebetherick (1).pdf">
+<img width="80%" src="/Time Team COLLAGE.jpg" alt="Time Team COLLAGE.jpg">
 
 
 ### A Legend Connected to the Cornish tin trade 
@@ -50,7 +50,7 @@ The poem later became widely known as the hymn Jerusalem after it was set to mus
 
 # 1838 Tythe Maps of Trebetherick, St Minver.
 
-<img width="80%" src="/post-card-face-2.jpg" alt="Post Card Face~2">
+<img width="80%" src="/1838 Tythe Map Trebetherick (1).pdf" alt="1838 Tythe Map Trebetherick (1).pdf">
 
 ---
 
