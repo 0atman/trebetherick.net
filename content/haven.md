@@ -66,8 +66,9 @@ As a carpenter, Lewis easily made a few simple but sturdy single beds with large
 Dorma was officially founded around 1920/1921 as a high-quality British bedding brand, pioneering the practice of providing packaged bed linen directly from the factory floor to retail shops. The brand's reputation for fine cotton weaving and impeccable detail eventually earned it a Royal Warrant in 1961 to supply the Royal Household.
 Mabyn and Lewis always liked to use good quality items, they would drive up to Spooners of Plymouth to source a supply of Dormer single bed sheets, as befitted The Haven's guests. 
 Remarkably, 70 years later, we still have some of these beautiful, unused sheets intact in their original cellophane packaging, complete with the "Made In Lancashire" and Spooners labels. They lack the Royal Warrant mark, so they must have been purchased before 1961.
-<img width="80%" src="/Dormer Label.jpg" alt="Dormer Label">
-<img width="80%" src="/Dormer Original pre 1961 Packet.jpg" alt="Dormer Original pre 1961 Packet">
+
+<img width="80%" src="/Dorma Label.jpg" alt="Dorma Label">
+<img width="80%" src="/Dorma Original pre 1961 Packet.jpg" alt="Dorma Original pre 1961 Packet">
 <img width="80%" src="/Fitted Sheet Folding Instructions.jpg" alt="Fitted Sheet Folding Instructions">
   
 <img width="80%" src="/haven-1965-74.jpg" alt="1965 74">
