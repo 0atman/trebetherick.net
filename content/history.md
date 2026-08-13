@@ -69,7 +69,7 @@ He recalled that the only route from The Haven in Trebetherick to Polzeath was a
 ---
 
 ---
-### Old Field Names ...(spelling variations Fore Door or Fore Dore)
+### Old Field Names ...(spelling variations; originally fields 169 and 220 called Fore Door but subsequent development was called Fore Dore)
 
 ### 1838 TYTHE Map Field Names page 3
 
