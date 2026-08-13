@@ -69,19 +69,19 @@ waiting for photos
 
 The history of the Fore Dore site in Higher Trebetherick spans several distinct operational phases, evolving from a hotel with an attached garage to a care home, and finally to a modern apartment development.
 
-## 🏨 Fore Dore Hotel & Garage Era1950s–1980s: 
+## 🏨 Fore Dore Hotel & Garage - Era : 1950s–1980s 
 
 The property operated as a popular local hotel. Historical records from Kresen Kernow (Cornwall Archives) feature photography of the hotel bedrooms dating back to at least September 1956.
 1980s: The hotel and its adjacent garage, which serviced local and tourist vehicles, remained open through this decade.
 
-## 🛏️ Fore Dore Nursing and Residential Home Era : 1980s
+## 🛏️ Fore Dore Nursing and Residential Home - Era : 1980s
 
 The hotel building was officially converted into a specialized care facility, operating as the Fore Dore Nursing Home. Local obituaries record residents staying at the home from the mid-1990s onward.
 2005: The corporate entity, Fore Dore Nursing Home Limited, was formally registered.
 2014: The care home officially closed.
 
 
-## 🏗️ Redevelopment (Trebetherick Gardens) 2017–2019
+## 🏗️ Redevelopment renamed Trebetherick Gardens : 2017–2019
 
 Initial demolition and redevelopment. The former nursing home and garage buildings were demolished. The site was transformed by Sprout Developments into Trebetherick Gardens, a luxury residential complex featuring 12 apartments.
 
