@@ -58,7 +58,7 @@ He recalled that the only route from The Haven in Trebetherick to Polzeath was a
 ​
 <img width="80%" src="/1838 Tythe Key.png" alt="Tythe Key">
 
-### Before the Road there were 6 Gated Fields Between The Haven in Trebetherick and Polzeath
+### Before There Was a Road, There were 6 Gated Fields Between The Haven in Trebetherick and Polzeath
 
 <img width="80%" src="/1838.6Gates.Treb-Pol.jpg" alt="1838.6 Gates Treb-Pol">
 
