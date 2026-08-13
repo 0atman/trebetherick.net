@@ -51,17 +51,18 @@ The poem later became widely known as the hymn Jerusalem after it was set to mus
 
 # 1838 Tythe Maps of Trebetherick, St Minver.
 
-An interesting piece of local history regarding The Haven​ is that back in the 1940s or 1950s, an old gentleman visited the property and shared his memories of the area from the days ​of around 1910 and before motor cars and metalled roads. The footpath is marked on the Tythe Map of 1838 it goes all the way from Polzeath through Trebetherick then splits to go down to Daymer or down Worthy Hill to Trewint and beyond.
-He recalled that the only route from The Haven in Trebetherick to Polzeath was a footpath​/pony track through the fields, which required opening and closing six gates along the way. By zooming in to the tythe map, you can make out the six gates across the footpath. You can also see the footpath/pony track down to Daymer Beach. 
+An interesting piece of local history regarding The Haven​ is that back in the 1940s, an old gentleman visited the property and shared his memories of the area from the days ​of around 1910 and before motor cars and metalled roads. The footpath is marked on the Tythe Map of 1838 it goes all the way from Polzeath through Trebetherick then splits to go down to Daymer or down Worthy Hill to Trewint and beyond. 
+He recalled that the only route from The Haven in Trebetherick to Polzeath was a footpath​/pony track through the fields, which required opening and closing six gates along the way. By zooming in to the tythe map, you can make out the six gates across the footpath. You can also see the footpath/pony track down to Daymer Beach. These tracks and footpaths, though documented and mapped in 1838, would have been in use earlier than that. The will have been created and used by the farmers and workers since the first documented buildings in Trebetherick which is 1600s, 400 years ago.
+
+### 1838 Tythe Map Key Details
 ​
 <img width="80%" src="/1838 Tythe Key.png" alt="Tythe Key">
 
----
+### Before the Road there were 6 Gated Fields Between The Haven in Trebetherick and Polzeath
 
 <img width="80%" src="/1838.6Gates.Treb-Pol.jpg" alt="1838.6 Gates Treb-Pol">
 
-
----
+### The 6 Gates Ringed in Red
 
 <img width="80%" src="/6Gates.Haven-Pol.jpg" alt="6 Gates.Haven-Pol">
 
