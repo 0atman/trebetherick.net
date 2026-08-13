@@ -24,4 +24,3 @@ date: 2025-01-01
 
 ---
 
-- [Fore Dore](/fore dore).
