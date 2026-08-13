@@ -79,6 +79,17 @@ He recalled that the only route from The Haven in Trebetherick to Polzeath was a
 
 <img width="80%" src="/field.names.04" alt="1838 Trebetherick Field Names">
 
+### 1838 TYTHE Map Field Names page 15
+
+<img width="80%" src="/field.names.15" alt="1838 Trebetherick Field Names">
+
+### 1838 TYTHE Map Field Names page 17
+
+<img width="80%" src="/field.names.17" alt="1838 Trebetherick Field Names">
+
+### 1838 TYTHE Map Field Names page 22
+
+<img width="80%" src="/field.names.22" alt="1838 Trebetherick Field Names">
 
 <img width="80%" src="/Photo-Fields-Trebetherick.jpg" alt="Photo-Fields-Trebetherick.jpg">
 
