@@ -61,6 +61,7 @@ waiting for photos
 - Built originally as No 1 and No 2 The Terrace, both bought by Harry Hardcastle's parents and joined together to convert into a hotel.
 - Now semi detached houses again, Bar’s House and Honeybourne.
 
+---
 
 # The Fore Dore era
 
