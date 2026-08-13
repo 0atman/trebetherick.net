@@ -69,8 +69,9 @@ waiting for photos
 
 The history of the Fore Dore site in Higher Trebetherick spans several distinct operational phases, evolving from a hotel with an attached garage to a care home, and finally to a modern apartment development.
 
-🏨 Fore Dore Hotel & Garage Era
-1950s–1980s: The property operated as a popular local hotel. Historical records from Kresen Kernow (Cornwall Archives) feature photography of the hotel bedrooms dating back to at least September 1956.
+## 🏨 Fore Dore Hotel & Garage Era1950s–1980s: 
+
+The property operated as a popular local hotel. Historical records from Kresen Kernow (Cornwall Archives) feature photography of the hotel bedrooms dating back to at least September 1956.
 1980s: The hotel and its adjacent garage, which serviced local and tourist vehicles, remained open through this decade.
 
 ## 🛏️ Fore Dore Nursing and Residential Home Era : 1980s
