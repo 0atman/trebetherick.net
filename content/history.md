@@ -69,7 +69,10 @@ He recalled that the only route from The Haven in Trebetherick to Polzeath was a
 ---
 
 ---
-### Old Field Names ...(spelling variations; originally fields 169 and 220 called Fore Door but subsequent development was called Fore Dore)
+### Old Field Names ...spelling variations; Fore Door/Fore Dore
+Originally David Arthur's field 169 was called Fore Door Field, Tythe page 22. 
+John Mably's field 220 was called The Fore Door, Tythe page 17. 
+In 1950s the subsequent hotel and garage development in Fore Door Field were called Fore Dore.
 
 ### 1838 TYTHE Map Field Names page 3
 
