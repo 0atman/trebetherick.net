@@ -70,6 +70,8 @@ Remarkably, 70 years later, we still have some of these beautiful, unused sheets
 <img width="50%" src="/Dorma Label.jpg" alt="Dorma Label">
 <img width="50%" src="/Dorma Original pre 1961 Packet.jpg" alt="Dorma Original pre 1961 Packet">
 <img width="50%" src="/Fitted Sheet Folding Instructions.jpg" alt="Fitted Sheet Folding Instructions">
+
+---
   
 <img width="80%" src="/haven-1965-74.jpg" alt="1965 74">
 
