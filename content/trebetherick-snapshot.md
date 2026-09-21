@@ -175,9 +175,9 @@ Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s 
 
 ---
 
-- On the main road through Trebetherick 1965 looking towards Brea,telephone exchange on left, the bus shelter has now been been moved to the other side of the road
+- On the main road through Trebetherick 1965 looking towards Brea,telephone exchange on left and the bus shelter which was moved to the other side of the road to allow for road straightening
  
-<img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="On the main road through Trebetherick 1965 looking towards Brea, the bus shelter has been moved to the other side of the road.jpg">
+<img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter before being moved to the other side of the road.jpg" alt="On the main road through Trebetherick 1965 looking towards Brea, the bus shelter has been moved to the other side of the road.jpg">
 
 
 ---
