@@ -7,9 +7,15 @@ tags:
 
 # Tithe Maps
 
-![](1838 Tythe Key.png)
+<img width="80%" src="/1838 Tythe Key.png" alt="Tythe Key">
+
+
+![](tythe-date.png)
 
 ![](1838 Tythe Map with Field Names.png)
+
+![](trebetherick-tythe.jpg)
+
 
 # Coastguards
 
