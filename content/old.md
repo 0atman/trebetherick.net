@@ -9,12 +9,11 @@ tags:
 
 <img width="80%" src="/1838 Tythe Key.png" alt="Tythe Key">
 
+<img width="80%" src="/tythe-date.png" alt="Tythe Date">
 
-![](tythe-date.png)
+<img width="80%" src="/1838 Tythe Map with Field Names.png" alt="1838 Tythe Map with Field Names.png">
 
-![](1838 Tythe Map with Field Names.png)
-
-![](trebetherick-tythe.jpg)
+<img width="80%" src="/trebetherick-tythe.jpg" alt="">
 
 
 # Coastguards
