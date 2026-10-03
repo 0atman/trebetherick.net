@@ -39,7 +39,7 @@ render_emoji = true
 
 
 [extra.nav]
-links = ["houses.md", "farms.md", "stenodoc.md", "area.md", "about.md"]
+links = ["houses.md","old.md", "farms.md", "stenodoc.md", "area.md", "about.md"]
 
 [[extra.links]]
 title = "🏡 Houses"
