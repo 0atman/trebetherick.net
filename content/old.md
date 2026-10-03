@@ -1,5 +1,5 @@
 ---
-title: "Old Trebethreick"
+title: "Old Trebetherick"
 date: 1600-01-01
 tags: 
  - old
