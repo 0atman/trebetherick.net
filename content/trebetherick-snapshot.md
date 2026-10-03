@@ -18,13 +18,7 @@ near the top of Worthy Hill,
 to provide accommodation primarily for golfers
 to visit the new St Enodoc golf course.
 
-## The 1901 CENSUS and Early Life in TREBETHERICK 
 
-There were eight households and one uninhabited house, 17 adults and 11 children.
-1901 TREBETHERICK INHABITANTS were 3 farmers, John Wills, John Mably, Charles Mably.  Humphrey Craddock a stone quarry mason, Ann White a shirt maker seamstress,
-The 2 coastguards were Benjamin Longworthy from Liverpool and William Clode, 
-The Mably sisters Joanna and Harriet were elderly and retired but employed several labourers. 
-One visiting migrant or in-service working family Cottell, husband, wife and 5 children, formerly of St Tudy and then Trevalga, listed with 75yr old widowed farmer, John Mably. 
 
 ## No road between Trebetherick and Polzeath - No road across Polzeath Beach 
 
@@ -32,36 +26,6 @@ At this time there was no road between Trebetherick and Polzeath only a pedestri
 ### See more about this tythe maps and details in LOCAL AREA chapter, HISTORY section
 
 
-The residents of Polzeath would make journeys north and eastwards up Dunder Hill by pony and trap or cart and horse to market, for business, or for visiting further afield. It was customary for passengers and children to walk up the hills to lighten the load for the pony. On the return journey, when reaching Port Quin Cross, being mostly downhill and flat from there to the top of Dunder Hill, Polzeath, it was possible to give the ponies a good gallop. Those flat fields are called Galloping Fields. 
-In summer, day trippers to Polzeath beach, for example the St. Mabyn and St. Kew Sunday School or feast day outings, travelled by horse drawn charabanc, (open cart or coach with bench seats). On arrival the horses were stabled, fed and watered at F Male's Stables and Picnic Tea Rooms, charabancs stabled, cars parked (photo)
-(no relation to Trebetherick Higher Farm Harry and Basil Male ) 
-
-## F MALE'S Stables and Tea Rooms - Before the road was built
-
-<img width="80%" src="/Males-tea-rooms.jpg" alt="Males-tea-rooms.jpg">
-
-
-The Polzeath Chapel was moved into a purpose built shed in 1898 using a corrugated iron roof and became known locally as the Tin Tabernacle at Chapel Corner, (1920 photo).
-In 1932/3 the new chapel was built further away from the corner to allow for road improvements.
-
-<img width="80%" src="/1920 Chapel Corner, Polzeath.jpg" alt="1920 Chapel Corner, Polzeath.jpg">
-
----
-
-## DAYMER LANE - SAND CARTING TRAFFIC
-
-<img width="80%" alt="Screenshot_20240503-181033" src="/sand-carter-pony-daymer-lane-1920-40.jpg" />
-
-- 1920-40s - Sand Carter With Pony Nearing Lower Farm and the PO at The Top Of Daymer Lane
-
-<img width="80%" src="/1930-sand-carting.jpg" alt="1930-sand-carting.jpg">
-
-Tenant farmers' manorial leases to Trewornan and Roscarrock required 12 cart loads of sea sand to be applied to every cultivated acre. The carters sold sea sand in 1930 for 1/6 per load, 6 loads being gathered at each tide, (photo). Halfway down Daymer Lane a large horse trough was built, fed by a spring (photo). This was essential in the 19c for the many horses pulling the heavy carts loaded  with sand up the lane. 
-Several cottages were built backing onto Daymer Lane (enjoying lovely south facing, sheltered gardens), perhaps as many as 8 or 10, all but Cobb Cottage and Torquil Cottage are now gone.
-
-<img width="30%" src="/1930-drinking trough Daymer Lane.png" alt="1930-drinking trough Daymer Lane.png">
-
----
 
 ## BRIAN'S GREAT GRANDPARENTS CAUGHT IN THE 1881 or 1891 BLIZZARD
 
@@ -197,69 +161,11 @@ Lewis and Mabyn Oaten married in 1938 and lived at Trelawney till the mid 1950s 
 
 ---
 
-# BEFORE THE ROAD WAS WIDENED IN 1960s
-
-- Looking uphill, at The Haven entrance on the right (parallel to the old road), Old Farm is the house roof you can just about see in the centre, with the old Daymer Garage building to the left, demolished for the road straightening and widening improvements in late 1960s.
-
-<img width="80%" src="/haven-uphill-old-farm-centre.jpg" alt="Looking uphill, at The Haven entrance on the right, Old Farm is the house you can just about see in the centre">
-
-
-
----
-
-# DAYMER BAY GARAGE and WORKSHOPS
-
-- The Daymer Bay Garage, located at the junction of Worthy Hill and Daymer Lane, was owned and run by Norman Cleave (photo below of Mr and Mrs Norman Cleave), a motor car enthusiast. He was the father of Leadville Cleave and grandfather of Jon Cleave, from Port Isaac. The garage included workshops, garages, and a petrol pump. As the numbers of motor cars increased, Norman also developed Clock Garage at Rock and generously donated some land behind to enable a social club to be built for the locals and in particular the men coming back from WW2 in 1946. 80 years on, it is now called the Rock and District Sports Club.
-
-<img width="80%" src="/Norman Cleave.jpg" alt="Mr and Mrs Norman Cleave">
-
-Below the garage on Daymer Lane, Worthy House ​was built ​and served as both a Post Office and a telephone exchange, playing a central role in the village's communication. 
-
----
-
- View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages
- 
-<img width="80%" src="/junction-of-daymer-lane-and-worth-hill-with-garage-cable.jpg" alt="View of the junction between Daymer Lane and Worthy Hill  The gable end of the set of 4 garages~2">
-
-
-
----
-
-This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956
-
-<img width="80%" src="/daymer-bay-garage-derelict-1956.jpg" alt="This was looking up, at the top of Worthy Hill, Daymer Bay Garage, might have been built before WW2 but it was derelict in 1956">
-
-
-
----
-
-At the top of Worthy hill, looking down, Daymer Bay Garage is on the right and The Haven entrance is on the left
-
-<img width="80%" src="/worthy-hill-downhill-haven-and-garage.jpg" alt="At the top of Worthy hill looking downhill, Daymer Bay Garage is on the right and The Haven entrance is on the left">
-
-
----
-
-
-Almost at the top of Worthy Hill, The Haven entrance is on the left with gate posts parallel with the original old road. Daymer Bay Garage is now gone.
-
-
-<img width="80%" src="/top-worthy-hill-haven-entrance-left.jpg" alt="Almost at the top of Worthy Hill, The Haven entrance is on the left~2">
-
----
 
 ## 1963 Aerial View of The Haven - showing Lewis Oaten's newly constructed mahogany sunlounge
 sheltered from north and east by mature Cornish elm trees - all died of the Dutch elm disease in 1970/80s.
 
 <img width="80%" height="50%" alt="Screenshot_20251028-102328" src="/haven-aerial-new-mahogany-sunlounge.jpg" />
-
-
-
----
-
-Looking up Daymer Lane almost at the top, this was a set 4 garages with the post office on the right
-
-<img width="80%" src="/daymer-lane-near-top-4-garages.jpg" alt="Looking up Daymer Lane almost at the top, this was a set 4 garages~3">
 
 
 
@@ -284,57 +190,12 @@ Bill Tucker from Trewornan Farm, was a horse and coaching enthusiast and he used
 
 
 
-- Higher Trebetherick - Looking North - Before Road Widening 1960s
+---
 
-
-<img width="80%" src="/higher-trebetherick-north-before-road-widening-1960s.jpg" alt="The old coastguard houses on the right on th way to Polzeath through Trebetherick">
-
-
-
-- Higher Farm on Left - Coastguard Cottages now Shop on Right.
- 
-1840 - Trebetherick Coastguard Cottages and Rocket Equipment House was originally built in 1840 as a pair of semi-detached buildings for the full time Coastguards. The Trebetherick Coastguard team regularly risked their lives. In April 1900, they rescued five crewmen from the wrecked ketch Peace and Plenty and Lifeboat Arab
-
-From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly brought down by a horse drawn cart for practice. The apparatus was kept in the distinctive brick building still known as The Rocket House, adjacent to the Coastguard Cottages.
-
-Eventually as the RNLI grew and developed, the role of Coastguard became a part time position, the cottages were sold separately as Upalong and Tregawne (Ralph was born at Tregawne Farm, Withiel, hence the name Tregawne). The latter was owned and run as Trebetherick Stores by Richard Tellam-Hocking, and by their son Ralph and his wife Audrey Tellam-Hocking and later their son Nigel and his wife Sue. 
-Since 2023 the shop has been run by Flo as Deli Cafe and General Store.
-
-
-
-<img width="80%" src="/higher-farm-left-shop-right.jpg" alt="At the top of Daymer Lane, at the junction with Worthy Hill, this view is looking along the road to Polzeath">
-
-New Telphone Exchange on right
-
-<img width="80%" src="/caravan-basil-edna-male-1972.jpg" alt="1972 Old Caravan belonging to Basil and Edna Male">
 
 ---
 
-- Worthy Hill 
-
-
-<img width="80%" src="/middle-worthy-hill-floraldene-right.jpg" alt="Looking up the middle section of Worthy Hill, Floraldene is on the right">
-
-Looking North - Floraldene On Right
-
-<img width="80%" src="/worthy-hill-downhill-coppice-floraldene-1960.jpg" alt="Opposite The Haven entrance, looking down Worthy Hill, in the mid 1960s only The Coppice had been built down to the cream house, Floradene">
-
-- Worthy Hill - Looking South - Floraldene on Left.
-
-
-Before the building of Tide Race, Breafield and public footpath. 
-Note the council wintertime piles of sand to grit the hill
-
----
-
-- 1979 Daymer Beach, when it was a lovely sandy beach.
-- 
-
-<img width="80%" src="daymer-1979.jpg" alt="Screenshot_20250819-172308~2">
-
----
-
-<img width="80%" src="/daymer-and-bre-1979.jpg" alt="Screenshot_20250819-172220~2">
+<img width="80%" src="daymer-and-bre-1979.jpg" alt="Screenshot_20250819-172220~2">
 
 ---
 
