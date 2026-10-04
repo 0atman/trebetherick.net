@@ -68,8 +68,6 @@ In 1950s the subsequent hotel and garage developments in Fore Door Field were ca
 
 ---
 
----
-
 # Trebetherick Coastguards
 
 ---
