@@ -78,7 +78,7 @@ Trebetherick Coastguard Cottages and Rocket Equipment House was originally built
 
 ---
 
-<img width="80%" src="/coastguard-9.png" alt="coastguard-9">
+<img width="80%" src="/CoastguardCottages&RocketHouse.jpg" alt="coastguard cottages">
 
 ---
 
