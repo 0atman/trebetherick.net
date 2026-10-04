@@ -116,9 +116,6 @@ Searchlights from the Trebetherick and Port Isaac coastguard teams lit up the sc
 
 Helen of Appledore, port of Bideford, was reported in the Western Morning News as having been wrecked at Bude in October 1895. This photo shows the sailors being saved and brought ashore using rocket apparatus and a breeches bouy in a real rescue.
 
-<img width="80%" src="/coastguard-11.jpg" alt="coastguard-11">
-
-<img width="80%" src="/coastguard-12.JPG" alt="coastguard-12">
 
 
 The team was nationally recognised when the company was awarded The Wreck Service Shield (a top national honour!) in 1939 for saving three lives from the wreck of HMS Medea
@@ -126,8 +123,6 @@ The team was nationally recognised when the company was awarded The Wreck Servic
 Brian Oaten was born in Trebetherick the very next day 6JAN39 during the same storm!  We remember the coastguards telling us that the storm was so strong that they had to crawl on hands and knees to get to a position on Greenaway where they could fire their rocket breeches-buoy rope-based rescue devices. They had to call for Port Isaac coast guards for backup as they had bigger rockets.
 
 ---
-
-<img width="80%" src="/coastguard-1.png" alt="coastguard-1">
 
 The wonderful "photoshopped" image of the ship and presentation can be found at Kresen Kernow, the home of Cornwall's archives. The glass negatives reference number is GE/2/CG/641A
 
@@ -165,5 +160,9 @@ On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, wa
 <img width="80%" src="/coastguard-5.jpg" alt="coastguard-5">
 
 
+<img width="80%" src="/coastguard-11.jpg" alt="coastguard-11">
 
+<img width="80%" src="/coastguard-12.JPG" alt="coastguard-12">
+
+<img width="80%" src="/coastguard-1.png" alt="coastguard-1">
 
