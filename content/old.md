@@ -73,12 +73,6 @@ In 1950s the subsequent hotel and garage developments in Fore Door Field were ca
 
 ---
 
-## THE HAVEN IN THE 1920s
-
-Ernest Betjeman, (Sir John Betjeman's father), brought his family to holiday in Trebetherick and stayed at The Haven 
-which was run as a guest house. Their pony and trap were kept in a stable at the rear and used to collect guests from Wadebridge train station or from Rock. As a boy, John Betjeman remembered being collected from the train station by The Haven owners in their pony and trap/cart. However, John recounted that sometimes if the weather was favourable they could stay on the train past Wadebridge and all the way to Padstow, crossing the estuary on the rowed/sailed ferry to Rock where they would be collected for the shorter journey to The Haven. 
-A family and all their luggage would have been quite a load for the pony but I'm sure the children would have delighted in walking alongside to lighten the load on the hills. We wonder which route they took from Rock to Trebetherick? If the tide was right they may well have taken the shorter and flatter beach option along the firm sand of the high tide line and up only the one hill of Daymer Lane? We hardly notice it now in our cars but the journey from Rock to Trebetherick up Rock Road, TREWINT Lane, TREWINT Hill and WORTHY Hill consists of several steep hills. 
-In 1928 Ernest Betjeman built his own house in Daymer Lane, Lower Trebetherick and called it Undertown.
 
 On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, was driven onto rocks and between 60 and 190 men were lost. Inspired by the 1807 wreck of HMS Anson, Henry Trengrouse, Cornish cabinet maker, patented a "portable apparatus for saving lives from a shipwreck. A rocket was used to propel a thin line onto a ship (far from easy in a storm and often needing many attempts), allowing a thicker rope to be hauled on so people could then be hauled ashore in a canvas sling (breeches) above the angry waves and lethal rocks. The breeches buoy, a life-saving apparatus for rescuing people from shipwrecks, is primarily credited to British inventor Henry Trengrouse (1772–1854). While Captain George William Manby also developed a famous mortar-based rescue system in 1808, Trengrouse is generally recognized for the specific "breeches buoy" apparatus (originally termed the "Bosun's Chair".
 
