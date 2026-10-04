@@ -114,22 +114,6 @@ The Trebetherick Coastguard team regularly risked their lives. In April 1900, th
 
 ---
 
-<img width="80%" src="/coastguard-3.jpg" alt="coastguard-3">
-
----
-
-<img width="80%" src="/coastguard-8.jpg" alt="coastguard-8">
-
----
-
-<img width="80%" src="/coastguard-4.jpg" alt="coastguard-4">
-
-5 January 1939
-The HMS Medea was being towed from Portsmouth to a breaker's yard at Newport, Gwent when it broke its tow-rope in a gale off Trevose Head and  drifted into the mouth of the Camel Estuary and grounded on Greenaway rocks.
-Searchlights from the Trebetherick and Port Isaac coastguard teams lit up the scene, where the crew of the Medea were huddled on the bridge. The teams fired six rockets with lines towards the Medea with the sixth being successful and the crew of four were taken off by breeches buoy. A fifth member of the crew had previously been lost overboard.
-
-<img width="80%" src="/coastguard-5.jpg" alt="coastguard-5">
-
 Brian Oaten was born in Trebetherick the very next day 6JAN39 in the same storm!  We remember being told, “The storm was so strong that the Trebetherick coastguards had to crawl on hands and knees to get to a position on Greenaway where they could fire their rocket breeches-buoy rope-based rescue devices. They had to call for Port Isaac coast guards back up who had bigger rockets”
 
 
@@ -152,5 +136,25 @@ The wonderful "photoshopped" image of the ship and presentation can be found at 
 <img width="80%" src="/coastguard-11.jpg" alt="coastguard-11">
 
 <img width="80%" src="/coastguard-12.JPG" alt="coastguard-12">
+
+---
+
+<img width="80%" src="/coastguard-3.jpg" alt="coastguard-3">
+
+---
+
+<img width="80%" src="/coastguard-8.jpg" alt="coastguard-8">
+
+---
+
+<img width="80%" src="/coastguard-4.jpg" alt="coastguard-4">
+
+5 January 1939
+The HMS Medea was being towed from Portsmouth to a breaker's yard at Newport, Gwent when it broke its tow-rope in a gale off Trevose Head and  drifted into the mouth of the Camel Estuary and grounded on Greenaway rocks.
+Searchlights from the Trebetherick and Port Isaac coastguard teams lit up the scene, where the crew of the Medea were huddled on the bridge. The teams fired six rockets with lines towards the Medea with the sixth being successful and the crew of four were taken off by breeches buoy. A fifth member of the crew had previously been lost overboard.
+
+<img width="80%" src="/coastguard-5.jpg" alt="coastguard-5">
+
+
 
 
