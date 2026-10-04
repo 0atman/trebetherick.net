@@ -90,6 +90,11 @@ From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly bro
 
 ---
 
+1900 Peace and Plenty and Lifeboat Arab.
+The Trebetherick Coastguard team regularly risked their lives. In April 1900, they rescued five crewmen from the wrecked ketch Peace and Plenty as she drifted helplessly towards Greenaway and Daymer. The storm was so bad it tragically wrecked and claimed the lives of several lifeboat men sent to assist. This painting captures something of the Trebetherick Coastguards and a time when Trebetherick Point and Greenaway were houseless. The rocket team of 20 volunteers in the early 1900s is seen here in action practising firing a line from their apparatus across the fields towards Daymer beach.
+
+---
+
 <img width="80%" src="/coastguard-9.png" alt="coastguard-9">
 
 ---
@@ -112,11 +117,6 @@ The team was nationally recognised when the company was awarded The Wreck Servic
 ---
 
 On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, was driven onto rocks and between 60 and 190 men were lost. Inspired by the 1807 wreck of HMS Anson, Henry Trengrouse, Cornish cabinet maker, patented a "portable apparatus for saving lives from a shipwreck. A rocket was used to propel a thin line onto a ship (far from easy in a storm and often needing many attempts), allowing a thicker rope to be hauled on so people could then be hauled ashore in a canvas sling (breeches) above the angry waves and lethal rocks. The breeches buoy, a life-saving apparatus for rescuing people from shipwrecks, is primarily credited to British inventor Henry Trengrouse (1772–1854). While Captain George William Manby also developed a famous mortar-based rescue system in 1808, Trengrouse is generally recognized for the specific "breeches buoy" apparatus (originally termed the "Bosun's Chair".
-
----
-
-1900 Peace and Plenty and Lifeboat Arab.
-The Trebetherick Coastguard team regularly risked their lives. In April 1900, they rescued five crewmen from the wrecked ketch Peace and Plenty as she drifted helplessly towards Greenaway and Daymer. The storm was so bad it tragically wrecked and claimed the lives of several lifeboat men sent to assist. This painting captures something of the Trebetherick Coastguards and a time when Trebetherick Point and Greenaway were houseless. The rocket team of 20 volunteers in the early 1900s is seen here in action practising firing a line from their apparatus across the fields towards Daymer beach.
 
 ---
 
