@@ -88,10 +88,6 @@ From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly bro
 
 ---
 
-<img width="80%" src="/coastguard-8.jpg" alt="coastguard-8">
-
----
-
 <img width="80%" src="/coastguard-1.png" alt="coastguard-1">
 
 ---
@@ -119,6 +115,10 @@ The Trebetherick Coastguard team regularly risked their lives. In April 1900, th
 ---
 
 <img width="80%" src="/coastguard-3.jpg" alt="coastguard-3">
+
+---
+
+<img width="80%" src="/coastguard-8.jpg" alt="coastguard-8">
 
 ---
 
