@@ -99,7 +99,18 @@ The Trebetherick Coastguard team regularly risked their lives. In April 1900, th
 
 ---
 
+# The Medea, Wrecked On Greenaway 1939
+
 HMS Medea was built in 1915 as HMS M22, a M15-class Monitor warship with a crew of 69. It was converted and renamed around 1925 as a minelayer, and then in 1937 as a training ship.
+5 January 1939
+The HMS Medea was being towed from Portsmouth to a breaker's yard at Newport, Gwent when it broke its tow-rope in a gale off Trevose Head and  drifted into the mouth of the Camel Estuary and grounded on Greenaway rocks.
+Searchlights from the Trebetherick and Port Isaac coastguard teams lit up the scene, where the crew of the Medea were huddled on the bridge. The teams fired six rockets with lines towards the Medea with the sixth being successful and the crew of four were taken off by breeches buoy. A fifth member of the crew had previously been lost overboard.
+
+'Outstanding heroism rewarded: Captain V S Rashleigh presenting the Board of Trade Shield for the most meritorious service of 1939 by any Rocket Life-Saving Apparatus Company, to Coastguard Macdonald, of Port Isaac, and Volunteer R S Male, of Trebetherick, for the rescue of three lives from the SS Medea on Greenaway Rocks on January 2nd, 1939. In the background are the LSA crews, and police officers who assisted at the rescue. The presentation is superimposed on a photo of the wreck as it still appears on the Greenaway Rocks at the estuary of the River Camel' (Cornish Guardian newspaper, Thursday 7 March 1940, page 7).
+
+The team was nationally recognised when the company was awarded The Wreck Service Shield (a top national honour!) in 1939 for saving three lives from the wreck of HMS Medea
+
+Brian Oaten was born in Trebetherick the very next day 6JAN39 during the same storm!  We remember the coastguards telling us that the storm was so strong that they had to crawl on hands and knees to get to a position on Greenaway where they could fire their rocket breeches-buoy rope-based rescue devices. They had to call for Port Isaac coast guards for backup as they had bigger rockets.
 
 ---
 
@@ -113,11 +124,6 @@ The wonderful "photoshopped" image of the ship and presentation can be found at 
 
 ---
 
-
-The team was nationally recognised when the company was awarded The Wreck Service Shield (a top national honour!) in 1939 for saving three lives from the wreck of HMS Medea.
-
----
-
 ### In 1807 Henry Trengrouse, Cornish cabinet maker, patented The Breeches or Bosuns Chair, a “portable apparatus for saving lives from a shipwreck
 
 ---
@@ -126,16 +132,8 @@ On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, wa
 
 ---
 
-Brian Oaten was born in Trebetherick the very next day 6JAN39 in the same storm!  We remember being told, “The storm was so strong that the Trebetherick coastguards had to crawl on hands and knees to get to a position on Greenaway where they could fire their rocket breeches-buoy rope-based rescue devices. They had to call for Port Isaac coast guards back up who had bigger rockets”
-
 
 <img width="80%" src="/coastguard-7.jpg" alt="coastguard-7">
-
-
----
-
-
-'Outstanding heroism rewarded: Captain V S Rashleigh presenting the Board of Trade Shield for the most meritorious service of 1939 by any Rocket Life-Saving Apparatus Company, to Coastguard Macdonald, of Port Isaac, and Volunteer R S Male, of Trebetherick, for the rescue of three lives from the SS Medea on Greenaway Rocks on January 2nd, 1939. In the background are the LSA crews, and police officers who assisted at the rescue. The presentation is superimposed on a photo of the wreck as it still appears on the Greenaway Rocks at the estuary of the River Camel' (Cornish Guardian newspaper, Thursday 7 March 1940, page 7).
 
 
 <img width="80%" src="/coastguard-10.png" alt="coastguard-10">
@@ -156,9 +154,7 @@ Brian Oaten was born in Trebetherick the very next day 6JAN39 in the same storm!
 
 <img width="80%" src="/coastguard-4.jpg" alt="coastguard-4">
 
-5 January 1939
-The HMS Medea was being towed from Portsmouth to a breaker's yard at Newport, Gwent when it broke its tow-rope in a gale off Trevose Head and  drifted into the mouth of the Camel Estuary and grounded on Greenaway rocks.
-Searchlights from the Trebetherick and Port Isaac coastguard teams lit up the scene, where the crew of the Medea were huddled on the bridge. The teams fired six rockets with lines towards the Medea with the sixth being successful and the crew of four were taken off by breeches buoy. A fifth member of the crew had previously been lost overboard.
+
 
 <img width="80%" src="/coastguard-5.jpg" alt="coastguard-5">
 
