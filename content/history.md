@@ -104,7 +104,7 @@ In 1950s the subsequent hotel and garage developments in Fore Door Field were ca
 
 ---
 
-## Article 3 - by Mary Fellgett 1984 
+## Article 2 - by Mary Fellgett 1984 
 
 
 # The History of the Village of Trebetherick - researched and written by Mary Fellgett 1984 
