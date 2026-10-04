@@ -12,7 +12,8 @@ He recalled that the only route from The Haven in Trebetherick to Polzeath was a
 
 ---
 
-### Before There Was a Road, There were 6 Gated Fields Between The Haven in Trebetherick and Polzeath
+### Before There Was a Road Between Trebetherick and Polzeath. 
+In 1900, to go between Polzeath and The Haven in Trebetherick there were 6 gated fields to go through, opening and shutting all the gates as you travelled.
 
 <img width="80%" src="/1838.6Gates.Treb-Pol.jpg" alt="1838.6 Gates Treb-Pol">
 
