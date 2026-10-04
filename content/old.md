@@ -112,10 +112,6 @@ Searchlights from the Trebetherick and Port Isaac coastguard teams lit up the sc
 
 ---
 
-## 1895 Helen of Appledore Wrecked - Crew Saved Using Breeches Bouy
-
-Helen of Appledore, port of Bideford, was reported in the Western Morning News as having been wrecked at Bude in October 1895. This photo shows the sailors being saved and brought ashore using rocket apparatus and a breeches bouy in a real rescue.
-
 
 
 The team was nationally recognised when the company was awarded The Wreck Service Shield (a top national honour!) in 1939 for saving three lives from the wreck of HMS Medea
@@ -155,7 +151,9 @@ On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, wa
 
 <img width="80%" src="/coastguard-4.jpg" alt="coastguard-4">
 
+## 1895 Helen of Appledore Wrecked - Crew Saved Using Breeches Bouy
 
+Helen of Appledore, port of Bideford, was reported in the Western Morning News as having been wrecked at Bude in October 1895. This photo shows the sailors being saved and brought ashore using rocket apparatus and a breeches bouy in a real rescue.
 
 <img width="80%" src="/coastguard-5.jpg" alt="coastguard-5">
 
