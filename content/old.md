@@ -105,6 +105,8 @@ HMS Medea was built in 1915 as HMS M22, a M15-class Monitor warship with a crew 
 
 <img width="80%" src="/coastguard-1.png" alt="coastguard-1">
 
+The wonderful "photoshopped" image of the ship and presentation can be found at Kresen Kernow, the home of Cornwall's archives. The glass negatives reference number is GE/2/CG/641A
+
 ---
 
 <img width="80%" src="/coastguard-2.jpg" alt="coastguard-2">
@@ -128,8 +130,6 @@ Brian Oaten was born in Trebetherick the very next day 6JAN39 in the same storm!
 
 
 <img width="80%" src="/coastguard-7.jpg" alt="coastguard-7">
-
-The wonderful "photoshopped" image of the ship and presentation can be found at Kresen Kernow, the home of Cornwall's archives. The glass negatives reference number is GE/2/CG/641A
 
 
 ---
