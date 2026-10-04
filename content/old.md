@@ -99,6 +99,10 @@ The Trebetherick Coastguard team regularly risked their lives. In April 1900, th
 
 ---
 
+HMS Medea was built in 1915 as HMS M22, a M15-class Monitor warship with a crew of 69. It was converted and renamed around 1925 as a minelayer, and then in 1937 as a training ship.
+
+---
+
 <img width="80%" src="/coastguard-1.png" alt="coastguard-1">
 
 ---
@@ -122,9 +126,6 @@ On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, wa
 
 Brian Oaten was born in Trebetherick the very next day 6JAN39 in the same storm!  We remember being told, “The storm was so strong that the Trebetherick coastguards had to crawl on hands and knees to get to a position on Greenaway where they could fire their rocket breeches-buoy rope-based rescue devices. They had to call for Port Isaac coast guards back up who had bigger rockets”
 
-
-
-HMS Medea was built in 1915 as HMS M22, a M15-class Monitor warship with a crew of 69. It was converted and renamed around 1925 as a minelayer, and then in 1937 as a training ship
 
 <img width="80%" src="/coastguard-7.jpg" alt="coastguard-7">
 
