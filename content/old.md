@@ -10,14 +10,6 @@ tags:
 An interesting piece of local history regarding The Haven​ is that back in the 1940s, an old gentleman visited the property and shared his memories of the area from the days ​of around 1910 and before motor cars and metalled roads. The footpath is marked on the Tythe Map of 1838 it goes all the way from Polzeath through Trebetherick then splits to go down to Daymer or down Worthy Hill to Trewint and beyond. 
 He recalled that the only route from The Haven in Trebetherick to Polzeath was a footpath​/pony track through the fields, which required opening and closing six gates along the way. By zooming in to the tythe map, you can make out the six gates across the footpath. You can also see the footpath/pony track down to Daymer Beach. These tracks and footpaths, though documented and mapped in 1838, would have been in use earlier than that. The will have been created and used by the farmers and workers since the first documented buildings in Trebetherick which is 1600s, 400 years ago.
 
-### 1838 Tythe Map Key Details
-
-<img width="80%" src="/1838 Tythe Key.png" alt="Tythe Key">
-
----
-​
-<img width="80%" src="/StMinv0005 - Trebetherick.jpg" alt="St Minver0005">
-
 ---
 
 ### Before There Was a Road, There were 6 Gated Fields Between The Haven in Trebetherick and Polzeath
@@ -30,7 +22,16 @@ He recalled that the only route from The Haven in Trebetherick to Polzeath was a
 
 ---
 
+### 1838 Tythe Map Key Details
+
+<img width="80%" src="/1838 Tythe Key.png" alt="Tythe Key">
+
 ---
+​
+<img width="80%" src="/StMinv0005 - Trebetherick.jpg" alt="St Minver0005">
+
+---
+
 ### Old Field Names ...spelling variations; Fore Door/Fore Dore
 Originally David Arthur's field 169 in 1825 was called Fore Door Field, Tythe page 22. Perhaps Thomas Guy named it back in 1632 but more likely, the lord of the manor, Charles Roscarrock of Roscarrock had already recorded its name, reflecting that someone could see it from his front door, (fore meaning front in Cornish).
 John Mably's field 220 was called The Fore Door, Tythe page 17. 
