@@ -78,10 +78,6 @@ Trebetherick Coastguard Cottages and Rocket Equipment House was originally built
 
 ---
 
-<img width="80%" src="/coastguard-6.jpg" alt="coastguard-6">
-
----
-
 From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly brought down by a horse drawn cart for practice. The apparatus was kept in the distinctive brick building still known as The Rocket House, adjacent to the Coastguard Cottages.
 The team was nationally recognised when the company was awarded The Wreck Service Shield (a top national honour!) in 1939 for saving three lives from the wreck of HMS Medea.
 
@@ -124,6 +120,13 @@ HMS Medea was built in 1915 as HMS M22, a M15-class Monitor warship with a crew 
 The wonderful "photoshopped" image of the ship and presentation can be found at Kresen Kernow, the home of Cornwall's archives. The glass negatives reference number is GE/2/CG/641A
 
 <img width="80%" src="/coastguard-8.jpg" alt="coastguard-8">
+
+---
+
+<img width="80%" src="/coastguard-6.jpg" alt="coastguard-6">
+
+---
+
 
 'Outstanding heroism rewarded: Captain V S Rashleigh presenting the Board of Trade Shield for the most meritorious service of 1939 by any Rocket Life-Saving Apparatus Company, to Coastguard Macdonald, of Port Isaac, and Volunteer R S Male, of Trebetherick, for the rescue of three lives from the SS Medea on Greenaway Rocks on January 2nd, 1939. In the background are the LSA crews, and police officers who assisted at the rescue. The presentation is superimposed on a photo of the wreck as it still appears on the Greenaway Rocks at the estuary of the River Camel' (Cornish Guardian newspaper, Thursday 7 March 1940, page 7).
 
