@@ -28,6 +28,8 @@ In 1900, to go between Polzeath and The Haven in Trebetherick there were 6 gated
 <img width="80%" src="/1838 Tythe Key.png" alt="Tythe Key">
 
 ---
+
+### 1838 Tythe Map Field Numbers
 ​
 <img width="80%" src="/StMinv0005 - Trebetherick.jpg" alt="St Minver0005">
 
