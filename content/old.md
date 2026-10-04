@@ -62,14 +62,6 @@ In 1950s the subsequent hotel and garage developments in Fore Door Field were ca
 
 ---
 
-<img width="80%" src="/1838 Tythe Key.png" alt="Tythe Key">
-
-<img width="80%" src="/tythe-date.png" alt="Tythe Date">
-
-<img width="80%" src="/1838 Tythe Map with Field Names.png" alt="1838 Tythe Map with Field Names.png">
-
-<img width="80%" src="/trebetherick-tythe.jpg" alt="">
-
 
 # Coastguards
 
