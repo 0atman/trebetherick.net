@@ -92,6 +92,14 @@ From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly bro
 
 ---
 
+<img width="80%" src="/coastguard-1.png" alt="coastguard-1">
+
+---
+
+<img width="80%" src="/coastguard-2.jpg" alt="coastguard-2">
+
+---
+
 <img width="80%" src="/coastguard-6.jpg" alt="coastguard-6">
 
 ---
@@ -100,13 +108,8 @@ From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly bro
 The team was nationally recognised when the company was awarded The Wreck Service Shield (a top national honour!) in 1939 for saving three lives from the wreck of HMS Medea.
 
 ---
+
 On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, was driven onto rocks and between 60 and 190 men were lost. Inspired by the 1807 wreck of HMS Anson, Henry Trengrouse, Cornish cabinet maker, patented a "portable apparatus for saving lives from a shipwreck. A rocket was used to propel a thin line onto a ship (far from easy in a storm and often needing many attempts), allowing a thicker rope to be hauled on so people could then be hauled ashore in a canvas sling (breeches) above the angry waves and lethal rocks. The breeches buoy, a life-saving apparatus for rescuing people from shipwrecks, is primarily credited to British inventor Henry Trengrouse (1772–1854). While Captain George William Manby also developed a famous mortar-based rescue system in 1808, Trengrouse is generally recognized for the specific "breeches buoy" apparatus (originally termed the "Bosun's Chair".
-
-<img width="80%" src="/coastguard-1.png" alt="coastguard-1">
-
----
-
-<img width="80%" src="/coastguard-2.jpg" alt="coastguard-2">
 
 ---
 
