@@ -108,6 +108,11 @@ Searchlights from the Trebetherick and Port Isaac coastguard teams lit up the sc
 
 'Outstanding heroism rewarded: Captain V S Rashleigh presenting the Board of Trade Shield for the most meritorious service of 1939 by any Rocket Life-Saving Apparatus Company, to Coastguard Macdonald, of Port Isaac, and Volunteer R S Male, of Trebetherick, for the rescue of three lives from the SS Medea on Greenaway Rocks on January 2nd, 1939. In the background are the LSA crews, and police officers who assisted at the rescue. The presentation is superimposed on a photo of the wreck as it still appears on the Greenaway Rocks at the estuary of the River Camel' (Cornish Guardian newspaper, Thursday 7 March 1940, page 7).
 
+<img width="80%" src="/coastguard-11.jpg" alt="coastguard-11">
+
+<img width="80%" src="/coastguard-12.JPG" alt="coastguard-12">
+
+
 The team was nationally recognised when the company was awarded The Wreck Service Shield (a top national honour!) in 1939 for saving three lives from the wreck of HMS Medea
 
 Brian Oaten was born in Trebetherick the very next day 6JAN39 during the same storm!  We remember the coastguards telling us that the storm was so strong that they had to crawl on hands and knees to get to a position on Greenaway where they could fire their rocket breeches-buoy rope-based rescue devices. They had to call for Port Isaac coast guards for backup as they had bigger rockets.
@@ -137,10 +142,6 @@ On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, wa
 
 
 <img width="80%" src="/coastguard-10.png" alt="coastguard-10">
-
-<img width="80%" src="/coastguard-11.jpg" alt="coastguard-11">
-
-<img width="80%" src="/coastguard-12.JPG" alt="coastguard-12">
 
 ---
 
