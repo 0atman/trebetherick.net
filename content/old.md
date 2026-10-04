@@ -82,11 +82,13 @@ Trebetherick Coastguard Cottages and Rocket Equipment House was originally built
 
 ---
 
-<img width="80%" src="/coastguard-6.jpg" alt="coastguard-6">
+From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly brought down by a horse drawn cart for practice. The apparatus was kept in the distinctive brick building still known as The Rocket House, adjacent to the Coastguard Cottages.
 
 ---
 
-From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly brought down by a horse drawn cart for practice. The apparatus was kept in the distinctive brick building still known as The Rocket House, adjacent to the Coastguard Cottages.
+<img width="80%" src="/coastguard-6.jpg" alt="coastguard-6">
+
+---
 
 <img width="80%" src="/coastguard-9.png" alt="coastguard-9">
 
