@@ -105,7 +105,7 @@ The team was nationally recognised when the company was awarded The Wreck Servic
 
 ---
 
-# In 1807 Henry Trengrouse, Cornish cabinet maker, patented The Breeches or Bosuns Chair, a “portable apparatus for saving lives from a shipwreck
+### In 1807 Henry Trengrouse, Cornish cabinet maker, patented The Breeches or Bosuns Chair, a “portable apparatus for saving lives from a shipwreck
 
 ---
 
