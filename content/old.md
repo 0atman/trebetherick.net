@@ -95,7 +95,7 @@ The Trebetherick Coastguard team regularly risked their lives. In April 1900, th
 
 ---
 
-<img width="80%" src="/coastguard-9.png" alt="coastguard-9">
+<img width="80%" src="/TC.Practising.jpg" alt="Trebetherick Coastguards Practising">
 
 ---
 
