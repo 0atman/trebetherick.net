@@ -5,8 +5,6 @@ tags:
  - old
 ---
 
-# Tithe Maps
-
 # 1838 Tythe Maps of Trebetherick, St Minver.
 
 An interesting piece of local history regarding The Haven​ is that back in the 1940s, an old gentleman visited the property and shared his memories of the area from the days ​of around 1910 and before motor cars and metalled roads. The footpath is marked on the Tythe Map of 1838 it goes all the way from Polzeath through Trebetherick then splits to go down to Daymer or down Worthy Hill to Trewint and beyond. 
