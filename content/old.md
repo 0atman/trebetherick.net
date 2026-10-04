@@ -108,8 +108,9 @@ Searchlights from the Trebetherick and Port Isaac coastguard teams lit up the sc
 
 'Outstanding heroism rewarded: Captain V S Rashleigh presenting the Board of Trade Shield for the most meritorious service of 1939 by any Rocket Life-Saving Apparatus Company, to Coastguard Macdonald, of Port Isaac, and Volunteer R S Male, of Trebetherick, for the rescue of three lives from the SS Medea on Greenaway Rocks on January 2nd, 1939. In the background are the LSA crews, and police officers who assisted at the rescue. The presentation is superimposed on a photo of the wreck as it still appears on the Greenaway Rocks at the estuary of the River Camel' (Cornish Guardian newspaper, Thursday 7 March 1940, page 7).
 
-## 1895 Helen of Appledore Wrecked - Crew Saved Using Breeches Bouy
+---
 
+## 1895 Helen of Appledore Wrecked - Crew Saved Using Breeches Bouy
 
 Helen of Appledore, port of Bideford, was reported in the Western Morning News as having been wrecked at Bude in October 1895. This photo shows the sailors being saved and brought ashore using rocket apparatus and a breeches bouy in a real rescue.
 
