@@ -113,6 +113,10 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 
 - During the next 20 years Mabyn and Lewis continued to improve to The Haven, including adding a sun lounge and installing central heating.
 
+- Brian's parents, Mabyn and Lewis Oaten, were founder members and organisers of the new Polzeath Chapel in the early 1930s. Mabyn kept the minutes and ledgers for over 50 years, from its inauguration until the 1980s when she became too ill to continue. There was no Chapel in Trebetherick.
+
+- photo here of new Polzeath Chapel
+
 <img width="80%" src="/1920 Fish Delivery.jpg" alt="1920 Fish Delivery.jpg">
 
 ## The Haven - 1970s
