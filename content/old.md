@@ -157,6 +157,8 @@ Helen of Appledore, port of Bideford, was reported in the Western Morning News a
 
 <img width="80%" src="/coastguard-5.jpg" alt="coastguard-5">
 
+<img width="80%" src="/coastguard-4.jpg" alt="coastguard-4">
+
 
 <img width="80%" src="/coastguard-11.jpg" alt="coastguard-11">
 
