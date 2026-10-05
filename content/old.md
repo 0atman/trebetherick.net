@@ -132,16 +132,6 @@ The wonderful "photoshopped" image of the ship and presentation can be found at 
 
 ---
 
-### In 1807 Henry Trengrouse, Cornish cabinet maker, patented The Breeches or Bosuns Chair, a “portable apparatus for saving lives from a shipwreck
-
----
-
-On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, was driven onto rocks and between 60 and 190 men were lost. Inspired by the 1807 wreck of HMS Anson, Henry Trengrouse, Cornish cabinet maker, patented a "portable apparatus for saving lives from a shipwreck. A rocket was used to propel a thin line onto a ship (far from easy in a storm and often needing many attempts), allowing a thicker rope to be hauled on so people could then be hauled ashore in a canvas sling (breeches) above the angry waves and lethal rocks. The breeches buoy, a life-saving apparatus for rescuing people from shipwrecks, is primarily credited to British inventor Henry Trengrouse (1772–1854). While Captain George William Manby also developed a famous mortar-based rescue system in 1808, Trengrouse is generally recognized for the specific "breeches buoy" apparatus (originally termed the "Bosun's Chair".
-
----
-
----
-
 <img width="80%" src="/coastguard-3.jpg" alt="coastguard-3">
 
 ---
@@ -150,7 +140,13 @@ On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, wa
 
 ---
 
-<img width="80%" src="/coastguard-4.jpg" alt="coastguard-4">
+### In 1807 Henry Trengrouse, Cornish cabinet maker, patented The Breeches or Bosuns Chair, a “portable apparatus for saving lives from a shipwreck
+
+---
+
+On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, was driven onto rocks and between 60 and 190 men were lost. Inspired by the 1807 wreck of HMS Anson, Henry Trengrouse, Cornish cabinet maker, patented a "portable apparatus for saving lives from a shipwreck. A rocket was used to propel a thin line onto a ship (far from easy in a storm and often needing many attempts), allowing a thicker rope to be hauled on so people could then be hauled ashore in a canvas sling (breeches) above the angry waves and lethal rocks. The breeches buoy, a life-saving apparatus for rescuing people from shipwrecks, is primarily credited to British inventor Henry Trengrouse (1772–1854). While Captain George William Manby also developed a famous mortar-based rescue system in 1808, Trengrouse is generally recognized for the specific "breeches buoy" apparatus (originally termed the "Bosun's Chair".
+
+---
 
 ## 1895 Helen of Appledore Wrecked - Crew Saved Using Breeches Bouy
 
@@ -166,4 +162,6 @@ Helen of Appledore, port of Bideford, was reported in the Western Morning News a
 <img width="80%" src="/coastguard-11.jpg" alt="coastguard-11">
 
 <img width="80%" src="/coastguard-12.JPG" alt="coastguard-12">
+
+<img width="80%" src="/coastguard-4.jpg" alt="coastguard-4">
 
