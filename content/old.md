@@ -105,6 +105,8 @@ The Trebetherick Coastguard team regularly risked their lives. In April 1900, th
 
 # The Medea, Wrecked On Greenaway 1939
 
+<img width="80%" src="/coastguard-1.png" alt="coastguard-1">
+
 HMS Medea was built in 1915 as HMS M22, a M15-class Monitor warship with a crew of 69. It was converted and renamed around 1925 as a minelayer, and then in 1937 as a training ship.
 5 January 1939
 The HMS Medea was being towed from Portsmouth to a breaker's yard at Newport, Gwent when it broke its tow-rope in a gale off Trevose Head and  drifted into the mouth of the Camel Estuary and grounded on Greenaway rocks.
@@ -162,6 +164,4 @@ Helen of Appledore, port of Bideford, was reported in the Western Morning News a
 <img width="80%" src="/coastguard-11.jpg" alt="coastguard-11">
 
 <img width="80%" src="/coastguard-12.JPG" alt="coastguard-12">
-
-<img width="80%" src="/coastguard-1.png" alt="coastguard-1">
 
