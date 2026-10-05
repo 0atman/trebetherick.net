@@ -88,6 +88,8 @@ From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly bro
 
 ---
 
+## Trebetherick Coastguards Practising in Fields Behind Daymer Beach
+
 <img width="80%" src="/coastguard-6.jpg" alt="coastguard-6">
 
 ---
