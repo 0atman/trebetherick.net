@@ -158,6 +158,8 @@ On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, wa
 
 Helen of Appledore, port of Bideford, was reported in the Western Morning News as having been wrecked at Bude in October 1895. This photo shows the sailors being saved and brought ashore using rocket apparatus and a breeches bouy in a real rescue. One sailor is hanging on the apparatus and being winched ashore.
 
+---
+
 <img width="80%" src="/coastguard-5.jpg" alt="coastguard-5">
 
 
