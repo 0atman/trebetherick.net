@@ -5,7 +5,7 @@ tags:
  - old
 ---
 
-# ITEM 1 - 1838 Tythe Maps of Trebetherick, St Minver.
+# Item 1 - 1838 Tythe Maps of Trebetherick, St Minver.
 
 An interesting piece of local history regarding The Haven​ is that back in the 1940s, an old gentleman visited the property and shared his memories of the area from the days ​of around 1910 and before motor cars and metalled roads. The footpath is marked on the Tythe Map of 1838 it goes all the way from Polzeath through Trebetherick then splits to go down to Daymer or down Worthy Hill to Trewint and beyond. 
 He recalled that the only route from The Haven in Trebetherick to Polzeath was a footpath​/pony track through the fields, which required opening and closing six gates along the way. By zooming in to the tythe map, you can make out the six gates across the footpath. You can also see the footpath/pony track down to Daymer Beach. These tracks and footpaths, though documented and mapped in 1838, would have been in use earlier than that. The will have been created and used by the farmers and workers since the first documented buildings in Trebetherick which is 1600s, 400 years ago.
@@ -71,7 +71,7 @@ In 1950s the subsequent hotel and garage developments in Fore Door Field were ca
 ---
 
 
-# ITEM 2 - Trebetherick Coastguards
+# Item 2 - Trebetherick Coastguards
 
 Trebetherick Coastguard Cottages and Rocket Equipment House was originally purpose built in 1840 as a pair of semi-detached buildings for the full time Coastguards. Eventually as the RNLI grew and developed, the role of Coastguard became a part time position, the cottages were sold separately as Upalong and Tregawne. The latter was owned and run as Trebetherick Stores by the Tellam-Hockings and as of 2023 is Flo's Deli.
 
