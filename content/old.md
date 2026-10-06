@@ -182,4 +182,18 @@ Brian's parents, Mabyn and Lewis Oaten, were founder members and organizers of t
 
 <img width="80%" src="/NewChapelOpened15APR1933.jpg" alt="New Chapel Opened 15APR1933.jpg">
 
-More photos here......https://photos.app.goo.gl/v324VXGKidPBUcnx8
+<img width="80%" src="/ChapelPolzeathOpeningCermony1933.jpg" alt="New Chapel Opened 15APR1933.jpg">
+
+<img width="80%" src="/ChapelPolzeathOpeningCermony1933.jpg" alt="New Chapel Opened 15APR1933.jpg">
+
+
+
+
+
+
+
+
+
+
+
+
