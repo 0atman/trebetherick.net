@@ -172,8 +172,9 @@ Helen of Appledore, port of Bideford, was reported in the Western Morning News a
 There was no chapel in Trebetherick so many of the residents used the closest one at Polzeath. The old one with a corrugated tin roof, ( locally called the Tin Tabernacle) was right on the corner of West Hill. To enable road widening and improvements it was demolished and rebuilt higher up the slope.
 
 
-<img width="80%" src="/1838 Tythe Key.png" alt="Tythe Key">
-photos here of the Tin T.
+<img width="80%" src="/TinTabernacle1898-1923.jpg" alt="TinTabernacle 1898-1923">
+
+<img width="80%" src="/DemolitionTinT1932.jpg" alt="DemolitionTinT1932.jpg">
 
 
 Brian's parents, Mabyn and Lewis Oaten, were founder members and organizers of the new Polzeath Chapel in the early 1930s. Mabyn kept the minutes and ledgers for over 50 years, from its inauguration until the 1980s when she became too ill to continue.
