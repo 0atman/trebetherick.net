@@ -164,3 +164,14 @@ Helen of Appledore, port of Bideford, was reported in the Western Morning News a
 
 <img width="80%" src="/coastguard-12.JPG" alt="coastguard-12">
 
+---
+
+
+# Item 3 - The Methodist Chapel
+
+There was no chapel in Trebetherick so many of the residents used the closest one at Polzeath. The old one with a corrugated tin roof, ( locally called the Tin Tabernacle) was right on the corner of West Hill. To enable road widening and improvements it was demolished and rebuilt higher up the slope.
+
+photos here of the Tin T.
+
+
+Brian's parents, Mabyn and Lewis Oaten, were founder members and organizers of the new Polzeath Chapel in the early 1930s. Mabyn kept the minutes and ledgers for over 50 years, from its inauguration until the 1980s when she became too ill to continue.
