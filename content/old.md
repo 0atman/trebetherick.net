@@ -178,3 +178,6 @@ There was no chapel in Trebetherick so many of the residents used the closest on
 
 
 Brian's parents, Mabyn and Lewis Oaten, were founder members and organizers of the new Polzeath Chapel in the early 1930s. Mabyn kept the minutes and ledgers for over 50 years, from its inauguration until the 1980s when she became too ill to continue.
+
+
+<img width="80%" src="/NewChapelOpened15APR1933.jpg" alt="New Chapel Opened 15APR1933.jpg">
