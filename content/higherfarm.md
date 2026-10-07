@@ -49,30 +49,39 @@ In Edna’s kitchen at Higher Farm there was always a large and ready supply of 
 <img width="50%" height="50%"  alt="Higher Farm Tall Barn.jpg" src="/2026 Higher Farm Tall Barn.jpg" />
 
 ---
+
 <img width="50%" height="50%"  alt="PXL_20240604_110935535.jpg" src="/2026 Higher Farm.jpg" />
 
 ---
+
 <img width="50%" height="50%"  alt="PXL_20240604_110942200.jpg" src="/2026 Higher Farm.jpg" />
 
 ---
+
 <img width="50%" height="50%"  alt="PXL_20260617_201642881.jpg" src="/2026 Higher Farm.jpg" />
 
 ---
+
 <img width="50%" height="50%"  alt="PXL_20260617_201721452.jpg" src="/2026 Higher Farm.jpg" />
 
 ---
+
 <img width="50%" height="50%"  alt="PXL_20260617_201744889.jpg" src="/2026 Higher Farm.jpg" />
 
 ---
+
 <img width="50%" height="50%"  alt="PXL_20260617_201804447.jpg" src="/2026 Higher Farm.jpg" />
 
 ---
+
 <img width="50%" height="50%"  alt="PXL_20260618_095052026.jpg" src="/2026 Higher Farm.jpg" />
 
+---
+
+<img width="50%" height="50%"  alt="PXL_20260906_140539811.jpg" src="/2026 Higher Farm.jpg" />
 
 
 
-- <img width="50%" height="50%"  alt="1938 Higher Farm Horses.jpg" src="/1938 Higher Farm Horses.jpg" />
 
 - <img width="50%" height="50%"  alt="1938 Higher Farm Horses.jpg" src="/1938 Higher Farm Horses.jpg" />
 
