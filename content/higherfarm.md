@@ -92,5 +92,10 @@ In Edna’s kitchen at Higher Farm there was always a large and ready supply of 
 
 <img width="50%" height="50%"  alt="PXL_20260913_124712605.jpg" src="/2026 Higher Farm.jpg" />
 
+---
 
+<img width="50%" height="50%"  alt="PXL_20261004_131653705.jpg" src="/2026 Higher Farm.jpg" />
 
+---
+
+<img width="50%" height="50%"  alt="PXL_20261004_131653705.jpg" src="/2026 Higher Farm.jpg" />
