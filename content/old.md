@@ -169,6 +169,8 @@ Helen of Appledore, port of Bideford, was reported in the Western Morning News a
 
 # Item 3 - The Methodist Chapel
 
+<img width="50%" src="/PolzeathChapel1920.jpg" alt="1st Chapel">
+
 There was no chapel in Trebetherick so many of the residents used the closest one at Polzeath. It was built in 1898 and had a corrugated tin roof, hence the locals called it the Tin Tabernacle. It was right on the corner of West Hill so in 1932, to enable road widening and improvements, it was demolished and rebuilt higher up the slope.
 
 
