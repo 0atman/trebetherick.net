@@ -169,15 +169,15 @@ Helen of Appledore, port of Bideford, was reported in the Western Morning News a
 
 # Item 3 - The Methodist Chapel
 
-There was no chapel in Trebetherick so many of the residents used the closest one at Polzeath. The old one with a corrugated tin roof, ( locally called the Tin Tabernacle) was right on the corner of West Hill. To enable road widening and improvements it was demolished and rebuilt higher up the slope.
+There was no chapel in Trebetherick so many of the residents used the closest one at Polzeath. It was built in 1898 and had a corrugated tin roof, hence the locals called it the Tin Tabernacle. It was right on the corner of West Hill so in 1932, to enable road widening and improvements, it was demolished and rebuilt higher up the slope.
 
 
 <img width="80%" src="/TinTabernacle1898-1923.jpg" alt="TinTabernacle 1898-1923">
 
 <img width="80%" src="/DemolitionTinT1932.jpg" alt="DemolitionTinT1932.jpg">
 
-
-Brian's parents, Mabyn and Lewis Oaten, were founder members and organizers of the new Polzeath Chapel in the early 1930s. Mabyn kept the minutes and ledgers for over 50 years, from its inauguration until the 1980s when she became too ill to continue.
+The new replacement chapel building was started in 1932 and opened in 1933.  
+Brian's parents, Mabyn and Lewis Oaten, were founder members and organizers of the new Polzeath Chapel in the early 1930s and Mabyn kept the minutes and ledgers for over 50 years, from its inauguration in 1933 until the 1980s when she became too ill to continue.
 
 
 <img width="80%" src="/NewChapelOpened15APR1933.jpg" alt="New Chapel Opened 15APR1933.jpg">
