@@ -167,11 +167,16 @@ Helen of Appledore, port of Bideford, was reported in the Western Morning News a
 ---
 
 
-# Item 3 - The Methodist Chapel
+# Item 3 - The Methodist Chapel 
 
 <img width="50%" src="/PolzeathChapel1920.jpg" alt="1st Chapel">
 
-There was no chapel in Trebetherick so many of the residents used the closest one at Polzeath. It was built in 1898 and had a corrugated tin roof, hence the locals called it the Tin Tabernacle. It was right on the corner of West Hill so in 1932, to enable road widening and improvements, it was demolished and rebuilt higher up the slope.
+---
+
+​On the right of this photo postcard is the old Account House for the Polzeath mines. It later became the first village Post Office​ and was ​used by the Methodists​, their first service ​here in Polzeath ​was in 1884​.
+
+There was no chapel in Trebetherick so many of the residents used the closest one at Polzeath. Services were held in the old Mine Account Office/Post Office from 1884.
+A purpose built Chapel was built in 1898 and had a corrugated tin roof, hence the locals called it the Tin Tabernacle. It was close on the corner of West Hill so in 1932, to enable road widening and improvements to enable motor cars to travel from Trebetherick direction into Polzeath, it was demolished and rebuilt higher up the slope. Before these road improvements the West hill into Polzeath was only a footpath/pony track: there was only one road into Polzeath and that was the East hill called Dunder Hill. 
 
 
 <img width="80%" src="/TinTabernacle1898-1923.jpg" alt="TinTabernacle 1898-1923">
