@@ -109,8 +109,8 @@ Sarah Hardcastle moved away to a small holding with house in the East of Cornwal
 
 ---
 
-<img width="50%" height="50%" src="PXL_20261004_131653705.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="/PXL_20261004_131653705.jpg" alt="2026 Higher Farm FIXED" />
 
 ---
 
-<img width="50%" height="50%" src="PXL_20261004_131653705.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="/PXL_20261004_131653705.jpg" alt="2026 Higher Farm FIXED" />
