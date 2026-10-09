@@ -5,7 +5,11 @@ tags:
  - farm
 ---
 
+## Higher Farm  1851   (the old original farmhouse was renamed Old Farm in 1932)
 
+William Mably owned his own house and land and lived with his wife, 5 adult children and 2 grandsons in the Higher Farmhouse now called “Old Farm”
+
+Please read more on this in HISTORY - Article 2 - by Mary Fellgett 1984
 
 ## Higher Farm 2025
 
