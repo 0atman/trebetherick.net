@@ -69,48 +69,48 @@ Sarah Hardcastle moved away to a small holding with house in the East of Cornwal
 
 ---
 
-<img width="50%" height="50%"  src="PXL_20240604_110942200.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="PXL_20240604_110942200.jpg" alt="/2026 Higher Farm FIXED" />
 
 ---
 
-<img width="50%" height="50%"  src="PXL_20260617_201642881.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="PXL_20260617_201642881.jpg" alt="/2026 Higher Farm FIXED" />
 
 ---
 
-<img width="50%" height="50%"  src="PXL_20260617_201721452.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="PXL_20260617_201721452.jpg" alt="/2026 Higher Farm FIXED" />
 
 ---
 
-<img width="50%" height="50%"  src="PXL_20260617_201744889.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="PXL_20260617_201744889.jpg" alt="/2026 Higher Farm FIXED" />
 
 ---
 
-<img width="50%" height="50%"  src="PXL_20260617_201804447.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="PXL_20260617_201804447.jpg" alt="/2026 Higher Farm FIXED" />
 
 ---
 
-<img width="50%" height="50%"  src="PXL_20260618_095052026.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="PXL_20260618_095052026.jpg" alt="/2026 Higher Farm FIXED" />
 
 ---
 
-<img width="50%" height="50%"  src="PXL_20260906_140539811.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="PXL_20260906_140539811.jpg" alt="/2026 Higher Farm FIXED" />
 
 ---
 
-<img width="50%" height="50%"  src="PXL_20260906_140613076.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="PXL_20260906_140613076.jpg" alt="/2026 Higher Farm FIXED" />
 
 ---
 
-<img width="50%" height="50%"  src="PXL_20260913_124703069.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="PXL_20260913_124703069.jpg" alt="/2026 Higher Farm FIXED" />
 
 ---
 
-<img width="50%" height="50%"  src="PXL_20260913_124712605.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="PXL_20260913_124712605.jpg" alt="/2026 Higher Farm FIXED" />
 
 ---
 
-<img width="50%" height="50%"  src="PXL_20261004_131653705.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="PXL_20261004_131653705.jpg" alt="/2026 Higher Farm FIXED" />
 
 ---
 
-<img width="50%" height="50%"  src="PXL_20261004_131653705.jpg" alt="/2026 Higher Farm FIXED" />
+<img width="50%" height="50%" src="PXL_20261004_131653705.jpg" alt="/2026 Higher Farm FIXED" />
