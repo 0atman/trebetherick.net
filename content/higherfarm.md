@@ -22,7 +22,7 @@ William Mably recorded as owning his own house and land and lived with his wife,
 
 Please read more on this in HISTORY - Article 2 - by Mary Fellgett 1984
 
-## Higher Farm 2025
+## Higher Farm (the old original) Barns 2025
 
 <img width="50%" height="50%"  alt="Higher Farm Barns 2025.jpg" src="/Higher Farm Barns 2025.jpg" />
 ---
