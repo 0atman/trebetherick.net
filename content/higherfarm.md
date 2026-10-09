@@ -61,9 +61,6 @@ Harry married Caroline Mably in 1910. Later on, he decided to become a farmer an
 In Edna’s kitchen at Higher Farm there was always a large and ready supply of clotted cream in the fridge, and more in the making on the back of the stove. When Basil and Edna retired they built a bungalow next to Higher Farm’s ancient stone barns. They named it Trenoweth, Cornish for ‘new house’. Basil and Edna had two children, Judith Elizabeth Caroline (Midge) and Martyn; Martyn took over the farm from his father. Midge trained as a nurse, and then a midwife. She married Harry Hardcastle at St Minver in 1966. They had two children, Sarah and Andrew. Harry’s passion was always aviation; he joined the RAF in 1954. His parents had moved from Leeds to Trebetherick in 1946 when he was a boy to take over the Daymer Bay Hotel, built originally as No 1 and No 2 The Terrace but then joined together, and now semidetached houses again, Bar’s House and Honeybourne. Midge died in 2013, only a year after her father Basil, and Harry in 2015. Higher Farmhouse was sold for redevelopment in 2014 Most of the fields were sold piecemeal during Martyn Male’s tenure. Sarah continued the family farming tradition by keeping rare breed sheep on the only remaining Higher Farm land and the oldest slate barn cluster, till 2023 when these last old barns were sold for sympathetic redevelopment.
 Sarah Hardcastle moved away to a small holding with house in the East of Cornwall.
 
-<img width="50%" height="50%"  src="/Higher Farm Tall Barn.jpg" alt="2026 Higher Farm Tall Barn FIXED" />
-
----
 
 <img width="50%" height="50%" src="/PXL_20240604_110935535.jpg" alt="2026 Higher Farm FIXED" />
 
@@ -111,6 +108,4 @@ Sarah Hardcastle moved away to a small holding with house in the East of Cornwal
 
 <img width="50%" height="50%" src="/PXL_20261004_131653705.jpg" alt="2026 Higher Farm FIXED" />
 
----
 
-<img width="50%" height="50%" src="/PXL_20261004_131653705.jpg" alt="2026 Higher Farm FIXED" />
