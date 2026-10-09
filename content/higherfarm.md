@@ -5,9 +5,20 @@ tags:
  - farm
 ---
 
-## Higher Farm  1851   (the old original farmhouse was renamed Old Farm in 1932)
+## Higher Farm  c1600   
 
-William Mably owned his own house and land and lived with his wife, 5 adult children and 2 grandsons in the Higher Farmhouse now called “Old Farm”
+(The old original farmhouse was first recorded c1600 and renamed Old Farm in 1932 when all land was sold to Harry Male who built himself a new farmhouse)
+
+There has been a farming community forming the higher village of Trebetherick since 1630. Roscarrock, St Minver and probably Trewornan are all described in the Domesday Survey of 1086, and it seems probable that Trebetherick is much older than 350 years. The siting of the village with its 6 farmhouses on high ground, now called Higher Trebetherick, above the tree line and yet protected from the prevailing winds and well supplied with springs and aquifers giving rise to many small but life supporting ponds is a typical setting for a Celtic hamlet. These settlements of 6 or 8 farmsteads grouped together have in some cases been in continuous occupation in the South West of England since Pre-Roman times. There have been Roman coins uncovered in the vicinity of the village, there were Saxon graves on Bray Hill, and a Bronze Age barrow at the top of Bray. These all point to a long history of human occupation in the area.
+
+# 1632
+On the 16th July 1632, Thomas Guy of Trebetherick married Constance Hendra in the parish church of St Minver. At that date he was a copyhold tenant, and held a dwelling house and land “in the village, fields, waste and commons of Trebethericke”. He owed manorial service to the lord of the manor, who was Charles Roscarrock of Roscarrock, in the parish of St Endellion.
+
+# 1838 
+Joice Guy, an unmarried woman of 74: living there since 1838
+
+# 1851 
+William Mably recorded as owning his own house and land and lived with his wife, 5 adult children and 2 grandsons in the Higher Farmhouse now called “Old Farm”
 
 Please read more on this in HISTORY - Article 2 - by Mary Fellgett 1984
 
