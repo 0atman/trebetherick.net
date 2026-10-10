@@ -134,7 +134,8 @@ The wonderful "photoshopped" image of the ship and presentation can be found at 
 ---
 
 <img width="80%" src="/coastguard-3.jpg" alt="coastguard-3">
-Front row, second from left is Ralph Tellam-Hocking who ran his village shop next door.
+Back row, from left - 4. Martin Taylor, 6, Richard Hore, 7. Rodney Williams, 9. David Blakeman
+Front row, from left - 2. Ralph Tellam-Hocking who ran his village shop next door, 4. Mr R S Male,6. Percy Bunt.
 ---
 
 <img width="80%" src="/coastguard-8.jpg" alt="coastguard-8">
