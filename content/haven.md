@@ -35,8 +35,8 @@ Water was drawn from a well in the garden, which still exists, though it is fall
 Ernest Betjeman, (Sir John Betjeman's father), brought his family to holiday in Trebetherick and stayed at The Haven 
 which was run as a guest house. A pony and trap were kept in a stable at the rear to collect guests from Wadebridge station or from Rock. As a boy, John Betjeman remembered being collected from the train station by The Haven owners in their pony and trap/cart. However, John recounted that if the weather was favourable they could stay on the train past Wadebridge and all the way to Padstow, crossing the estuary on the rowed/sailed ferry to Rock where they would be collected for the shorter journey to The Haven. 
 
-<img width="50%" src="/Haven-pump.jpg" alt="Haven-pump.jpg">
-<img width="50%" src="/Haven-pump.jpg" alt="Haven-pump.jpg">
+<img width="50%" src="/static/RockFerry c1900.jpg" alt="Rock Ferry c1900">
+<img width="50%" src="/RockHotelBuilt1895.jpg" alt="Rock Hotel Built 1895">
 
 
 A family and all their luggage would have been quite a load for the pony but I'm sure the children would have delighted in walking alongside to lighten the load on the hills. We wonder which route they took from Rock to Trebetherick? If the tide was right they may well have taken the shorter and flatter beach option along the high tide line and up only the one hill of Daymer Lane? We hardly notice it now in our cars but the journey from Rock to Trebetherick along Rock Road, TREWINT Lane, TREWINT Hill and WORTHY Hill consists of several steep hills. 
