@@ -201,7 +201,9 @@ Brian's parents, Mabyn and Lewis Oaten, were founder members and organizers of t
 
 Richard Tellam-Hocking first ran a little shop using a wooden hut on Polzeath Beach in 1936.
 
-photos here
+<img width="80%" src="/Richard Tellam-Hocking's first shop1936.jpg" alt="Richard Tellam-Hocking's first shop 1936.jpg">
+
+<img width="80%" src="/TankTrapsPolzeathBeach1944.jpg" alt="Tank Traps Polzeath Beach 1944">
 
 At the top of Polzeath Hill Richard Tellem-Hocking, father of Ralph built a purpose designed double fronted building with the door in the middle. Having electricity he and his wife made ice-cream in the summer and his wife sold it on the beach. When she needed more she waved a flag from the beach as a signal to her husband to bring down some more. At a later date they purchased the northern half of the Trebetherick Coastguard cottages and converted it into Trebetherick Stores and sold the Polzeath Shop to the Port Isaac doctors to be used as a doctors surgery.
 If anyone has a photo of it we would love to have a copy for this site.
