@@ -40,7 +40,7 @@ which was run as a guest house. A pony and trap were kept in a stable at the rea
 
 
 A family and all their luggage would have been quite a load for the pony but I'm sure the children would have delighted in walking alongside to lighten the load on the hills. We wonder which route they took from Rock to Trebetherick? If the tide was right they may well have taken the shorter and flatter beach option along the high tide line and up only the one hill of Daymer Lane? We hardly notice it now in our cars but the journey from Rock to Trebetherick along Rock Road, TREWINT Lane, TREWINT Hill and WORTHY Hill consists of several steep hills. 
-In 1928 Ernest Betjeman built his own house in Daymer Lane, called Undertown.
+The family so fell in love with Trebetherick that in 1928 Ernest Betjeman built his own house in Daymer Lane, called Undertown.
 
 ## 1950
 
