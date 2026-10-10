@@ -212,6 +212,7 @@ If anyone has a photo of it we would love to have a copy for this site.
 
 ---
  Trebetherick Stores 1960
+ The shop was converted from one of the Coastguard Cottages.
 
  <img width="50%" src="/TrebetherickStores1960.jpg" alt="Trebetherick Stores 1960">
 
