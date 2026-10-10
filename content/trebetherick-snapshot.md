@@ -115,7 +115,7 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 
 - Brian's parents, Mabyn and Lewis Oaten, were founder members and organisers of the new Polzeath Chapel in the early 1930s. Mabyn kept the minutes and ledgers for over 50 years, from its inauguration until the 1980s when she became too ill to continue. There was no Chapel in Trebetherick.
 
-- photo here of new Polzeath Chapel
+- Please read more of Polzeath Chapel in the section "Old Trebetherick"
 
 <img width="80%" src="/1920 Fish Delivery.jpg" alt="1920 Fish Delivery.jpg">
 
