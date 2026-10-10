@@ -223,7 +223,7 @@ If anyone has a photo of it we would love to have a copy for this site.
 2022 - Flo's Deli, Cafe and General Store
 
 
-
+ <img width="50%" src="/Flo's Deli & Stores.jpg" alt="Flo's Deli & Stores">
 
 
 
