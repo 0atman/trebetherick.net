@@ -134,7 +134,7 @@ The wonderful "photoshopped" image of the ship and presentation can be found at 
 ---
 
 <img width="80%" src="/coastguard-3.jpg" alt="coastguard-3">
-
+Front row, second from left is Ralph Tellam-Hocking who ran his village shop next door.
 ---
 
 <img width="80%" src="/coastguard-8.jpg" alt="coastguard-8">
