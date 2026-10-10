@@ -212,8 +212,9 @@ At the top of Polzeath Hill Richard Tellem-Hocking, father of Ralph built a purp
 If anyone has a photo of it we would love to have a copy for this site.
 
 ---
- Trebetherick Stores 1960
- The shop was converted from one of the Coastguard Cottages.
+ Trebetherick Stores in the 1960s.
+ 
+ The shop had been converted from one of the Coastguard Cottages.
 
  <img width="50%" src="/TrebetherickStores1960.jpg" alt="Trebetherick Stores 1960">
 
