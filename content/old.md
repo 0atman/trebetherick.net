@@ -4,6 +4,13 @@ date: 1600-01-01
 tags: 
  - old
 ---
+## Item 1 - 1838 Tythe Maps of Trebetherick, St Minver.
+## Item 2 - Trebetherick Coastguards
+## Item 3 - The Methodist Chapel - (used by Trebetherick residents but located at Polzeath)
+## Item 4 - Trebetherick Village Shop
+## Item 5 - Trebetherick Post Office - Worthy House.....waiting for copy
+
+
 
 # Item 1 - 1838 Tythe Maps of Trebetherick, St Minver.
 
@@ -136,7 +143,7 @@ The wonderful "photoshopped" image of the ship and presentation can be found at 
 <img width="80%" src="/coastguard-3.jpg" alt="coastguard-3">
 
 
-Back row, from left - 4. Martin Taylor, 6, Richard Hore, 7. Rodney Williams, 9. David Blakeman
+Back row, from left - 4. Martin Taylor, 5. Roger Tucker ? 6, Richard Hore, 7. Rodney Williams, 9. David Blakeman
 
 Front row, from left - 2. Ralph Tellam-Hocking who ran his village shop next door, 4. Mr R S Male,6. Percy Bunt.
 
@@ -152,7 +159,7 @@ On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, wa
 
 ---
 
-## 1895 Helen of Appledore Wrecked - Crew Saved Using Breeches Bouy
+## 1895 - The Photo Below Shows A Breeches Buoy In Use Saving the crew of Helen Of Appledore.
 
 <img width="80%" src="/coastguard-10.png" alt="coastguard-10">
 
@@ -172,9 +179,9 @@ Helen of Appledore, port of Bideford, was reported in the Western Morning News a
 ---
 
 
-## Item 3 - The Methodist Chapel 
+# Item 3 - The Methodist Chapel 
 
-# 1884
+## 1884
 
 <img width="50%" src="/PolzeathChapel1920.jpg" alt="1st Chapel">
 
@@ -184,13 +191,13 @@ Helen of Appledore, port of Bideford, was reported in the Western Morning News a
 There was no chapel in Trebetherick so many of the residents used the closest one at Polzeath. Services were held in the old Mine Account Office/Post Office from 1884.
 A purpose built Chapel was built in 1898 and had a corrugated tin roof, hence the locals called it the Tin Tabernacle. It was close on the corner of West Hill so in 1932, to enable road widening and improvements to enable motor cars to travel from Trebetherick direction into Polzeath, it was demolished and rebuilt higher up the slope. Before these road improvements the West hill into Polzeath was only a footpath/pony track: there was only one road into Polzeath and that was the East hill called Dunder Hill. 
 
-# 1898
+## 1898
 
 <img width="80%" src="/TinTabernacle1898-1923.jpg" alt="TinTabernacle 1898-1923">
 
 <img width="80%" src="/DemolitionTinT1932.jpg" alt="DemolitionTinT1932.jpg">
 
-# 1932
+## 1932
 
 The new replacement chapel building was started in 1932 and opened in 1933.  
 Brian's parents, Mabyn and Lewis Oaten, were founder members and organizers of the new Polzeath Chapel in the early 1930s and Mabyn kept the minutes and ledgers for over 50 years, from its inauguration in 1933 until the 1980s when she became too ill to continue.
@@ -202,7 +209,7 @@ Brian's parents, Mabyn and Lewis Oaten, were founder members and organizers of t
 
 <img width="80%" src="/ChapelPolzeath1933.jpg" alt="New Chapel 1933.jpg">
 
-# Item 3 - The Shop
+# Item 4 - Trebetherick Village Shop
 
 Tellam-Hocking Era 1930s - 2022
 Richard Tellam-Hocking first ran a little shop using a wooden hut on Polzeath Beach in 1936.
@@ -224,13 +231,13 @@ If anyone has a photo of it we would love to have a copy for this site.
 
  ---
 
-2022 - Flo's Deli, Cafe and General Store
+## 2022 - Flo's Deli, Cafe and General Store
 
 
  <img width="50%" src="/Flo's Deli & Stores.jpg" alt="Flo's Deli & Stores">
 
 
-
+## Item 5 - Trebetherick Post Office - Worthy House.....waiting for copy
 
 
 
