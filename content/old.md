@@ -247,7 +247,7 @@ It closed in 2021 due to the Covid pandemic. Sold and then empty for some years 
  <img width="50%" src="/Flo's Deli & Stores.jpg" alt="Flo's Deli & Stores">
 
 
-## Item 5 - Trebetherick Post Office - Worthy House.....waiting for copy
+# Item 5 - Trebetherick Post Office - Worthy House.....waiting for copy
 
 Postmasters
 
