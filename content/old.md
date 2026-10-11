@@ -82,7 +82,11 @@ In 1950s the subsequent hotel and garage developments in Fore Door Field were ca
 
 # Item 2 - Trebetherick Coastguards
 
-Trebetherick Coastguard Cottages and Rocket Equipment House was originally purpose built in 1840 as a pair of semi-detached buildings for the full time Coastguards. Eventually as the RNLI grew and developed, the role of Coastguard became a part time position, the cottages were sold separately as Upalong and Tregawne. The latter was owned and run as Trebetherick Stores by the Tellam-Hockings and as of 2023 is Flo's Deli.
+Trebetherick Coastguard Cottages and Rocket Equipment House was originally purpose built in 1840 as a pair of semi-detached buildings for the full time Coastguards. 
+
+In the 1901 survey, 2 coastguards were recorded as living in Trebetherick Coastguard Cottages, Benjamin Longworthy and William Clode. 
+
+Eventually as the RNLI grew and developed, the role of Coastguard became a part time position, the cottages were sold separately as Upalong and Tregawne. The latter was owned and run as Trebetherick Stores by the Tellam-Hockings and as of 2023 is Flo's Deli.
 
 ---
 
