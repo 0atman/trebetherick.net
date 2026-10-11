@@ -4,11 +4,11 @@ date: 1600-01-01
 tags: 
  - old
 ---
-## Item 1 - 1838 Tythe Maps of Trebetherick, St Minver.
-## Item 2 - Trebetherick Coastguards
-## Item 3 - The Methodist Chapel - (used by Trebetherick residents but located at Polzeath)
-## Item 4 - Trebetherick Village Shop
-## Item 5 - Trebetherick Post Office - Worthy House.....waiting for copy
+### Item 1 - 1838 Tythe Maps of Trebetherick, St Minver.
+### Item 2 - Trebetherick Coastguards
+### Item 3 - The Methodist Chapel - (used by Trebetherick residents but located at Polzeath)
+### Item 4 - Trebetherick Village Shop
+### Item 5 - Trebetherick Post Office - Worthy House.....waiting for copy
 
 
 
