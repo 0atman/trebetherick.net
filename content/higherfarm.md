@@ -5,7 +5,7 @@ tags:
  - farm
 ---
 
-## Higher Farm  c1600   
+## Higher Farm  c1600 - 2023
 
 (The old original farmhouse was first recorded c1600 and renamed Old Farm in 1932 when all land was sold to Harry Male who built himself a new farmhouse)
 
