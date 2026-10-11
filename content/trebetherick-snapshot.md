@@ -109,7 +109,8 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 
 - Brian loved school and was full of admiration for the wonderful head teacher Mr Russel Lanxon and class teacher Miss Buse. Mr Lanxon was still the headmaster 30 years later who employed Brian as a teacher in about 1975.
 
-- In 1951 Brian went to Bodmin Grammar school. Transport was a taxi to Rock, bus to Wadebridge then the train to Bodmin. 
+- In 1951 Brian went to Bodmin Grammar school. Transport was a taxi to Rock, bus to Wadebridge then the train to Bodmin.
+- As a teenager, he took the summer holiday job of assistant postman at Trebetherick Post Office. The postmaster was George Harris. Brian used George's 1934 black Austen 7 van to deliver mail and papers around the village and out onto Greenaway. The post office, Worthy House, also housed the old original telephone exchange at that time before the new Telephone Exchange was built. George was full of fun with a wicked sense of humour and Brian remembers him operating the phone lines saying to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'.
 
 - During the next 20 years Mabyn and Lewis continued to improve to The Haven, including adding a sun lounge and installing central heating.
 
