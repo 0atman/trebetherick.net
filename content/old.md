@@ -225,7 +225,7 @@ At the top of Polzeath Hill Richard Tellem-Hocking, father of Ralph built a purp
 If anyone has a photo of it we would love to have a copy for this site.
 
 
- Trebetherick Stores in the 1960s.
+ Trebetherick Stores in the 1960s Run by Audrey and Ralph Tellam-Hocking and later Ralph's son Nigel and his wife Sue Tellam=Hocking
  
  The shop had been converted from one of the Coastguard Cottages.
 
@@ -233,7 +233,11 @@ If anyone has a photo of it we would love to have a copy for this site.
 
  ---
 
-## 2022 - Flo's Deli, Cafe and General Store
+
+It closed in 2021 due to the Covid pandemic. Sold and then empty for some years till a village couple bought the building, renovated and refurbished it into a very popular and useful shop/deli/cafe which is now run by Flora and Chris Dunkerley.
+ 
+
+## 2023 - Flo's Deli, Cafe and General Store
 
 
  <img width="50%" src="/Flo's Deli & Stores.jpg" alt="Flo's Deli & Stores">
