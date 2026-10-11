@@ -251,8 +251,8 @@ It closed in 2021 due to the Covid pandemic. Sold and then empty for some years 
 
 Postmasters
 
-George Harris 1927 - 1950s
-- As a teenager, Brian Oaten took the summer holiday job of assistant postman at Trebetherick post office. The postmaster was George Harris. Brian used George's 1934 black Austen 7 van to deliver mail and papers. The post office, Worthy House, also housed the telephone exchange. George was full of fun and Brian remembers him operating the phone lines saying to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'.
+George Harris 1927 - 1950s - Post Master, telephone switchboard operator, newsagent, shopkeeper.
+- As a teenager, Brian Oaten took the summer holiday job of assistant postman at Trebetherick post office. The postmaster was George Harris. Brian used George's 1934 black Austen 7 van to deliver mail and papers. The post office, Worthy House, also housed the telephone exchange. George was full of fun and Brian remembers him operating the phone lines saying to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'. The new automated Telephone Exchange was built in 1957.
 
 Norman Evans
 
