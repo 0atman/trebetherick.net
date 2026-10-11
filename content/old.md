@@ -249,5 +249,11 @@ It closed in 2021 due to the Covid pandemic. Sold and then empty for some years 
 
 ## Item 5 - Trebetherick Post Office - Worthy House.....waiting for copy
 
-
+Postmasters
+George Harris 1927 - 1950s
+Norman Evans
+Felicity Hawkey
+Post Office moved to Tregawne
+Rob Mably
+...more details to follow....if you can add please email us.
 
