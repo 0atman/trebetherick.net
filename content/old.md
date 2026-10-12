@@ -275,9 +275,8 @@ Rob Mably
 
 # Item 6 - Daymer Bay Garages - Norman Cleave
 
-  <img width="50%" src="/Norman Cleave" alt="Top of Worthy Hill">
+  <img width="50%" src="/Norman Cleave.jpg" alt="Norman Cleave with his wife Blanche and Danny the dog">
 
- <img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="1958 Worthy Hill Junction with New Telephone Exchange">
 
   <img width="50%" src="/1950sWorthyHillJunction.jpg" alt="1950s Worthy Hill Junction">
 
@@ -286,6 +285,8 @@ Rob Mably
     <img width="50%" src="/TopWorthyHillGarageRight.jpg" alt="Top Worthy Hill Garages on Right">
 
     <img width="50%" src="/DownWorthyHill.jpg" alt="Down Worthy Hill">
+
+     <img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="1958 Worthy Hill Junction with New Telephone Exchange">
 
 ...more details to follow....if you can add please email us.
 
