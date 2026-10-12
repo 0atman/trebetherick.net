@@ -184,9 +184,10 @@ photo here of a new bus shelter being built across the road.
 <img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="bus shelter has been moved to the other side of the road">
 
 
+<img width="80%" src="/coastguard-12.JPG" alt="coastguard-12">
+
 <img width="80%" src="/coastguard-11.jpg" alt="coastguard-11">
 
-<img width="80%" src="/coastguard-12.JPG" alt="coastguard-12">
 
 ---
 ---
