@@ -304,15 +304,15 @@ Norman Cleave with his wife Blanche and Danny the dog.
 Norman built the Daymer Bay Garages before buying land at Rock where he went on to build and run Clock Garage. He also very generously gave a piece of land behind the garage so that local men coming back from the war in 1946 so they would have somewhere to go to have a pint or 2 together.
 
 
-  <img width="50%" src="/1950sWorthyHillJunction.jpg" alt="1950s Worthy Hill Junction">
+  <img width="50%" src="/1950sWorthyHillJunction.jpg" alt="1950s Junction">
 
    <img width="50%" src="/TopWorthyHill.jpg" alt="Top of Worthy Hill">
 
-    <img width="50%" src="/TopWorthyHillGarageRight.jpg" alt="Top Worthy Hill Garages on Right">
+    <img width="50%" src="/TopWorthyHillGarageRight.jpg" alt="Worthy Hill Garages on Right">
 
     <img width="50%" src="/DownWorthyHill.jpg" alt="Down Worthy Hill">
 
-     <img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="1958 Worthy Hill Junction with New Telephone Exchange">
+  
 
 ...more details to follow....if you can add please email us.
 
