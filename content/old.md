@@ -297,6 +297,11 @@ Rob Mably
 # Item 6 - Daymer Bay Garages - Norman Cleave
 
   <img width="50%" src="/Norman Cleave.jpg" alt="Norman Cleave with his wife Blanche and Danny the dog">
+  
+
+Norman Cleave with his wife Blanche and Danny the dog. 
+
+Norman built the Daymer Bay Garages before buying land at Rock where he went on to build and run Clock Garage. He also very generously gave a piece of land behind the garage so that local men coming back from the war in 1946 so they would have somewhere to go to have a pint or 2 together.
 
 
   <img width="50%" src="/1950sWorthyHillJunction.jpg" alt="1950s Worthy Hill Junction">
