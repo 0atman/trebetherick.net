@@ -261,10 +261,8 @@ Postmasters
 
 George Harris 1927 - 1950s - Post Master, telephone switchboard operator, newsagent, shopkeeper.
 - As a teenager, Brian Oaten took the summer holiday job of assistant postman at Trebetherick post office. The postmaster was George Harris. Brian used George's 1934 black Austen 7 van to deliver mail and papers. The post office, Worthy House, also housed the telephone exchange. George was full of fun and Brian remembers him operating the phone lines saying to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'. The new automated Telephone Exchange was built in 1957.
+  
 
- <img width="50%" src="/Flo's Deli & Stores.jpg" alt="Flo's Deli & Stores">
-
-  <img width="50%" src="/Flo's Deli & Stores.jpg" alt="Flo's Deli & Stores">
 
 Norman Evans
 
@@ -277,11 +275,13 @@ Rob Mably
 
 # Item 6 - Daymer Bay Garages - Norman Cleave
 
- <img width="50%" src="/static/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="1958 Worthy Hill Junction with New Telephone Exchange">
+ <img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="1958 Worthy Hill Junction with New Telephone Exchange">
 
-  <img width="50%" src="/Flo's Deli & Stores.jpg" alt="Flo's Deli & Stores">
+  <img width="50%" src="/1950sWorthyHillJunction.jpg" alt="1950s Worthy Hill Junction">
 
-   <img width="50%" src="/Flo's Deli & Stores.jpg" alt="Flo's Deli & Stores">
+   <img width="50%" src="/TopWorthyHill.jpg" alt="Top of Worthy Hill">
+
+    <img width="50%" src="/TopWorthyHillGarageRight.jpg" alt="Top Worthy Hill Garages on Right">
 
 ...more details to follow....if you can add please email us.
 
