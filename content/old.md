@@ -277,7 +277,7 @@ Rob Mably
 
 # Item 6 - Daymer Bay Garages - Norman Cleave
 
- <img width="50%" src="/1950sWorthyHillJunction.jpg" alt="1950s Worthy Hill Junction.jpg">
+ <img width="50%" src="/static/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="1958 Worthy Hill Junction with New Telephone Exchange">
 
   <img width="50%" src="/Flo's Deli & Stores.jpg" alt="Flo's Deli & Stores">
 
