@@ -250,6 +250,13 @@ It closed in 2021 due to the Covid pandemic. Sold and then empty for some years 
 
 # Item 5 - Trebetherick Post Office - Worthy House.....waiting for copy
 
+
+ <img width="50%" src="/TrebP.O.1925.jpg" alt="Trebetherick P.O.1925">
+
+ 
+  <img width="50%" src="/TrebP.O.1950s.jpg" alt="Trebetherick P.O.and Garages 1950s.jpg">
+
+
 Postmasters
 
 George Harris 1927 - 1950s - Post Master, telephone switchboard operator, newsagent, shopkeeper.
