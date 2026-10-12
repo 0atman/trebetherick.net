@@ -13,6 +13,7 @@ tags:
 ### Item 6 - Daymer Bay Garages
 
 ---
+---
 
 
 # Item 1 - 1838 Tythe Maps of Trebetherick, St Minver.
@@ -101,7 +102,7 @@ From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly bro
 
 <img width="80%" src="/TC.1925.jpg" alt="Rocket Equipment House">
 
----
+
 
 ## Trebetherick Coastguards Practising in Fields Behind Daymer Beach
 
@@ -184,6 +185,7 @@ Helen of Appledore, port of Bideford, was reported in the Western Morning News a
 <img width="80%" src="/coastguard-12.JPG" alt="coastguard-12">
 
 ---
+---
 
 
 # Item 3 - The Methodist Chapel 
@@ -216,6 +218,9 @@ Brian's parents, Mabyn and Lewis Oaten, were founder members and organizers of t
 
 <img width="80%" src="/ChapelPolzeath1933.jpg" alt="New Chapel 1933.jpg">
 
+---
+---
+
 # Item 4 - Trebetherick Village Shop
 
 Tellam-Hocking Era 1930s - 2022
@@ -247,6 +252,9 @@ It closed in 2021 due to the Covid pandemic. Sold and then empty for some years 
 
  <img width="50%" src="/Flo's Deli & Stores.jpg" alt="Flo's Deli & Stores">
 
+ ---
+ ---
+
 
 # Item 5 - Trebetherick Post Office - Worthy House
 
@@ -277,6 +285,9 @@ Felicity Hawkey
 Post Office moved to Tregawne
 
 Rob Mably
+
+---
+---
 
 
 # Item 6 - Daymer Bay Garages - Norman Cleave
