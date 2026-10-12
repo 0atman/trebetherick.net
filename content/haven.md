@@ -36,10 +36,14 @@ Ernest Betjeman, (Sir John Betjeman's father), brought his family to holiday in 
 which was run as a guest house. A pony and trap were kept in a stable at the rear to collect guests from Wadebridge station or from Rock. As a boy, John Betjeman remembered being collected from the train station by The Haven owners in their pony and trap/cart. However, John recounted that if the weather was favourable they could stay on the train past Wadebridge and all the way to Padstow, crossing the estuary on the rowed/sailed ferry to Rock where they would be collected for the shorter journey to The Haven. 
 
 <img width="50%" src="/RockFerry c1900.jpg" alt="Rock Ferry c1900">
+
+
 This photo is of Padstow ferry, (possibly the Metropole Hotel's boat) arriving at Rock. The Hotel Metropole was built and opened in 1904
 
 
 <img width="50%" src="/RockHotelBuilt1895.jpg" alt="Rock Hotel Built 1895">
+
+
 This photo is shows the Rock Hotel in early 1900s, built in 1895.
 
 
