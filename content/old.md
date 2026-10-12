@@ -252,9 +252,15 @@ It closed in 2021 due to the Covid pandemic. Sold and then empty for some years 
 
 
  <img width="50%" src="/TrebP.O.1925.jpg" alt="Trebetherick P.O.1925">
+ 
+
+ Trebetherick Post Office and Garages behind the old duck pond, gate to |Ham Field on right
 
  
   <img width="50%" src="/TrebP.O.1950s.jpg" alt="Trebetherick P.O.and Garages 1950s.jpg">
+  
+
+  Just out of sight between the P O door and the garages was a petrol pump.
 
 
 Postmasters
