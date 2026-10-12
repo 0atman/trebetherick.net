@@ -242,7 +242,7 @@ If anyone has a photo of it we would love to have a copy for this site.
 It closed in 2021 due to the Covid pandemic. Sold and then empty for some years till a village couple bought the building, renovated and refurbished it into a very popular and useful shop/deli/cafe which is now run by Flora and Chris Dunkerley.
  
 
-## 2023 - Flo's Deli, Cafe and General Store
+## 2023 - Trebetherick Stores now Flo's Deli, Cafe and General Store
 
 
  <img width="50%" src="/Flo's Deli & Stores.jpg" alt="Flo's Deli & Stores">
