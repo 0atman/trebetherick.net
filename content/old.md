@@ -179,7 +179,6 @@ Helen of Appledore, port of Bideford, was reported in the Western Morning News a
 
 <img width="80%" src="/coastguard-4.jpg" alt="coastguard-4">
 
-photo here of a new bus shelter being built across the road.
 
 <img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="bus shelter has been moved to the other side of the road">
 
@@ -189,6 +188,7 @@ photo here of a new bus shelter being built across the road.
 <img width="80%" src="/coastguard-11.jpg" alt="coastguard-11">
 
 
+2026
 ---
 ---
 
