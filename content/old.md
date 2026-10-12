@@ -305,13 +305,16 @@ Norman Cleave with his wife Blanche and Danny the dog.
 Norman built the Daymer Bay Garages before buying land at Rock where he went on to build and run Clock Garage. He also very generously gave a piece of land behind the garage so that local men coming back from the war in 1946 so they would have somewhere to go to have a pint or 2 together.
 
 
-  <img width="50%" src="/1950sWorthyHillJunction.jpg" alt="1950s Junction">
+<img width="50%" src="/1950sWorthyHillJunction.jpg" alt="1950s junction">
+ 
 
-   <img width="50%" src="/TopWorthyHill.jpg" alt="Top of Worthy Hill">
+<img width="50%" src="/TopWorthyHill.jpg" alt="Top of Worthy Hill">
 
-    <img width="50%" src="/TopWorthyHillGarageRight.jpg" alt="Worthy Hill Garages on Right">
 
-    <img width="50%" src="/DownWorthyHill.jpg" alt="Down Worthy Hill">
+<img width="50%" src="/TopWorthyHillGarageRight.jpg" alt="Worthy Hill Garages on Right">
+
+
+<img width="50%" src="/DownWorthyHill.jpg" alt="Down Worthy Hill">
 
   
 
