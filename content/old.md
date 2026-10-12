@@ -30,19 +30,19 @@ In 1900, to go between Polzeath and The Haven in Trebetherick there were 6 gated
 
 ### The 6 Gates Ringed in Red
 
-<img width="80%" src="/6Gates.Haven-Pol.jpg" alt="6 Gates.Haven-Pol">
+<img width="50%" src="/6Gates.Haven-Pol.jpg" alt="6 Gates.Haven-Pol">
 
 ---
 
 ### 1838 Tythe Map Key Details
 
-<img width="80%" src="/1838 Tythe Key.png" alt="Tythe Key">
+<img width="50%" src="/1838 Tythe Key.png" alt="Tythe Key">
 
 ---
 
 ### 1838 Tythe Map Field Numbers
 ​
-<img width="80%" src="/StMinv0005 - Trebetherick.jpg" alt="St Minver0005">
+<img width="50%" src="/StMinv0005 - Trebetherick.jpg" alt="St Minver0005">
 
 ---
 
@@ -53,29 +53,29 @@ In 1950s the subsequent hotel and garage developments in Fore Door Field were ca
 
 ### 1838 TYTHE Map Field Names page 3
 
-<img width="80%" src="/field.names.03" alt="1838 Trebetherick Field Names">
+<img width="50%" src="/field.names.03" alt="1838 Trebetherick Field Names">
 
 ### 1838 TYTHE Map Field Names page 4
 
-<img width="80%" src="/field.names.04" alt="1838 Trebetherick Field Names">
+<img width="50%" src="/field.names.04" alt="1838 Trebetherick Field Names">
 
 ### 1838 TYTHE Map Field Names page 15
 
-<img width="80%" src="/field.names.15.jpg" alt="1838 Trebetherick Field Names">
+<img width="50%" src="/field.names.15.jpg" alt="1838 Trebetherick Field Names">
 
 ### 1838 TYTHE Map Field Names page 17
 
-<img width="80%" src="/field.names.17.jpg" alt="1838 Trebetherick Field Names">
+<img width="50%" src="/field.names.17.jpg" alt="1838 Trebetherick Field Names">
 
 ### 1838 TYTHE Map Field Names page 22
 
-<img width="80%" src="/field.names.22" alt="1838 Trebetherick Field Names">
+<img width="50%" src="/field.names.22" alt="1838 Trebetherick Field Names">
 
 ---
 
 ### Tythe Map Field Numbers and Names for Trebetherick
 
-<img width="80%" src="/Photo-Fields-Trebetherick.jpg" alt="Photo-Fields-Trebetherick.jpg">
+<img width="50%" src="/Photo-Fields-Trebetherick.jpg" alt="Photo-Fields-Trebetherick.jpg">
 
 ---
 
@@ -92,7 +92,7 @@ Eventually as the RNLI grew and developed, the role of Coastguard became a part 
 
 ---
 
-<img width="80%" src="/CoastguardCottages&RocketHouse.jpg" alt="coastguard cottages">
+<img width="50%" src="/CoastguardCottages&RocketHouse.jpg" alt="coastguard cottages">
 
 ---
 
@@ -100,13 +100,13 @@ From the 1880s to the 1930s, the Trebetherick Rocket Apparatus was regularly bro
 
 ---
 
-<img width="80%" src="/TC.1925.jpg" alt="Rocket Equipment House">
+<img width="50%" src="/TC.1925.jpg" alt="Rocket Equipment House">
 
 
 
 ## Trebetherick Coastguards Practising in Fields Behind Daymer Beach
 
-<img width="80%" src="/coastguard-6.jpg" alt="coastguard-6">
+<img width="50%" src="/coastguard-6.jpg" alt="coastguard-6">
 
 ---
 
@@ -115,13 +115,13 @@ The Trebetherick Coastguard team regularly risked their lives. In April 1900, th
 
 ---
 
-<img width="80%" src="/TC.Practising.jpg" alt="Trebetherick Coastguards Practising">
+<img width="50%" src="/TC.Practising.jpg" alt="Trebetherick Coastguards Practising">
 
 ---
 
 # The Medea, Wrecked On Greenaway 1939
 
-<img width="80%" src="/coastguard-1.png" alt="coastguard-1">
+<img width="50%" src="/coastguard-1.png" alt="coastguard-1">
 
 HMS Medea was built in 1915 as HMS M22, a M15-class Monitor warship with a crew of 69. It was converted and renamed around 1925 as a minelayer, and then in 1937 as a training ship.
 5 January 1939
@@ -144,11 +144,11 @@ The wonderful "photoshopped" image of the ship and presentation can be found at 
 
 ---
 
-<img width="80%" src="/coastguard-2.jpg" alt="coastguard-2">
+<img width="50%" src="/coastguard-2.jpg" alt="coastguard-2">
 
 ---
 
-<img width="80%" src="/coastguard-3.jpg" alt="coastguard-3">
+<img width="50%" src="/coastguard-3.jpg" alt="coastguard-3">
 
 
 Back row, from left - 4. Martin Taylor, 5. Roger Tucker ? 6, Richard Hore, 7. Rodney Williams, 9. David Blakeman
@@ -157,7 +157,7 @@ Front row, from left - 2. Ralph Tellam-Hocking who ran his village shop next doo
 
 ---
 
-<img width="80%" src="/coastguard-8.jpg" alt="coastguard-8">
+<img width="50%" src="/coastguard-8.jpg" alt="coastguard-8">
 
 ---
 
@@ -169,23 +169,23 @@ On 29 December 1807, HMS Anson, trapped by a lee shore off Loe Bar, Cornwall, wa
 
 ## 1895 - The Photo Below Shows A Breeches Buoy In Use Saving the crew of Helen Of Appledore.
 
-<img width="80%" src="/coastguard-10.png" alt="coastguard-10">
+<img width="50%" src="/coastguard-10.png" alt="coastguard-10">
 
 Helen of Appledore, port of Bideford, was reported in the Western Morning News as having been wrecked at Bude in October 1895. This photo shows the sailors being saved and brought ashore using rocket apparatus and a breeches bouy in a real rescue. One sailor is hanging on the apparatus and being winched ashore.
 
 ---
 
-<img width="80%" src="/coastguard-5.jpg" alt="coastguard-5">
+<img width="50%" src="/coastguard-5.jpg" alt="coastguard-5">
 
-<img width="80%" src="/coastguard-4.jpg" alt="coastguard-4">
+<img width="50%" src="/coastguard-4.jpg" alt="coastguard-4">
 
 
 <img width="50%" src="/On the main road through Trebetherick 1965 looking at Brea, the bus shelter has been moved to the other side of the road.jpg" alt="bus shelter has been moved to the other side of the road">
 
 
-<img width="80%" src="/coastguard-12.JPG" alt="coastguard-12">
+<img width="50%" src="/coastguard-12.JPG" alt="coastguard-12">
 
-<img width="80%" src="/coastguard-11.jpg" alt="coastguard-11">
+<img width="50%" src="/coastguard-11.jpg" alt="coastguard-11">
 
 
 2026
@@ -207,9 +207,9 @@ A purpose built Chapel was built in 1898 and had a corrugated tin roof, hence th
 
 ## 1898
 
-<img width="80%" src="/TinTabernacle1898-1923.jpg" alt="TinTabernacle 1898-1923">
+<img width="50%" src="/TinTabernacle1898-1923.jpg" alt="TinTabernacle 1898-1923">
 
-<img width="80%" src="/DemolitionTinT1932.jpg" alt="DemolitionTinT1932.jpg">
+<img width="50%" src="/DemolitionTinT1932.jpg" alt="DemolitionTinT1932.jpg">
 
 ## 1932
 
@@ -217,11 +217,11 @@ The new replacement chapel building was started in 1932 and opened in 1933.
 Brian's parents, Mabyn and Lewis Oaten, were founder members and organizers of the new Polzeath Chapel in the early 1930s and Mabyn kept the minutes and ledgers for over 50 years, from its inauguration in 1933 until the 1980s when she became too ill to continue.
 
 
-<img width="80%" src="/NewChapelOpened15APR1933.jpg" alt="New Chapel Opened 15APR1933.jpg">
+<img width="50%" src="/NewChapelOpened15APR1933.jpg" alt="New Chapel Opened 15APR1933.jpg">
 
-<img width="80%" src="/ChapelPolzeathOpeningCermony1933.jpg" alt="New Chapel Opened 15APR1933.jpg">
+<img width="50%" src="/ChapelPolzeathOpeningCermony1933.jpg" alt="New Chapel Opened 15APR1933.jpg">
 
-<img width="80%" src="/ChapelPolzeath1933.jpg" alt="New Chapel 1933.jpg">
+<img width="50%" src="/ChapelPolzeath1933.jpg" alt="New Chapel 1933.jpg">
 
 ---
 ---
