@@ -31,6 +31,8 @@ At this time there was no road between Trebetherick and Polzeath only a pedestri
 
 Brian's great grandparents were returning in their cart from market in 1881 or 1891 with a quantity of supplies and meat when it started to snow. It soon became a blizzard and they could go no further. They had to unhitch the pony and leaving the cart where it was stuck, they led the pony and just managed to struggle home. The told of the snow drifts being so deep that sometimes they had to walk on the tops of the hedges. It was two weeks before the freeze thawed enough for them to return to fetch the cart. Rather surprisingly all their meat had remained frozen and none was spoiled!!
 
+<img width="80%" src="/1891 Blizzard Bude~2.jpg" alt="1891 Great Blizzard in Bude">
+
 
 ## Richard Tellam-Hocking's First Trebetherick Shop (please contact me if you have a photo of this little shop I would love to have one)
 
