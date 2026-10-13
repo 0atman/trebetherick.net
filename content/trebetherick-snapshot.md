@@ -25,14 +25,17 @@ to visit the new St Enodoc golf course.
 At this time there was no road between Trebetherick and Polzeath only a pedestrian/pony track through the six fields between the two villages. The main way in and out of Polzeath was via Dunder Hill. An elderly gentleman visiting us at The Haven could remember using the track to walk from Trebetherick to Polzeath and having to open and close the six field gates to get there. 
 ### See more about this tythe maps and details in LOCAL AREA chapter, HISTORY section
 
+---
 
+## BRIAN'S GREAT GRANDPARENTS CAUGHT IN THE 1891 GREAT BLIZZARD between Wadebridge and St Kew
 
-## BRIAN'S GREAT GRANDPARENTS CAUGHT IN THE 1881 or 1891 BLIZZARD
-
-Brian's great grandparents were returning in their cart from market in 1881 or 1891 with a quantity of supplies and meat when it started to snow. It soon became a blizzard and they could go no further. They had to unhitch the pony and leaving the cart where it was stuck, they led the pony and just managed to struggle home. The told of the snow drifts being so deep that sometimes they had to walk on the tops of the hedges. It was two weeks before the freeze thawed enough for them to return to fetch the cart. Rather surprisingly all their meat had remained frozen and none was spoiled!!
+Brian's great grandparents were returning in their cart from market in 1891 with a quantity of supplies and meat when it started to snow. It soon became a blizzard and they could go no further. They had to unhitch the pony and leaving the cart where it was stuck, they led the pony and just managed to struggle home. The told of the snow drifts being so deep that sometimes they had to walk on the tops of the hedges. It was two weeks before the freeze thawed enough for them to return to fetch the cart. Rather surprisingly all their meat had remained frozen and none was spoiled!!
 
 <img width="80%" src="/1891 Blizzard Bude~2.jpg" alt="1891 Great Blizzard in Bude">
 
+This photo is of Bude in the same 1891 Blizzard
+
+---
 
 ## Richard Tellam-Hocking's First Trebetherick Shop (please contact me if you have a photo of this little shop I would love to have one)
 
