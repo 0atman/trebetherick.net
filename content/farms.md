@@ -6,7 +6,8 @@ date: 2025-01-01
 ### Working Farms
 > Farms as of 2025
 - [Trewiston Farm](/trewiston)
-- Trewiston Farm Diaries state that "in the time of William Anthony Mably's Grand-mother, Joanna, wife of Richard Mably, who kept the diaries from 1875-1900, stated that, "beef cattle replaced the flocks of Sheep and more and more, especially after the Spring of 1879 when many of the Sheep got Flu". It may have been that she was a little hard of hearing and what she thought was being said was "sheep flu" but was actually "sheep fluke". The "great epidemic" of sheep fluke, historically referred to as "liver rot," peaked during the disastrous winter of 1879–1880 in the United Kingdom. It stands as one of the most devastating agricultural crises of the 19th century, resulting in the death or destruction of an estimated 3,000,000 sheep across England, Scotland, and Wales
+- The Trewiston Farm Diaries state that "in the time of William Anthony Mably's Grand-mother, Joanna, wife of Richard Mably, who kept the diaries from 1875-1900, stated that, "beef cattle replaced the flocks of Sheep and more and more, especially after the Spring of 1879 when many of the Sheep got Flu". It may have been that she was a little hard of hearing and what she heard as "sheep flu" was actually "sheep fluke".
+- The "great epidemic" of sheep fluke, historically referred to as "liver rot," peaked during the disastrous winter of 1879–1880 in the United Kingdom. It stands as one of the most devastating agricultural crises of the 19th century, resulting in the death or destruction of an estimated 3,000,000 sheep across England, Scotland, and Wales. A year later in 1881 was a very hard winter and snow blizzard, followed 10 years later in 1891 by the Great Blizzard. Hard times indeed especially for outdoor workers.
 
 - [Restharrow Farm](/restharrow)
 
