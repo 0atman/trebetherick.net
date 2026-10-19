@@ -6,7 +6,9 @@ date: 2025-01-01
 ### Working Farms
 > Farms as of 2025
 - [Trewiston Farm](/trewiston)
-- The Trewiston Farm Diaries state that "in the time of William Anthony Mably's Grand-mother, Joanna, wife of Richard Mably, who kept the diaries from 1875-1900, stated that, "beef cattle replaced the flocks of Sheep and more and more, especially after the Spring of 1879 when many of the Sheep got Flu". It may have been that she was a little hard of hearing and what she heard as "sheep flu" was actually "sheep fluke".
+- At Trewiston Farm, Diaries were kept from 1850 – 1950 by the wives. Elizabeth, wife of William Anthony Mably, Joanna, wife of John Mably, Druscilla (1900-1925), wife of William Mably and Mary Hannah wife of Richard Mably.
+-
+- In the time of William Anthony Mably's Grand-mother, Joanna, wife of Richard Mably, who kept the diaries from 1875-1900, it stated that, "beef cattle replaced the flocks of Sheep and more and more, especially after the Spring of 1879 when many of the Sheep got Flu". It may have been that she was a little hard of hearing and what she heard as "sheep flu" was actually "sheep fluke".
 - The "great epidemic" of sheep fluke, historically referred to as "liver rot," peaked during the disastrous winter of 1879–1880 in the United Kingdom. It stands as one of the most devastating agricultural crises of the 19th century, resulting in the death or destruction of an estimated 3,000,000 sheep across England, Scotland, and Wales. A year later in 1881 was a very hard winter and snow blizzard, followed 10 years later in 1891 by the Great Blizzard. Hard times indeed especially for outdoor workers.
 
 - [Restharrow Farm](/restharrow)
@@ -18,8 +20,7 @@ date: 2025-01-01
 - [Old Farm](/oldfarm), circa 1600 - Was originally called Higher Farm but the land was sold to Harry Male in 1929 who built himself a new house over the road, the original was renamed Old Farm. 
 - [Lower Farm](/lowerfarm) , circa 1600
 - [Lower Trebetherick Farm](/lowertrebetherickfarm).
-- Trewiston Farm Diaries 1850 – 1950 kept by Elizabeth, wife of William Anthony Mably, Joanna, wife of John Mably, Druscilla, wife of William Mably and Mary Hannah wife of Richard Mably, states that this farm disappeared sometime c1850.
-
+- Trewiston Farm Diaries 1850 – 1950  states that this farm disappeared sometime c1850.
 - [Trenain Farm](/trenainfarm)
 - [Higher Farm](/higherfarm), Farmhouse built 1930 - demolished and rebuilt as holiday accommodation 2016
 
