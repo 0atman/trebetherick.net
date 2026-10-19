@@ -5,7 +5,7 @@ date: 2025-01-01
 
 ### Working Farms
 > Farms as of 2025
-- [Trewiston Farm](/trewiston)
+- [Trewiston Farm](/trewiston) Trewiston Farm Diaries state that "in the time of William Anthony Mably's Grand-mother, Joanna, wife of Richard Mably, who kept the diaries from 1875-1900, beef cattle replaced the flocks of Sheep and more and more, especially after the Spring of 1879 when many of the Sheep got Flu. 
 - [Restharrow Farm](/restharrow)
 
 ### Historical Farms
@@ -14,7 +14,8 @@ date: 2025-01-01
 - [Elm Cottage](/elmcottage), circa 1600
 - [Old Farm](/oldfarm), circa 1600 - Was originally called Higher Farm but the land was sold to Harry Male in 1929 who built himself a new house over the road, the original was renamed Old Farm. 
 - [Lower Farm](/lowerfarm) , circa 1600
-- [Lower Trebetherick Farm](/lowertrebetherickfarm) , disappeared before 1950. (It may be that Lower Trebetherick Farm and Lower Farm are one and the same. Please message me if you know).
+- [Lower Trebetherick Farm](/lowertrebetherickfarm).  Trewiston Farm Diaries 1850 – 1950 kept by Elizabeth, wife of William Anthony Mably, Joanna, wife of John Mably, Druscilla, wife of William Mably and Mary Hannah wife of Richard Mably, state that this farm disappeared sometime c1850.
+
 - [Trenain Farm](/trenainfarm)
 - [Higher Farm](/higherfarm), Farmhouse built 1930 - demolished and rebuilt as holiday accommodation 2016
 
