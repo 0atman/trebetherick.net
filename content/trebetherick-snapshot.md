@@ -73,7 +73,10 @@ Brian remembers, as a boy in the very cold winter of 1946, sliding on the severa
 
 
 
-Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, was drained in the 1930s after mains water was installed, making way for the ​new and larger Trebetherick telephone exchange. On the right is the gate into Ham Field, so called as it was the triangular shape of a ham.
+## 1931 - Duck pond drained, Road built to Polzeath.
+Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, it was drained in 1931 after mains water was installed, making way for a ​new and larger road from Trebetherick to Polzeath. On the right is the gate into Ham Field, so called as it was the triangular shape of a ham.
+
+## 1938 - Electricity came to Trebetherick.
 
 ## 1941
 - 1941 - Brian Oaten age 2, inside the gate at the first Trelawney, Trebetherick, (built by his father Lewis Oaten and now renamed Pen-y-Bryn) having ridden with Brian's grandfather John Oaten, from grandparent's home 'Kitts Hill', St Kew.
@@ -115,7 +118,9 @@ Just above the Daymer Bay Garage was one of the village duck ponds ​which serv
 - Brian loved school and was full of admiration for the wonderful head teacher Mr Russel Lanxon and class teacher Miss Buse. Mr Lanxon was still the headmaster 30 years later who employed Brian as a teacher in about 1975.
 
 - In 1951 Brian went to Bodmin Grammar school. Transport was a taxi to Rock, bus to Wadebridge then the train to Bodmin.
-- As a teenager, he took the summer holiday job of assistant postman at Trebetherick Post Office. The postmaster was George Harris. Brian used George's 1934 black Austen 7 van to deliver mail and papers around the village and out onto Greenaway. The post office, Worthy House, also housed the old original telephone exchange, when the telephone lines first came to Trtebetherick in 1927. The new Telephone Exchange was built in 19... George was full of fun with a wicked sense of humour and Brian remembers him operating the phone lines saying to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'.
+- As a teenager, he took the summer holiday job of assistant postman at Trebetherick Post Office. The postmaster was George Harris. Brian used George's 1934 black Austen 7 van to deliver mail and papers around the village and out onto Greenaway. The post office, Worthy House, also housed the old original manual telephone exchange, installed when the telephone lines first came to Trtebetherick in 1927. George was full of fun with a wicked sense of humour and Brian remembers him operating the phone lines saying to the callers "rubber knees" for 'number please' and "trying to forget you" for 'trying to connect you'.
+
+##  1957 - The new automated Telephone Exchange was built.
 
 - During the next 20 years Mabyn and Lewis continued to improve to The Haven, including adding a sun lounge and installing central heating.
 
