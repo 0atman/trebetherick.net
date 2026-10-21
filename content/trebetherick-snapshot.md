@@ -71,7 +71,7 @@ Brian remembers, as a boy in the very cold winter of 1946, sliding on the severa
 
 <img width="80%" src="/duck-pond-1925-vs-2021.jpg" alt="Collage of duck pond 1925 and today 2021">
 
-
+## 1927 - Telephone came to Trebetherick with Manual Exchange in Post Office
 
 ## 1931 - Duck pond drained, Road built to Polzeath.
 Just above the Daymer Bay Garage was one of the village duck ponds ​which served as a watering spot for working horses, it was drained in 1931 after mains water was installed, making way for a ​new and larger road from Trebetherick to Polzeath. On the right is the gate into Ham Field, so called as it was the triangular shape of a ham.
